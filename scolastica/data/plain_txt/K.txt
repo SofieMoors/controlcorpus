@@ -626,7 +626,7 @@ K_sample3_17578 So soutu grote vᵒwe mꝫ ōs wesē
 K_sample3_17579 En̄ nabugodonozor met desē
 K_sample3_17580 Hi deedse leidē daer ter stat
 K_sample3_17581 Al daer dat lach sijn gᵒte scat
-K_sample3_17581a Dꝫ hi haer beloefde om dat
+K_sample3_17583 Dꝫ hi haer beloefde om dat
 K_sample3_17582 So dat Judith dat gebat
 K_sample3_17584 Dat si snachts moeste wtgaē
 K_sample3_17585 Harē god te biddē saen

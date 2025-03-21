@@ -606,6 +606,8 @@ H_sample3_17554 Maer soe scoen was sy by sonder
 H_sample3_17555 Dat die papen hadden wonder
 H_sample3_17556 En̄ baden voer hem wael
 H_sample3_17557 Doe sy ghenc den berch toe dael
+
+Line_number 17558 is missing
 H_sample3_17559 En̄ leyden se al daer sy vant
 H_sample3_17560 Olofernes die sat al daer
 H_sample3_17561 Onder enē dier clede al d̶a̶e̶r̶ claer

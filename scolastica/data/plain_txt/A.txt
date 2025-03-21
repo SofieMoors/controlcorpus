@@ -199,7 +199,7 @@ A_sample1_0778 Dat ter zonnen boom volc es
 A_sample1_0779 Die lange leuen utʼmaten
 A_sample1_0780 Omdat si vander urucht daer aten
 A_sample1_0781 GOd stakene uten ꝑadise
-A_sample1_0782 Omdat hi zoude na dorpers
+A_sample1_0782 Omdat hi zoude na dorpers wise
 
 
 

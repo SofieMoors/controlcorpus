@@ -533,7 +533,8 @@ I_sample3_17477 Van madian doreet hijt dlāt
 I_sample3_17478 En̄ van ytulia oec te hāt
 I_sample3_17479 En̄ van mesopotania die staden
 I_sample3_17480 Die prensen quamē al te ghenaden
-I_sample3_17481 Mʼ borghen en̄ steden velden si nedʼ
+I_sample3_17481 Mʼ borghen en̄ steden
+I_sample3_17482 velden si nedʼ
 I_sample3_17483 En̄ die afgode vort en̄ wedʼ
 I_sample3_17484 Brac hi te stucken cleyn en̄ groot
 I_sample3_17485 Om dat cambices gheboet
@@ -604,17 +605,17 @@ I_sample3_17546 Dats vor gode grote mesdaet
 I_sample3_17547 God moette stʼken onsen raet
 I_sample3_17548 En̄ ic ga in den name ōs heʼen
 I_sample3_17549 God moet mijn spel tē bestē keʼen
-I_sample3_17551 Mettien es si wech ghegaen
-I_sample3_17552 Haer iōcwijf volchde haer saē
-I_sample3_17553 Wāt si drāc droech en̄ spise
-I_sample3_17554 Si baden vor hare in elkʼ wise
-I_sample3_17555 Alle die bīnen dʼ stede bleuen
-I_sample3_17555a Vele hebbētʼ tranē ō gegheuē
-I_sample3_17555b Wāt si dʼ vrouwen scade ōtsien
+I_sample3_17550 Mettien es si wech ghegaen
+I_sample3_17551 Haer iōcwijf volchde haer saē
+I_sample3_17552 Wāt si drāc droech en̄ spise
+I_sample3_17553 Si baden vor hare in elkʼ wise
+I_sample3_17554a Alle die bīnen dʼ stede bleuen
+I_sample3_17554b Vele hebbētʼ tranē ō gegheuē
+I_sample3_17554c Wāt si dʼ vrouwen scade ōtsien
 
 
 
-I_sample3_17555c Die vrinde alle na hʼ sien
+I_sample3_17554d Die vrinde alle na hʼ sien
 I_sample3_17556 Als die dʼ vrouwē ōnen wale
 I_sample3_17557 Daer si den berch ghīc te dale
 I_sample3_17558 Hefse een bespiere gheuaē te hāt
@@ -695,13 +696,17 @@ I_sample3_17613 En̄ hebben hare die port ōtdaen
 I_sample3_17614 Ghereedelijc en̄ mꝫ vlite
 I_sample3_17615 Anchior die amonite
 I_sample3_17616 Holophʼnes hooft vʼsach
-I_sample3_17619 En̄ hi besneet hē op diē dach
-I_sample3_17620 Als goet iode te siere vromen
-I_sample3_17620a Die vandʼ port hebben vernomē
-I_sample3_17620b Dʼ vrouwen comste en̄ hʼ daet
-I_sample3_17620c Dat was in die dagheraet
+I_sample3_17617 En̄ hi besneet hē op diē dach
+
+Line_number 17618 is missing
+
+Line_number 17619 is missing
+I_sample3_17620a Als goet iode te siere vromen
+I_sample3_17620b Die vandʼ port hebben vernomē
+I_sample3_17622 Dʼ vrouwen comste en̄ hʼ daet
+I_sample3_17623 Dat was in die dagheraet
 I_sample3_17621 Vrouwe iudich dede dat hoeft tē mueʼ
-I_sample3_17622 Steken op .i. scacht tier vre
+I_sample3_17620 Steken op .i. scacht tier vre
 I_sample3_17623 Men riep oec tfolc ten wapinē al
 I_sample3_17624 Beide groot en̄ smal
 I_sample3_17625 En̄ voeren vut te dien tiden

@@ -519,7 +519,8 @@ J_sample3_17481 Doe nā hy op burge en̄ stadē
 J_sample3_17482 En̄ velledes alle gadʼ nedʼ
 J_sample3_17483 Alle afgode voert en̄ weder
 J_sample3_17484 Brac in stickē cleē en̄ groet
-J_sample3_17485 Om dat cābises wāt hy wilde wesē god
+J_sample3_17485 Om dat cābises
+J_sample3_17486 Wāt hy wilde wesē god
 J_sample3_17487 Alsy vʼnamē dat swaer gebod
 J_sample3_17488 Die jodē van jherusalē
 J_sample3_17489 Warē sy vervaert van hem
