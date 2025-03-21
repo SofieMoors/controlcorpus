@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on: Sleiderink, R., and Houtsma, J. (2015). Fragmenten van twee eenkolomshandschriften van de Dietsche Catoen, overgeleverd in Mechelse stadsrekeningen. Queeste, 22, 165-177.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Mechelen</settlement>
+            <institution>Stadsarchief AA Comptes Communaux</institution>
+            <idno>I, 3</idno>
+            <msName>Me</msName>
+          </msIdentifier>
+
+               <msContents>
+<msItem>
+<locus from="2r" to="6v"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="single-quire manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="6"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="140"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="20" ruledLines="20">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="134"/>
+                              <width unit="mm" quantity="73"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4,9" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic letters (red); colour-stroking (red)</decoNote><decoNote><watermark>Briquet 5633 (croix latine)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.2/5 remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1350-1400</origDate>
+<origPlace>Brabant(?)</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="Me.f2r" n="2r"/>
+
+
+<text n="prologue" xml:id="prologue">
+<body>
+<p><lg type="disticha" n="prologue">
+<lb n="1" xml:id="Mef2r.1"/><l n="Me_prologue_0041"><hi rend="capitalsize1">R</hi>iep hijt ende s<damage><gap></gap></damage></l>
+<lb n="2" xml:id="Mef2r.2"/><l n="Me_prologue_0042"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> seit sone dat<damage><gap></gap></damage></l>
+<lb n="3" xml:id="Mef2r.3"/><l n="Me_prologue_0043">wijs ende vroet <damage><gap></gap></damage></l>
+<lb n="4" xml:id="Mef2r.4"/><l n="Me_prologue_0044"><hi rend="capitalsize1">I</hi>c sal v <choice><abbr>leere<g ref="#bar"/></abbr><expan>leere<ex>n</ex></expan></choice> dat<damage><gap></gap></damage></l>
+<lb n="5" xml:id="Mef2r.5"/><l n="Me_prologue_0045"><hi rend="capitalsize1">D</hi>it <choice><abbr>seide<g ref="#bar"/></abbr><expan>seide<ex>n</ex></expan></choice> ende be<damage><gap></gap></damage></l>
+<lb n="6" xml:id="Mef2r.6"/><l n="Me_prologue_0046"><hi rend="capitalsize1">S</hi>i deus est anim<damage><gap></gap></damage></l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,01">
+<lb n="7" xml:id="Mef2r.7"/><l n="Me_I,01_0001"><hi rend="capitalsize2">N</hi>v merke sone<damage><gap></gap></damage></l>
+<lb n="8" xml:id="Mef2r.8"/><l n="Me_I,01_0002"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wat es dat<damage><gap></gap></damage></l>
+<lb n="9" xml:id="Mef2r.9"/><l n="Me_I,01_0003"><hi rend="capitalsize1">D</hi>ats dattu di da<damage><gap></gap></damage></l>
+<lb n="10" xml:id="Mef2r.10"/><l n="Me_I,01_0004"><hi rend="capitalsize1">D</hi>attu gode salt e<damage><gap></gap></damage></l>
+</lg>
+<lg type="disticha" n="I,02">
+<lb n="11" xml:id="Mef2r.11"/><l n="Me_I,02_0001"><hi rend="capitalsize1">D</hi>u salt des mor<damage><gap></gap></damage></l>
+<lb n="12" xml:id="Mef2r.12"/><l n="Me_I,02_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> om dine bede<damage><gap></gap></damage></l>
+<lb n="13" xml:id="Mef2r.13"/><l n="Me_I,02_0003"><hi rend="capitalsize1">M</hi>en seit die te la<damage><gap></gap></damage></l>
+<lb n="14" xml:id="Mef2r.14"/><l n="Me_I,02_0004"><hi rend="capitalsize1">D</hi>at hem die sla<damage><gap></gap></damage></l>
+</lg>
+<lg type="disticha" n="I,03">
+<lb n="15" xml:id="Mef2r.15"/><l n="Me_I,03_0001"><hi rend="capitalsize1">W</hi>achti dan <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <damage><gap></gap></damage></l>
+<lb n="16" xml:id="Mef2r.16"/><l n="Me_I,03_0002"><hi rend="capitalsize1">D</hi>at vele talen <damage><gap></gap></damage></l>
+<lb n="17" xml:id="Mef2r.17"/><l n="Me_I,03_0003"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> seit <choice><abbr>meng<g ref="#apomod"/>h<unclear>a</unclear><g ref="#bar"/><damage><gap></gap></damage></abbr><expan>meng<ex>er</ex>h<unclear>a</unclear><ex>n</ex><damage><gap></gap></damage></expan></choice></l>
+<lb n="18" xml:id="Mef2r.18"/><l n="Me_I,03_0004"><hi rend="capitalsize1">E</hi>n voeghet ni<damage><gap></gap></damage></l>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="19" xml:id="Mef2r.19"/><l n="Me_I,04_0001"><hi rend="capitalsize2">S</hi>one doch als<damage><gap></gap></damage></l>
+<lb n="20" xml:id="Mef2r.20"/><l n="Me_I,04_0002"><hi rend="capitalsize1">D</hi>ie heeft gh<damage><gap></gap></damage></l>
+
+
+<pb xml:id="Me.f2v" n="2v"/>
+<lb n="1" xml:id="Mef2v.1"/><l n="Me_I,04_0003"><damage><gap></gap></damage> hier seghet</l>
+<lb n="2" xml:id="Mef2v.2"/><l n="Me_I,04_0004"><damage><gap></gap></damage>pleghet</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="3" xml:id="Mef2v.3"/><l n="Me_I,05_0001"><damage><gap></gap></damage>s quade daet</l>
+<lb n="4" xml:id="Mef2v.4"/><l n="Me_I,05_0002"><damage><gap></gap></damage>et es quaet</l>
+<lb n="5" xml:id="Mef2v.5"/><l n="Me_I,05_0003"><damage><gap></gap></damage>wijf</l>
+<lb n="6" xml:id="Mef2v.6"/><l n="Me_I,05_0004"><damage><gap></gap></damage>f</l>
+</lg>
+<lg type="disticha" n="I,06">
+<lb n="7" xml:id="Mef2v.7"/><l n="Me_I,06_0001"><damage><gap></gap></damage>ment deert</l>
+<lb n="8" xml:id="Mef2v.8"/><l n="Me_I,06_0002"><damage><gap></gap></damage>t dies gheert</l>
+<lb n="9" xml:id="Mef2v.9"/><l n="Me_I,06_0003"><choice><abbr><damage><gap></gap></damage>rome<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>rome<ex>n</ex></expan></choice> mach</l>
+<lb n="10" xml:id="Mef2v.10"/><l n="Me_I,06_0004"><damage><gap></gap></damage>uaet ghelach</l>
+</lg>
+<lg type="disticha" n="I,07">
+<lb n="11" xml:id="Mef2v.11"/><l n="Me_I,07_0001"><damage><gap></gap></damage>ghedachte</l>
+<lb n="12" xml:id="Mef2v.12"/><l n="Me_I,07_0002"><damage><gap></gap></damage>sachte</l>
+<lb n="13" xml:id="Mef2v.13"/><l n="Me_I,07_0003"><damage><gap></gap></damage>epeins</l>
+<lb n="14" xml:id="Mef2v.14"/><l n="Me_I,07_0004"><damage><gap></gap></damage>er en gheins</l>
+</lg>
+<lg type="disticha" n="I,08">
+<lb n="15" xml:id="Mef2v.15"/><l n="Me_I,08_0001"><damage><gap></gap></damage>s dijn wijf <choice><abbr>to<g ref="#bar"/>rechte</abbr><expan>to<ex>n</ex>rechte</expan></choice></l>
+<lb n="16" xml:id="Mef2v.16"/><l n="Me_I,08_0002"><damage><gap></gap></damage>knechte</l>
+<lb n="17" xml:id="Mef2v.17"/><l n="Me_I,08_0003"><damage><gap></gap></damage>n ghenoech</l>
+<lb n="18" xml:id="Mef2v.18"/><l n="Me_I,08_0004"><damage><gap></gap></damage>ngheuoech</l>
+</lg>
+<lg type="disticha" n="I,09">
+<lb n="19" xml:id="Mef2v.19"/><l n="Me_I,09_0001"><choice><abbr><damage><gap></gap></damage>e<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>e<ex>n</ex></expan></choice> vrient</l>
+<lb n="20" xml:id="Mef2v.20"/><l n="Me_I,09_0002"><damage><gap></gap></damage>et ghedient</l>
+
+<note n="Me_I,09_0003">Line_number 0003 is missing</note>
+
+<note n="Me_I,09_0004">Line_number 0004 is missing</note>
+
+
+<pb xml:id="Me.f5r" n="5r"/>
+</lg>
+<lg type="disticha" n="II,17">
+
+<note n="Me_II,17_0001">Line_number 0001 is missing</note>
+
+<note n="Me_II,17_0002">Line_number 0002 is missing</note>
+<lb n="1" xml:id="Mef5r.1"/><l n="Me_II,17_0003"><hi rend="capitalsize1">S</hi>paer want saen te glidet</l>
+<lb n="2" xml:id="Mef5r.2"/><l n="Me_II,17_0004"><choice><abbr>haue<g ref="#bar"/></abbr><expan>haue<ex>n</ex></expan></choice> die men niet en midet</l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="3" xml:id="Mef5r.3"/><l n="Me_II,21_0001"><hi rend="capitalsize2">D</hi>atti in <choice><abbr>dro<g ref="#bar"/>kescape</abbr><expan>dro<ex>n</ex>kescape</expan></choice> ghesciet</l>
+<lb n="4" xml:id="Mef5r.4"/><l n="Me_II,21_0002"><hi rend="capitalsize1">D</hi>an laet onghebetert niet</l>
+<lb n="5" xml:id="Mef5r.5"/><l n="Me_II,21_0003"><hi rend="capitalsize1">W</hi>ant daer aue hier te voren</l>
+<lb n="6" xml:id="Mef5r.6"/><l n="Me_II,21_0004">vernoy es <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> ende toren</l>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="7" xml:id="Mef5r.7"/><l n="Me_I,40_0001"><hi rend="capitalsize1">B</hi>eide nemen ende gheuen</l>
+<lb n="8" xml:id="Mef5r.8"/><l n="Me_I,40_0002"><hi rend="capitalsize1">E</hi>s haer sede die nu leuen</l>
+<lb n="9" xml:id="Mef5r.9"/><l n="Me_I,40_0003"><hi rend="capitalsize1">M</hi>et eren sone doet al so</l>
+<lb n="10" xml:id="Mef5r.10"/><l n="Me_I,40_0004"><hi rend="capitalsize1">S</hi>o machtu blide sijn <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vro</l>
+</lg>
+<lg type="disticha" n="II,Pa">
+<lb n="11" xml:id="Mef5r.11"/><l n="Me_II,Pa_0001"><hi rend="capitalsize2">W</hi>iltu di sone daer toe keren</l>
+<lb n="12" xml:id="Mef5r.12"/><l n="Me_II,Pa_0002"><hi rend="capitalsize1">D</hi>attu dorpers <add>seden</add> wils leren</l>
+<lb n="13" xml:id="Mef5r.13"/><l n="Me_II,Pa_0003">virgilius heuet al bescreuen</l>
+<lb n="14" xml:id="Mef5r.14"/><l n="Me_II,Pa_0004">hoe die dorpers selen leuen</l>
+</lg>
+<lg type="disticha" n="II,Pc">
+<lb n="15" xml:id="Mef5r.15"/><l n="Me_II,Pc_0001">wiltu di des onderwinden</l>
+<lb n="16" xml:id="Mef5r.16"/><l n="Me_II,Pc_0002"><hi rend="capitalsize1">D</hi>attu gheuechs wilt <choice><abbr>beghinne<g ref="#bar"/></abbr><expan>beghinne<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Mef5r.17"/><l n="Me_II,Pc_0003"><hi rend="capitalsize1">D</hi>och <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> raet en les lucane</l>
+<lb n="18" xml:id="Mef5r.18"/><l n="Me_II,Pc_0004">hi <choice><abbr>sald<g ref="#apomod"/></abbr><expan>sald<ex>er</ex></expan></choice> di wel bringhen a<unclear>n</unclear>e</l>
+</lg>
+<lg type="disticha" n="II,Pb">
+<lb n="19" xml:id="Mef5r.19"/><l n="Me_II,Pb_0001"><hi rend="capitalsize2">W</hi>iltu leren medecine</l>
+<lb n="20" xml:id="Mef5r.20"/><l n="Me_II,Pb_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vroet arsartere te sine</l>
+
+
+<pb xml:id="Me.f5v" n="5v"/>
+<lb n="1" xml:id="Mef5v.1"/><l n="Me_II,Pb_0003"><hi rend="capitalsize1">M</hi>acer heuet <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> al</l>
+<lb n="2" xml:id="Mef5v.2"/><l n="Me_II,Pb_0004">wat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> daer toe <choice><abbr>pleghe<g ref="#bar"/></abbr><expan>pleghe<ex>n</ex></expan></choice> sal</l>
+</lg>
+<lg type="disticha" n="II,Pd">
+<lb n="3" xml:id="Mef5v.3"/><l n="Me_II,Pd_0001"><hi rend="capitalsize1">W</hi>iltu <choice><abbr>lere<g ref="#bar"/></abbr><expan>lere<ex>n</ex></expan></choice> watsi <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice></l>
+<lb n="4" xml:id="Mef5v.4"/><l n="Me_II,Pd_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> doen <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> sinne</l>
+<lb n="5" xml:id="Mef5v.5"/><l n="Me_II,Pd_0003"><hi rend="capitalsize1">O</hi>uidius leret di al so</l>
+<lb n="6" xml:id="Mef5v.6"/><l n="Me_II,Pd_0004">hoe du <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> minne w<unclear>er</unclear>s vro</l>
+</lg>
+<lg type="disticha" n="II,24">
+<lb n="7" xml:id="Mef5v.7"/><l n="Me_II,24_0001"><hi rend="capitalsize1">M</hi>Erke wel wat mach deren</l>
+<lb n="8" xml:id="Mef5v.8"/><l n="Me_II,24_0002"><hi rend="capitalsize1">B</hi>eweer oftu mach <choice><abbr>beweere<g ref="#bar"/></abbr><expan>beweere<ex>n</ex></expan></choice></l>
+<lb n="9" xml:id="Mef5v.9"/><l n="Me_II,24_0003">hi dunct mi sot die <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> siet</l>
+<lb n="10" xml:id="Mef5v.10"/><l n="Me_II,24_0004"><hi rend="capitalsize1">D</hi>ongheval <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet en vliet</l>
+</lg>
+<lg type="disticha" n="II,22">
+<lb n="11" xml:id="Mef5v.11"/><l n="Me_II,22_0001"><hi rend="capitalsize1">K</hi>ies <num type="roman">.j.</num> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> die du mach <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice></l>
+<lb n="12" xml:id="Mef5v.12"/><l n="Me_II,22_0002"><hi rend="capitalsize1">C</hi>ont <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> verholene <choice><abbr>sake<g ref="#bar"/></abbr><expan>sake<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Mef5v.13"/><l n="Me_II,22_0003">bestu oec siec kies <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Mef5v.14"/><l n="Me_II,22_0004"><hi rend="capitalsize1">D</hi>ie best van <choice><abbr>ersartrie<g ref="#bar"/></abbr><expan>ersartrie<ex>n</ex></expan></choice> can</l>
+</lg>
+<lg type="disticha" n="III,01">
+<lb n="15" xml:id="Mef5v.15"/><l n="Me_III,01_0001"><hi rend="capitalsize1">S</hi>one lere so in dinen sin</l>
+<lb n="16" xml:id="Mef5v.16"/><l n="Me_III,01_0002"><hi rend="capitalsize1">D</hi>atter wone wijsheit in</l>
+<lb n="17" xml:id="Mef5v.17"/><l n="Me_III,01_0003"><hi rend="capitalsize1">D</hi>ie daer <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> leit sijn <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Mef5v.18"/><l n="Me_III,01_0004">hets qualijc met hem <choice><abbr>beweue<g ref="#bar"/></abbr><expan>beweue<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="III,Pb">
+<lb n="19" xml:id="Mef5v.19"/><l n="Me_III,Pb_0001">houti sone na mine lere</l>
+<lb n="20" xml:id="Mef5v.20"/><l n="Me_III,Pb_0002"><hi rend="capitalsize1">D</hi>oestuut di comter af groet ere</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

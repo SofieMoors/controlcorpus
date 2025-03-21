@@ -1,0 +1,717 @@
+
+Ge_KE_0001 U [...]ye istorie [...] die al waer
+Ge_KE_0002 [...]ic v tellē [...]ter naer
+Ge_KE_0003 [...] was ī ere [...]stonde
+Ge_KE_0004 [...] kaerle [...]en begonde
+Ge_KE_0005 Ting[...] rijn
+Ge_KE_0006 Dat [...]lgadʼ sijn
+Ge_KE_0007 Hi w[...] cō mede
+Ge_KE_0008 Nv h[...]ondʼ en̄ wʼhed
+Ge_KE_0009 Wat [...] ghevel
+Ge_KE_0010 Dat [...]e menege wel
+Ge_KE_0011 Tin[...] lach
+Ge_KE_0012 En̄ [...] andrē dach
+Ge_KE_0013 Croe[...] houdē hof
+Ge_KE_0014 Om t[...] lof
+Ge_KE_0015 Daer [...]n sliep
+Ge_KE_0016 Een [...] aen hē riep
+Ge_KE_0017 Soe [...]ntbrac
+Ge_KE_0018 Bide[...] dingel spʼac
+
+Line_number 0019 is missing
+
+Line_number 0020 is missing
+Ge_KE_0021 Stae[...]n̄ waert stelē
+Ge_KE_0022 God d[...] beuelen
+Ge_KE_0023 Die ī[...] es here
+Ge_KE_0024 Oofte [...] en̄ ere
+Ge_KE_0025 En s[...] nacht niet
+Ge_KE_0026 Soe [...]hesciet
+Ge_KE_0027 Ghi [...]teruē
+Ge_KE_0028 En̄ [...] deruen
+Ge_KE_0029 Eer [...] dit hof
+Ge_KE_0030 Nv [...] dʼ of
+
+Line_number 0031 is missing
+
+Line_number 0032 is missing
+
+Line_number 0033 is missing
+
+Line_number 0034 is missing
+Ge_KE_0035 Dit [...]ie coninc
+Ge_KE_0036 H[...] i .vrēde dīc
+Ge_KE_0037 Wan[...]ē en sach
+
+
+
+Ge_KE_0038 Wat dat [...]epē didē m[...]h
+
+Line_number 0039 is missing
+
+Line_number 0040 is missing
+Ge_KE_0041 Hi was [...]ndrē ghedoc[...]te
+Ge_KE_0042 Wie daer [...]e boetscap b[...]ochte
+Ge_KE_0043 Dingel [...] vā gode qu[...]m
+Ge_KE_0044 Spʼc te[...]alse die w[...] gram
+Ge_KE_0045 Staet o[...] arle en̄ waer[...]elē
+Ge_KE_0046 God die [...]t mi .v. beu[...]ē
+Ge_KE_0047 En̄ onb[...]t .v. wel te u[...]ē
+Ge_KE_0048 Anders [...] di .v. lijf uʼl[...]n
+Ge_KE_0049 Mettien [...]erde soe sw[...] hi
+Ge_KE_0050 En̄ die [...] riep ay mi
+Ge_KE_0051 Alse die [...]e was uʼeen[...]
+Ge_KE_0052 Wat ee[...]at dit wondʼ [...]eent
+Ge_KE_0053 E[...]t elfs gedro[...] dat mi quelt
+Ge_KE_0054 E[...] dit grote w[...]dʼ telt
+Ge_KE_0055 Ay hem[...]he drochtijn
+Ge_KE_0056 Wat noe[...]oude mi sijn
+Ge_KE_0057 Te varen [...]elē ic ben so [...]ike
+Ge_KE_0058 Hen es [...] ī eerterike
+Ge_KE_0059 Weder [...] no graue
+Ge_KE_0060 Die soe [...]ke sij̄ van ha[...]
+Ge_KE_0061 Sine m[...]ē mi sijn ond[...]en
+Ge_KE_0062 En̄ alle [...] minē dienst[...]taē
+Ge_KE_0063 Mijn sel[...] lant es soe [...]oet
+Ge_KE_0064 Men we[...] nieuers sijn [...]enoet
+Ge_KE_0065 Dlant e[...] lgader mij̄
+Ge_KE_0066 Tote co[...] op den rijʼ ]
+Ge_KE_0067 En̄ tot [...]ome alsoe v[...]ert
+Ge_KE_0068 Alst ten [...]yserike toe b[...]oet
+Ge_KE_0069 Ic ben [...] mijn wijf es [...]we
+Ge_KE_0070 Oest to[...] wildʼ denou[...]e
+Ge_KE_0071 En̄ wes[...] tote ī die z[...]
+Ge_KE_0072 Nochtā [...]bbic goeds [...]ee
+Ge_KE_0073 Galissie[...]n̄ spanien[...]nt
+Ge_KE_0074 Dat ic [...]an mꝫ mij[...]e hāt
+Ge_KE_0075 En̄ ic d[...]eidene uʼdr[...]f
+Ge_KE_0076 En̄ mi[...]nt al gad[...] blef
+
+
+
+Ge_KE_0077 [...]at noede soud[...]i wesē dā
+Ge_KE_0078 T[...] vaerne stel[...] allendich mā
+Ge_KE_0079 En̄ wʼ om ont[...]d mi god
+Ge_KE_0080 N[...]de brekic sij[...]hebot
+Ge_KE_0081 W[...]stic dat hijt[...]ontbode
+Ge_KE_0082 I[...] moch niet g[...]uē ode
+Ge_KE_0083 D[...]t mi got den[...]htʼ onste
+Ge_KE_0084 D[...]t ic te stel[...]gonste
+Ge_KE_0085 D[...]er hi lach ī d[...]epeins
+Ge_KE_0086 H[...]re en̄ tare[...]er en̄ ghens
+Ge_KE_0087 V[...]echte hem e[...]ttelken
+Ge_KE_0088 S[...]e dat hi loec[...]oghē sijn
+Ge_KE_0089 D[...]en sprac din[...] vā te uorē
+Ge_KE_0090 W[...]ldi gods verb[...] uerhorē
+Ge_KE_0091 C[...]ninc soe sidi[...]tdaen
+Ge_KE_0092 E[...] het sal v[...]v leuē gaē
+Ge_KE_0093 D[...]ngel van den[...]adyse
+Ge_KE_0094 [...]pʼc co doet a[...]die wise
+Ge_KE_0095 V[...]ert stelen e[...]ert dief
+
+Line_number 0096 is missing
+Ge_KE_0097 S[...]dʼmer dat g[...]e es lief
+Ge_KE_0098 [...]t dʼre talen [...]r d̄gel vā dā
+Ge_KE_0099 E[...]karle hē sei[...] begā
+Ge_KE_0100 Vandē wondr[...]t hi hoerde
+Ge_KE_0101 H[...] seide gods geb[...]n̄ sine word[...]
+Ge_KE_0102 E[...] willic niet[...]n achter
+Ge_KE_0103 I[...] sal sijn dief[...]est lachtʼ
+Ge_KE_0104 A[...] soudic hang[...]idʼ kele
+Ge_KE_0105 Nochtā haddic[...]uer uele
+Ge_KE_0106 Dat mi god n[...]b̶e̶g̶e̶n̶e̶ alg[...]e
+Ge_KE_0107 D[...]t ic van he[...]oude te lene
+Ge_KE_0108 Beyde boch en[...]nt
+Ge_KE_0109 Sondʼ mijns r[...]rs gewā[...]
+Ge_KE_0110 En̄ ic mi moes[...]heneren
+Ge_KE_0111 M[...]ttē schilde en̄ [...]ettē spʼe
+Ge_KE_0112 Gelijc enē die [...]en heeft
+Ge_KE_0113 E[...] op die auē[...]e leeft
+Ge_KE_0114 D[...]t ware mi[...] wille uele be[...]
+Ge_KE_0115 D[...]n ic gheua[...]ē bē int n[...]
+Ge_KE_0116 D[...] ic nu mo[...] stelē warē
+
+
+
+Ge_KE_0117 Sondʼ en[...]arē
+Ge_KE_0118 Varē s[...]de uʼwerkē
+Ge_KE_0119 Nv soe m[...]werkē
+Ge_KE_0120 Ic wildi[...]ē tʼ zale
+Ge_KE_0121 Sondʼ ni[...]le
+Ge_KE_0122 En̄ mi w[...] opden rijn
+Ge_KE_0123 Vij borg[...]
+Ge_KE_0124 Wat ma[...] ōnerē
+Ge_KE_0125 Dē ridde[...]gē herē
+Ge_KE_0126 Die hier [...] zale
+Ge_KE_0127 En̄ wat [...]ijn tale
+Ge_KE_0128 Dat ic a[...]ster nacht
+Ge_KE_0129 Allene so[...]acht
+Ge_KE_0130 Moete ua[...]ant
+Ge_KE_0131 Dat mi [...]n̄ onbecāt
+Ge_KE_0132 Met dʼre [...]ē gereydē
+Ge_KE_0133 Die co [...]den
+Ge_KE_0134 Met sinē [...]den
+Ge_KE_0135 Alse die [...] beradē
+Ge_KE_0136 Het wa[...] zede
+Ge_KE_0137 Dat mē [...] dede
+Ge_KE_0138 Ten bed[...]h
+Ge_KE_0139 Het wa[...]te die iem[...] sach
+Ge_KE_0140 En̄ alse [...]t was
+Ge_KE_0141 Ginc h[...]las
+Ge_KE_0142 Hine w[...] soe goed
+Ge_KE_0143 No dore [...] stoet
+Ge_KE_0144 Si war[...]ē ontdaē
+Ge_KE_0145 D hi wo[...]aen
+Ge_KE_0146 D en wa[...]ne sach
+Ge_KE_0147 Wāt dat [...]er lach
+Ge_KE_0148 In doden [...]od woude
+Ge_KE_0149 Dit dedi [...]de
+Ge_KE_0150 Sine hu[...] ghereet
+Ge_KE_0151 En̄ als [...] brugge lee[...]
+Ge_KE_0152 Ghinc d[...]iste
+Ge_KE_0153 Ten stall[...]e
+Ge_KE_0154 Sijn ors [...]mide
+Ge_KE_0155 Doē en w[...]ngʼ beide
+
+
+
+Ge_KE_0156 [...]i sadelet en̄ satter bou[...]
+Ge_KE_0157 [...]p dors dat mē mochte[...]
+Ge_KE_0158 Doen hi t[...]portē geua[...]
+Ge_KE_0159 Sach hi d[...]er en̄ uʼnam
+Ge_KE_0160 [...]en wechtre en̄ den p[...]
+Ge_KE_0161 [...]ie lettel [...]istē dat ha[...]
+Ge_KE_0162 Soe na hē was mꝫ sin[...]
+Ge_KE_0163 Si sliepē v[...]ste alst go[...]
+Ge_KE_0164 Die co be[...]en̄ ont[...]
+Ge_KE_0165 Die porte [...]ie beslotē[...]
+Ge_KE_0166 En̄ leyder sijn ors v[...]
+Ge_KE_0167 Sond̄ niemare en̄ gh[...]
+Ge_KE_0168 [...]oē sat op sijn gere[...]
+Ge_KE_0169 [...]ie cō kar[...]le en̄ seide
+Ge_KE_0170 [...]od alsoe gewareli[...]
+Ge_KE_0171 Alse ghi [...]uamt ī er[...]
+Ge_KE_0172 [...]̄ wort so[...]e en̄ uade[...]
+Ge_KE_0173 Om̄e te u[...]oesene alg[...]
+Ge_KE_0174 Dat adae[...]hadde uʼl[...]
+Ge_KE_0175 En̄ al dat [...]a hem wʼt[...]
+Ge_KE_0176 Ghi liet .[...] ane dē cru[...]
+Ge_KE_0177 Doen .v. d[...]e iodē had[...]
+Ge_KE_0178 Si stakē [...] mꝫ enē sp[...]
+Ge_KE_0179 En̄ sloegen [...]v dies h[...]
+Ge_KE_0180 Dese bitt[...]rlike doe[...]
+Ge_KE_0181 Ontfing[...] hʼe doer ō[...]
+Ge_KE_0182 En̄ bra[...]t die helle [...]
+Ge_KE_0183 Alse wʼl[...]e alse dit [...]
+Ge_KE_0184 En̄ ghi [...]ʼe lasarus[...]
+Ge_KE_0185 Die lac[...] ī sine cluse
+Ge_KE_0186 Vʼwecke[...] hʼe uāder [...]
+Ge_KE_0187 En̄ ua[...]dē stene m[...]
+Ge_KE_0188 En̄ vā[...]ē watre w[...]
+Ge_KE_0189 Soe m[...]eti ī mire [...]
+Ge_KE_0190 Ane d[...]er demster[...]
+Ge_KE_0191 En̄ uʼb[...]ē met mi[...]
+Ge_KE_0192 Oetm[...]dich god [...]
+Ge_KE_0193 Ane .v [...]oe keric m[...]
+Ge_KE_0194 Hi wa[...] ī menigʼ g[...]
+
+
+
+Ge_KE_0195 Ware hi b[...]hte
+Ge_KE_0196 [...]ar hi ste[...]egīnen
+Ge_KE_0197 [...]oen quā hi[...]nnē
+Ge_KE_0198 [...]arle die e[...]
+Ge_KE_0199 [...]at niet uʼ[...] dan
+Ge_KE_0200 Doen hi qu[...]aer
+Ge_KE_0201 Die mane [...] claer
+Ge_KE_0202 [...]ie sterrē li[...]oene
+Ge_KE_0203 [...]wedʼ was[...]coene
+Ge_KE_0204 [...]eus peins[...]
+Ge_KE_0205 [...]ic was g[...] alle dīc
+Ge_KE_0206 [...]ieue te h[...]ste
+Ge_KE_0207 [...]ie dē liedē[...]
+Ge_KE_0208 [...]aer goed [...]
+Ge_KE_0209 [...]v magic [...]uē
+Ge_KE_0210 [...]ie leuē b[...]
+Ge_KE_0211 [...]n̄ wetē w[...]en
+Ge_KE_0212 [...]ijf en̄ go[...] vaē
+Ge_KE_0213 Men doetse h[...] af slaē
+Ge_KE_0214 Ofte steruē [...]
+Ge_KE_0215 Hare anxt [...]
+Ge_KE_0216 Nemmerm[...]at
+Ge_KE_0217 Dat ic m[...]at
+Ge_KE_0218 Steruē do[...]n
+Ge_KE_0219 [...]c hebbe [...]ē
+Ge_KE_0220 Dore cley[...]inē lāde
+Ge_KE_0221 Die dicke [...] pāde
+Ge_KE_0222 Dore dat [...]eft
+Ge_KE_0223 Ic wane [...]e heeft
+
+Line_number 0224 is missing
+
+Line_number 0225 is missing
+
+Line_number 0226 is missing
+
+Line_number 0227 is missing
+
+Line_number 0228 is missing
+
+Line_number 0229 is missing
+
+Line_number 0230 is missing
+
+Line_number 0231 is missing
+Ge_KE_0232 Want hi [...]arē
+Ge_KE_0233 Die met [...]ē warē
+Ge_KE_0234 Ridders [...]roet getal
+Ge_KE_0235 Die ic he[...]t al
+Ge_KE_0236 Beyde uā [...] goede
+Ge_KE_0237 Nv uolg[...]oede
+Ge_KE_0238 In laten [...] gedurē
+Ge_KE_0239 Dine ont[...]burē
+Ge_KE_0240 Beide b[...]
+Ge_KE_0241 Dꝰ en hee[...]uʼlaet gēe
+
+
+
+Ge_KE_0242 Dan [...] mach bei[...]
+Ge_KE_0243 Dʼ op [...]tdragē
+Ge_KE_0244 Dae[...]en
+Ge_KE_0245 Moe[...]de gheuē
+Ge_KE_0246 Mae[...]er an
+Ge_KE_0247 Hin[...] ormē mā
+Ge_KE_0248 Die [...] leeft
+Ge_KE_0249 Da[...]ht comā h[...]
+Ge_KE_0250 La[...]rukē we[...]
+Ge_KE_0251 Ma[...]rt niemē e[...]
+Ge_KE_0252 Bis[...]onke
+Ge_KE_0253 Abd[...]
+Ge_KE_0254 Dek[...]n
+Ge_KE_0255 Dʼ h[...]pen
+Ge_KE_0256 Co[...]e
+Ge_KE_0257 Hi [...]e pde
+Ge_KE_0258 En̄ [...]reyde
+Ge_KE_0259 Dat [...]e heyde
+Ge_KE_0260 En̄ [...]ire cracht
+Ge_KE_0261 Dat [...] bracht
+Ge_KE_0262 Sel[...]celment
+Ge_KE_0263 Dꝰ b[...]m trent
+Ge_KE_0264 Dae[...] liede weet
+Ge_KE_0265 Hi h[...]at ghere[...]
+Ge_KE_0266 Bey[...]out
+Ge_KE_0267 Sin[...]ichfout
+Ge_KE_0268 En̄ [...] geuaen
+Ge_KE_0269 Noc[...]e ghedaē
+Ge_KE_0270 Men[...]acht
+Ge_KE_0271 Ic w[...]emster na[...]
+Ge_KE_0272 Sire [...]e wesen
+Ge_KE_0273 Ay g[...] te desen
+Ge_KE_0274 Met [...]r bat uoe[...]
+Ge_KE_0275 Die [...] uʼhoert
+Ge_KE_0276 Hoe [...] geuarē
+Ge_KE_0277 Ind[...]ebaren
+Ge_KE_0278 Alse d[...]e ūholē
+Ge_KE_0279 Met [...]t alse colē
+Ge_KE_0280 Swʼt [...]t
+
+
+
+Ge_KE_0281 [...] hem ane d[...] hals hinc
+Ge_KE_0283 [...]t was sijn wapēroc dʼb[...]
+Ge_KE_0282 [...]ē halsberc[...] mocht mē [...]
+Ge_KE_0284 [...] was dors dʼ hi op sa[...]
+Ge_KE_0285 [...]uā enē so[...]dʼlingē p[...]
+Ge_KE_0286 [...]rs ghere[...]ē ī dē wou[...]
+Ge_KE_0287 [...]ne die cō ontmoetē [...]
+Ge_KE_0288 [...]e hē es [...]as ī war[...]
+Ge_KE_0289 [...]aende da[...] die duuel [...]
+Ge_KE_0290 [...]dat hi w[...]s so sw̄t al
+Ge_KE_0291 [...]ikē god h[...] hem beva[...]
+Ge_KE_0292 [...]insde ī sij[...]ē moet
+Ge_KE_0293 [...]allet mi [...]aet of g[...]
+Ge_KE_0294 [...]e te nach[...]uā desen
+Ge_KE_0295 [...] der aue[...]rē gene[...]
+Ge_KE_0296 [...]an wetic [...]e uorē w[...]
+Ge_KE_0297 [...]ie duuel en̄ niet el
+Ge_KE_0298 [...] gods hal[...]ē iet
+Ge_KE_0299 [...]are alsoe [...]wʼt niet
+Ge_KE_0300 [...] ī swʼt per[...] en̄ man
+Ge_KE_0301 [...] dat ickʼ a[...] germʼkē cā
+Ge_KE_0302 [...]de gode d[...]t hi wake[...]
+Ge_KE_0303 [...]chte dat m[...] toren nake[...]
+Ge_KE_0304 [...]i dese niet en scende
+Ge_KE_0305 [...]i bat quā [...]ehende
+
+Line_number 0306 is missing
+
+Line_number 0307 is missing
+Ge_KE_0308 [...]swʼte heeft [...]nomē
+Ge_KE_0309 [...] ieghē he[...] comen
+Ge_KE_0310 [...] ī sinen si[...]
+Ge_KE_0311 [...] uʼdoelt hi[...]r in
+Ge_KE_0312 [...]t sinē we[...] uʼlorē
+Ge_KE_0313 [...]h dat ane [...]em uʼhorē
+Ge_KE_0314 [...]ier latē si[...]e wapine
+Ge_KE_0315 [...] beste sijn ī [...]cine
+Ge_KE_0316 [...] in vij iarē sach
+Ge_KE_0317 [...]itē alse de dach
+Ge_KE_0318 [...] stene en̄ [...]ādē goud[...]
+Ge_KE_0319 [...]uā hi in de[...] woude
+Ge_KE_0320 [...]s noit ar[...] man
+Ge_KE_0321 [...]e wapene [...]roech an
+
+
+
+Ge_KE_1019 [...]al afgeco[...]ht
+Ge_KE_1020 [...] sal steruē margen uro[...]
+Ge_KE_1021 [...]ach u seggē hoe
+
+Line_number 1022 is missing
+Ge_KE_1023 [...]sijn doet ge[...]worē
+Ge_KE_1024 [...] kle wel te uorē
+
+Line_number 1025 is missing
+
+Line_number 1026 is missing
+
+Line_number 1027 is missing
+Ge_KE_1028 [...]d te stelē ō[...]oet
+Ge_KE_1029 [...]ē die doet
+Ge_KE_1030 [...]ckede di oe[...]moedelike
+Ge_KE_1031 [...] sone uā h[...]melrike
+Ge_KE_1032 [...]de die co s[...]en
+Ge_KE_1033 [...]andedi ontg[...]en
+Ge_KE_1034 [...]e staec mꝫ [...]ē kniue
+Ge_KE_1035 [...]i sinē wiu[...]
+Ge_KE_1036 [...] uʼstormē al
+Ge_KE_1037 [...] meer dā [...]eual
+Ge_KE_1038 [...]aē hebbē [...]cocht
+Ge_KE_1039 [...]ine ute b[...]ocht
+Ge_KE_1040 [...] u worpē [...] selkʼ noet
+Ge_KE_1041 [...]ō soe es [...] doet
+Ge_KE_1042 [...]oudʼ meer af wesē
+Ge_KE_1043 [...] rouwē [...]el genesē
+Ge_KE_1044 [...]r behēd[...]hhede
+Ge_KE_1045 [...]oeuē me[...]e
+Ge_KE_1046 [...]ser .i āde[...] an
+Ge_KE_1047 [...] e gewee[...] uā dā
+Ge_KE_1048 [...]ē was h[...] leet
+Ge_KE_1049 [...]worde g[...]eet
+Ge_KE_1050 [...]od ie leu[...] liet
+Ge_KE_1051 [...]n gesell[...] niet
+Ge_KE_1052 [...]nacht ō[...]eurokē
+Ge_KE_1053 [...]na hebt [...]esprokē
+Ge_KE_1054 [...]minē he[...]e
+Ge_KE_1055 [...]s aldʼ er[...]
+Ge_KE_1057 [...]rē mī ge[...]chte
+Ge_KE_1056 [...]die mi ge[...]rochte
+
+Line_number 1058 is missing
+
+Line_number 1059 is missing
+Ge_KE_1060 [...]r borch s[...]ede
+Ge_KE_1061 [...] lief ofte [...]de
+Ge_KE_1062 [...]e kʼle mī [...]iēt
+Ge_KE_1063 [...]x lic uʼ[...]nt
+
+
+
+Ge_KE_1064 [...] leuē
+Ge_KE_1065 [...]uē
+Ge_KE_1066 [...]t
+Ge_KE_1067 [...] net
+Ge_KE_1068 [...]
+Ge_KE_1069 [...]stonde
+Ge_KE_1070 [...]
+Ge_KE_1071 [...]
+Ge_KE_1072 D[...]ert
+Ge_KE_1073 [...]rt
+Ge_KE_1074 [...]
+Ge_KE_1075 [...]mal
+Ge_KE_1076 [...]ē
+Ge_KE_1077 [...]de
+Ge_KE_1078 [...]oder war[...]
+Ge_KE_1079 [...]aert
+Ge_KE_1080 D[...] ddʼ goed
+Ge_KE_1081 D[...] et
+Ge_KE_1086 [...]ge
+Ge_KE_1087 [...]ge
+Ge_KE_1082 [...]rā
+Ge_KE_1083 [...]rē nā
+Ge_KE_1084 [...]erde
+Ge_KE_1085 [...]de
+Ge_KE_1088 [...]oet
+Ge_KE_1089 [...] doet
+Ge_KE_1090 [...]
+Ge_KE_1091 [...]
+Ge_KE_1092 [...]
+Ge_KE_1093 [...]llē
+Ge_KE_1094 [...]ch
+Ge_KE_1095 [...]h
+Ge_KE_1096 D[...] gemake
+Ge_KE_1097 I[...] sake
+Ge_KE_1098 A[...]eet
+Ge_KE_1099 S[...]are mi leet
+Ge_KE_1100 M[...]edē
+Ge_KE_1101 [...] liedē
+Ge_KE_1102 D[...]
+
+
+
+Ge_KE_1103 E[...]
+Ge_KE_1104 V[...]
+Ge_KE_1105 S[...]
+Ge_KE_1106 D[...]dē
+Ge_KE_1107 D[...]
+Ge_KE_1108 S[...]
+Ge_KE_1109 No[...]ē
+Ge_KE_1110 En̄ [...]
+Ge_KE_1111 Hi [...]
+Ge_KE_1112 En̄ [...]h
+Ge_KE_1113 Ee[...]
+Ge_KE_1114 En̄ [...]edan
+Ge_KE_1115 D[...]
+Ge_KE_1116 T[...]
+Ge_KE_1117 D[...]
+Ge_KE_1118 D[...]ā
+Ge_KE_1119 D[...]
+Ge_KE_1120 D[...]
+Ge_KE_1121 D[...]
+Ge_KE_1122 D[...]
+Ge_KE_1123 [...]
+Ge_KE_1124 E[...]
+Ge_KE_1125 E[...]
+Ge_KE_1126 D[...]
+Ge_KE_1127 D[...]rē
+Ge_KE_1128 V[...]
+Ge_KE_1129 E[...]
+Ge_KE_1130 M[...]e
+Ge_KE_1131 O[...]e
+Ge_KE_1132 A[...]
+Ge_KE_1133 E[...]ē
+Ge_KE_1134 D[...]
+Ge_KE_1135 E[...]
+Ge_KE_1136 D[...]auʼ
+Ge_KE_1137 L[...]
+Ge_KE_1139 I[...] ē
+Ge_KE_1138 H[...] uē
+Ge_KE_1140 H[...]
+Ge_KE_1141 V[...]s
+Ge_KE_1142 V[...]t
+
+
+
+Ge_KE_1143 Die [...] .v. q̄mē ī[...]
+Ge_KE_1144 Si s[...]ē hē wape[...]
+Ge_KE_1145 En̄ t[...]eckē ī die ho[...]
+Ge_KE_1146 En̄ ghi selve hʼ c[...]
+Ge_KE_1147 Selt ghewapē[...]
+Ge_KE_1148 Die [...] wilt dʼ wt[...]
+Ge_KE_1149 Wi se[...] hē so dier [...]
+Ge_KE_1150 Bloe[...] sal hē lop[...]
+Ge_KE_1151 En̄ e[...]g alles te [...]
+Ge_KE_1152 Dese raet doch[...]
+Ge_KE_1153 Si w[...]pēdē hē m[...]
+Ge_KE_1154 Alle diere toe d[...]
+Ge_KE_1155 Dat wapene [...]
+Ge_KE_1156 Bed[...] clene en̄ [...]
+Ge_KE_1157 Si d[...]chtē swa[...]
+Ge_KE_1158 Want egg was [...]
+Ge_KE_1159 En̄ [...]lle die had[...]
+Ge_KE_1160 Wedʼ en̄ uoert [...]
+Ge_KE_1161 Wou[...]ē in siere h[...]
+Ge_KE_1162 Men [...]ede ter p[...]
+Ge_KE_1163 Gewapent wi[...]
+Ge_KE_1164 Doē [...]gg liede[...]
+Ge_KE_1165 Tot[...]r houe b[...]
+Ge_KE_1166 Ont[...]edemē d[...]
+Ge_KE_1167 En̄ [...]etse al ī [...]
+Ge_KE_1168 Doen sie q̄mē in d[...]
+Ge_KE_1169 Ded[...]mē hare [...]
+Ge_KE_1170 Men vāt naes[...]
+Ge_KE_1171 Wit[...] halsbʼ en̄ [...]
+Ge_KE_1172 Hʼ ō[...]aet was [...]
+Ge_KE_1173 Me[...]eidse ī g[...]
+Ge_KE_1174 Alt[...]met dat [...]
+Ge_KE_1175 Te mense ha[...]
+Ge_KE_1176 Di[...]m̄ conste [...]
+Ge_KE_1177 Di[...] co doet [...]
+Ge_KE_1178 Eg[...] quam gew[...]
+Ge_KE_1179 m[...]tter echtʼste s[...]
+Ge_KE_1180 Dʼ a[...] die moert [...]
+Ge_KE_1181 Do[...] hi gebet [...]
+Ge_KE_1182 En̄ soude gaē ī [...]
+
+
+
+Ge_KE_1183 Sloe[...]mē die poe[...] altemale
+Ge_KE_1184 En̄ u[...]ckene als d[...]ʼ dede
+Ge_KE_1185 Men [...]ant gewap[...] sine lede
+Ge_KE_1186 Bat d[...] iem̄ die dʼ [...]as
+Ge_KE_1187 Men l[...]dene dore d[...] palas
+Ge_KE_1188 Vore [...]̄ co sinē h[...]e
+Ge_KE_1189 Dies [...]ochti hē sc[...] sere
+Ge_KE_1190 Die c[...]eiden uele t[...]rē
+Ge_KE_1191 Maer hine wouts nie[...]oren
+Ge_KE_1193 En̄ se[...]e co hebt b[...]rē raet
+Ge_KE_1192 Hi loe[...]ēde aldʼ on[...]et
+Ge_KE_1194 Dadi [...]i lachtʼ ōuʼ[...]ent
+Ge_KE_1195 Ghi h[...]d uʼlorē me[...]ē urīt
+Ge_KE_1196 En̄ gh[...]ne wʼt oec n[...] so coene
+Ge_KE_1197 No eg[...] uwʼ baroe[...]
+Ge_KE_1198 Dat g[...]ijt mi dor[...]p stadeʼ
+Ge_KE_1199 Dat ic v. hadde uʼ[...]ē
+Ge_KE_1200 Wʼ oec [...]mā dies beg[...]
+Ge_KE_1201 Ic da[...] hem loechn[...]ettē swʼde
+Ge_KE_1202 Ofte m[...]ttē orde uā [...]ʼe spʼe
+Ge_KE_1203 Nv comt [...]ort dies [...]ghʼe
+Ge_KE_1204 Alse di[...] die co uʼst[...]
+Ge_KE_1205 Was [...]i blide ī sin[...] moet
+Ge_KE_1206 En̄ send[...] ō elegaste
+Ge_KE_1207 Boden n[...] bodē uast[...]
+Ge_KE_1208 Dʼ hi w[...]s ī dē wou[...]
+Ge_KE_1209 En̄ ont[...]oet hē sine [...]ude
+Ge_KE_1210 En̄ uʼg[...]ē alle mes[...]t
+Ge_KE_1211 In die[...] dat hi dē c[...] bestaet
+Ge_KE_1212 Iegē e[...]gherike
+Ge_KE_1213 Hi sou[...]e makē r[...]e
+Ge_KE_1214 Die bod[...] en lettē [...]t
+Ge_KE_1215 Te doen[...] dat hē die [...] hiet
+Ge_KE_1216 Si voer[...] wech tott[...] stōdē
+Ge_KE_1217 Dat si e[...]gaste uon[...]n
+Ge_KE_1219 Si seyd[...]leg al
+Ge_KE_1218 Dat hem [...]e co beua[...]
+Ge_KE_1220 Die sere [...]blide uād[...] worde
+Ge_KE_1221 Doē hi d[...] boetscap [...]oerde
+Ge_KE_1222 Hi hiet l[...]ggē sijn g[...]eyde
+
+
+
+Ge_KE_1223 Sondʼ enich [...]angʼ beide
+Ge_KE_1224 [...]at hi eleg[...] stal
+Ge_KE_1225 [...]at l[...]t hi [...]n̄ beual
+Ge_KE_1225a [...]a dat hē di[...] co woude g[...]
+Ge_KE_1225b Soudi egg[...]achtʼ breid[...]
+Ge_KE_1226 Hi sw bi sin[...] kʼstēhede
+Ge_KE_1227 W[...] hē god scu[...]ech ene bed[...]
+Ge_KE_1228 Hine bade a[...]dʼ goed
+Ge_KE_1229 Dan hi dē c[...]̄pt uechtē[...]
+Ge_KE_1230 Ouʼ sinē ger[...]chtē here
+Ge_KE_1231 Die weert [...]s aldʼ eere
+Ge_KE_1232 Si uoerē wech mettʼ sp[...]
+Ge_KE_1233 Doē eleg d[...]e riddʼ go[...]
+Ge_KE_1234 Quā bīnen cō zale
+Ge_KE_1235 Mochdi hor[...]sine tale
+Ge_KE_1236 Hi seide god houde dit g[...]
+Ge_KE_1237 Den co en̄ da[...] ic hʼ uinde
+Ge_KE_1238 M[...] egg en gr[...]etic niet
+Ge_KE_1239 Onse hʼe die [...]em crucē liet
+Ge_KE_1240 Doer ōse w[...]e en̄ uele[...]
+Ge_KE_1241 Hi late mi s[...]n op desē d[...]
+Ge_KE_1242 En̄ maria d[...]e magꝫ so[...]
+Ge_KE_1243 Dat mē te [...]īde hāgē[...]
+Ge_KE_1244 Egg uā eg[...]mōde
+Ge_KE_1245 En̄ mochte god doē so[...]
+Ge_KE_1246 Soe heeft h[...]onde ged[...]
+Ge_KE_1247 Dat hi dʼ ga[...]gē es ont[...]
+Ge_KE_1248 Dat hi swʼ m[...]ns herē[...]
+Ge_KE_1249 Sōdʼ bedu[...]c en̄ noe[...]
+Ge_KE_1250 A[...]se dit ele[...] hadde g[...]
+Ge_KE_1251 [...]gg had ge[...]ne geuro[...]
+Ge_KE_1252 M[...]ine had g[...]e macht[...]
+Ge_KE_1253 Des was ni[...]mē die hē[...]
+Ge_KE_1254 D[...]e cō anw[...]rde dʼ of
+Ge_KE_1255 S[...]t willecome ī miin[...]
+Ge_KE_1256 N[...] manic [...] all̄ dien
+Ge_KE_1257 D[...]es goed [...]an sōde p[...]
+Ge_KE_1258 Dat ghi se[...]t en̄ brinc[...]
+Ge_KE_1259 D[...]e ōdaet [...]n̄ die moe[...]
+Ge_KE_1260 V[...]an egg di[...] ghi hier[...]
+
+
+
+Ge_KE_1261 [...]n laet doer [...]iemē niet
+Ge_KE_1262 [...]ine segt w[...] en̄ niet el
+Ge_KE_1263 [...]e die auē[...]re g[...]uel
+Ge_KE_1265 [...]̄t mi en ste[...] niet ōbʼn[...]
+Ge_KE_1264 [...]eleg spʼc [...] gherne
+Ge_KE_1266 [...]ben wel s[...]ʼ te uorē
+Ge_KE_1267 [...]t egg heu[...] v doet ges[...]rē
+Ge_KE_1268 [...]hoeret h[...] seggē dʼ hi l[...]h
+Ge_KE_1269 [...]c gaf hi si[...]ē uiue [...] enē s[...]ach
+Ge_KE_1270 [...]t sijt dorst[...] anden
+Ge_KE_1271 [...]t hare blo[...]t tē tandē
+Ge_KE_1272 [...]n̄ tē nese w[...]t brac
+Ge_KE_1273 [...]rechte hare op en̄ sat
+Ge_KE_1274 [...]anschijn ou[...] den beddebo[...]̄
+Ge_KE_1275 [...]c waser b[...] en̄ nams g[...]̄
+Ge_KE_1276 [...]n̄ croepʼ lis[...]like toe
+Ge_KE_1277 [...]minē re[...]tē hansco[...]
+Ge_KE_1278 [...]ntfinghic [...]loet uādʼ uro[...]ē
+Ge_KE_1279 [...]oē liet hijt [...]ē co scuw[...]
+Ge_KE_1280 [...]n̄ hē allē d[...]et wildē sie[...]
+Ge_KE_1281 [...]oude oec [...]gg loeḡ uā [...]iē
+Ge_KE_1282 [...]dade hē [...]ē dʼ ondaet
+Ge_KE_1283 [...]r die zonn[...] ondʼ ghaet
+Ge_KE_1284 [...]sschen ōs .ij. ī enē camp[...]
+Ge_KE_1285 [...]en scinde [...]od en̄ ramp[...]
+Ge_KE_1286 [...]gg anwor[...]e mettien
+Ge_KE_1287 [...]ien lachtʼ [...]n moete ni[...]sciē
+Ge_KE_1288 [...]minē liu[...]o dat mesk[...]f
+Ge_KE_1289 [...]at ic iegē [...]ē uʼbānē die[...]
+Ge_KE_1290 [...]inē hals s[...]de auētur[...]
+Ge_KE_1291 [...]en soude [...]ec niet geb[...]ē
+Ge_KE_1292 [...]mpt te ue[...]tē jegen mi
+Ge_KE_1293 [...]n̄ eleg anw[...]erde twi
+Ge_KE_1294 [...]en benic [...]ʼtoghe als [...]hi
+Ge_KE_1295 [...]wasic bal[...]nc enen tij[...]
+Ge_KE_1296 [...]t mi die c[...] mij̄ goet [...]ā
+Ge_KE_1297 [...]at hi was [...]e miwaert g[...]ā
+Ge_KE_1298 [...]was noit mordena[...]
+Ge_KE_1299 [...]hebbic gh[...]nomē ha[...]taʼe
+
+
+
+Ge_KE_1300 Dē r[...] liedē uā h[...]rē goede
+Ge_KE_1301 Dat [...]e mi noyt e[...] ermoede
+Ge_KE_1302 Mʼ gh[...] i mordena[...] sijt
+Ge_KE_1303 En [...]cht onsegg[...] cāpt no s[...]
+
+Line_number 1304 is missing
+Ge_KE_1305 Ghe[...]er derschē man
+Ge_KE_1306 Dijt vilt stadē [...]n
+Ge_KE_1307 Die [...] anwʼde da[...]r naer
+Ge_KE_1308 Bi [...]re wet gh[...] egt waer
+Ge_KE_1309 Soud[...]kene uoer[...] na sij rec[...]
+Ge_KE_1310 Ic d[...]ē slepē en[...] cnecht
+Ge_KE_1311 En̄ h[...]en bi siere k[...]len
+Ge_KE_1312 Doē [...]c mꝫ egg u[...] spele
+Ge_KE_1313 En̄ p[...]sde in sinē m[...]et
+Ge_KE_1314 Nad[...] dat gescepē stoet
+Ge_KE_1315 Bete[...]s camp dā h[...]ls ontwe[...]
+Ge_KE_1316 Int [...] en was ma[...] neghen
+Ge_KE_1317 Die [...]ekē dorste t[...] siere urom[...]
+Ge_KE_1318 Ald[...]rt dʼ die ca[...]p genom[...]
+Ge_KE_1319 En l[...]el uore der [...]oenen
+Ge_KE_1320 Die [...] geboet sin[...] baroenē
+Ge_KE_1321 Dat [...] uelde soudē [...]arē
+Ge_KE_1322 Hin[...]oude des ca[...]s nie ōbar[...]
+Ge_KE_1323 Die [...]pē hiet hi [...]ereiden
+Ge_KE_1324 En̄ [...] gode dat h[...] moeste scey[...]
+Ge_KE_1325 Dē c[...]p en̄ gheu[...]t
+Ge_KE_1326 Na [...]ene en̄ na [...]echt
+Ge_KE_1327 Die [...] troest eleg[...] wel
+Ge_KE_1328 En̄ [...]e uʼgīghe w[...]l sij̄ spel
+Ge_KE_1329 En̄ [...] behilde sijn [...]euen
+Ge_KE_1330 Hi s[...]ē siere sus[...] gheuē
+Ge_KE_1331 Die [...]g hadde te [...]rē
+Ge_KE_1332 Die [...]e doet had[...] gesworē
+Ge_KE_1333 Mē s[...]ech corden o[...]at uelt
+Ge_KE_1334 Dʼ m[...]ech mā ge[...]apēt helt
+Ge_KE_1335 En [...]ttel uore dʼ [...]esptijt
+Ge_KE_1336 Eleg[...] quā terst i[...] crijt
+Ge_KE_1337 Om[...]at hi anleg[...] was
+Ge_KE_1338 Hi b[...]te nedʼ int [...]ras
+Ge_KE_1339 En̄ [...]el ī cnien [...]ebede
+

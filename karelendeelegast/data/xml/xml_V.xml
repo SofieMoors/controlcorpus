@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on Langeslag, P. S. (2015). The Vercelli Fragment of Karel ende Elegast and Dat Boec van den Houte. Bollettino Storico Vercellese, 85, 5–37.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Vercelli</settlement>
+            <institution>Archivio do Stato</institution>
+            <idno>Prefettura, Giudiziarro, Fondo Antico, mazzo 41</idno>
+            <msName>V</msName>
+          </msIdentifier>
+              <msContents>
+<msItem>
+<locus from="30v" to="38r"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript" >
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="42?"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="257"/>
+                              <width unit="mm" quantity="185"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in ink in Roman numerals (xxxviij and xxxix) and foliation in pencil in Arabic numbers (1r-2v)</foliation>
+                     <collation>cannot be reconstructed</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="46">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+         <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+         <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera gothica textualis">the manuscript is written in a littera gothica textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote> lombardic capital letters (2 lines, red); colour-stroking first letters (red); initial at the start of following text (3 lines, red); title of following text (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only 1 bifolium (f. 38-39?) remains. The bifolium contains the last 20 lines of Karel ende Elegast and the 343 lines of 'Van den drien gherden' (Dat boec vanden houte)</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="1325" notAfter="">1375</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
+ </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group><text n="Karel ende Elegast" xml:id="KE">
+<body>
+<p>
+
+<pb xml:id="V.f38ra" n="38ra"/>
+<lb n="1" xml:id="Vf38ra.1"/><l n="V_KE_1453">hi viel doet vten ghereide</l>
+<lb n="2" xml:id="Vf38ra.2"/><l n="V_KE_1454"><hi rend="capitalsize1">D</hi>it sach die coninc ende seide</l>
+<lb n="3" xml:id="Vf38ra.3"/><l n="V_KE_1455"><hi rend="capitalsize1">G</hi>hewarech got du best hier bouen</l>
+<lb n="4" xml:id="Vf38ra.4"/><l n="V_KE_1456">Met goeden rechte maghic v louen</l>
+<lb n="5" xml:id="Vf38ra.5"/><l n="V_KE_1457">die mi soe meneghe ere doet</l>
+<lb n="6" xml:id="Vf38ra.6"/><l n="V_KE_1458">die v dienen si sijn vroet</l>
+<lb n="7" xml:id="Vf38ra.7"/><l n="V_KE_1459"><hi rend="capitalsize1">G</hi>hi moghet helpen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> staen in staden</l>
+<lb n="8" xml:id="Vf38ra.8"/><l n="V_KE_1460">hen allen die op v roepen ghenaden</l>
+<lb n="9" xml:id="Vf38ra.9"/><l n="V_KE_1461"><hi rend="capitalsize2">N</hi>v willic corten dese dinc</l>
+<lb n="10" xml:id="Vf38ra.10"/><l n="V_KE_1462">men sleipte eggherike <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hinc</l>
+<lb n="11" xml:id="Vf38ra.11"/><l n="V_KE_1463"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> alle die verraders mede</l>
+<lb n="12" xml:id="Vf38ra.12"/><l n="V_KE_1464"><hi rend="capitalsize1">D</hi>aer en halp scat noch bede</l>
+<lb n="13" xml:id="Vf38ra.13"/><l n="V_KE_1465"><hi rend="capitalsize1">E</hi>legast bleef in die eere</l>
+<lb n="14" xml:id="Vf38ra.14"/><l n="V_KE_1466">dies dancte hi hoechlike onsen here</l>
+<lb n="15" xml:id="Vf38ra.15"/><l n="V_KE_1467"><hi rend="capitalsize1">D</hi>ie coninc ghaf hem egherijcx wijf</l>
+<lb n="16" xml:id="Vf38ra.16"/><l n="V_KE_1468"><hi rend="capitalsize1">S</hi>i waren te samen al haer lijf</l>
+<lb n="17" xml:id="Vf38ra.17"/><l n="V_KE_1469"><hi rend="capitalsize1">D</hi>us moete god al onse saken</l>
+<lb n="18" xml:id="Vf38ra.18"/><l n="V_KE_1470">voer onse doet te goede maken</l>
+<lb n="19" xml:id="Vf38ra.19"/><l n="V_KE_1471"><hi rend="capitalsize1">D</hi>ies onne ons die hemelsche vader</l>
+<lb n="20" xml:id="Vf38ra.20"/><l n="V_KE_1472"><hi rend="capitalsize1">A</hi>men segghet allegader</l>
+<lb n="21" xml:id="Vf38ra.21"/><l n="V_KE_1473"><hi rend="capitalsize1">A</hi>men • <hi rend="capitalsize1">A</hi> • <hi rend="capitalsize1">M</hi> • <hi rend="capitalsize1">E</hi> • <hi rend="capitalsize1">N</hi> •</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

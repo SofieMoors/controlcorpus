@@ -1,0 +1,352 @@
+
+
+
+
+P_I,01_0001 Nu merct sone wattic hu ghebiede
+P_I,01_0002 En̄ wat is dattic dy bediede
+P_I,01_0003 Dats dattu dʼ ane sult keerē
+P_I,01_0004 Dattu gode zult emmer eerē
+
+
+P_I,02_0001 Du zult smorghēs vrouch vp staē
+P_I,02_0002 Ende om dine bederue gaen
+
+
+
+P_I,02_0003 Men seit die te langhe slaept
+P_I,02_0004 Dat hem die slaep ōduchtic maect
+
+
+P_I,03_0001 Wachti dat mē niet en zeghet
+P_I,03_0002 Dat vele tale an dij leghet
+P_I,03_0003 Wāt menegherande tale
+P_I,03_0004 En voughet niemēt goeders wale
+
+
+
+
+
+P_I,04_0001 Zone doet als die vroede doet
+P_I,04_0002 Die heift ghestadeghen moet
+P_I,04_0003 Hets lachter dat mē hier zeghet
+P_I,04_0004 Dies mē ginder niet en pleghet
+
+
+P_I,05_0001 En merke niemēs quade daet
+P_I,05_0002 Wāt vele merkens is quaet
+P_I,05_0003 Beede en es man noch wijf
+P_I,05_0004 Die zonder zonde leet zij̄ lijf
+
+
+P_I,14_0001 Als di yement gheue lof
+P_I,14_0002 En weist te blijder niet daer of
+P_I,14_0003 Die vroede mercket en̄ vʼstaet
+P_I,14_0004 Eer hij van yement lof ōtfaet
+
+
+
+
+
+P_I,16_0001 Die wile du best jonghelinc
+P_I,16_0002 Zo doet meneghe goede dinc
+P_I,16_0003 Als di naken dine daghe
+P_I,16_0004 Dat mē dijns te goede ghewaghe
+
+
+P_I,18_0001 Al eist datstu hebbes ghenouch
+P_I,18_0002 Haue houtti jnt gheuouch
+P_I,18_0003 Wāt heden is de man rijcke
+P_I,18_0004 Zmorghens staet hē cōmerlike
+
+
+P_I,20_0001 Zone als di dij̄ aerme vrient
+P_I,20_0002 Van cleender ghiften dient
+P_I,20_0003 Weist blider dā di is te moede
+P_I,20_0004 En̄ dancket hē met allen goede
+
+
+P_I,21_0001 Al bestu aerm mā van hauen
+P_I,21_0002 En̄ van rijcheden bescauen
+P_I,21_0003 Bepeinst dattu hier te voorē
+P_I,21_0004 Aerm en̄ naect waert gheborē
+
+
+P_I,22_0001 Du ne zulstu keerē niet jn dien
+P_I,22_0002 Dattu die doot zult ontsien
+P_I,22_0003 Want wie die doot ontsiet
+P_I,22_0004 Hem en helpt zij̄ leuen niet
+
+
+
+
+
+P_I,19_0001 Hij is sotter dan queken hoot
+P_I,19_0002 Die hoopt vp eens āders doot
+P_I,19_0003 Wāt alle lieden jonc en̄ hout
+P_I,19_0004 Zijns haers leuens onghewout
+
+
+P_I,24_0001 Van dien datti is ghebleuen
+P_I,24_0002 Zulstu behendelike leuen
+P_I,24_0003 Hout di ēmer so ondersteken
+P_I,24_0004 Dat di niet en mach ghebrekē
+
+
+P_I,36_0001 Ieghens die gone die mij̄nen
+P_I,36_0002 En zulstu sceldens niet beghȳnē
+P_I,36_0003 Wāt vā scelden hier te vooren
+P_I,36_0004 Vernoy is cōmen ende toren
+
+
+
+
+
+P_I,38_0001 Al mueghestu vʼwinnē zaen
+P_I,38_0002 Dinē viant ēme latē jn vredē staē
+P_I,38_0003 Ic zegghe di dat ghestadichede
+P_I,38_0004 Heuet meneghe goede zede
+
+
+P_I,39_0001 Dat een man behaghet heift
+P_I,39_0002 Met pinen en̄ zottelike begheift
+P_I,39_0003 Dat lachtert alstu dit beuroet
+P_I,39_0004 Zo keert daer of dinen moet
+
+
+
+
+
+P_I,40_0001 Beede nemen ende gheuen
+P_I,40_0002 Es haer zede die nv leuen
+P_I,40_0003 Met eeren zo doet also
+P_I,40_0004 Zo muechstu blijde zij̄ en̄ vro
+
+
+P_II,Pb_0001 Wilstu ooc leeren medecine
+
+Line_number 0002 is missing
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+P_II,Pd_0002 En̄ mij̄ne doen jn dinē zīne
+P_II,Pd_0003 Ouidius leeret dij alsoo
+P_II,Pd_0004 Hoe du vā mij̄nē wordes vroo
+
+
+P_II,Pc_0001 Wilstu di dies onderwijnden
+P_II,Pc_0002 Datstu gheuecht wilt beghīnen
+P_II,Pc_0003 Doet minē raet ende lucane
+P_II,Pc_0004 Zij zalder di wel brīghen ane
+
+
+
+
+
+P_II,Pe_0001 Zone wilstu wezen vroet
+P_II,Pe_0002 En̄ wijsheit doē jn dinē moet
+P_II,Pe_0003 Zo leert zo vele jn dij̄re juecht
+P_II,Pe_0004 Alstu oudt best dattu hels duecht
+
+
+P_II,02_0001 Du ne zult niet vraghen des
+P_II,02_0002 Welc zij die hemel of was hij es
+P_II,02_0003 Wāt du best steruelic en̄ daer bij
+P_II,02_0004 Onderwinti niet wat steruē zij
+
+
+P_II,06+IV,10_0001 Du zult ommate vlien
+P_II,06+IV,10_0002 Men secht dats die vroede plien
+P_II,06+IV,10_0003 Mate houden en̄ volghen hare
+P_II,06+IV,10_0004 Want ōmate is ongheware
+
+
+
+
+
+P_II,07+III,07_0001 Wegestu dijns ghezelle daet
+P_II,07+III,07_0002 Dies hij hē scaemt dats quaet
+P_II,07+III,07_0003 Bepeinst oft dij lief ware
+P_II,07+III,07_0004 Datti dine scāde maecte mare
+
+
+P_II,08_0001 Zone en merct de zonden niet
+P_II,08_0002 Die mē den quaden doen ziet
+P_II,08_0003 Want die tijt zal cōmen saen
+P_II,08_0004 Dat sijs loon zullen ontfaen
+
+
+P_II,12_0001 Dat god wille doen metti
+P_II,12_0002 Laet hē gheworden wat dat si
+P_II,12_0003 Wāt du ne waerts dʼ te rade niet
+P_II,12_0004 Daer hij di sciep en̄ wesen hiet
+
+
+P_II,13_0001 Ic verbiede di nidichede
+P_II,13_0002 Wāt zij heuet quade zede
+P_II,13_0003 Zo wiese draghet god weet
+P_II,13_0004 Hem cōter of dat hē es leet
+
+
+
+
+
+P_II,08_0001 Zone en merct de zonde niet
+P_II,08_0002 Die mē den quaden doē ziet
+P_II,08_0003 Wāt de tijt sal cōmen zaen
+P_II,08_0004 Dat sijs loon zullen ontfaen
+
+
+
+
+
+P_I,15_0001 Als een ander man doet wel
+P_I,15_0002 Dat onthout ende vertelt
+P_I,15_0003 Doetstu wel zo zwijchter of
+P_I,15_0004 Zo zulstu hebben goeden lof
+
+
+P_I,27_0001 Wachti jeghens die ghebare
+P_I,27_0002 Mijnlike als die voeghelare
+P_I,27_0003 Die scoone pipen en̄ blasen
+P_I,27_0004 Als zij die voghelkins vʼdwazē
+
+
+P_II,21_0001 Datti jn dronckēscepe ghesciet
+P_II,21_0002 Dat en laet onghebetert niet
+P_II,21_0003 Wāt vān dronckescepe hʼ te voorē
+P_II,21_0004 Vernoy is cōmen ende toren
+
+
+
+
+
+P_II,24_0001 Merct wel watti mach deeren
+P_II,24_0002 Waert zakē die ghij muecht vʼweerē
+P_II,24_0003 Hij dinct mij sot die cōmen siet
+P_II,24_0004 Tongheual ende niet en vliet
+
+
+
+
+
+P_II,31_0001 En rouct niet wat hu droomt
+P_II,31_0002 Hij dinct mij zot dies goomt
+P_II,31_0003 Wāt was de lieden sdaechs hoorē
+P_II,31_0004 Dat comt hē dickent snachts te vooren
+
+
+P_III,02_0001 Een mā die goeder voere pleicht
+P_III,02_0002 En darf niet rouckē wat mē zeicht
+P_III,02_0003 Wāt hij en mach duer niemens tale
+P_III,02_0004 Quaet werden wilt hij zelue wale
+
+
+
+
+
+P_III,04_0001 Tieghens die gone die cōnē smeekē
+P_III,04_0002 En̄ scoone worden vut reecken
+P_III,04_0003 Zulstu di wachten doetstu wel
+P_III,04_0004 Wāt zij zijn loos ende fel
+
+
+P_III,10_0001 Als di yement gheift goedē raet
+P_III,10_0002 Zoch toocht daer an dijn toevʼlaet
+P_III,10_0003 Hi is zot die goeden raet ontzecht
+P_III,10_0004 En̄ laet daer duecht an lecht
+
+
+P_III,12_0001 Wachti wel te dijnen liue
+P_III,12_0002 Dattu nēmermeer nemes te wiue
+P_III,12_0003 Eenich wijf du en kentse wel
+P_III,12_0004 Want die wijfs zijn vele fel
+
+
+P_III,15_0001 Daer du wetes ghedaē ouerdaet
+P_III,15_0002 Heelstu dat du doets quaet
+P_III,15_0003 Dat men niet zegghē en mach vā di
+P_III,15_0004 Ic wane hij dies ghezelle zij
+
+
+
+
+
+P_III,16_0001 Alstu mueghes jn dinē moet
+P_III,16_0002 Verstaen dat mē dij ōrecht doet
+P_III,16_0003 Zo bidt den rechter datti dij
+P_III,16_0004 Om der gods wille jn hu hulpe zij
+
+
+
+
+
+P_III,21ter_0001 Dattu dine vrienden raden
+P_III,21ter_0002 Zulstu jn dinē zij̄ bestaden
+P_III,21ter_0003 Hier naer alstu te doene heues
+P_III,21ter_0004 Datstu raet dij zeluē gheues
+
+
+
+
+
+P_III,19_0001 Alstu etes wachtu des
+P_III,19_0002 Datstu te vele niet en sprekes
+P_III,19_0003 Wie dā vele sprekens h jn zedē
+P_III,19_0004 Merct mē jn uwe doorpershedē
+
+
+P_III,20_0001 Als dij̄ wijf verbolghen es
+P_III,20_0002 Du ne zult niet roucken des
+P_III,20_0003 Wat zou seghet wāt haer woort
+P_III,20_0004 Wayt die wijnt al vter poort
+
+
+P_III,21_0001 Zone ofstu vroet wilt zijn
+P_III,21_0002 Zo theere jn goeder mate dijn
+P_III,21_0003 Hij is zot die tzine verteirt
+P_III,21_0004 En̄ anden vremde hem gheneert
+
+
+
+
+
+P_III,20_0001 Als dijn wijf vʼbolghen es
+P_III,20_0002 Du ne zult niet zouckē des
+P_III,20_0003 Wat zou zecht wāt haer woort
+P_III,20_0004 Wait die wijnt al huter poort
+
+
+P_III,21_0001 Zone ofstu vroet wilt zijn
+P_III,21_0002 Zo theere jn goeder mate dij̄
+P_III,21_0003 Hij es zot die tzine verteert
+P_III,21_0004 En̄ an den vreemdē hē ghemert
+
+
+
+
+
+P_III,23_0001 Es dijn wijf vā rade vroet
+P_III,23_0002 Houtter dy an bestu vroet
+P_III,23_0003 Tes menich wijf die meer can
+P_III,23_0004 Vā goeden rade dā haer mā
+
+
+P_III,24_0001 Du sult met dinē zin algader
+P_III,24_0002 Eeren moeder ende vader
+P_III,24_0003 Men zecht wiese belghen doet
+P_III,24_0004 Dat hem tē pinē cōmē moet
+
+
+
+
+
+P_I,35+IV,04_0001 Du muechs den pēninc winnen wel
+P_I,35+IV,04_0002 Daer vrienscap an licht ende niet el
+P_I,35+IV,04_0003 Ten was noit zo helich een man
+P_I,35+IV,04_0004 Hij en leide zinen zijn daer an
+

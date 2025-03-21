@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink. Manuscript description based on Duinhoven, A. M. (1975). Bijdragen tot reconstructie van de Karel ende Elegast (Deel 1). Van Gorcum &amp; Comp. B.V.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Washington</settlement>
+            <institution>Library of Congress</institution>
+            <idno>Collection Lessing J. Rosenwald, Inc. X.K. 33</idno>
+            <msName>C</msName>
+          </msIdentifier>
+ <msContents>
+<msItem>
+<locus from="2r" to="25r"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="3"/>
+                           <num type="book-block" value="26"/>
+                           <num type="end-flyleaf" value="2"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="205"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>a-d6/4 e6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="29/30" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="150"/>
+                              <width unit="mm" quantity="90"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>the first and third bifolia of the quire are marked</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>99 G</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>space left for 26 lombards (2 lines), all have printed guide letters, and lombards in red or blue ink. A 5-line initial 'E' filled in in red on f. 2r, with a printed guide letter. Paragraph marks indicate the start of the verse (blue) and prose (red) text, and the colophon (blue) </decoNote>
+                   <decoNote><watermark>WM I 61460-61464</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, f. 26 missing. Prose text on life of Charlemagne on f. 25 (continues onto missing folio)</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1496" notAfter="1499">03/07/1496-1499</origDate>
+<origPlace>Antwerp</origPlace>
+<p>printed by <name>Govaert Bac</name></p>
+</origin></history>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Mettingen</settlement>
+            <institution>Draiflessen Collection Liberna</institution>
+            <idno>DC(L)M, W 754</idno>
+            <msName>G</msName>
+          </msIdentifier>
+
+                <p>...</p></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="G.fBiijv" n="Biijv"/>
+
+
+<text n="prologue" xml:id="prologue">
+<body>
+<p><lg type="disticha" n="approbation">
+<lb n="1" xml:id="GfBiijv.1"/><l n="G_approbation_0001">¶ <hi rend="capitalsize1">D</hi>it boecxken is gheuisiteert byden // <choice><abbr>eerweerdighe<g ref="#bar"/></abbr><expan>eerweerdighe<ex>n</ex></expan></choice> heer <hi rend="capitalsize1">S</hi>ymon de <choice><abbr><hi rend="capitalsize1">P</hi>lane<g ref="#bar"/>.</abbr><expan><hi rend="capitalsize1">P</hi>lane<ex>n</ex>.</expan></choice></l>
+
+
+<pb xml:id="G.fBiiijr" n="Biiijr"/>
+</lg>
+<lg type="disticha" n="title">
+<lb n="1" xml:id="GfBiiijr.1"/><l n="G_title_0001"><hi rend="capitalsize1">H</hi>jer nae volcht // <hi rend="capitalsize1">C</hi>atho</l>
+</lg>
+<lg type="disticha" n="prologue">
+<lb n="2" xml:id="GfBiiijr.2"/><l n="G_prologue_0001"><hi rend="capitalsize2">D</hi>Ie ghene die in haren sinne</l>
+<lb n="3" xml:id="GfBiiijr.3"/><l n="G_prologue_0002"><hi rend="capitalsize1">D</hi>raghen weerlijcke minne</l>
+<lb n="4" xml:id="GfBiiijr.4"/><l n="G_prologue_0003"><hi rend="capitalsize1">S</hi>y <choice><abbr>makke<g ref="#bar"/></abbr><expan>makke<ex>n</ex></expan></choice> daer af rijm ende liet</l>
+<lb n="5" xml:id="GfBiiijr.5"/><l n="G_prologue_0004"><hi rend="capitalsize1">D</hi>er minnen so en draghe ick niet</l>
+<lb n="6" xml:id="GfBiiijr.6"/><l n="G_prologue_0005"><hi rend="capitalsize1">W</hi>ant nv is al dat vergaen</l>
+<lb n="7" xml:id="GfBiiijr.7"/><l n="G_prologue_0006"><hi rend="capitalsize1">D</hi>at der minnen mach bestaen</l>
+<lb n="8" xml:id="GfBiiijr.8"/><l n="G_prologue_0007"><hi rend="capitalsize1">W</hi>ijlen doen ick die minne droech</l>
+<lb n="9" xml:id="GfBiiijr.9"/><l n="G_prologue_0008">als ick die minne sach ick loech</l>
+<lb n="10" xml:id="GfBiiijr.10"/><l n="G_prologue_0009"><hi rend="capitalsize1">N</hi>v haet ickse in al mijnen sinne</l>
+<lb n="11" xml:id="GfBiiijr.11"/><l n="G_prologue_0010">die minne draghen ende die minne</l>
+<lb n="12" xml:id="GfBiiijr.12"/><l n="G_prologue_0011"><hi rend="capitalsize1">E</hi>nde heb ghekeert mijnen moet</l>
+<lb n="13" xml:id="GfBiiijr.13"/><l n="G_prologue_0012">aen die ghene die sijn vroet</l>
+<lb n="14" xml:id="GfBiiijr.14"/><l n="G_prologue_0013"><hi rend="capitalsize1">E</hi>er ick dit dede seyde een mijn vrient</l>
+<lb n="15" xml:id="GfBiiijr.15"/><l n="G_prologue_0014"><hi rend="capitalsize1">G</hi>heselle die ter wijsheyt dient</l>
+<lb n="16" xml:id="GfBiiijr.16"/><l n="G_prologue_0015">dat hi des beteren loon ontfaet</l>
+<lb n="17" xml:id="GfBiiijr.17"/><l n="G_prologue_0016">dan die ter minnen dienste staet</l>
+<lb n="18" xml:id="GfBiiijr.18"/><l n="G_prologue_0017"><hi rend="capitalsize1">H</hi>ierom heb ick des begonnen</l>
+<lb n="19" xml:id="GfBiiijr.19"/><l n="G_prologue_0018"><hi rend="capitalsize1">S</hi>y <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> onrecht dies mi verionnen</l>
+
+
+<pb xml:id="G.fiiijv" n="iiijv"/>
+<lb n="1" xml:id="Gfiiijv.1"/><l n="G_prologue_0019"><hi rend="capitalsize2">N</hi>V bidt alle met my te <hi rend="capitalsize1">G</hi>ode</l>
+<lb n="2" xml:id="Gfiiijv.2"/><l n="G_prologue_0020">dat hi seynde sinen bode</l>
+<lb n="3" xml:id="Gfiiijv.3"/><l n="G_prologue_0021"><hi rend="capitalsize1">D</hi>ie mi wijse ende leere</l>
+<lb n="4" xml:id="Gfiiijv.4"/><l n="G_prologue_0022"><hi rend="capitalsize1">H</hi>oe ick mi ter vroetheyt keere</l>
+<lb n="5" xml:id="Gfiiijv.5"/><l n="G_prologue_0023"><hi rend="capitalsize1">A</hi>lle die vroet willen wesen</l>
+<lb n="6" xml:id="Gfiiijv.6"/><l n="G_prologue_0024"><hi rend="capitalsize1">E</hi>en boeck is dat die clercken lesen</l>
+<lb n="7" xml:id="Gfiiijv.7"/><l n="G_prologue_0025"><hi rend="capitalsize1">A</hi>ls si eerst ter scholen gaen</l>
+<lb n="8" xml:id="Gfiiijv.8"/><l n="G_prologue_0026"><hi rend="capitalsize1">D</hi>at hem wijsheyt doet verstaen</l>
+<lb n="9" xml:id="Gfiiijv.9"/><l n="G_prologue_0027"><hi rend="capitalsize1">V</hi>eel meer dan eenich doet</l>
+<lb n="10" xml:id="Gfiiijv.10"/><l n="G_prologue_0028"><hi rend="capitalsize1">H</hi>ierom peynsde ick in mijnen moet</l>
+<lb n="11" xml:id="Gfiiijv.11"/><l n="G_prologue_0029">dat ick v daer by wil leeren</l>
+<lb n="12" xml:id="Gfiiijv.12"/><l n="G_prologue_0030"><hi rend="capitalsize1">H</hi>oe ghi v herte sult bekeeren</l>
+<lb n="13" xml:id="Gfiiijv.13"/><l n="G_prologue_0031"><hi rend="capitalsize1">T</hi>er vroetheyt nv mercket dan</l>
+<lb n="14" xml:id="Gfiiijv.14"/><l n="G_prologue_0032"><hi rend="capitalsize1">W</hi>iene maecte/het woonde een man</l>
+<lb n="15" xml:id="Gfiiijv.15"/><l n="G_prologue_0033"><hi rend="capitalsize1">T</hi>e Roomen wijlen eer</l>
+<lb n="16" xml:id="Gfiiijv.16"/><l n="G_prologue_0034"><hi rend="capitalsize1">D</hi>ie des wijsdoms wiste meer</l>
+<lb n="17" xml:id="Gfiiijv.17"/><l n="G_prologue_0035"><hi rend="capitalsize1">D</hi>an eenich man die leuet nv</l>
+<lb n="18" xml:id="Gfiiijv.18"/><l n="G_prologue_0036"><hi rend="capitalsize1">H</hi>i hiet Catho dat segghe ick v</l>
+<lb n="19" xml:id="Gfiiijv.19"/><l n="G_prologue_0037"><hi rend="capitalsize1">H</hi>i hadde een kint dat also</l>
+<lb n="20" xml:id="Gfiiijv.20"/><l n="G_prologue_0038"><hi rend="capitalsize1">A</hi>ls hijt noemde dies was hi vro</l>
+<lb n="21" xml:id="Gfiiijv.21"/><l n="G_prologue_0039"><hi rend="capitalsize1">A</hi>lst metten kinde was vergaen</l>
+<lb n="22" xml:id="Gfiiijv.22"/><l n="G_prologue_0040"><hi rend="capitalsize1">D</hi>at mocht onthouden ende verstaen</l>
+<lb n="23" xml:id="Gfiiijv.23"/><l n="G_prologue_0041"><hi rend="capitalsize1">R</hi>iep hi ende sprack tot hem</l>
+<lb n="24" xml:id="Gfiiijv.24"/><l n="G_prologue_0042"><hi rend="capitalsize1">M</hi>en seyt sone dat ick ben</l>
+
+
+<pb xml:id="G.fvr" n="vr"/>
+<lb n="1" xml:id="Gfvr.1"/><l n="G_prologue_0043"><hi rend="capitalsize1">W</hi>ijs ende vroet nv mercket an</l>
+<lb n="2" xml:id="Gfvr.2"/><l n="G_prologue_0044"><hi rend="capitalsize1">I</hi>ck sal v leeren dat ic can</l>
+<lb n="3" xml:id="Gfvr.3"/><l n="G_prologue_0045">doen seyde hi ende beghan aldus</l>
+<lb n="4" xml:id="Gfvr.4"/><l n="G_prologue_0046"><hi rend="capitalsize1">S</hi>i deus est animus</l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,01">
+<lb n="5" xml:id="Gfvr.5"/><l n="G_I,01_0001"><hi rend="capitalsize1">N</hi>v mercket sone wat ick ghebiede</l>
+<lb n="6" xml:id="Gfvr.6"/><l n="G_I,01_0002"><hi rend="capitalsize1">E</hi>nde wat dat is dat ick v bediede</l>
+<lb n="7" xml:id="Gfvr.7"/><l n="G_I,01_0003">dats dat ghy v daer aen sult keeren</l>
+<lb n="8" xml:id="Gfvr.8"/><l n="G_I,01_0004"><hi rend="capitalsize1">D</hi>at ghi Gode ymmer sult eeren</l>
+</lg>
+<lg type="disticha" n="I,02">
+<lb n="9" xml:id="Gfvr.9"/><l n="G_I,02_0001"><hi rend="capitalsize1">G</hi>hy sult smorghens vroech opstaen</l>
+<lb n="10" xml:id="Gfvr.10"/><l n="G_I,02_0002"><hi rend="capitalsize1">E</hi>nde om v beerue gaen</l>
+<lb n="11" xml:id="Gfvr.11"/><l n="G_I,02_0003"><hi rend="capitalsize1">M</hi>en seyt die te langhe slaept</l>
+<lb n="12" xml:id="Gfvr.12"/><l n="G_I,02_0004">dat hem den slaep onduchtich maect</l>
+</lg>
+<lg type="disticha" n="I,03">
+<lb n="13" xml:id="Gfvr.13"/><l n="G_I,03_0001"><hi rend="capitalsize1">W</hi>acht v datmen niet en seyt</l>
+<lb n="14" xml:id="Gfvr.14"/><l n="G_I,03_0002">dat vele tale aen v leyt</l>
+<lb n="15" xml:id="Gfvr.15"/><l n="G_I,03_0003"><hi rend="capitalsize1">W</hi>ant menigherhande tale</l>
+<lb n="16" xml:id="Gfvr.16"/><l n="G_I,03_0004"><hi rend="capitalsize1">E</hi>n voecht niemants goeders wale</l>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="17" xml:id="Gfvr.17"/><l n="G_I,04_0001"><hi rend="capitalsize1">S</hi>one doet als die vroede doet</l>
+<lb n="18" xml:id="Gfvr.18"/><l n="G_I,04_0002"><hi rend="capitalsize1">D</hi>ie heuet ghestadighen moet</l>
+<lb n="19" xml:id="Gfvr.19"/><l n="G_I,04_0003">het is lachter dat een hier segghet</l>
+<lb n="20" xml:id="Gfvr.20"/><l n="G_I,04_0004">dat hi ghinder niet en pleghet</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="21" xml:id="Gfvr.21"/><l n="G_I,05_0001"><hi rend="capitalsize1">A</hi>enmerct niemants quade daet</l>
+<lb n="22" xml:id="Gfvr.22"/><l n="G_I,05_0002"><hi rend="capitalsize1">W</hi>ant veel merckens is quaet</l>
+<lb n="23" xml:id="Gfvr.23"/><l n="G_I,05_0003"><hi rend="capitalsize1">B</hi>eyde so en is man oft wijf</l>
+<lb n="24" xml:id="Gfvr.24"/><l n="G_I,05_0004"><hi rend="capitalsize1">D</hi>ie sonder sonde leyt zijn lijf</l>
+
+
+<pb xml:id="G.fvv" n="vv"/>
+</lg>
+<lg type="disticha" n="I,08">
+<lb n="1" xml:id="Gfvv.1"/><l n="G_I,08_0001"><hi rend="capitalsize1">G</hi>helooft niet als v wijf tonrecht</l>
+<lb n="2" xml:id="Gfvv.2"/><l n="G_I,08_0002"><hi rend="capitalsize1">C</hi>laghet ouer uwen knecht</l>
+<lb n="3" xml:id="Gfvv.3"/><l n="G_I,08_0003"><hi rend="capitalsize1">W</hi>ant quade wijuen sijn ghenoech</l>
+<lb n="4" xml:id="Gfvv.4"/><l n="G_I,08_0004">die dicke maken ongheuoech.</l>
+</lg>
+<lg type="disticha" n="I,12">
+<lb n="5" xml:id="Gfvv.5"/><l n="G_I,12_0001"><hi rend="capitalsize1">N</hi>yeu mare ende achtersprake</l>
+<lb n="6" xml:id="Gfvv.6"/><l n="G_I,12_0002"><hi rend="capitalsize1">D</hi>ie de lieden tot schande maken</l>
+<lb n="7" xml:id="Gfvv.7"/><l n="G_I,12_0003"><hi rend="capitalsize1">S</hi>ult ghi schouwen ende haten</l>
+<lb n="8" xml:id="Gfvv.8"/><l n="G_I,12_0004"><hi rend="capitalsize1">D</hi>ie hem anderen verwaten</l>
+</lg>
+<lg type="disticha" n="I,15">
+<lb n="9" xml:id="Gfvv.9"/><l n="G_I,15_0001"><hi rend="capitalsize1">A</hi>ls eenich man doet wel</l>
+<lb n="10" xml:id="Gfvv.10"/><l n="G_I,15_0002"><hi rend="capitalsize1">D</hi>at onthout ende vertelt</l>
+<lb n="11" xml:id="Gfvv.11"/><l n="G_I,15_0003"><hi rend="capitalsize1">D</hi>oedy wel swijghet daer of</l>
+<lb n="12" xml:id="Gfvv.12"/><l n="G_I,15_0004"><hi rend="capitalsize1">So</hi> sult ghy hebben goeden lof</l>
+</lg>
+<lg type="disticha" n="I,16">
+<lb n="13" xml:id="Gfvv.13"/><l n="G_I,16_0001"><hi rend="capitalsize1">D</hi>ie wijle ghi sijt een ionghelinck</l>
+<lb n="14" xml:id="Gfvv.14"/><l n="G_I,16_0002"><hi rend="capitalsize1">S</hi>o doet so menich goet dinck</l>
+<lb n="15" xml:id="Gfvv.15"/><l n="G_I,16_0003">als dan naket uwe daghe</l>
+<lb n="16" xml:id="Gfvv.16"/><l n="G_I,16_0004"><hi rend="capitalsize1">D</hi>atmen ws te gode ghewaghe</l>
+</lg>
+<lg type="disticha" n="I,18">
+<lb n="17" xml:id="Gfvv.17"/><l n="G_I,18_0001"><hi rend="capitalsize1">A</hi>lst coemt dat ghi hebt ghenoech</l>
+<lb n="18" xml:id="Gfvv.18"/><l n="G_I,18_0002"><hi rend="capitalsize1">V</hi>an hauen houdt v in dit ghenoech</l>
+<lb n="19" xml:id="Gfvv.19"/><l n="G_I,18_0003"><hi rend="capitalsize1">W</hi>ant heden is die man rijcke</l>
+<lb n="20" xml:id="Gfvv.20"/><l n="G_I,18_0004"><hi rend="capitalsize1">S</hi>morghens staet hem commerlijcke</l>
+</lg>
+<lg type="disticha" n="I,21">
+<lb n="21" xml:id="Gfvv.21"/><l n="G_I,21_0001"><hi rend="capitalsize1">A</hi>ls ghi arm sijt van hauen</l>
+<lb n="22" xml:id="Gfvv.22"/><l n="G_I,21_0002"><hi rend="capitalsize1">E</hi>nde van rijckdommen beschauen</l>
+<lb n="23" xml:id="Gfvv.23"/><l n="G_I,21_0003"><hi rend="capitalsize1">B</hi>epeynst dat ghi hier te voren</l>
+<lb n="24" xml:id="Gfvv.24"/><l n="G_I,21_0004"><hi rend="capitalsize1">A</hi>rm ende naect waert gheboren</l>
+
+
+<pb xml:id="G.fvjr" n="vjr"/>
+</lg>
+<lg type="disticha" n="I,22">
+<lb n="1" xml:id="Gfvjr.1"/><l n="G_I,22_0001"><hi rend="capitalsize1">G</hi>hi sult niet keeren in dien</l>
+<lb n="2" xml:id="Gfvjr.2"/><l n="G_I,22_0002"><hi rend="capitalsize1">D</hi>at ghi die doot sult ontsien</l>
+<lb n="3" xml:id="Gfvjr.3"/><l n="G_I,22_0003"><hi rend="capitalsize1">W</hi>ant wie die doot ontsiet</l>
+<lb n="4" xml:id="Gfvjr.4"/><l n="G_I,22_0004"><hi rend="capitalsize1">H</hi>em en helpt sijn leuen niet</l>
+</lg>
+<lg type="disticha" n="I,19">
+<lb n="5" xml:id="Gfvjr.5"/><l n="G_I,19_0001"><hi rend="capitalsize1">H</hi>i is sotter dan een queken hoot</l>
+<lb n="6" xml:id="Gfvjr.6"/><l n="G_I,19_0002"><hi rend="capitalsize1">D</hi>ie hopet op eens anders doot</l>
+<lb n="7" xml:id="Gfvjr.7"/><l n="G_I,19_0003"><hi rend="capitalsize1">W</hi>ant beyde die lieden ionck ende out</l>
+<lb n="8" xml:id="Gfvjr.8"/><l n="G_I,19_0004"><hi rend="capitalsize1">S</hi>ijn haers leuens onghewout</l>
+</lg>
+<lg type="disticha" n="I,23">
+<lb n="9" xml:id="Gfvjr.9"/><l n="G_I,23_0001"><hi rend="capitalsize1">A</hi>l hebdy dat verdient</l>
+<lb n="10" xml:id="Gfvjr.10"/><l n="G_I,23_0002">dat ghi en behoeft gheenen vrient</l>
+<lb n="11" xml:id="Gfvjr.11"/><l n="G_I,23_0003"><hi rend="capitalsize1">D</hi>at en suldy God wijten niet</l>
+<lb n="12" xml:id="Gfvjr.12"/><l n="G_I,23_0004"><hi rend="capitalsize1">W</hi>ant hem is leet dat v misschiet.</l>
+</lg>
+<lg type="disticha" n="I,26">
+<lb n="13" xml:id="Gfvjr.13"/><l n="G_I,26_0001"><hi rend="capitalsize1">G</hi>hi sult v wachten doet ghi wale</l>
+<lb n="14" xml:id="Gfvjr.14"/><l n="G_I,26_0002"><hi rend="capitalsize1">T</hi>eghen hem te hebben tale</l>
+<lb n="15" xml:id="Gfvjr.15"/><l n="G_I,26_0003">die altoos sijn beuaen in dien</l>
+<lb n="16" xml:id="Gfvjr.16"/><l n="G_I,26_0004"><hi rend="capitalsize1">H</hi>oe si verradenisse mogen plien</l>
+</lg>
+<lg type="disticha" n="I,27">
+<lb n="17" xml:id="Gfvjr.17"/><l n="G_I,27_0001"><hi rend="capitalsize1">W</hi>acht die teghen v gebare</l>
+<lb n="18" xml:id="Gfvjr.18"/><l n="G_I,27_0002"><hi rend="capitalsize1">M</hi>innelijck als die voghelare</l>
+<lb n="19" xml:id="Gfvjr.19"/><l n="G_I,27_0003">die schoon pijpen ende blasen</l>
+<lb n="20" xml:id="Gfvjr.20"/><l n="G_I,27_0004">als die voghelkens verdwasen</l>
+</lg>
+<lg type="disticha" n="III,11">
+<lb n="21" xml:id="Gfvjr.21"/><l n="G_III,11_0001"><hi rend="capitalsize1">N</hi>a dat uwe tijden naken</l>
+<lb n="22" xml:id="Gfvjr.22"/><l n="G_III,11_0002"><hi rend="capitalsize1">S</hi>uldy uwe teringhe maken</l>
+<lb n="23" xml:id="Gfvjr.23"/><l n="G_III,11_0003"><hi rend="capitalsize1">E</hi>nde uwen cost meer noch min</l>
+<lb n="24" xml:id="Gfvjr.24"/><l n="G_III,11_0004"><hi rend="capitalsize1">N</hi>a dien dat ghi hebt ghewin.</l>
+
+
+<pb xml:id="G.fvjv" n="vjv"/>
+</lg>
+<lg type="disticha" n="IV,04">
+<lb n="1" xml:id="Gfvjv.1"/><l n="G_IV,04_0001"><hi rend="capitalsize1">G</hi>hi moghet tghelt minnen wel</l>
+<lb n="2" xml:id="Gfvjv.2"/><l n="G_IV,04_0002"><hi rend="capitalsize1">D</hi>oor nutschap ende niet el.</l>
+<lb n="3" xml:id="Gfvjv.3"/><l n="G_IV,04_0003"><hi rend="capitalsize1">M</hi>en seyt dat noyt heylich man</l>
+<lb n="4" xml:id="Gfvjv.4"/><l n="G_IV,04_0004"><hi rend="capitalsize1">E</hi>n leyden sinen sin daer an</l>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="5" xml:id="Gfvjv.5"/><l n="G_I,40_0001"><hi rend="capitalsize1">B</hi>eyde nemen ende gheuen</l>
+<lb n="6" xml:id="Gfvjv.6"/><l n="G_I,40_0002"><hi rend="capitalsize1">I</hi>s haer sede die nv wil leuen</l>
+<lb n="7" xml:id="Gfvjv.7"/><l n="G_I,40_0003"><hi rend="capitalsize1">M</hi>et eeren/sone doet also</l>
+<lb n="8" xml:id="Gfvjv.8"/><l n="G_I,40_0004"><hi rend="capitalsize1">S</hi>oo meuchdy blijde sijn ende vro.</l>
+</lg>
+<lg type="disticha" n="II,Pa">
+<lb n="9" xml:id="Gfvjv.9"/><l n="G_II,Pa_0001"><hi rend="capitalsize1">W</hi>ildy sone v daer toe keeren</l>
+<lb n="10" xml:id="Gfvjv.10"/><l n="G_II,Pa_0002"><hi rend="capitalsize1">V</hi>ergilius heuet beschreuen</l>
+<lb n="11" xml:id="Gfvjv.11"/><l n="G_II,Pa_0003">hoe die dorpers sullen leuen.</l>
+
+<note n="G_II,Pa_0004">Line_number 0004 is missing</note>
+</lg>
+<lg type="disticha" n="II,06">
+<lb n="12" xml:id="Gfvjv.12"/><l n="G_II,06_0001"><hi rend="capitalsize1">G</hi>hi sult die onmate vlien</l>
+<lb n="13" xml:id="Gfvjv.13"/><l n="G_II,06_0002"><hi rend="capitalsize1">M</hi>en seyt dats vroede plien</l>
+<lb n="14" xml:id="Gfvjv.14"/><l n="G_II,06_0003"><hi rend="capitalsize1">M</hi>ate te houden ende volghen hare</l>
+<lb n="15" xml:id="Gfvjv.15"/><l n="G_II,06_0004"><hi rend="capitalsize1">M</hi>ate/onmate is ongheware</l>
+</lg>
+<lg type="disticha" n="II,07">
+<lb n="16" xml:id="Gfvjv.16"/><l n="G_II,07_0001"><hi rend="capitalsize1">S</hi>egdy ws ghesellen daet</l>
+<lb n="17" xml:id="Gfvjv.17"/><l n="G_II,07_0002"><hi rend="capitalsize1">D</hi>ies hi hem schaemt dat is quaet</l>
+<lb n="18" xml:id="Gfvjv.18"/><l n="G_II,07_0003"><hi rend="capitalsize1">P</hi>eynst oft het v lief ware</l>
+<lb n="19" xml:id="Gfvjv.19"/><l n="G_II,07_0004"><hi rend="capitalsize1">D</hi>ie uwe schande maecte openbare</l>
+</lg>
+<lg type="disticha" n="II,08">
+<lb n="20" xml:id="Gfvjv.20"/><l n="G_II,08_0001"><hi rend="capitalsize1">S</hi>one en merckt die sonde niet</l>
+<lb n="21" xml:id="Gfvjv.21"/><l n="G_II,08_0002"><hi rend="capitalsize1">D</hi>iemen den quaden doen siet</l>
+<lb n="22" xml:id="Gfvjv.22"/><l n="G_II,08_0003"><hi rend="capitalsize1">W</hi>ant den tijt sal comen saen</l>
+<lb n="23" xml:id="Gfvjv.23"/><l n="G_II,08_0004"><hi rend="capitalsize1">D</hi>at zijs loon sullen ontfaen</l>
+</lg>
+<lg type="disticha" n="II,13">
+<lb n="24" xml:id="Gfvjv.24"/><l n="G_II,13_0001"><hi rend="capitalsize1">S</hi>one ick verbiede v nijdichede</l>
+
+
+<pb xml:id="G.fvijr" n="vijr"/>
+<lb n="1" xml:id="Gfvijr.1"/><l n="G_II,13_0002"><hi rend="capitalsize1">W</hi>ant si heuet quade sede</l>
+<lb n="2" xml:id="Gfvijr.2"/><l n="G_II,13_0003"><hi rend="capitalsize1">W</hi>ie datse draghet God weet</l>
+<lb n="3" xml:id="Gfvijr.3"/><l n="G_II,13_0004"><hi rend="capitalsize1">H</hi>em coemter af dat hem is leet</l>
+</lg>
+<lg type="disticha" n="III,16">
+<lb n="4" xml:id="Gfvijr.4"/><l n="G_III,16_0001"><hi rend="capitalsize1">G</hi>hy sult hebben vasten moet</l>
+<lb n="5" xml:id="Gfvijr.5"/><l n="G_III,16_0002"><hi rend="capitalsize1">W</hi>anneer men v onrecht doet</l>
+<lb n="6" xml:id="Gfvijr.6"/><l n="G_III,16_0003"><hi rend="capitalsize1">S</hi>o bidt den rechter dat hi dy</l>
+<lb n="7" xml:id="Gfvijr.7"/><l n="G_III,16_0004"><hi rend="capitalsize1">D</hi>oor uwen dienst behulpich si</l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="8" xml:id="Gfvijr.8"/><l n="G_II,21_0001"><hi rend="capitalsize1">D</hi>at v in dronckenschap gheschiet</l>
+<lb n="9" xml:id="Gfvijr.9"/><l n="G_II,21_0002"><hi rend="capitalsize1">D</hi>at en laet onghebetert niet</l>
+<lb n="10" xml:id="Gfvijr.10"/><l n="G_II,21_0003"><hi rend="capitalsize1">W</hi>anter af hier voren</l>
+<lb n="11" xml:id="Gfvijr.11"/><l n="G_II,21_0004"><hi rend="capitalsize1">V</hi>ernoy is comen ende toren</l>
+</lg>
+<lg type="disticha" n="II,17">
+<lb n="12" xml:id="Gfvijr.12"/><l n="G_II,17_0001"><hi rend="capitalsize1">A</hi>ls ghi hebt den cost meer</l>
+<lb n="13" xml:id="Gfvijr.13"/><l n="G_II,17_0002"><hi rend="capitalsize1">E</hi>nde teerens dan ghi hadt eer</l>
+<lb n="14" xml:id="Gfvijr.14"/><l n="G_II,17_0003"><hi rend="capitalsize1">S</hi>o spaert/ want saen ghelijdet</l>
+<lb n="15" xml:id="Gfvijr.15"/><l n="G_II,17_0004"><hi rend="capitalsize1">H</hi>auen diemen niet en mijdet.</l>
+</lg>
+<lg type="disticha" n="II,24">
+<lb n="16" xml:id="Gfvijr.16"/><l n="G_II,24_0001"><hi rend="capitalsize1">M</hi>erckt wel dat mach v deeren</l>
+<lb n="17" xml:id="Gfvijr.17"/><l n="G_II,24_0002"><hi rend="capitalsize1">B</hi>ewaert oft ghi moghet beweeren</l>
+<lb n="18" xml:id="Gfvijr.18"/><l n="G_II,24_0003"><hi rend="capitalsize1">H</hi>y is sot die comen siet</l>
+<lb n="19" xml:id="Gfvijr.19"/><l n="G_II,24_0004"><hi rend="capitalsize1">D</hi>at ongheual ende niet en vliet</l>
+</lg>
+<lg type="disticha" n="II,26">
+<lb n="20" xml:id="Gfvijr.20"/><l n="G_II,26_0001"><hi rend="capitalsize1">D</hi>ie wat heuet dat hem becoemt</l>
+<lb n="21" xml:id="Gfvijr.21"/><l n="G_II,26_0002"><hi rend="capitalsize1">H</hi>oudt hijt wel ick waent hem vroemt</l>
+<lb n="22" xml:id="Gfvijr.22"/><l n="G_II,26_0003">ghi is sot die in sijn hant heeft goet</l>
+<lb n="23" xml:id="Gfvijr.23"/><l n="G_II,26_0004"><hi rend="capitalsize1">E</hi>nde leyt dat onder sinen voet.</l>
+</lg>
+<lg type="disticha" n="II,28">
+<lb n="24" xml:id="Gfvijr.24"/><l n="G_II,28_0001"><hi rend="capitalsize1">S</hi>omwijlen sult ghi v goet</l>
+
+
+<pb xml:id="G.fvijv" n="vijv"/>
+<lb n="1" xml:id="Gfvijv.1"/><l n="G_II,28_0002"><hi rend="capitalsize1">S</hi>paren als die vroede doet</l>
+<lb n="2" xml:id="Gfvijv.2"/><l n="G_II,28_0003"><hi rend="capitalsize1">D</hi>ie soect altoos sulck ghelach</l>
+<lb n="3" xml:id="Gfvijv.3"/><l n="G_II,28_0004">hoe hi met eeren leuen mach</l>
+</lg>
+<lg type="disticha" n="II,29">
+<lb n="4" xml:id="Gfvijv.4"/><l n="G_II,29_0001"><hi rend="capitalsize1">G</hi>hi en sult alleene niet ontslaen</l>
+<lb n="5" xml:id="Gfvijv.5"/><l n="G_II,29_0002"><hi rend="capitalsize1">T</hi>recht dat langhe heeft ghestaen</l>
+<lb n="6" xml:id="Gfvijv.6"/><l n="G_II,29_0003"><hi rend="capitalsize1">D</hi>ie verwecket zijn ghebuere</l>
+<lb n="7" xml:id="Gfvijv.7"/><l n="G_II,29_0004">het wort hem dicwils al te suere</l>
+</lg>
+<lg type="disticha" n="III,01">
+<lb n="8" xml:id="Gfvijv.8"/><l n="G_III,01_0001"><hi rend="capitalsize1">S</hi>one leeret soo in uwen sin</l>
+<lb n="9" xml:id="Gfvijv.9"/><l n="G_III,01_0002">dat daer woone wijsheyt in</l>
+<lb n="10" xml:id="Gfvijv.10"/><l n="G_III,01_0003"><hi rend="capitalsize1">D</hi>ie met sonden leyt zijn leuen</l>
+<lb n="11" xml:id="Gfvijv.11"/><l n="G_III,01_0004">het is qualijcken met hem becleuen</l>
+</lg>
+<lg type="disticha" n="III,21">
+<lb n="12" xml:id="Gfvijv.12"/><l n="G_III,21_0001"><hi rend="capitalsize1">S</hi>one oft ghy vroet wilt sijn</l>
+<lb n="13" xml:id="Gfvijv.13"/><l n="G_III,21_0002"><hi rend="capitalsize1">S</hi>o therte in goeder maten dijn</l>
+<lb n="14" xml:id="Gfvijv.14"/><l n="G_III,21_0003">hi is sot diet sine verteert</l>
+<lb n="15" xml:id="Gfvijv.15"/><l n="G_III,21_0004"><hi rend="capitalsize1">E</hi>nde aenden vreemden hem gheneert</l>
+</lg>
+<lg type="disticha" n="III,21bis">
+<lb n="16" xml:id="Gfvijv.16"/><l n="G_III,21bis_0001"><hi rend="capitalsize1">L</hi>ieue sone wacht v dies</l>
+<lb n="17" xml:id="Gfvijv.17"/><l n="G_III,21bis_0002">dat ghi biddens niet en plies</l>
+<lb n="18" xml:id="Gfvijv.18"/><l n="G_III,21bis_0003"><hi rend="capitalsize1">I</hi>ck segt v hoet int lant steet</l>
+<lb n="19" xml:id="Gfvijv.19"/><l n="G_III,21bis_0004">die vele bidt hi wort leet</l>
+</lg>
+<lg type="disticha" n="III,22">
+<lb n="20" xml:id="Gfvijv.20"/><l n="G_III,22_0001"><hi rend="capitalsize1">D</hi>ie doot en sult ghi haten niet</l>
+<lb n="21" xml:id="Gfvijv.21"/><l n="G_III,22_0002">door een pijne die so pliet</l>
+<lb n="22" xml:id="Gfvijv.22"/><l n="G_III,22_0003"><hi rend="capitalsize1">D</hi>at si recht ouer die quade</l>
+<lb n="23" xml:id="Gfvijv.23"/><l n="G_III,22_0004">al coemt hi dicke te spade</l>
+</lg>
+<lg type="disticha" n="III,24">
+<lb n="24" xml:id="Gfvijv.24"/><l n="G_III,24_0001"><hi rend="capitalsize1">G</hi>hi sult met uwen sin allegader</l>
+
+
+<pb xml:id="G.fviiijr" n="viiijr"/>
+<lb n="1" xml:id="Gfviiijr.1"/><l n="G_III,24_0002"><hi rend="capitalsize1">E</hi>eren moeder ende vader</l>
+<lb n="2" xml:id="Gfviiijr.2"/><l n="G_III,24_0003"><hi rend="capitalsize1">G</hi>od seyt diese belghen doet</l>
+<lb n="3" xml:id="Gfviiijr.3"/><l n="G_III,24_0004">dat hem te pijne worden moet</l>
+</lg>
+<lg type="disticha" n="independent stanza">
+<lb n="4" xml:id="Gfviiijr.4"/><l n="G_independent stanza_0001"><hi rend="capitalsize1">S</hi>one dit is den besten schat</l>
+<lb n="5" xml:id="Gfviiijr.5"/><l n="G_independent stanza_0002">die ick hebbe ende om dat</l>
+<lb n="6" xml:id="Gfviiijr.6"/><l n="G_independent stanza_0003"><hi rend="capitalsize1">S</hi>o heet ick ende beuele dy</l>
+<lb n="7" xml:id="Gfviiijr.7"/><l n="G_independent stanza_0004">dat hy altoos met v si</l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="epilogue" xml:id="epilogue">
+<body>
+<p><lg type="disticha" n="epilogue">
+<lb n="8" xml:id="Gfviiijr.8"/><l n="G_epilogue_0001"><hi rend="capitalsize1">G</hi>hi goede lieden die dese reden</l>
+<lb n="9" xml:id="Gfviiijr.9"/><l n="G_epilogue_0002">hebt ghehoort doet v ghebeden</l>
+<lb n="10" xml:id="Gfviiijr.10"/><l n="G_epilogue_0003"><hi rend="capitalsize1">O</hi>otmoedelijck tot onsen heere</l>
+<lb n="11" xml:id="Gfviiijr.11"/><l n="G_epilogue_0004"><hi rend="capitalsize1">B</hi>idt hem dat hi v leere</l>
+<lb n="12" xml:id="Gfviiijr.12"/><l n="G_epilogue_0005"><hi rend="capitalsize1">E</hi>nde verlichten so uwen sin</l>
+<lb n="13" xml:id="Gfviiijr.13"/><l n="G_epilogue_0006"><hi rend="capitalsize1">D</hi>at daer woone wijsheyt in</l>
+<lb n="14" xml:id="Gfviiijr.14"/><l n="G_epilogue_0007"><hi rend="capitalsize1">D</hi>ie dit maeckte wten latijne</l>
+<lb n="15" xml:id="Gfviiijr.15"/><l n="G_epilogue_0008"><hi rend="capitalsize1">I</hi>n vlaemsche begeert te sine</l>
+<lb n="16" xml:id="Gfviiijr.16"/><l n="G_epilogue_0009"><hi rend="capitalsize1">I</hi>n v ghebeden vroech ende spade</l>
+<lb n="17" xml:id="Gfviiijr.17"/><l n="G_epilogue_0010"><hi rend="capitalsize1">B</hi>idt <hi rend="capitalsize1">G</hi>ode dat hi hem doe ghenade</l>
+
+<note n="G_epilogue_0011">Line_number 0011 is missing</note>
+
+<note n="G_epilogue_0012">Line_number 0012 is missing</note>
+
+<note n="G_epilogue_0013">Line_number 0013 is missing</note>
+
+<note n="G_epilogue_0014">Line_number 0014 is missing</note>
+
+<note n="G_epilogue_0015">Line_number 0015 is missing</note>
+<lb n="18" xml:id="Gfviiijr.18"/><l n="G_epilogue_0016"><hi rend="capitalsize1">F</hi>INIS.</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

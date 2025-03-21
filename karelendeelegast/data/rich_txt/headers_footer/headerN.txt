@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink.  Manuscript description based on Duinhoven, A. M. (1975). Bijdragen tot reconstructie van de Karel ende Elegast (Deel 1). Van Gorcum &amp; Comp. B.V.</p>
+            </publicationStmt>
+            <sourceDesc>
+ <msDesc>
+          <msIdentifier>
+            <settlement>Namur</settlement>
+            <institution>Bibliothèque de la Sociétié archéologique de Namur</institution>
+            <idno>196 B 19</idno>
+            <msName>N</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1r" to="23v"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="22"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="180"/>
+                              <width unit="mm" quantity="115"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>a-b8 c6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="33" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="150"/>
+                              <width unit="mm" quantity="80"/>
+                           </dimensions>
+         <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+         <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the folia are written in a littera textualis by two different hands</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>space for a 2-line lombard left blank; colour-stroking first letters, only on the second folio (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of two folia remain (possibly f.3 and f.15)</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="1375" notAfter="1400">1375-1400</origDate>
+<origPlace>Flanders</origPlace>
+</origin>
+</history>
+        </msDesc>
+            
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

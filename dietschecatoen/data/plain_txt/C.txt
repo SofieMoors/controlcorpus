@@ -1,0 +1,497 @@
+
+
+
+
+C_prologue_0045 DIt seide catoen en̄ spᵃc aldꝰ
+C_prologue_0046 Si deus est animus
+
+
+C_I,01_0001 Nu merct sone wat ic ghebiede
+C_I,01_0002 En̄ wat es dat ic di bediede
+C_I,01_0003 Dats dattu di dʼ ane salt keʼen
+C_I,01_0004 Dattu gode salt ēmer eeren
+
+
+C_I,02_0001 Du salt des maerghins vrouch vp staē
+C_I,02_0002 En̄ om dine bederue gaen
+C_I,02_0003 Mē seghet die te langhe slaept
+C_I,02_0004 Dat hē die slaep onduchtich maect
+
+
+C_I,03_0001 ¶ Wachti dat mē niet en seghet
+C_I,03_0002 Dat vele talē andi leghet
+C_I,03_0003 Mē seghet menegherande tale
+C_I,03_0004 Ne sittet niemene goedʼs wale
+
+
+C_I,04_0001 Sone doe alse die vroede doet
+C_I,04_0002 Die heuet ghestadelikē moet
+C_I,04_0003 Hets lachter dat een hier seghet
+C_I,04_0004 Laet dit en̄ hijs selue pleghet
+
+
+C_I,05_0001 ¶ Ne merke niem̄s quade daet
+C_I,05_0002 Dat vele merkē dat es quaet
+C_I,05_0003 Want en es man no wijf
+C_I,05_0004 Die sondʼ sonde leet sijn lijf
+
+
+C_I,06_0001 Houtstu oec dat yemē dert
+C_I,06_0002 Doet vā di hijs dom diet ghert
+C_I,06_0003 Ōme dat hē lettel vromē mach
+C_I,06_0004 Te doene dē liedē quaet ghelach
+
+
+C_I,07_0001 ¶ Eenradich in dijn ghedachte
+C_I,07_0002 Saltu wesē en̄ sachte
+C_I,07_0003 Hi es sot die sijn ghepeins
+C_I,07_0004 Dē liedē seghet hʼ en̄ gheyns
+
+
+
+
+
+C_I,08_0001 Gheloef niet alse dijn wijf tōrechte
+C_I,08_0002 Claghet ouʼ dine knechte
+C_I,08_0003 Want dʼ quadʼ wijf sijn ghenouch
+C_I,08_0004 Die smans vrient sijn tōgheuoch
+
+
+C_I,09_0001 Alstu nodes dinē vrient
+C_I,09_0002 Metti die di heuet ghedient
+C_I,09_0003 Al sprect hi dʼ ieghē hiet
+C_I,09_0004 Dʼ ōme saltune latē niet
+
+
+C_I,10_0001 ¶ Dune salt met talē no met sprakē
+C_I,10_0002 Ghescelt ieghē dē quade makē
+C_I,10_0003 Hen sit dē goedē mā niet wale
+C_I,10_0004 Ieghē hē te houdene tale
+
+
+C_I,11_0001 Minne die ghene die di minnē
+C_I,11_0002 Diē du welions laet hē bekīnē
+C_I,11_0003 Hijs sot die dʼ te dienste staet
+C_I,11_0004 Daert hē te scanden al vergaet
+
+
+C_I,12_0001 ¶ Niemarē en̄ achtre sprakē
+C_I,12_0002 Die de liedē te scande makē
+C_I,12_0003 Saltu scuwē ende laten
+C_I,12_0004 Wāt die hē volghet god salse hatē
+
+
+C_I,13_0001 Datmē di beheetē heeft
+C_I,13_0002 Eer die tijt comt dat mēt gheeft
+C_I,13_0003 Ne saltu niet beheetē vort
+C_I,13_0004 Wāt mē lieghet menich wort
+
+
+C_I,14_0001 ¶ Alse di jemene gheuet lof
+C_I,14_0002 Ne wes te blidʼe niet daer hof
+C_I,14_0003 Die vroede merct en̄ verstaet
+C_I,14_0004 Eer hi vā yemē lof ontfaet
+
+
+C_I,15_0001 Alse een andʼ mā doet wel
+C_I,15_0002 Dat onthout en̄ vertel
+C_I,15_0003 Alse du wel does zwigher of
+C_I,15_0004 So saltu hebbē goedē lof
+
+
+C_I,16_0001 ¶ Die wile dattu best ionghelinc
+C_I,16_0002 So doe so meneghe scone dinc
+C_I,16_0003 Dat alse di nakē dine daghe
+C_I,16_0004 Dat mē te goede dijns ghewaghe
+
+
+
+
+
+C_I,17_0001 Ne roeke di niet dat eenich man
+C_I,17_0002 Stillekine gherunē can
+C_I,17_0003 Want die quade waent des
+C_I,17_0004 Wat dat mē ruunt dat vā hē es
+
+
+C_I,18_0001 ¶ Al comt so dattu heues ghenouch
+C_I,18_0002 Hauen houti int gheuouch
+C_I,18_0003 Want hedē es de mā rike
+C_I,18_0004 En̄ marghin staet hē armelike
+
+
+C_I,20_0001 Sone alse di dijn arme vrient
+C_I,20_0002 Vā eere cleenre ghiftē dient
+C_I,20_0003 Wes blider dan di es te moede
+C_I,20_0004 En̄ danx hē met allē goede
+
+
+C_I,21_0001 ¶ Al bestu arem man vā hauen
+C_I,21_0002 En̄ vā rijchedē zeʼe bescauen
+C_I,21_0003 Bepeinsti dattu hier te vorē
+C_I,21_0004 Naect en̄ arem waers gheborē
+
+
+C_I,22_0001 Dune salti niet keʼen in diē
+C_I,22_0002 Dattu salt die doot ontsien
+C_I,22_0003 Want die de doot ontsiet
+C_I,22_0004 Hē en helpt sijn leuē niet
+
+
+C_I,19_0001 ¶ Hijs dulre dā een quekenoet
+C_I,19_0002 Die hopt vp andʼ mans doet
+C_I,19_0003 Wāt alle liedē ionc en̄ hout
+C_I,19_0004 Hebbē euē vele hʼs lijfs ghewout
+
+
+C_I,23_0001 Alstu heues dies vʼdient
+C_I,23_0002 Dattu en heues gheenē vrient
+C_I,23_0003 Dune salt dat gode witē niet
+C_I,23_0004 Wāt hē es leet datti messciet
+
+
+C_I,24_0001 ¶ Van diē dattu heues beweuē
+C_I,24_0002 Saltu vroedelike leuen
+C_I,24_0003 En̄ ēmer wes so ondʼsteken
+C_I,24_0004 Dat di niet en mach ghebrekē
+
+
+C_I,26_0001 Du salti wachtē doestu wale
+C_I,26_0002 Ieghē hē te houdene tale
+C_I,26_0003 Die altoes sijn in dien
+C_I,26_0004 Hoe si vʼradenesse moghē pliē
+
+
+
+
+
+C_I,27_0001 ¶ Wachti ieghē hē die ghebarē
+C_I,27_0002 Minlike want die voghelaren
+C_I,27_0003 Scone pipē ende blasen
+C_I,27_0004 Dʼ si die voghelkine met vʼdwasē
+
+
+C_I,28_0001 Alse du heues kindʼe sondʼ goet
+C_I,28_0002 So doe alse die vroede doet
+C_I,28_0003 Die sinē kindrē ambacht leert
+C_I,28_0004 Alst noot heuet dattʼ hē toe keert
+
+
+C_II,13_0001 ¶ Ic vʼbiedi nidichede
+C_II,13_0002 So heuet meneghe quade zede
+C_II,13_0003 Wie sose draghet god weet
+C_II,13_0004 Hi heeftre af dat hē mesteet
+
+
+C_II,14_0001 Du salt hebbē hardē moet
+C_II,14_0002 Wāneer dat mē di onrecht doet
+C_II,14_0003 Het sit wel elkē goeden man
+C_II,14_0004 Dat hi also doen can
+
+
+C_II,16_0001 ¶ Dune salt vā di goet no quaet
+C_II,16_0002 Segghē hoe dat metti staet
+C_II,16_0003 Want dies pleghet en̄ heuet in zedē
+C_II,16_0004 Mē merket al in dorpʼheden
+
+
+C_III,14_0001 Dune salt niet proeuē dine cracht
+C_III,14_0002 An dat di es vter macht
+C_III,14_0003 Dʼ leghet te prouuene lachtʼ an
+C_III,14_0004 Dat een ghedoē niet en can
+
+
+C_III,15_0001 ¶ Dʼ du weets ghedaē ondaet
+C_III,15_0002 Helestu dat du does quaet
+C_III,15_0003 Dat mē niet en segghe vā di
+C_III,15_0004 Ic wane hijs gheselle si
+
+
+C_III,21ter_0001 ¶ Datti dine vriende raden
+C_III,21ter_0002 Saltu in dinē sin bestadē
+C_III,21ter_0003 Hier naer alstuus te doene heues
+C_III,21ter_0004 Dattu raet di seluē gheues
+
+
+C_III,24_0001 ¶ Du salt met dinē sinne al gadʼ
+C_III,24_0002 Eeren moeder ende vader
+C_III,24_0003 God seghet diese belghē doet
+C_III,24_0004 Dat hē te pinē werde moet
+
+
+
+
+
+C_IV,02_0001 Sone doe alse die wise
+C_IV,02_0002 En̄ houti andi selue spise
+C_IV,02_0003 Dʼ du mede best gheuoet
+C_IV,02_0004 So mach dijn leuē sijn behoet
+
+
+C_IV,06_0001 ¶ Du salt vroe en̄ spade
+C_IV,06_0002 Staen naer dijns vadʼ rade
+C_IV,06_0003 Laetstuut het lachtrē dine dade
+C_IV,06_0004 En̄ oec maghet di wel comē te quade
+
+
+C_IV,16_0001 Alstu goet heues en̄ haue
+C_IV,16_0002 Du saltre di ghemac doē haue
+C_IV,16_0003 Wat helpet goet en̄ scat
+C_IV,16_0004 Dʼ niemē of en heuet te bat
+
+
+C_II,31_0001 ¶ Ne rouke di niet wat di droemt
+C_II,31_0002 Die ghene dinct mi dul dies goemt
+C_II,31_0003 Wāt dat die liedē sdaghes vʼhorē
+C_II,31_0004 Comt hē gherne snachts te vorē
+
+
+C_III,01_0001 Sone leere so dinen sin
+C_III,01_0002 Dattre wijsdom wone in
+C_III,01_0003 Want diere sondʼ leet sijn leuē
+C_III,01_0004 Hets qualike met hē beweuē
+
+
+C_III,20_0001 ¶ Alse dijn wijf vʼbolghen es
+C_III,20_0002 Dune salt niet achten des
+C_III,20_0003 Wat so seghet . wāt hare wort
+C_III,20_0004 Draghet die wint al vter port
+
+
+C_III,21_0001 Sone oftu vroet wilt sijn
+C_III,21_0002 So tere in goedʼ maten dijn
+C_III,21_0003 Hijs sot die tsijn tonmatē vʼtert
+C_III,21_0004 En̄ an die vremde hē ghenert
+
+
+C_III,21bis_0001 ¶ Lieue sone oec wachti dies
+C_III,21bis_0002 Dattu bidden niet en plies
+C_III,21bis_0003 Ic segdi hoet int lant nu steet
+C_III,21bis_0004 Die vele biddet hi es leet
+
+
+C_III,22_0001 DIe doot en saltu haten niet
+C_III,22_0002 Dor eene dinc die so pliet
+C_III,22_0003 Dats dat so recht ouʼ die quade
+C_III,22_0004 Al comt so dicwile te spade
+
+
+
+
+
+C_III,23_0001 ¶ Es dijn wijf vā rade vroet
+C_III,23_0002 Houtre di an hets di goet
+C_III,23_0003 Hets menich wijf die meer can
+C_III,23_0004 Vā vroedē rade dā sulc man
+
+
+C_IV,37_0001 Ne beheet di seluē niet
+C_IV,37_0002 Langhe te leuene wāt mēt ziet
+C_IV,37_0003 Deen man wandelē en̄ gaen
+C_IV,37_0004 Heden en̄ marghin eist ghedaē
+
+
+C_IV,38_0001 Du salt offerē gherne gode
+C_IV,38_0002 Wāt het segghē sine ghebode
+C_IV,38_0003 Die dor gode gherne gheuē
+C_IV,38_0004 Dat si met hē sullē leuē
+
+
+C_IV,39_0001 Daer du wanes hebbē tachter
+C_IV,39_0002 Strijtstu dʼ du heues lachter
+C_IV,39_0003 Want beter es wel woch ghegaē
+C_IV,39_0004 Dā qualike te stride ghestaē
+
+
+C_IV,40_0001 Alstu heues ghedaē mesdaet
+C_IV,40_0002 Castie di seluē dats mijn raet
+C_IV,40_0003 Wāt hets dē mā grote ghenade
+C_IV,40_0004 Die hē seluē vroet es in rade
+
+
+C_IV,41_0001 Al heuestu eenē houdē vrient
+C_IV,41_0002 Die di bi wilē heuet ghediēt
+C_IV,41_0003 Ne doemene niet wāt die vroede
+C_IV,41_0004 Ghedinct wel vā dē houdē goede
+
+
+C_IV,43_0001 ¶ Bloetheit te vliene en̄ wesē coene
+C_IV,43_0002 Sit dē goedē man wel te doene
+C_IV,43_0003 Wāt eer die blode heuet noet
+C_IV,43_0004 Seit hi hi wilde wesē doet
+
+
+C_IV,44_0001 Al heuestu dierne en̄ knechte
+C_IV,44_0002 Ghecocht nochtā merc bi rechte
+C_IV,44_0003 Dat si sijn liedē alse du
+C_IV,44_0004 Alse staen si te dienste nv
+
+
+C_IV,45_0001 ¶ Alstu ghedincs in dinē moet
+C_IV,45_0002 Hoe dat wilē metti stoet
+C_IV,45_0003 Dune salti keʼen niet in diē
+C_IV,45_0004 Dattu dat selue willes plien
+
+
+
+
+
+C_IV,46_0001 Al es es een man bedocht so spade
+C_IV,46_0002 Dat hi steruet bi bosen rade
+C_IV,46_0003 Mercstu dattu does quaet
+C_IV,46_0004 Dune weets eerst hoet metti vʼgaet
+
+
+C_IV,47_0001 ¶ Al heuestu wijf en̄ lettel goet
+C_IV,47_0002 Ne dincke niet in dinē moet
+C_IV,47_0003 Vrec te sine en̄ quaet
+C_IV,47_0004 Wāt grote haue saen vʼgaet
+
+
+C_IV,48_0001 Vviltu connē en̄ leeren
+C_IV,48_0002 Vele so saltu di be keʼen
+C_IV,48_0003 Vroedelike an minē leere
+C_IV,48_0004 Doestuut di comtre af groet eʼe
+
+
+C_IV,27_0001 ¶ Du salt leerē en̄ weder leʼen
+C_IV,27_0002 En̄ an die vroetheit di bekeʼen
+C_IV,27_0003 Al can een vroetheit diere af staet
+C_IV,27_0004 Soe teglijt en̄ te gaet
+
+
+C_IV,28+IV,25_0001 Al becomt di een mēsche wele
+C_IV,28+IV,25_0002 Dune saltene prisen niet te vele
+C_IV,28+IV,25_0003 Of hi di noch doet quade trekē
+C_IV,28+IV,25_0004 Dattune met eerē macht vʼsprekē
+
+
+C_IV,29_0001 ¶ Alstu twifeles jewerē of
+C_IV,29_0002 Leerdstu dattu heues lof
+C_IV,29_0003 Die niet en can en̄ niet en leert
+C_IV,29_0004 Hi es an bosē raet ghekeert
+
+
+C_IV,30_0001 Dronckē te sine vā wine
+C_IV,30_0002 En̄ in hoerdome te sine
+C_IV,30_0003 Dʼ af en comt andʼ recht
+C_IV,30_0004 Dā als strijt en̄ ghevecht
+
+
+C_IV,31_0001 ¶ Die ghene die zwighē en̄ lettel sprekē
+C_IV,31_0002 Si conē vele quadʼ trekē
+C_IV,31_0003 Men seit die vloet die stille staet
+C_IV,31_0004 Soe es diepʼ dā die harde gaet
+
+
+C_IV,32_0001 Alse dijn gheluc gheuet min
+C_IV,32_0002 Dan du ghers in dinē sin
+C_IV,32_0003 Mercstu dā du best onvroet
+C_IV,32_0004 Eens anders haue en̄ sijn goet
+
+
+
+
+
+C_IV,33+Bouc van seden_0001 ¶ Dattu macht doen doe dat
+C_IV,33+Bouc van seden_0002 Wilstu meer du werds mat
+C_IV,33+Bouc van seden_0003 Hijs sot die vordʼ hē wille streckē
+C_IV,33+Bouc van seden_0004 Dā sine cleedre hē moghē reckē
+
+
+C_IV,34_0001 Ieghē dē goedē enten rechtē
+C_IV,34_0002 Ne saltu striden vechtē
+C_IV,34_0003 Eene dinc es die god ghʼne wreect
+C_IV,34_0004 Datmē sinē vrient vʼspreect
+
+
+C_IV,35_0001 ¶ Al bestu arem en̄ sondʼ haue
+C_IV,35_0002 Ne wes te zeerich niet dʼ aue
+C_IV,35_0003 Die vroede merct en̄ vʼstaet
+C_IV,35_0004 Dat haue comt en̄ te gaet
+
+
+C_IV,36_0001 Hets vʼnoy en̄ groot toren
+C_IV,36_0002 Alse jemene heuet lāghe te vorē
+C_IV,36_0003 Ontspaert en̄ hē een ongheual
+C_IV,36_0004 Doet dat ghewin vʼliesen al
+
+
+C_IV,17_0001 ¶ Oftu wilt datmen te quade
+C_IV,17_0002 Niet vʼtelle dine dade
+C_IV,17_0003 So doe so vele alse du leues
+C_IV,17_0004 Alstu best doot dattu prijs heues
+
+
+C_IV,18_0001 Dune salt sone mettē houdē
+C_IV,18_0002 Weder scop no sceerē houdē
+C_IV,18_0003 Wāt so die oude langher leuet
+C_IV,18_0004 So hi dʼ wijshedē min heuet
+
+
+C_IV,19_0001 ¶ Vare so dattu werds vroet
+C_IV,19_0002 Doetstu dit hets di goet
+C_IV,19_0003 Wāneer so di tgheluc ontgaet
+C_IV,19_0004 Datti die wijsheit bi staet
+
+
+C_II,Pc_0001 Sone wiltu di dies bewindē
+C_II,Pc_0002 Dattu ghevecht wilt ondʼvindē
+C_II,Pc_0003 Doe minē raet en̄ les lucane
+C_II,Pc_0004 Hi salre di wel bringhē ane
+
+
+C_II,Pd_0001 ¶ Wiltu oec leerē wat si minnē
+C_II,Pd_0002 En̄ mīne doen in dinē sinne
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+C_II,Pb_0003 Maser heuet bescreuē al
+C_II,Pb_0004 Wat men dʼ toe pleghē sal
+
+
+
+
+
+C_IV,20_0001 ¶ Wat so segghē ofte werkē
+C_IV,20_0002 Die liedē ne saltu niet merkē
+C_IV,20_0003 Stillekine wāt bidʼ tale
+C_IV,20_0004 Machmē dē mā kennē wale
+
+
+C_IV,48_0001 ¶ Vviltu connē en̄ leeren
+C_IV,48_0002 Vele so saltu di be keeren
+C_IV,48_0003 Vroedelike an mine leere
+C_IV,48_0004 Doestut di comtre af groot eere
+
+
+C_independent stanza_0001 ¶ Sone dits die beste scat
+C_independent stanza_0002 Die ic hebbe en̄ ōme dat
+C_independent stanza_0003 Heetic en̄ beuele di
+C_independent stanza_0004 Datti ēmer metti si
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+Line_number 0005 is missing
+
+Line_number 0006 is missing
+C_epilogue_0007 ¶ Die dit maecte van latine
+C_epilogue_0008 In dietsch hi beghert te sine
+C_epilogue_0009 Iuwe ghebede vroe en̄ spade
+C_epilogue_0010 Bidt gode dat hi hē doe ghenade.
+

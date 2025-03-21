@@ -1,0 +1,464 @@
+
+
+
+
+D_title_0001 ¶ Den duytschen Cathoen.
+
+
+D_prologue_0001 DIe ghene die in harē sinne
+D_prologue_0002 Draghē waerlike minne
+D_prologue_0003 Si maken daer of rijm ende liet
+D_prologue_0004 Der minnē so en draghe ic niet
+D_prologue_0005 Want mi es al dat verghaen
+D_prologue_0006 Datter minnē mach bestaen
+D_prologue_0007 Ter wilen doen ic minne droech
+D_prologue_0008 Als ic die minne sach ick loech
+D_prologue_0009 Nv haet icse al in minen sinnē
+D_prologue_0010 Die minne draghē en̄ minnē
+D_prologue_0011 En̄ heb gheleert in minen moet
+D_prologue_0012 Aen die ghene die sijn vroet
+D_prologue_0013 Eer ict dede seide een mij̄ vrient
+D_prologue_0014 Geselle die ter tijt wijsheit dient.
+D_prologue_0015 Dat hijs beteren loen ontfaet
+D_prologue_0016 Dan die ter minnē dienste staet
+D_prologue_0017 Hier om heb ic des begonnen
+D_prologue_0018 Si hebbē onrecht des mi vʼgonnen
+D_prologue_0019 Nv bidt alle met mi te gode
+D_prologue_0020 Dat hi mi sende sinen bode
+
+
+
+D_prologue_0021 Die mij wise ende leere
+D_prologue_0022 Hoe ic mi ter wijsheit keere
+D_prologue_0023 Alle die vroet willen wesen
+D_prologue_0024 Een boeck is dat die clerckē lesen
+D_prologue_0025 Als si eerst ter scolen gaen
+D_prologue_0026 Die hē wijsheyt doet verstaen
+D_prologue_0027 Vele meer dan eenich doet
+D_prologue_0028 Hier om peynse ic in minē moet
+D_prologue_0029 Dat icker v bi wille leren
+D_prologue_0030 Hoe ghi v herte sult bekerē
+D_prologue_0031 Ter vroetheit nv merct dan
+D_prologue_0032 Wien maecte het woēde een man
+D_prologue_0033 Te romen wijlen eer
+D_prologue_0034 Die der wijsheit wiste meer.
+D_prologue_0035 Dan yemant die leeft nv
+D_prologue_0036 Hi hiet Cathoen dat seg ic v
+D_prologue_0037 Die hadde een kint dat hiet also
+D_prologue_0038 Al dat hi dede des was hy vro
+D_prologue_0039 Alst metten kinde was vergaen
+D_prologue_0040 Dat mocht onthouden saen.
+
+
+
+D_prologue_0041 Riep hi ende sprac tot hem
+D_prologue_0042 Men seyt sone dat ic ben
+D_prologue_0043 Wijs vroet nv merct dan
+D_prologue_0044 Ick sal v leren dat ic kan
+D_prologue_0045 Doen seide hi en̄ begonst aldus
+D_prologue_0046 Si deus est animus.
+
+
+D_I,01_0001 Nv merct sone wat ic v ghebiede
+D_I,01_0002 En̄ wat is dat ic v bediede
+D_I,01_0003 Dattu di daer aen sout keren
+D_I,01_0004 Dattu gode sout emmer eren
+
+
+D_I,02_0001 Du soutst smorgēs vroe opstaen
+D_I,02_0002 En̄ om dine bederue gaen
+D_I,02_0003 Men seit die te langhe slaept
+D_I,02_0004 Dat hē die slaep onduchtich maect
+
+
+D_I,03_0001 Wachti datmen niet en seyt
+D_I,03_0002 Dat vele talen aen di leyt
+D_I,03_0003 Want menigerhāde tale
+D_I,03_0004 Voeghet nyemāt goeders wale
+
+
+D_I,04_0001 Sone doet als die vroede doet
+D_I,04_0002 Die heeft gestadeliken moet
+
+
+
+D_I,04_0003 Mē lachtert dat een hier segget
+D_I,04_0004 Des hi ghinder niet en pleghet
+
+
+D_I,07_0001 Eenradich ende sachte
+D_I,07_0002 Souts sijn in dijn gedachte.
+D_I,07_0003 Hi is sot die dijn ghepeyns
+D_I,07_0004 Die lieden seit hier en̄ ghens
+
+
+D_I,05_0001 Mercke nyemāts quade daet
+D_I,05_0002 Wāt vele merckēs is quaet
+D_I,05_0003 Beyde en is man noch wijf
+D_I,05_0004 Die sonder sonde leit sijn lijf.
+
+
+D_I,06_0001 Houtu oec dat yemant deert
+D_I,06_0002 Doet vā di hi is sot dies begeert
+D_I,06_0003 Om dat luttel helpen mach
+D_I,06_0004 Te doen den lieden quaet ghelach.
+
+
+D_I,08_0001 Gheloeft niet dijn wijf tonrechte
+D_I,08_0002 Als si claget ouer dine knechte
+D_I,08_0003 Quader wijuen sijn genoech
+D_I,08_0004 Die dicke maken ongeuoech.
+
+
+D_I,10_0001 Du en selt niet talen noch sprekē
+D_I,10_0002 Gheschel teghē die quade makē
+
+
+
+D_I,10_0003 Want van lichteliker chosen
+D_I,10_0004 Comen dicke grote nosen
+
+
+D_I,11_0001 Minne dē ghene die di minnē
+D_I,11_0002 Die di wel doet laet hē bekennē
+D_I,11_0003 Hi is sot die te dienste staet
+D_I,11_0004 Daert hē tscanden al vergaet.
+
+
+D_I,12_0001 Nyemare en̄ achterspraken
+D_I,12_0002 Die de lieden tscanden maken.
+D_I,12_0003 Soudu scuwen ende haten
+D_I,12_0004 Die haer volgē sijn verwaten
+
+
+D_I,13_0001 Datmen di beheten heeft
+D_I,13_0002 Eer die tijt comt datmēt gheeft
+D_I,13_0003 En saltu niet beheten voort
+D_I,13_0004 Wātmen lieghet vele voort
+
+
+D_I,14_0001 Als di yemāt gheeft lof
+D_I,14_0002 Wes te blijder niet daer of
+D_I,14_0003 Die vroede merct en̄ verstaet
+D_I,14_0004 Eer hi van yemant lof ontfaet
+
+
+D_I,16_0001 Die wile du bist iongelinc
+D_I,16_0002 Doet so menighe goede dinc
+
+
+
+D_I,16_0003 Als di naken dine daghen
+D_I,16_0004 Datmē di te goede ghewaghe
+
+
+D_I,17_0001 En roeke niet wat enich man
+D_I,17_0002 Stillekine gheruynen can
+D_I,17_0003 Want die quade wanet des
+D_I,17_0004 Watmē ruynt die van hem es
+
+
+D_I,18_0001 Alstu heues ghenoech
+D_I,18_0002 Hauen houti int gheuoech
+D_I,18_0003 Heden is die man rijcke
+D_I,18_0004 Morghe staet hē commerlijcke.
+
+
+D_I,20_0001 Als dy sone dijn arme vrient
+D_I,20_0002 Van cleynder giften dient.
+D_I,20_0003 Wes blider dan di is te moede
+D_I,20_0004 En̄ danckes hē met allen goede.
+
+
+D_I,22_0001 Du en soutstu kerē niet in dien
+D_I,22_0002 Dattu die doot sout ontsien
+D_I,22_0003 Want wie die doot ontsiet
+D_I,22_0004 En helpt sijn leuen niet
+
+
+D_I,19_0001 Hy is sotter dan een queken hoot
+D_I,19_0002 Die hoept op eens anders doot.
+
+
+
+D_I,19_0003 Want alle lieden ionck ende out
+D_I,19_0004 Sijn haers leuēs onghewout.
+
+
+D_I,23_0001 Alstu heues des verdient
+D_I,23_0002 Dattu hebs ghenen vrient
+D_I,23_0003 Dan soutu gode witen niet
+D_I,23_0004 Hem is leet datti messchiet
+
+
+D_I,24_0001 Van dattu hebs beweuen
+D_I,24_0002 Soutu vroedelike leuen
+D_I,24_0003 En̄ wes also ondersteken
+D_I,24_0004 Datti niet en mach ghebreken
+
+
+D_I,28_0001 Hebstu kinder sonder goet
+D_I,28_0002 So doet als die vroede doet
+D_I,28_0003 Die hem een ambacht leert
+D_I,28_0004 Alst noot heeft datter hē an keert
+
+
+D_I,29_0001 Dattu lief hebste en saltu niet
+D_I,29_0002 Te seer minnen is oec yet
+D_I,29_0003 Dattu hates soutstu haten
+D_I,29_0004 Niet te seer mer te maten
+
+
+D_II,12_0001 Dat god wil doen metti
+D_II,12_0002 Laet hem geworden wat si
+
+
+
+D_II,12_0003 Du en waers te raden niet
+D_II,12_0004 Daer hi di sciep en̄ wesen hiet.
+
+
+D_I,33_0001 Na datti dine tijde naken
+D_I,33_0002 Soutstu dine teere maken
+D_I,33_0003 En̄ dinen cost meer noch min
+D_I,33_0004 Na dattu heues ghewin
+
+
+D_II,06_0001 Du soutst ommate vlien
+D_II,06_0002 Mē seit dats die vroede plien
+D_II,06_0003 Hout mate en̄ volget hare
+D_II,06_0004 Wāt ommate is ongheware
+
+
+D_II,07_0001 Seggestu dijn ghesellen dat
+D_II,07_0002 Des hi hē scaemt dats quaet
+D_II,07_0003 Peynst oft di lief ware
+D_II,07_0004 Die dijn scande maecte ware
+
+
+D_II,17_0001 Alstu heues cost meer
+D_II,17_0002 En̄ terens dan du hads eer
+D_II,17_0003 Spare want saen glidet
+D_II,17_0004 Haue diemen niet en midet.
+
+
+D_II,21_0001 Datti in dronckenscap gheschiet
+D_II,21_0002 En laet onghebetert niet.
+
+
+
+D_II,21_0003 Want daer af hier te voren
+D_II,21_0004 Vernoy is comen en̄ toren.
+
+
+D_I,40_0001 Beyde nemen ende gheuen
+D_I,40_0002 Is haer sede die nv leuen
+D_I,40_0003 Met eren sone doet also
+D_I,40_0004 So machtu blijde sijn en̄ vro
+
+
+D_II,Pa_0001 Wiltu dy sone daer toe keren
+D_II,Pa_0002 Dattu dorpers sede wilt leren
+D_II,Pa_0003 Virgilius heuet al bescreuen
+D_II,Pa_0004 Hoe die dorpers sullen leuen.
+
+
+D_II,Pb_0001 Wiltu leeren medicijne
+D_II,Pb_0002 En̄ vroet arsater te sijne.
+D_II,Pb_0003 Macer heuet bescreuen al
+D_II,Pb_0004 Watmen daer toe pleghē sal
+
+
+D_II,Pc_0001 Wiltu des onderwinden
+D_II,Pc_0002 Dattu geuechs wilt bewinden
+D_II,Pc_0003 Doet minen raet les lucane
+D_II,Pc_0004 Hi salder wel brenghē ane
+
+
+D_II,Pd_0001 Wiltu weten wat si minnen
+D_II,Pd_0002 En̄ minne doen in minen sinnē.
+
+
+
+D_II,Pd_0003 Ouidius leert di also
+D_II,Pd_0004 Hoe du vā minnē wordes vro
+
+
+D_II,24_0001 Mercke wel datti mach deren
+D_II,24_0002 Bewert oftu mach beweren
+D_II,24_0003 Hi is sot die comen siet
+D_II,24_0004 Dongheual en̄ niet en vliet
+
+
+D_II,22_0001 Kiest enen die du mach makē
+D_II,22_0002 Cont dine verholen saken.
+D_II,22_0003 Bistu sieck kiest eenen man
+D_II,22_0004 Die best van arsatarien can
+
+
+D_III,01_0001 Sone lere so in dinen sin
+D_III,01_0002 Datter wone wijsheit in
+D_III,01_0003 Die daer sonder leit sijn leuen
+D_III,01_0004 Hets qualic met hem beweuen.
+
+
+D_III,Pb_0001 Houti sone na minen lere
+D_III,Pb_0002 Doetstuut di comter af eere
+D_III,Pb_0003 Laetstuut oec hets mi gast
+D_III,Pb_0004 En̄ metti salt wesen vast
+
+
+D_III,02_0001 Die goeder voeren pleghet
+D_III,02_0002 Derf niet roeken watmē seghet.
+
+
+
+D_III,02_0003 Hi en darf doer nyemāts tale
+D_III,02_0004 Quaet doen wilstu selue wale
+
+
+D_III,03_0001 Alstu gheropen bist te rade
+D_III,03_0002 So en bedenct di niet te spade
+D_III,03_0003 Du en beters dijn gesellen daet
+D_III,03_0004 Van alle des dy ane gaet
+
+
+D_III,08_0001 Datti te deele beuallen es
+D_III,08_0002 Hout dat ende wachti des
+D_III,08_0003 Datmē niet en seit waer hij gaet
+D_III,08_0004 Die tsine verdede met quader daet
+
+
+D_III,10_0001 Als di yemant gheeft raet
+D_III,10_0002 Hi en sal di niet dunckē quaet
+D_III,10_0003 Hi is sot die raet ontseyt
+D_III,10_0004 So wien gaf daer doghet an leyt.
+
+
+D_III,14_0001 En proeft niet dine cracht
+D_III,14_0002 Aen datti is tot uwer macht
+D_III,14_0003 Daer is te prouen lachter an
+D_III,14_0004 Dat een ghedoen niet en can
+
+
+D_III,16_0001 Alstu verstaet in dinen moet
+D_III,16_0002 Datmen di onrecht doet
+
+
+
+D_III,16_0003 Bidt den rechter dat hi di
+D_III,16_0004 Om dinen dienst behulpich si
+
+
+D_III,19_0001 Alstu etes wacht v dies
+D_III,19_0002 Dattu te vele niet en plies
+D_III,19_0003 Te spreken wiet heeft in seden
+D_III,19_0004 Men mercket al in dorperhedē
+
+
+D_IV,13_0001 Als di vernoy toe gaet
+D_IV,13_0002 Soect an dine vrienden raet
+D_IV,13_0003 Die vrient die trouwe heeft
+D_IV,13_0004 Is die beste troest die leeft
+
+
+D_IV,16_0001 Als du goet hebste en̄ haue
+D_IV,16_0002 Neemt v ghemack daer aue
+D_IV,16_0003 Wat helpt goet ende scat
+D_IV,16_0004 Des nyemant en heeft te bat
+
+
+D_II,19_0001 Hoerdom is een quade sede
+D_II,19_0002 En̄ vreck tsine/daer mede
+D_II,19_0003 Dese twe soutstu scuwen
+D_II,19_0004 Wāt si vele souden brouwē
+
+
+D_III,24_0001 Du sult met dinen sin algader
+D_III,24_0002 Eeren moeder ende vader.
+
+
+
+D_III,24_0003 God seit diese belghen doet
+D_III,24_0004 Dat hē te pine worden moet
+
+
+D_IV,24_0001 Te vele eten en̄ drincken
+D_IV,24_0002 Soutstu scuwen ende denckē
+D_IV,24_0003 Wie hē hout an dit ghelaghe
+D_IV,24_0004 Hi corter mede sine daghe
+
+
+D_III,20_0001 Als dijn wijf verbolghen es
+D_III,20_0002 En wilt niet roeken des
+D_III,20_0003 Wat si seyt want haer woert
+D_III,20_0004 Waeyt die wint wter poert
+
+
+D_III,13_0001 Doet yemant wel wie hi sy
+D_III,13_0002 Neemter goet exempel bi
+D_III,13_0003 Doet yemāt quaet saltu vlien
+D_III,13_0004 En laetne sijnre quaetheit plien
+
+
+D_II,26_0001 Die heeft dat hem becoemt
+D_II,26_0002 Hout hi ic waent hem vroemt
+D_II,26_0003 Hi is sot die heeft goet
+D_II,26_0004 En̄ leghet onder sine voet
+
+
+D_II,18_0001 Constu di gheueynsen vroet
+D_II,18_0002 Het soudi dicke wesen goet
+
+
+
+D_II,18_0003 Die vroede man winter an
+D_II,18_0004 Dicke dat hi hem veysen can
+
+
+D_I,27_0001 Wachti ieghen die ghebare
+D_I,27_0002 Minlick als die voghelare
+D_I,27_0003 Die scone pipen en̄ blasen
+D_I,27_0004 Als si die vogelkijns vʼdwasen
+
+
+D_III,12_0001 Wachti als bi dinen liue
+D_III,12_0002 Dattu gheen wijf te wiue
+D_III,12_0003 En nemes du en kentse wel
+D_III,12_0004 Wāt der wiuen sijn vele fel
+
+
+D_independent stanza_0001 Sone dits den besten scat
+D_independent stanza_0002 Die ick hebbe ende om dat.
+D_independent stanza_0003 Heet ic ende beuele di
+D_independent stanza_0004 Datti altoes met di si
+
+
+D_epilogue_0001 Goede lieden die dese tale
+D_epilogue_0002 Hebt ghehoort alte male
+D_epilogue_0003 Doet v ghebede deuotelike
+D_epilogue_0004 Tot gode van hemelrike
+D_epilogue_0005 Dat hi verlichte uwen sin
+D_epilogue_0006 Datter wone wijsheit in
+
+
+
+D_epilogue_0007 Die dit maecte vten latine
+D_epilogue_0008 In duytsche hi begheerde te sine
+D_epilogue_0009 In v ghebede vroe en̄ spade
+D_epilogue_0010 Bidt gode dat hi v doe ghenade
+
+Line_number 0011 is missing
+
+Line_number 0012 is missing
+
+Line_number 0013 is missing
+
+Line_number 0014 is missing
+
+Line_number 0015 is missing
+D_epilogue_0016 AMEN
+
+
+D_approbation_0001 ¶ Dit boecxken es gheprent Tantwerpen Binnen die cāmerpoerte. By my Henrick eckert vā hōberch
+

@@ -1,0 +1,45 @@
+
+F_KE_0400 Soe dat die coninc was in vare
+F_KE_0401 Ende waende dat die duuel ware
+F_KE_0402 Hi sloech ten swerten opten schilt
+F_KE_0403 Dien hi manlic voer hem hilt
+F_KE_0404 Datti in tween stucken vloech
+F_KE_0405 Oft ware een linden loef
+F_KE_0406 Die swerte sloech den coninc weder
+F_KE_0407 Die swerde ghinghen op ende neder
+F_KE_0408 Opten helme op die maelgien
+F_KE_0409 Datter menich moeste faelgien
+F_KE_0410 Daer ē was halsberch gheē so goet
+F_KE_0411 Daer en dranc dore dat bloet
+F_KE_0412 Doer die maelgien vter huut
+F_KE_0413 Daer van sloghen groet gheluut
+F_KE_0414 Die spaenderē vādē scilt dʼ vloghen
+F_KE_0415 Die helmē op haer hoeft die boghē
+F_KE_0416 En̄ ontfinghen scaerde en̄ vlegghē
+F_KE_0417 Soe scarp warē der swaerdē egghē
+
+
+
+F_KE_0418 DIe coninc peynsde in sinē moet
+F_KE_0419 Dese es te wapene goet
+
+Line_number 0420 is missing
+
+Line_number 0421 is missing
+F_KE_0422 Sal ic liden mijns namen
+F_KE_0423 Ic souts mi ewelic scamen
+F_KE_0424 Nemmermeer en ghecreech ic eere
+F_KE_0425 Doe sloech hi enen slach soe seere
+F_KE_0426 Opten swaerten die voer hem hielt
+F_KE_0427 Dat hien manlic hadde gheuelt
+F_KE_0428 Ende vanden ors tumelen dede
+F_KE_0429 Tusschē hem beidē was ghene vrede
+F_KE_0430 Ende die swaerte sloech optē heere
+F_KE_0431 Ende sloech enen slach soe seere
+F_KE_0432 Opten helm dat hi boech
+F_KE_0433 Ende swaert in twe stucken vloech
+F_KE_0434 Soe anxtelic was die slach
+F_KE_0435 Als dat die swerte sach
+F_KE_0436 Datti sijn swaert had verloren
+F_KE_0437 Tfy was ic ye gheboren
+

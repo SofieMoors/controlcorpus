@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000004287; https://www.handschriftencensus.de/14197; Meuwese, M.L. (2001). Beeldend vertellen. De verluchte handschriften van Jacob van Maerlants Rijmbijbel en Spiegel Historiael, Diss. Leiden, pp. 151-154 and Hutter, M. (2023). Inventaris van de Rijmbijbel-handschriften. In B. Caers and J. Pauwels (Eds). De Rijmbijbel van Jacob van Maerlant. Het oudste geïllustreerde handschrift in het Nederlands. Amsterdam: Amsterdam University Press, pp. 13-16.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>London</settlement>
+            <institution>British Library</institution>
+            <idno>Add. 10044</idno>
+            <msName>K</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="" to="210v"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="210"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="295"/>
+                              <width unit="mm" quantity="250"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="40" ruledLines="40">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="230"/>
+                              <width unit="mm" quantity="145"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Rhymed Bible is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>one miniature on the first folio; lombardic capitals (red and blue); initials; titels</decoNote></decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1370-1385</origDate>
+<origPlace>Northern Netherlands</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group>

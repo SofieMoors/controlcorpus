@@ -1,0 +1,434 @@
+
+
+
+
+H_title_0001 Hier volget dē dutschē cathoē
+
+
+H_prologue_0001 DIe ghene die in harē sinnē
+H_prologue_0002 draghē waerlicke mīnē
+H_prologue_0003 Si makē daer op rym en̄ liet
+H_prologue_0004 Der minnē en drage ick niet
+H_prologue_0005 Daer om eest mij al vʼgaē
+H_prologue_0006 Dat der minnē mach bestaē
+H_prologue_0007 Die wijle doe ick mīne droech
+H_prologue_0008 Als ick die mīnen sach ick loech
+H_prologue_0009 Nu haet icse in minē sinne
+H_prologue_0010 Die minnē dragē en̄ die mīnen
+H_prologue_0011 En̄ heb gekeer al mynē moet
+H_prologue_0012 Aen die ghene die syn vroet
+H_prologue_0013 Eer ick dit dede seyde eē myn vriēt
+H_prologue_0014 Geselle die der wysheit diēt
+H_prologue_0015 Dat hij des beter loē ōtfaet
+H_prologue_0016 Dan die ter mijnē diēste staet
+H_prologue_0017 Hier om soe hebbe ick des begonnē
+H_prologue_0018 Si hebbē onrecht diet mȳ vʼgōnē
+H_prologue_0019 NV bidt alle met mij̄ te gode
+H_prologue_0020 Dat hij mij seynde syn gebode
+H_prologue_0021 Die mij wys̄ en̄ leerē
+H_prologue_0022 Dat ick myn ter wijsheijt kerē
+H_prologue_0023 Allē die vroet willē wesen
+H_prologue_0024 Een boec is dat die clerikē lerē
+H_prologue_0025 Als sij eerst ter scolē gaē
+H_prologue_0026 Die hem wysheijt doet vʼstaē
+H_prologue_0027 Vele meer dan enich doet
+H_prologue_0028 Hier om peȳse ick in mynē moet
+H_prologue_0029 Dat icker v bij wil leerē
+H_prologue_0030 Hoe ghij v hertē bekerē
+
+
+
+H_prologue_0031 Ter wijsheyt nv merckt hier aen
+H_prologue_0032 Wiet boeck maecte het woende eē mā
+H_prologue_0033 Tot Romē wijleneer
+H_prologue_0034 Die der wijsheit wijst meer
+H_prologue_0035 Dā enijch mā die leuet nv
+H_prologue_0036 Hij hiet Caton dat seg ick v
+H_prologue_0037 Hij had eē kint dat hiet hij alsoo
+H_prologue_0038 Alsoo hiet hijt des was hij vroo
+H_prologue_0039 Doet mettē kyndē was volgaē
+H_prologue_0040 Dat mocht onthoud̄ en̄ oeck vʼstaē
+H_prologue_0041 Ryep hijt en̄ sprack tot hem
+H_prologue_0042 Sone mē seyt dat ick ben
+H_prologue_0043 Wys en̄ vroet merct hier aē
+H_prologue_0044 Ick sal v leerē dat ick can
+H_prologue_0045 Doe seyde hij en begon aldꝰ
+H_prologue_0046 Sij deus est animꝰ nobis vt etʼ
+
+
+H_I,01_0001 NV merckt wat ick dij gebiede
+H_I,01_0002 En̄ wat is dat ic dij gebiede
+H_I,01_0003 Du selste dij daer sone kerē
+H_I,01_0004 Dattu gode sult eerē
+
+
+H_I,02_0001 Du sulstu smorgēs vroech opstaē
+H_I,02_0002 En̄ om dijne bederue gaē
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+H_I,03_0003 Men seit dat meneger hāde tale
+H_I,03_0004 En̄ voget nimāt godes wale
+
+
+H_I,04_0001 Sone doet als die vroede doet
+H_I,04_0002 Die daer heeft gestadigē moet
+H_I,04_0003 Tys lachter datmē hier segget
+
+
+
+H_I,04_0004 Datmē ghinder seluer nyet en pleget
+
+
+H_I,12_0001 Niemāt en doe achter sprake
+H_I,12_0002 Die die ludē te scandē makē
+H_I,12_0003 Salstu scowē ende vlien
+H_I,12_0004 Die hem volgē syn niet gesiē
+
+
+H_I,32_0001 Du selste mīnē die di mīnē
+H_I,32_0002 Meer dan die di nyet en kennē
+H_I,32_0003 Hi is sot die duer eē vreēdē mā
+H_I,32_0004 Verwerket die hē goets gan
+
+
+H_I,33_0001 Als dij dinē tijde nakē
+H_I,33_0002 Salstu dine tere makē
+H_I,33_0003 En̄ dinē cost meer noch min
+H_I,33_0004 Nae diē dattu heues gewin
+
+
+H_I,34_0001 Sone als ghij heues chracht
+H_I,34_0002 Dattu wel vʼwinnē macht
+H_I,34_0003 Dinē viāt saltu wijkē
+H_I,34_0004 Soe sal dueget an dij blijkē
+
+
+H_I,36_0001 Tegē dē genē die dij mīnē
+H_I,36_0002 En seltu tegēs niet begīnē
+H_I,36_0003 Want vā sceldē hier te voerē
+H_I,36_0004 Vʼnoij is comē en̄ torē
+
+
+H_I,37_0001 ALs dij hebbē dine knechtē
+H_I,37_0002 grāgemaeckt met ōrechte
+H_I,37_0003 Laet sincken dinen moet
+H_I,37_0004 Dat is di eerlic en̄ goet
+
+
+H_I,38_0001 Al moges dij vʼwinnē saē
+H_I,38_0002 Immer laet dij in stadē staē
+H_I,38_0003 Ick segdit dat gestadichedē
+
+
+
+H_I,38_0004 Heuet menige goede sede
+
+
+H_I,13_0001 Datmē dij gehetē heeft
+H_I,13_0002 Eer die tijt coēt datmē dij geeft
+H_I,13_0003 En sultuut nyet behietē voert
+H_I,13_0004 Wantmē lieget menich woert
+
+
+H_I,14_0001 Wanneer di iemāt gheeft lof
+H_I,14_0002 En weeste blijder niet af
+H_I,14_0003 Die vroede merket en̄ vʼstaet
+H_I,14_0004 Eer hij vā iemāt lof ontfaet
+
+
+H_I,16_0001 Die wyle du beste eē jōgelinc
+H_I,16_0002 Doch alsoe mēnich goede dinck
+H_I,16_0003 Alset naket dine dage
+H_I,16_0004 Datmē dij te goede behaget
+
+
+H_I,17_0001 En̄ roke nyet wat enich mā
+H_I,17_0002 Stillike gerunnē can
+H_I,17_0003 Want die quade waēt ijmmer des
+H_I,17_0004 Watmē rumet dat vā hem es
+
+
+H_I,18_0001 Ist dattu hier heues genoch
+H_I,18_0002 Hauē hout int gevoech
+H_I,18_0003 Want huijdē is die mā wel rike
+H_I,18_0004 En̄ morgē staet hē cōmerlike
+
+
+H_I,20_0001 Sone als dijn arme vriēt
+H_I,20_0002 Mit eēder cleij̄der gauē diēt
+H_I,20_0003 Wes blijder dā dij is te moede
+H_I,20_0004 En̄ dankes hē met allē goede
+
+
+H_I,21_0001 Alstu biste arm vā hauē
+H_I,21_0002 En̄ vā richedē beschauē
+H_I,21_0003 Soe peij̄se dattu hier te voerē
+
+
+
+H_I,21_0004 Nacht en̄ arm werste geborē
+
+
+H_I,22_0001 Du en selste nyet houd̄ in diē
+H_I,22_0002 Dattu den doot selte ontsien
+H_I,22_0003 Want die den doot ontsiet
+H_I,22_0004 Hem onbaet sȳs leuēs niet
+
+
+H_I,19_0001 Hij is sotter dan eē quake noot
+H_I,19_0002 Die hoept op āder ludē doot
+H_I,19_0003 Want al die ludē jonc en̄ out
+H_I,19_0004 Sijn haers leuēs ongewout
+
+
+H_I,23_0001 Als du heues dat vʼdiēt
+H_I,23_0002 Dattu en heues genē vriēt
+H_I,23_0003 Dat en selsti gode niet wijtē
+H_I,23_0004 Want hē is leet dat dij misschiet
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+H_IV,33_0003 Hij is sot die syn voet wil streckē
+H_IV,33_0004 Voerder dan syn cleerder reijkē
+
+
+H_IV,37_0001 En̄ geloue ijmmer dij seluē niet
+H_IV,37_0002 Lange te leuē wāt mē siet
+H_IV,37_0003 Den mā wanderē en̄ gaē
+H_IV,37_0004 Hud̄ ofte morgē eest al gedaē
+
+
+H_IV,38_0001 Du selste gerne offerē gode
+H_IV,38_0002 Want het seggē syn gebode
+H_IV,38_0003 Die doer goede gerne gheuet
+H_IV,38_0004 Die besittē dat ewige leuē
+
+
+H_II,10+IV,39_0001 Daer du mēste wes̄ tachter
+H_II,10+IV,39_0002 Comstu daer du heues lachter
+H_II,10+IV,39_0003 Beter is wel wech gegaē
+H_II,10+IV,39_0004 Dā qualike gebleuē staē
+
+
+H_I,27_0001 Wachti tegē die gebarē
+H_I,27_0002 Minnelcke als die vogelarē
+
+
+
+H_I,27_0003 Die scone pipē en̄ blasen
+H_I,27_0004 Als sy die vogelkij̄s vʼdwas̄
+
+
+H_I,30_0001 Sietstu dat eē ander mistaet
+H_I,30_0002 Hoe dij des dat is mij̄ raet
+H_I,30_0003 Die vādē anderē seit nyet wel
+H_I,30_0004 Die mach vʼwachtē dat selue spel
+
+
+H_I,07_0001 Eenradich weest in dine gedacht
+H_I,07_0002 Behoert dij toe en̄ sacht
+H_I,07_0003 Hij is sot die syn gepeijns
+H_I,07_0004 Den luijd̄ seyt hier en̄ gheȳs
+
+
+H_I,08_0001 Geloeft niet als dij̄ wyf toe recht
+H_I,08_0002 Claget ouer dinē knecht
+H_I,08_0003 Want der wiuē syn genoch
+H_I,08_0004 Die tsmās vriēt syn tongevoech
+
+
+H_I,09_0001 Aldu biddes dynē vriēt
+H_I,09_0002 Die dij dicke heuet gediēt
+H_I,09_0003 Al spreket hij daer tegē iet
+H_I,09_0004 Du en seltet vā di latē nyet
+
+
+H_I,10_0001 Du en selste mit spottē noch mit sprakē
+H_I,10_0002 Scheldinge tegē dē quad̄ makē
+H_I,10_0003 Ten staet den goedē man niet wale
+H_I,10_0004 Tegen den quad̄ houdē tale
+
+
+H_I,11_0001 Minne die ghene die dij mīnē
+H_I,11_0002 Die du mȳs laet hē bekēnē
+H_I,11_0003 Hij is sot die daer te diēste staet
+H_I,11_0004 Daert hē al te scand̄ vergaet
+
+
+H_II,25_0001 Al eest dat eē qualic doet
+H_II,25_0002 En̄ keert daer niet af dinē moet
+H_II,25_0003 Immer hebbe goedē waē
+
+
+
+H_II,25_0004 Dattet dij̄ ten bestē sal vergaē
+
+
+H_II,27_0001 Du selste scowē en̄ wachtē
+H_II,27_0002 Dij seluē voer en̄ achtē
+H_II,27_0003 Dynē god mit grotē oetmoet
+H_II,27_0004 Diet quaet siet al mettet goet
+
+
+H_II,29_0001 Du en selste allene niet ontslaē
+H_II,29_0002 Trecht dat lange heuet gestaē
+H_II,29_0003 Want hij vʼwerct sijn gebuerē
+H_II,29_0004 Dat comt hē dicke toe suerē
+
+
+H_II,31_0001 En̄ roemt nyet watti droemt
+H_II,31_0002 Want hij is sot dies goemt
+H_II,31_0003 Want wat dē ludē des dages horē
+H_II,31_0004 Comt hen des nachtes te vorē
+
+
+H_III,01_0001 Sone schictet alsoe dinē sinnē
+H_III,01_0002 Datter wonet wijsheit inne
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+H_Bouc van seden_0203 Scouwet toorn en̄ quade wiue
+H_Bouc van seden_0204 En̄ toe verne bij dine liue
+
+
+H_H,01_0001 Weest den gelucke onderdaē
+H_H,01_0002 Alset dyn te diēste wil staē
+H_H,01_0003 Sulc heeft geweest diet vʼsprac
+H_H,01_0004 Geluc dat hem seluē wrac
+
+
+H_III,02_0001 Die gheē die goeder vordē pleget
+H_III,02_0002 En derf niet wragē wat eē ander seghet
+H_III,02_0003 Want hij en derf om nimāts tale
+H_III,02_0004 Quaet wes̄ doet hij seluer wale
+
+
+H_II,08_0001 Sone aēmerckt dije sond̄ niet
+H_II,08_0002 Die ghij den bos̄ doen siet
+H_II,08_0003 Want die tijt sal comē saē
+H_II,08_0004 Dat sij hoer loen sullē ontfaē
+
+
+
+
+
+H_II,09_0001 Al is eē luttel ofte cranck
+H_II,09_0002 Du en selte hē geuē genē danc
+H_II,09_0003 Men vij̄t menich cleijn mā
+H_II,09_0004 Die vel veel weijshed̄ cā
+
+
+H_II,12_0001 Wat got wil doen met dij
+H_II,12_0002 Laet hem gewerd̄ wettet d̶si
+H_II,12_0003 Want du en wʼste te rad̄ nyet
+H_II,12_0004 Daer hij dij sciep en̄ wes̄ hiet
+
+
+H_II,21_0001 Wat dij in dronkēscap gesciet
+H_II,21_0002 Dat en laet ongebetert niet
+H_II,21_0003 Want vā dronkēscap hʼ toe vorē
+H_II,21_0004 Vernoij is comē en̄ toorē
+
+
+H_II,22_0001 Kyes eenē vriēt diē du moges makē
+H_II,22_0002 Kundich dine vʼholē sakē
+H_II,22_0003 Bijstu sieck kyes eenē mā
+H_II,22_0004 Die beste arsadiē can
+
+
+H_II,24_0001 Merckt sone wat dij mach derē
+H_II,24_0002 Beweert of tuut machs bewerē
+H_II,24_0003 Hij is sot die comē siet
+H_II,24_0004 Tongeual en̄ niet en vliet
+
+
+H_I,40_0001 Beijde nemē en̄ geuē
+H_I,40_0002 Is hoer sede die nv leuē
+H_I,40_0003 Mit erē sone doch alsoe
+H_I,40_0004 Soe moechstu blijde syn en̄ vroe
+
+
+H_II,Pa_0001 Wiltu di sone daer toe kerē
+H_II,Pa_0002 Dattu dorpers sed̄ wilt lerē
+H_II,Pa_0003 Virgilius heuet al bescreuē
+H_II,Pa_0004 Hoe die dorpers sellē leuē
+
+
+H_II,Pb_0001 Wilstu leerē medecij̄
+
+Line_number 0002 is missing
+
+
+
+H_II,Pb_0003 Marta heuet bescreuē al
+H_II,Pb_0004 Watmē daer toe doē sal
+
+
+H_II,Pd_0001 Wilstu leerē wat sij mīnē
+H_II,Pd_0002 En̄ mīnē doē in dinē synnen
+H_II,Pd_0003 Ouidius leert dij alsoe
+H_II,Pd_0004 Hoe du vā mīnē werdes vroe
+
+
+H_II,04_0001 Alstu biste grā en̄ ongemoet
+H_II,04_0002 Castijt dyn seluē dat is di goet
+H_II,04_0003 Want grāscap benemt eē mā
+H_II,04_0004 Dat hij hem niet bedēckē en cā
+
+
+H_II,06_0001 Du selste grāscap ōmate vliē
+H_II,06_0002 Mene seget dat die vrode pliē
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+H_III,03_0001 Alstu geroepē biste te radē
+H_III,03_0002 Bedencti sone nyet te spade
+H_III,03_0003 Du en vʼbeters dij̄ gesellē raet
+H_III,03_0004 Alsoe verre alset aē dij staet
+
+
+H_II,13_0001 Ick vʼbiedi nidicheit
+H_II,13_0002 Want sij heuet quade sed̄
+H_II,13_0003 Wyese draget got weet
+H_II,13_0004 Hem comter af groot leet
+
+
+H_Bouc van seden_0723 Gaet haestelick daermē v seint
+H_Bouc van seden_0724 En̄ snellike soe weder weint
+H_Bouc van seden_0725 Weest ree te doē allē dinck
+H_Bouc van seden_0726 En̄ wes mē dij̄ doet dat gedēct
+
+
+H_I,39_0001 Dattu mit pinē beiagē heues
+
+Line_number 0002 is missing
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+H_H,02_0001 Amē
+H_H,02_0002 Eē cort jolyt in deser tijt
+H_H,02_0003 hier vʼcorē voer hemelrijck thijs
+H_H,02_0004 veel vʼlorē
+H_H,02_0005 des seker
+H_H,02_0006 siet
+

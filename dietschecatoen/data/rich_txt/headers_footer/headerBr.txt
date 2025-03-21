@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on: Sleiderink, R., and Houtsma, J. (2015). Fragmenten van twee eenkolomshandschriften van de Dietsche Catoen, overgeleverd in Mechelse stadsrekeningen. Queeste, 22, 165-177.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution>AR Rekenkamer</institution>
+            <idno>41.234</idno>
+            <msName>Br</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="8"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="single-quire manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="8"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="140"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1IV(8) or 1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="17" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="134"/>
+                              <width unit="mm" quantity="73"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4,9" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote></decoNote><decoNote><watermark>Briquet 5633 (croix latine)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only the outside bifolium remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1430-1440</origDate>
+<origPlace>Brabant(?)</origPlace>
+</origin></history>
+</msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

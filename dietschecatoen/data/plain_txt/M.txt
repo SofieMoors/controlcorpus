@@ -1,0 +1,431 @@
+
+
+
+
+M_prologue_0001 DIe ghene die in haren sinne
+M_prologue_0002 Draghen waerlike minne
+M_prologue_0003 Si maker of riim en̄ liet
+M_prologue_0004 Der minnen sone draghic niet
+M_prologue_0005 Der of eist mi al vergaen
+M_prologue_0006 Datter minne mach bestaen
+M_prologue_0007 Die wile als ic die minne drouch
+M_prologue_0008 Als ic die minne sach ic louch
+M_prologue_0009 Nu haticse al in mine sinne
+M_prologue_0010 Die minne draghen entie minne
+M_prologue_0011 En̄ hebbe ghekeert minen moet
+M_prologue_0012 An die ghene die siin vroet
+M_prologue_0013 Eer ic dit dede seide .j. miin vrient
+M_prologue_0014 Gheselle die ter wijsheit dient
+M_prologue_0015 Dattijs betren loon ontfaet
+M_prologue_0016 Dan die ter mīnen dienste staet
+M_prologue_0017 Hier om hebbic dies begonnen
+M_prologue_0018 Si hebben onrecht dies mi verionnen
+M_prologue_0019 Nv bidt alle met mi te gode
+M_prologue_0020 Dat hi mi sende sine bode
+
+
+
+M_prologue_0021 Die mi wise ende leere
+M_prologue_0022 Hoe ic mi ter wijsheit keere
+M_prologue_0023 Alle die vroet willen wesen
+M_prologue_0024 Een bouc es dattie clercken lesen
+M_prologue_0025 Alsi eerst ter scolen gaen
+M_prologue_0026 Die hem wijsheit doet verstaen
+M_prologue_0027 Vele meer dan eenich doet
+M_prologue_0028 Hier om peinsic in minen moet
+M_prologue_0029 Dat icker v bi wille leeren
+M_prologue_0030 Hoe ghi v herte sult bekeeren
+M_prologue_0031 Ter wijsheit nv mercket dan
+M_prologue_0032 Wiene maecte het woonde .j. man
+M_prologue_0033 Tote rome wilen eer
+M_prologue_0034 Die des wijsdoms wiste meer
+M_prologue_0035 Dan eenich die leuet nv
+M_prologue_0036 Hi hiet cathoen dat segghic v
+M_prologue_0037 Hi hadde .j. kint dat hiet also
+M_prologue_0038 Als hi dede des was hi vro
+M_prologue_0039 Alst metten kinde was vergaen
+M_prologue_0040 Dat mochte onthoudē en̄ verstaen
+
+
+
+M_prologue_0041 Riep hijt en̄ sprac te hem
+M_prologue_0042 Men seit sone dat ic bem
+M_prologue_0043 Wijs en̄ vroet nv mercket dan
+M_prologue_0044 Ic sal v leeren dat ic can
+M_prologue_0045 Hi seide en̄ begonste aldus
+M_prologue_0046 Si deus est animus
+
+
+M_I,01_0001 Nv mercke wat ic di ghebiede
+M_I,01_0002 En̄ wat es dat ic dy bediede
+M_I,01_0003 Dats dattu di daer an sult keeren
+M_I,01_0004 Dattu gode emmer sult eeren
+
+
+M_I,02_0001 Du sult smorghens vro up staen
+M_I,02_0002 En̄ om diin bederue gaen
+M_I,02_0003 Men seit die te langhe slaept
+M_I,02_0004 Dat hem de slaep onduchtich maect
+
+
+M_I,03_0001 Wachtu datmē niet en seghet
+M_I,03_0002 Dat vele talen an di leghet
+M_I,03_0003 Men seit menigherande tale
+M_I,03_0004 En sit niemens goeders wale
+
+
+M_I,04_0001 Sone doet alsoe die vroede doet
+M_I,04_0002 Die heuet ghestaden moet
+
+
+
+M_I,04_0003 Men lachtert dat .j. hier seghet
+M_I,04_0004 Dies hi ghinder niet en pleghet
+
+
+M_I,05_0001 Ne mercke niemens quade daet
+M_I,05_0002 Te uele mercken dat es quaet
+M_I,05_0003 Bedi en es man no wijf
+M_I,05_0004 Die sonder sonde leet siin lijf
+
+
+M_I,08_0001 Gheloof niet als diin wijf tōrechte
+M_I,08_0002 Claghet ouer hare knechte
+M_I,08_0003 Der wiuen siin ghenouch
+M_I,08_0004 Tsmans vrient siin tongheuouch
+
+
+M_I,10_0001 Dune sult met talen no spraken
+M_I,10_0002 Ghescelt ieghē den quade maken
+M_I,10_0003 En sit niemens goeders wale
+M_I,10_0004 Tieghens hem te hebbene tale
+
+
+M_I,11_0001 Minne die ghene die dii minnen
+M_I,11_0002 Dien du wel ions laet bekinnen
+M_I,11_0003 Hi es dom die daer te dienste staet
+M_I,11_0004 Daert hem tscanden al vergaet
+
+
+M_I,12_0001 Niemare ende achter spraken
+M_I,12_0002 Die den lieden tscanden maken
+
+
+
+M_I,12_0003 Sultu scuwen ende haten
+M_I,12_0004 Beede in weghe en̄ in straten
+
+
+M_I,13_0001 Datmen di beheeten heeft
+M_I,13_0002 Eer die tijt comt datmen di gheeft
+M_I,13_0003 Ne sultuut niet beheeten voort
+M_I,13_0004 Want men lieghet vele woort
+
+
+M_I,14_0001 Alsti iement gheuet lof
+M_I,14_0002 Ne wes te blider niet der of
+M_I,14_0003 Want die vroede wel verstaet
+M_I,14_0004 Eer hi van iement lof ontfaet
+
+
+M_I,15_0001 Als een ander man doet wel
+M_I,15_0002 Dat onthout ende vertel
+M_I,15_0003 Doestu wel soe zwigher of
+M_I,15_0004 Soe sultu hebben goeden lof
+
+
+M_I,16_0001 Dje wile dattu best ionghelinc
+M_I,16_0002 Doet soe menighe goede dinc
+M_I,16_0003 Alsti naken dine daghen
+M_I,16_0004 Datmē diins te goede ghewaghē
+
+
+M_I,18_0001 Sone alstu heues doghet
+M_I,18_0002 Hauen houti int gheuouch
+
+
+
+M_I,18_0003 Want heden es die man rike
+M_I,18_0004 Smorghens staet hem aermelike
+
+
+M_I,20_0001 Sone als diin aerme vrient
+M_I,20_0002 Van eere cleender ghifte dient
+M_I,20_0003 Wes blider dan di es te moede
+M_I,20_0004 En̄ danckes hem al int goede
+
+
+M_I,21_0001 Al bestu aerm man van hauen
+M_I,21_0002 En̄ van rijcheden beschauen
+M_I,21_0003 Peinst dattu hier te voren
+M_I,21_0004 Naect en̄ aerm waers gheboren
+
+
+M_I,19_0001 Hi es dulre dan .j. quekin hooft
+M_I,19_0002 Die hoopt up anders mans doot
+M_I,19_0003 Want allen lieden ionc ende out
+M_I,19_0004 Siin haers leuens onghewout
+
+
+M_I,25_0001 Dune sult ij waerf beheetē niet
+M_I,25_0002 Dattu mach gheuen yet
+M_I,25_0003 Men seit siet waer hi gaet
+M_I,25_0004 Die loos es ende quaet
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_IV,41_0003 Ne domene niet want die vroede
+M_IV,41_0004 Ghedinct wel van ouden goede
+
+
+
+
+
+M_I,26_0001 Du sult wachten doestu wale
+M_I,26_0002 Tieghens hem te hebbene tale
+M_I,26_0003 Die altoes siin beuaen in dien
+M_I,26_0004 Hoe si uerradenesse moghē plien
+
+
+M_I,27_0001 Wachtu ieghē die ghebare
+M_I,27_0002 Minlike als die voghelare
+M_I,27_0003 Die scone pipen ende blasen
+M_I,27_0004 Alse die uoghelkine verdwasen
+
+
+M_I,28_0001 Heuestu kinder sonder goet
+M_I,28_0002 Doet alsoe die vroede doet
+M_I,28_0003 Die sinen kinder ambocht leert
+M_I,28_0004 Alst noot heeft datter hem toe keert
+
+
+M_I,31_0001 Alstu bids bedincti des
+M_I,31_0002 Dattu bids datte gheuen es
+M_I,31_0003 Die bidt datmē niet gheuē mach
+M_I,31_0004 Hi vint dickent quaet ghelach
+
+
+M_I,23_0001 Alstu hebs des verdient
+M_I,23_0002 Dattu en hebs gheenen vrient
+M_I,23_0003 Dan sultu gode witen niet
+M_I,23_0004 Want hem es leet datti messchiet
+
+
+
+
+
+M_I,33_0001 Alsti dine tiden naken
+M_I,33_0002 Saltu dine theere maken
+M_I,33_0003 En̄ dinen cost meer no min
+M_I,33_0004 Na dien dattu heues ghewin
+
+
+M_I,34_0001 Al eist dattu heues cracht
+M_I,34_0002 Dattu wel verwinnen macht
+M_I,34_0003 Dinē viant sultu wiken
+M_I,34_0004 Dus sal doghet an di bliken
+
+
+M_I,35_0001 Du sult gheerne .j. lettel gheuen
+M_I,35_0002 Alstu dat grote wils beweuen
+M_I,35_0003 Die Dʼ es een goet ghewin
+M_I,35_0004 Die den Dʼ brenghet in
+
+
+M_I,38_0001 Al moghestu verwinnen saen
+M_I,38_0002 Trecht dat langhe heuet ghestaen
+M_I,38_0003 Men seit dat ghestadichede
+M_I,38_0004 Heuet so menighe goede zede
+
+
+M_I,11_0001 Minne die ghene die dii minnen
+M_I,11_0002 Dien du wel ions laet bekinnē
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_I,29_0003 Dattu hates sultu haten
+M_I,29_0004 Niet te seere. maer te maten
+
+
+
+
+
+M_I,40_0001 Beede nemen ende gheuen
+M_I,40_0002 Es hare zede die nv leuen
+M_I,40_0003 Met eeren sone doe alsoe
+M_I,40_0004 Soe sultu blide siin ende vroe
+
+
+M_II,Pa_0001 Sone wiltu di daer toe keeren
+M_II,Pa_0002 Dattu dorpers sede wils leeren
+M_II,Pa_0003 Virgilius heuet al bescreuen
+M_II,Pa_0004 Hoe danen wijs dorpers leuen
+
+
+M_II,Pb_0001 Wiltu leeren medicine
+M_II,Pb_0002 En̄ vroet aersatre te sine
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_II,Pd_0003 Ouidius leeret di alsoe
+M_II,Pd_0004 Hoe du van minne werdes vroe
+
+
+M_II,Pd_0001 Wiltu weten wat si minne
+M_II,Pd_0002 En̄ minne doen in dinen sinne
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_II,Pb_0003 Macer heuet bescreuen al
+M_II,Pb_0004 Watmen daer toe pleghen sal
+
+
+M_II,Pe_0001 Sone wiltu wesen vroet
+M_II,Pe_0002 En̄ wiisheit doen in dinē moet
+M_II,Pe_0003 Leere so uele in dine ioghet
+M_II,Pe_0004 Dattu out heues doghet
+
+
+
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_II,Pc_0003 Doe minen raet ende les lucane
+M_II,Pc_0004 Hi salre di wel bringhen ane
+
+
+M_II,04_0001 Alstu best gram en̄ onghemoet
+M_II,04_0002 Bepeins di seluen hets di goet
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+M_II,14_0003 Want het sit wel den man
+M_II,14_0004 Datti alsoe doen can
+
+
+M_II,27_0001 Du sult besien ende wachten
+M_II,27_0002 Beede uoren ende bachten
+M_II,27_0003 En̄ dienen gode met omoede
+M_II,27_0004 En̄ scheeden tquade uten goede
+
+
+M_II,28_0001 Som wile sultu diin goet
+M_II,28_0002 Sparen alsoe die vroede doet
+M_II,28_0003 Die souct al sulc ghelach
+M_II,28_0004 Dat hi met eeren leuen mach
+
+
+M_II,29_0001 Dune sult niet ontslaen
+M_II,29_0002 Trecht dat langhe heuet ghestaen
+M_II,29_0003 Die verwerct siin ghebueren
+M_II,29_0004 Het wert hem dickent sueren
+
+
+M_II,31_0001 Ne roucke niet watti droomt
+M_II,31_0002 Hi es dom dies uele goomt
+
+
+
+M_II,31_0003 Dat lieden sdaghes horen
+M_II,31_0004 Comt hem dickent snachts te vorē
+
+
+M_III,02_0001 Dje man die goeder voeren pliet
+M_III,02_0002 Ender niet roucken watmen seit
+M_III,02_0003 Want hine der doer niemens tale
+M_III,02_0004 Quaet doen wilti selue wale
+
+
+M_III,03_0001 Alstu gheroupen best te rade niet
+M_III,03_0002 Sone bedincti niet te spade
+M_III,03_0003 Dune beters diere ghesellen daet
+M_III,03_0004 In alsoe vele als an dy gaet
+
+
+M_II,12_0001 Wat god wille doen metti
+M_II,12_0002 Laet hem ghebruken wat si
+M_II,12_0003 Want dune waers te rade niet
+M_II,12_0004 Daer hi di sciep ende leuen hiet
+
+
+M_II,13_0001 Ic verbiede di nidichede
+M_II,13_0002 Want soe heuet quade sede
+M_II,13_0003 Wiese draghet god weet
+M_II,13_0004 Hem comter of dat hem es leet
+
+
+M_II,14_0001 Du sult hebben harden moet
+M_II,14_0002 Wanneer men di onrecht doet
+
+
+
+M_II,14_0003 Want het sit wel den man
+M_II,14_0004 Datti alsoe doen can
+
+
+M_independent stanza_0001 Sone dits die beste scat
+M_independent stanza_0002 Die ic hebbe en̄ om dat
+M_independent stanza_0003 Heetic ende beuelic dy
+M_independent stanza_0004 Dat hi altoos metti sy
+
+
+M_epilogue_0001 Ghi goede lieden die dese reden
+M_epilogue_0002 Hebt ghehoort doet v ghebeden
+M_epilogue_0003 Ootmoedelike tonsen heere
+M_epilogue_0004 Datti ons uten sonden keere
+M_epilogue_0005 En̄ soe verlichte onsen sin
+M_epilogue_0006 Datter wone wijsheit in
+
+Line_number 0007 is missing
+
+Line_number 0008 is missing
+
+Line_number 0009 is missing
+
+Line_number 0010 is missing
+
+Line_number 0011 is missing
+
+Line_number 0012 is missing
+
+Line_number 0013 is missing
+
+Line_number 0014 is missing
+
+Line_number 0015 is missing
+M_epilogue_0016 Amen
+

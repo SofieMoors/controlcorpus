@@ -1,0 +1,324 @@
+
+
+
+
+d2_title_0001 DIT IS DE VVIISE // Leeringhe van Catho.
+
+
+d2_prologue_0001 DIe ghene die in haren sinne
+d2_prologue_0002 Draghen weerlijcke minne
+d2_prologue_0003 Sy makē daer af rijm en liet.
+d2_prologue_0004 Der minnen soo en draghe ick niet
+d2_prologue_0005 Want nu is dat al vergaen
+d2_prologue_0006 Dat de minne mach bestaen
+d2_prologue_0007 Wijlen doen ick die minne droech.
+d2_prologue_0008 Als ick die minne sach ick loech.
+d2_prologue_0009 Nu haet ickse in alle mijnen sinne
+d2_prologue_0010 Die minne draghen ende die minne
+d2_prologue_0011 Ende heb ghekeert mijnen moet.
+d2_prologue_0012 Aen die ghene die zijn voet
+d2_prologue_0013 Eer ick dit dede seyde een mijn vrient
+d2_prologue_0014 Gheselle die ter wijsheyt dient
+d2_prologue_0015 Dat hy des beteren loon ontfaet.
+d2_prologue_0016 Dan die tot mijnen dienste staet
+d2_prologue_0017 Hierom heb ick des beghonnen
+d2_prologue_0018 Sy hebben onrecht dies my verjonnen.
+
+
+
+d2_prologue_0019 NV bidt alle met my te Gode
+d2_prologue_0020 Dat hy seynde zijnen bode
+d2_prologue_0021 Die my wijse ende leere
+d2_prologue_0022 Hoe ick my ter vroetheydt keere
+d2_prologue_0023 Alle die vroet willen wesen.
+d2_prologue_0024 Een boeck is dat de Clercken lesen
+d2_prologue_0025 Als sy eerst ter scholen gaen
+d2_prologue_0026 Dat hen wijsheyt doet verstaen
+d2_prologue_0027 Veel meer dan eenich doet.
+d2_prologue_0028 Hierom peysde ick in mijnen moet
+d2_prologue_0029 Dat ick u daer by wil leeren
+d2_prologue_0030 Hoe ghy u herte sult bekeeren
+d2_prologue_0031 Ter vroetheyt nu mercket dan.
+d2_prologue_0032 Wient maeckte het woonde een man
+d2_prologue_0033 Te Roomen wijlen eer
+d2_prologue_0034 Die des wijsdom wiste meer
+d2_prologue_0035 Dan eenich man die levet nu.
+d2_prologue_0036 Hy hiet Catho dat segghe ick u
+d2_prologue_0037 Hy hadde een kint dat alsoo
+d2_prologue_0038 Als hyt noemde dies was hy vro
+d2_prologue_0039 Als metten kinde was vergaen.
+d2_prologue_0040 Dat mocht onthouden ende verstaen
+d2_prologue_0041 Riep hy ende sprack tot hem
+d2_prologue_0042 Men seyt sone dat ick ben
+d2_prologue_0043 Wijs ende vroet nu merckt an
+d2_prologue_0044 Ick sal u leeren dat ick can
+d2_prologue_0045 Doen seyde hy ende beghan aldus.
+
+
+
+d2_prologue_0046 Si Deus est animus
+
+
+d2_I,01_0001 Nu merck sone wat ick ghebiede
+d2_I,01_0002 Ende wat dat is dat ick u bediede
+d2_I,01_0003 Dats dat ghy u daer aen sult keeren
+d2_I,01_0004 Dat ghy Godt immer sult eeren.
+
+
+d2_I,02_0001 Ghy sult smorghens vroech opstaen
+d2_I,02_0002 Ende om v beerne gaen
+d2_I,02_0003 Men seyt die te langhe slaept
+d2_I,02_0004 Dat hem den slaep onduchtich maeckt.
+
+
+d2_I,03_0001 Wacht u datmen niet en seyt
+d2_I,03_0002 Dat vele tale aen u leydt
+d2_I,03_0003 Want menigherhande tale
+d2_I,03_0004 En voecht niemant goeders wale.
+
+
+d2_I,04_0001 Sone doet als die vroede doet
+d2_I,04_0002 Die hevet ghestadighen moet
+d2_I,04_0003 Het is lachter dat een hier seghet
+d2_I,04_0004 Dat hy ginder niet en pleghet.
+
+
+d2_I,05_0001 Aenmerckt niemants quade daet
+d2_I,05_0002 Want veel merckens is quaet
+d2_I,05_0003 Beyde soo en is man oft wijf
+d2_I,05_0004 Die sonder sonde leyt zijn lijf.
+
+
+d2_I,08_0001 Ghelooft niet als u wijf t'onrecht
+d2_I,08_0002 Claghet over uwen knecht
+d2_I,08_0003 Want quade wijven zijn ghenoech
+d2_I,08_0004 Die dicke maken onghevoech.
+
+
+d2_I,12_0001 Nieu maren ende achterspraken
+d2_I,12_0002 Die de lieden tot schande maken
+
+
+
+d2_I,12_0003 Sult ghy schouwen ende haten
+d2_I,12_0004 Die hem anders verwaten.
+
+
+d2_I,15_0001 Als eenich man doet wel
+d2_I,15_0002 Dat onthout ende vertelt
+d2_I,15_0003 Doedy wel swijghet daer of
+d2_I,15_0004 Soo sult ghy hebben goeden lof.
+
+
+d2_I,16_0001 Die wijle ghy sijt een ionghelinck
+d2_I,16_0002 Soo doet soo menich goet dinck
+d2_I,16_0003 Als dan naken uwe daghe
+d2_I,16_0004 Datmen uws te Gode ghewaghe.
+
+
+d2_I,18_0001 Alst comt dat ghy hebt ghenoech
+d2_I,18_0002 Van haven hout u in dit ghevoech
+d2_I,18_0003 Want heden is die man rijcke
+d2_I,18_0004 Smorghens staet hem commerlijcke.
+
+
+d2_I,21_0001 Als ghy arm sijt van haven
+d2_I,21_0002 Ende van rijckdomme beschaven
+d2_I,21_0003 Bepeyst dat ghy hier te voren
+d2_I,21_0004 Arm ende naeckt waert gheboren.
+
+
+d2_I,22_0001 Ghy sult niet keeren indien
+d2_I,22_0002 Dat ghy die doot sult ontsien
+d2_I,22_0003 Want wie die doot ontsiet
+d2_I,22_0004 Hem en helpt zijn leven niet.
+
+
+d2_I,19_0001 Hy is sotter dan een queken hoot
+d2_I,19_0002 Die hopet op een anders doot
+d2_I,19_0003 Want beyde die lieden jonck en out
+d2_I,19_0004 Sijn haers levens onghewout.
+
+
+d2_I,23_0001 Al hebdy dat verdient
+
+
+
+d2_I,23_0002 Dat ghy en behoeft gheenen vrient
+d2_I,23_0003 Dat en suldy Godt wijten niet
+d2_I,23_0004 Want hem is leet dat u misschiet.
+
+
+d2_I,26_0001 Ghy sult u wachten doedy ghy wale
+d2_I,26_0002 Teghen hem te hebben cale
+d2_I,26_0003 Die altoos zijn bevaen in dien
+d2_I,26_0004 Hoe sy verraden is moghen plien.
+
+
+d2_I,27_0001 Wacht die teghen v ghebaren
+d2_I,27_0002 Minnelijck als die Voghelaren
+d2_I,27_0003 Die schoon pijpen ende blasen
+d2_I,27_0004 Als die Voghelkens verdwasen.
+
+
+d2_III,11_0001 Nae dat uwe tijden naken
+d2_III,11_0002 Suldy u teringhe maken
+d2_III,11_0003 Ende uwen cost meer noch min
+d2_III,11_0004 Na dien dat ghy hebt ghewin.
+
+
+d2_IV,04_0001 Ghy moghet ghelt winnen wel
+d2_IV,04_0002 Voor nutschap ende niet el
+d2_IV,04_0003 Men seyt dat noyt heylich man
+d2_IV,04_0004 En leyden zijnen sin daer aen.
+
+
+d2_I,40_0001 Beyde nemen ende gheven
+d2_I,40_0002 Is haer sede die nu wil leven
+d2_I,40_0003 Met eeren/sone doet alsoo
+d2_I,40_0004 Soo meuchdy blijde zijn ende vro.
+
+
+d2_II,Pa_0001 Wildy sone daer toe keeren
+d2_II,Pa_0002 Virgiluus hevet beschreven
+d2_II,Pa_0003 Hoe de dorpers sullen leven.
+
+Line_number 0004 is missing
+
+
+d2_II,06_0001 Ghy sult die ontmate vlien
+
+
+
+d2_II,06_0002 Men seyt dat vroede plien
+d2_II,06_0003 Mate te houden/ende volghen hare
+d2_II,06_0004 Mate/onmate is ongheware.
+
+
+d2_II,07_0001 Seghdy uws ghesellen daet
+d2_II,07_0002 Dies hy hem schaemt dat is quaet
+d2_II,07_0003 Peyst oft het u lief ware
+d2_II,07_0004 Die uwe schande maeckt openbare.
+
+
+d2_II,08_0001 Sone en merckt die sonde niet
+d2_II,08_0002 Diemen den quaden doen siet/
+d2_II,08_0003 Want den tijt sal comen saen
+d2_II,08_0004 Dat zijs loon sullen ontfaen.
+
+
+d2_II,13_0001 Sone ick verbiede u nijdichede
+d2_II,13_0002 Want sy hevet quade zede
+d2_II,13_0003 Wie datse draghet Godt weet
+d2_II,13_0004 Hem comter af groot leet.
+
+
+d2_III,16_0001 Ghy sult hebben vasten moet/
+d2_III,16_0002 Wanneer men u onrecht doet
+d2_III,16_0003 Soo bidt den rechter dat hy dy
+d2_III,16_0004 Door uwen dienst behulpich sy.
+
+
+d2_II,21_0001 Dat u in dronckenschap gheschiet
+d2_II,21_0002 Dat en laet onghebetert niet
+d2_II,21_0003 Wanter af hier te voren
+d2_II,21_0004 Van noy is comen ende toren.
+
+
+d2_II,17_0001 Als ghy hebt den cost weer
+d2_II,17_0002 Ende teerens dan ghy badt heer
+d2_II,17_0003 Soo spaert/ want saen ghelijdet
+d2_II,17_0004 Haven diemen niet en mijdet.
+
+
+
+
+
+d2_II,24_0001 Merckt wel dat mach u deeren/
+d2_II,24_0002 Bewaert oft ghy moghet beweeren
+d2_II,24_0003 Hy is sot die comen siet
+d2_II,24_0004 Het ongheval en niet en vliet.
+
+
+d2_II,26_0001 Die wat hevet dat hem becomt
+d2_II,26_0002 Hout hijt wel ick jont hem vroet
+d2_II,26_0003 Hy is sot die in sijn hant heeft goet
+d2_II,26_0004 Ende leydt dat onder zijnen voet.
+
+
+d2_II,28_0001 Somwijlen sult ghy u goet
+d2_II,28_0002 Sparen als die vroede doet
+d2_II,28_0003 Die soeckt altoos sulcke gheclach
+d2_II,28_0004 Hoe hy met eeren leven mach.
+
+
+d2_II,29_0001 Ghy en sult alleene niet ontslaen
+d2_II,29_0002 Trecht dat langhe heeft ghestaen
+d2_II,29_0003 Die verweckt zijnen ghebuere
+d2_II,29_0004 Het wort hem dicwils al te suere.
+
+
+d2_III,01_0001 Sone leer in uwen sin
+d2_III,01_0002 Dat daer woone wijsheydt in
+d2_III,01_0003 Die met sonden leyr zijn leven
+d2_III,01_0004 Het is qualijcken met hem becleven.
+
+
+d2_III,21_0001 Sone oft ghy vroet wilt zijn
+d2_III,21_0002 Soo t'herte in goeder maten dijn
+d2_III,21_0003 Hy is sot diet zijne verteert
+d2_III,21_0004 Ende aenden vremden hem gheneert.
+
+
+d2_III,21bis_0001 Lieve sone wacht u dies
+d2_III,21bis_0002 Dat ghy biddet niet en plies
+d2_III,21bis_0003 Ick segt u hoet int landt steet
+
+
+
+d2_III,21bis_0004 Die vele bidt hy worde leedt.
+
+
+d2_III,22_0001 Die doodt en suldy ghy haten niet
+d2_III,22_0002 Door een pijne die soo vliet
+d2_III,22_0003 Die sy/recht over die quade
+d2_III,22_0004 Al comt hy dicke te spade.
+
+
+d2_III,24_0001 Ghy sult met uwen sin allegader
+d2_III,24_0002 eeren Moeder ende Vader
+d2_III,24_0003 Godt seyt diese belghen doet
+d2_III,24_0004 Dat hem te pijne worden moet.
+
+
+d2_independent stanza_0001 Sone dit is den besten schat.
+d2_independent stanza_0002 Die ick hebbe/ende om dat
+d2_independent stanza_0003 soo heet ick ende bevele dy
+d2_independent stanza_0004 Dat hy altoos met u sy.
+
+
+d2_epilogue_0001 Ghy goede lieden die dese reden
+d2_epilogue_0002 Hebt ghehoort doet u ghebeden
+d2_epilogue_0003 Ootmoedelijck tot uwen heere
+d2_epilogue_0004 Bidt hem dat hy u leere
+d2_epilogue_0005 Ende lichten soo uwen sin
+d2_epilogue_0006 Dat daer woone wijsheyt in.
+d2_epilogue_0007 Die dit maeckten uyten Latijne
+d2_epilogue_0008 In duytsche/begheert te zijne
+d2_epilogue_0009 In u ghebeden vroech ende spade
+d2_epilogue_0010 bidt Godt dat hy hem doe ghenade.
+
+Line_number 0011 is missing
+
+Line_number 0012 is missing
+
+Line_number 0013 is missing
+
+Line_number 0014 is missing
+
+Line_number 0015 is missing
+d2_epilogue_0016 FINIS.
+
+
+d2_approbation_0001 Dit boecxken is gevisiteert ende geapprobeert byden // eerweerdigen Heer Symon de planen.
+

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000002897 and on Kienhorst, H. (2005). Lering en stichting op klein formaat. Middelnederlandse rijmteksten in eenkolomsboekjes van perkament. II Handschriften. Leuven: Peeters, pp. 25-31.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Berlin</settlement>
+            <institution>Staatsbibliothek Preussischer Kulturbesitz</institution>
+            <idno>Ms. germ. fol. 751.8</idno>
+            <msName>b</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="2r" to="6v"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="single-quire manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="6"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="174"/>
+                              <width unit="mm" quantity="113"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1III(6)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="27" ruledLines="27">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="134"/>
+                              <width unit="mm" quantity="73"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4,9" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic letter (red) as strophic separation (but only 3 times); colour-stroking (red) first letters</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.3/4 remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>ca. 1380 or 1400-1450</origDate>
+<origPlace>South-West Brabant</origPlace>
+</origin></history>
+</msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="b.f31r" n="31r"/>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,03">
+<lb n="1" xml:id="bf31r.1"/><l n="b_I,03_0001"><hi rend="capitalsize1">W</hi>achti dat men niet en seghet</l>
+<lb n="2" xml:id="bf31r.2"/><l n="b_I,03_0002"><hi rend="capitalsize1">D</hi>at vele talen an di leghet</l>
+<lb n="3" xml:id="bf31r.3"/><l n="b_I,03_0003"><hi rend="capitalsize1">W</hi>ant menegherande tale</l>
+<lb n="4" xml:id="bf31r.4"/><l n="b_I,03_0004"><hi rend="capitalsize1">E</hi>n voecht niement goeders wale</l>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="5" xml:id="bf31r.5"/><l n="b_I,04_0001"><hi rend="capitalsize1">S</hi>one doet als die wise doet</l>
+<lb n="6" xml:id="bf31r.6"/><l n="b_I,04_0002"><hi rend="capitalsize1">D</hi>ie heeft ghestadeliken moet</l>
+<lb n="7" xml:id="bf31r.7"/><l n="b_I,04_0003"><hi rend="capitalsize1">D</hi>er lachtert dat een hier seget</l>
+<lb n="8" xml:id="bf31r.8"/><l n="b_I,04_0004"><hi rend="capitalsize1">D</hi>ies men ginder niet en pleghet</l>
+</lg>
+<lg type="disticha" n="I,07">
+<lb n="9" xml:id="bf31r.9"/><l n="b_I,07_0001"><hi rend="capitalsize1">E</hi>enradich enede sachte</l>
+<lb n="10" xml:id="bf31r.10"/><l n="b_I,07_0002"><hi rend="capitalsize1">S</hi>altu wesen in dine ghedachte</l>
+<lb n="11" xml:id="bf31r.11"/><l n="b_I,07_0003"><hi rend="capitalsize1">H</hi>i es sot die sijn ghepeyns</l>
+<lb n="12" xml:id="bf31r.12"/><l n="b_I,07_0004"><hi rend="capitalsize1">D</hi>en liden seghet haer ende gheyns</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="13" xml:id="bf31r.13"/><l n="b_I,05_0001"><hi rend="capitalsize1">E</hi>n <choice><abbr>m<g ref="#apomod"/>ket</abbr><expan>m<ex>er</ex>ket</expan></choice> niemans quade daet</l>
+<lb n="14" xml:id="bf31r.14"/><l n="b_I,05_0002"><hi rend="capitalsize1">W</hi>ant vele merkens dats quaet</l>
+<lb n="15" xml:id="bf31r.15"/><l n="b_I,05_0003"><hi rend="capitalsize1">B</hi>eide en es man noch wijf</l>
+<lb n="16" xml:id="bf31r.16"/><l n="b_I,05_0004"><hi rend="capitalsize1">D</hi>ie sonder sonde leit sijn lijf</l>
+</lg>
+<lg type="disticha" n="I,06">
+<lb n="17" xml:id="bf31r.17"/><l n="b_I,06_0001"><hi rend="capitalsize1">H</hi>euestu dat yemant deert</l>
+<lb n="18" xml:id="bf31r.18"/><l n="b_I,06_0002"><hi rend="capitalsize1">D</hi>och van di hi es sot dies gheert</l>
+<lb n="19" xml:id="bf31r.19"/><l n="b_I,06_0003"><hi rend="capitalsize1">O</hi>m dat hem luttel helpen mach</l>
+<lb n="20" xml:id="bf31r.20"/><l n="b_I,06_0004"><hi rend="capitalsize1">D</hi>en lieden te doene quaet ghelach</l>
+</lg>
+<lg type="disticha" n="I,08">
+<lb n="21" xml:id="bf31r.21"/><l n="b_I,08_0001"><hi rend="capitalsize1">G</hi>heloeft niet als dijn wijf tonrechte</l>
+<lb n="22" xml:id="bf31r.22"/><l n="b_I,08_0002"><hi rend="capitalsize1">C</hi>laghet ouer dine knechte</l>
+<lb n="23" xml:id="bf31r.23"/><l n="b_I,08_0003"><hi rend="capitalsize1">W</hi>ant der wiuen syn ghenoech</l>
+<lb n="24" xml:id="bf31r.24"/><l n="b_I,08_0004"><hi rend="capitalsize1">D</hi>ie tsmans vrient sijn tongheuoech</l>
+</lg>
+<lg type="disticha" n="I,10">
+<lb n="25" xml:id="bf31r.25"/><l n="b_I,10_0001"><hi rend="capitalsize1">D</hi>une salt met talen no <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> spraken</l>
+<lb n="26" xml:id="bf31r.26"/><l n="b_I,10_0002"><hi rend="capitalsize1">G</hi>hescelt ieghen den quaden <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice></l>
+<lb n="27" xml:id="bf31r.27"/><l n="b_I,10_0003"><hi rend="capitalsize1">E</hi>n steet <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>goede<g ref="#bar"/></abbr><expan>goede<ex>n</ex></expan></choice> man niet wale</l>
+
+
+<pb xml:id="b.f31v" n="31v"/>
+<lb n="1" xml:id="bf31v.1"/><l n="b_I,10_0004"><hi rend="capitalsize1">I</hi>eghen hem te hebbene tale</l>
+</lg>
+<lg type="disticha" n="I,11">
+<lb n="2" xml:id="bf31v.2"/><l n="b_I,11_0001"><hi rend="capitalsize1">M</hi>jnne die ghene die di minnen</l>
+<lb n="3" xml:id="bf31v.3"/><l n="b_I,11_0002"><hi rend="capitalsize1">D</hi>ie du wel does laet hem <choice><abbr>beke<g ref="#bar"/>nen</abbr><expan>beke<ex>n</ex>nen</expan></choice></l>
+<lb n="4" xml:id="bf31v.4"/><l n="b_I,11_0003"><hi rend="capitalsize1">H</hi>i es sot die der te <damage><gap></gap></damage>nste staet</l>
+<lb n="5" xml:id="bf31v.5"/><l n="b_I,11_0004"><hi rend="capitalsize1">D</hi>aert hem te scanden aluergaet</l>
+</lg>
+<lg type="disticha" n="I,13">
+<lb n="6" xml:id="bf31v.6"/><l n="b_I,13_0001"><hi rend="capitalsize1">D</hi>atmen die be<damage><gap></gap></damage> heeft</l>
+<lb n="7" xml:id="bf31v.7"/><l n="b_I,13_0002"><hi rend="capitalsize1">E</hi>er die tijt compt datme<damage><gap></gap></damage>eeft</l>
+<lb n="8" xml:id="bf31v.8"/><l n="b_I,13_0003"><hi rend="capitalsize1">E</hi>n saltu niet beheten voert</l>
+<lb n="9" xml:id="bf31v.9"/><l n="b_I,13_0004"><hi rend="capitalsize1">W</hi>antmen lieghet vele woert</l>
+</lg>
+<lg type="disticha" n="I,14">
+<lb n="10" xml:id="bf31v.10"/><l n="b_I,14_0001"><hi rend="capitalsize1">A</hi>ls di yemant gheuet lof</l>
+<lb n="11" xml:id="bf31v.11"/><l n="b_I,14_0002"><hi rend="capitalsize1">E</hi>n wes te blider niet der of</l>
+<lb n="12" xml:id="bf31v.12"/><l n="b_I,14_0003"><hi rend="capitalsize1">D</hi>ie vroede merket ende verstaet</l>
+<lb n="13" xml:id="bf31v.13"/><l n="b_I,14_0004"><hi rend="capitalsize1">E</hi>er hi van yemant lof ontfaet</l>
+</lg>
+<lg type="disticha" n="I,15">
+<lb n="14" xml:id="bf31v.14"/><l n="b_I,15_0001"><hi rend="capitalsize1">A</hi>ls een ander man doet wel</l>
+<lb n="15" xml:id="bf31v.15"/><l n="b_I,15_0002"><hi rend="capitalsize1">D</hi>at onhoude ende vertel</l>
+<lb n="16" xml:id="bf31v.16"/><l n="b_I,15_0003"><hi rend="capitalsize1">D</hi>oestu wel so swigher of</l>
+<lb n="17" xml:id="bf31v.17"/><l n="b_I,15_0004"><hi rend="capitalsize1">S</hi>o saltu hebben goeden lof</l>
+</lg>
+<lg type="disticha" n="I,16">
+<lb n="18" xml:id="bf31v.18"/><l n="b_I,16_0001"><hi rend="capitalsize1">D</hi>ie wile dattu best ionghelinc</l>
+<lb n="19" xml:id="bf31v.19"/><l n="b_I,16_0002"><hi rend="capitalsize1">D</hi>oet meneghe goede dinc</l>
+<lb n="20" xml:id="bf31v.20"/><l n="b_I,16_0003"><hi rend="capitalsize1">D</hi>atmen dijns te goede ghe<damage><gap></gap></damage></l>
+<lb n="21" xml:id="bf31v.21"/><l n="b_I,16_0004"><hi rend="capitalsize1">A</hi>ls di naken d<damage><gap></gap></damage> daghe</l>
+</lg>
+<lg type="disticha" n="I,17">
+<lb n="22" xml:id="bf31v.22"/><l n="b_I,17_0001"><hi rend="capitalsize1">E</hi>n merket niet wat eni<damage><gap></gap></damage></l>
+<lb n="23" xml:id="bf31v.23"/><l n="b_I,17_0002"><hi rend="capitalsize1">S</hi>tilkine gherunen can</l>
+<lb n="24" xml:id="bf31v.24"/><l n="b_I,17_0003"><hi rend="capitalsize1">W</hi>ant die quade waent <damage><gap></gap></damage>es</l>
+<lb n="25" xml:id="bf31v.25"/><l n="b_I,17_0004"><hi rend="capitalsize1">W</hi>atmen ruynt dat van hem es</l>
+</lg>
+<lg type="disticha" n="I,18">
+<lb n="26" xml:id="bf31v.26"/><l n="b_I,18_0001"><hi rend="capitalsize1">A</hi>lst compt dattu heues ghenoch</l>
+<lb n="27" xml:id="bf31v.27"/><l n="b_I,18_0002"><hi rend="capitalsize1">H</hi>auen houtu mit gheuoch</l>
+
+
+<pb xml:id="b.f32r" n="32r"/>
+<lb n="1" xml:id="bf32r.1"/><l n="b_I,18_0003"><hi rend="capitalsize1">W</hi>ant heden es een man rike</l>
+<lb n="2" xml:id="bf32r.2"/><l n="b_I,18_0004"><hi rend="capitalsize1">M</hi>orghen steet hem com<damage><gap></gap></damage>rlike</l>
+</lg>
+<lg type="disticha" n="I,19">
+<lb n="3" xml:id="bf32r.3"/><l n="b_I,19_0001"><hi rend="capitalsize1">H</hi>j es sotter dan een queker hoet</l>
+<lb n="4" xml:id="bf32r.4"/><l n="b_I,19_0002"><hi rend="capitalsize1">D</hi>ie hoept op eens anders doot</l>
+<lb n="5" xml:id="bf32r.5"/><l n="b_I,19_0003"><hi rend="capitalsize1">W</hi>ant alle liede jonc ende out</l>
+<lb n="6" xml:id="bf32r.6"/><l n="b_I,19_0004"><hi rend="capitalsize1">S</hi>ijn haers leuens on<damage><gap></gap></damage>w<damage><gap></gap></damage></l>
+</lg>
+<lg type="disticha" n="I,23">
+<lb n="7" xml:id="bf32r.7"/><l n="b_I,23_0001"><hi rend="capitalsize1">A</hi><damage><gap></gap></damage> heues <damage><gap></gap></damage>es <damage><gap></gap></damage></l>
+<lb n="8" xml:id="bf32r.8"/><l n="b_I,23_0002"><hi rend="capitalsize1">D</hi>attu en heues ghenen <damage><gap></gap></damage>ent</l>
+<lb n="9" xml:id="bf32r.9"/><l n="b_I,23_0003"><hi rend="capitalsize1">D</hi>at en saltu gode <unclear>witen</unclear> niet</l>
+<lb n="10" xml:id="bf32r.10"/><l n="b_I,23_0004"><hi rend="capitalsize1">W</hi>ant hem es leet datti messciet</l>
+</lg>
+<lg type="disticha" n="I,24">
+<lb n="11" xml:id="bf32r.11"/><l n="b_I,24_0001"><hi rend="capitalsize1">V</hi>an dien datti es bleuen</l>
+<lb n="12" xml:id="bf32r.12"/><l n="b_I,24_0002"><hi rend="capitalsize1">S</hi>altu vroedelike leuen</l>
+<lb n="13" xml:id="bf32r.13"/><l n="b_I,24_0003"><hi rend="capitalsize1">W</hi>es altos so ond<damage><gap></gap></damage></l>
+<lb n="14" xml:id="bf32r.14"/><l n="b_I,24_0004"><hi rend="capitalsize1">D</hi>atti niet en mach ghebreken</l>
+</lg>
+<lg type="disticha" n="I,28">
+<lb n="15" xml:id="bf32r.15"/><l n="b_I,28_0001"><hi rend="capitalsize1">H</hi>euestu kynder sonder goet</l>
+<lb n="16" xml:id="bf32r.16"/><l n="b_I,28_0002"><hi rend="capitalsize1">D</hi>oet als die vroede doet</l>
+<lb n="17" xml:id="bf32r.17"/><l n="b_I,28_0003"><hi rend="capitalsize1">D</hi>ie sinen kinderen <damage><gap></gap></damage>acht leert</l>
+<lb n="18" xml:id="bf32r.18"/><l n="b_I,28_0004"><hi rend="capitalsize1">A</hi>ls <add>noet</add> h<damage><gap></gap></damage>ft hem <damage><gap></gap></damage> keert</l>
+</lg>
+<lg type="disticha" n="I,29">
+<lb n="19" xml:id="bf32r.19"/><l n="b_I,29_0001"><hi rend="capitalsize1">D</hi>attu <damage><gap></gap></damage> minnen</l>
+<lb n="20" xml:id="bf32r.20"/><l n="b_I,29_0002"><hi rend="capitalsize1">N</hi>iet teseere mar oec yet</l>
+<lb n="21" xml:id="bf32r.21"/><l n="b_I,29_0003"><hi rend="capitalsize1">D</hi>attu hates saltu haten</l>
+<lb n="22" xml:id="bf32r.22"/><l n="b_I,29_0004"><hi rend="capitalsize1">N</hi>iet te seere mar te maten</l>
+</lg>
+<lg type="disticha" n="I,31">
+<lb n="23" xml:id="bf32r.23"/><l n="b_I,31_0001"><hi rend="capitalsize1">A</hi>lstu biddes bedencti des</l>
+<lb n="24" xml:id="bf32r.24"/><l n="b_I,31_0002"><hi rend="capitalsize1">D</hi>attu bidts dat te gheuen es</l>
+<lb n="25" xml:id="bf32r.25"/><l n="b_I,31_0003"><hi rend="capitalsize1">D</hi>ie bidt datmen <damage><gap></gap></damage> gheuen en mach</l>
+<lb n="26" xml:id="bf32r.26"/><l n="b_I,31_0004"><hi rend="capitalsize1">D</hi>ie vijnt dicke quaet ghelach</l>
+</lg>
+<lg type="disticha" n="I,33">
+<lb n="27" xml:id="bf32r.27"/><l n="b_I,33_0001"><hi rend="capitalsize1">N</hi>a dattu dine tide naken</l>
+
+
+<pb xml:id="b.f32v" n="32v"/>
+<lb n="1" xml:id="bf32v.1"/><l n="b_I,33_0002"><hi rend="capitalsize1">S</hi>altu dine tere maken</l>
+<lb n="2" xml:id="bf32v.2"/><l n="b_I,33_0003"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dinen cost meer noch min</l>
+<lb n="3" xml:id="bf32v.3"/><l n="b_I,33_0004"><hi rend="capitalsize1">N</hi>a dien dattu heues ghewin</l>
+</lg>
+<lg type="disticha" n="II,07">
+<lb n="4" xml:id="bf32v.4"/><l n="b_II,07_0001"><hi rend="capitalsize1">S</hi>one seghestu dijns ghesellen daet</l>
+<lb n="5" xml:id="bf32v.5"/><l n="b_II,07_0002"><hi rend="capitalsize1">D</hi>ies hi hem scaemt dat es quaet</l>
+<lb n="6" xml:id="bf32v.6"/><l n="b_II,07_0003"><hi rend="capitalsize1">D</hi>eynsti lief ware</l>
+<lb n="7" xml:id="bf32v.7"/><l n="b_II,07_0004"><hi rend="capitalsize1">D</hi>ie dine scande macte mare</l>
+</lg>
+<lg type="disticha" n="II,17">
+<lb n="8" xml:id="bf32v.8"/><l n="b_II,17_0001"><hi rend="capitalsize1">A</hi>lstu heues cost meer</l>
+<lb n="9" xml:id="bf32v.9"/><l n="b_II,17_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> terens dan du <damage><gap></gap></damage> eer</l>
+<lb n="10" xml:id="bf32v.10"/><l n="b_II,17_0003"><hi rend="capitalsize1">S</hi>o spare want saen g<damage><gap></gap></damage>det</l>
+<lb n="11" xml:id="bf32v.11"/><l n="b_II,17_0004"><hi rend="capitalsize1">H</hi>auen dimen niet en <damage><gap></gap></damage>inde</l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="12" xml:id="bf32v.12"/><l n="b_II,21_0001"><hi rend="capitalsize1">D</hi>atti in dronkenscapen ghesciet</l>
+<lb n="13" xml:id="bf32v.13"/><l n="b_II,21_0002"><hi rend="capitalsize1">D</hi>at en laet onghebetert niet</l>
+<lb n="14" xml:id="bf32v.14"/><l n="b_II,21_0003"><hi rend="capitalsize1">W</hi>ant daer hier te voren</l>
+
+<note n="b_II,21_0004">Line_number 0004 is missing</note>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="15" xml:id="bf32v.15"/><l n="b_I,40_0001"><hi rend="capitalsize1">B</hi>eide nemen ende gheuen</l>
+<lb n="16" xml:id="bf32v.16"/><l n="b_I,40_0002"><hi rend="capitalsize1">E</hi>s haer sede die nv leuen</l>
+<lb n="17" xml:id="bf32v.17"/><l n="b_I,40_0003"><hi rend="capitalsize1">M</hi>et eren sone doet also</l>
+<lb n="18" xml:id="bf32v.18"/><l n="b_I,40_0004"><hi rend="capitalsize1">S</hi>o machtu blide sijn ende vroe</l>
+</lg>
+<lg type="disticha" n="II,Pa">
+<lb n="19" xml:id="bf32v.19"/><l n="b_II,Pa_0001"><hi rend="capitalsize1">W</hi>iltu di sone daer toe keren</l>
+<lb n="20" xml:id="bf32v.20"/><l n="b_II,Pa_0002"><hi rend="capitalsize1">D</hi>attu dorpers seden wilt leren</l>
+<lb n="21" xml:id="bf32v.21"/><l n="b_II,Pa_0003"><hi rend="capitalsize1">V</hi>irgilius heuet albescreuen</l>
+<lb n="22" xml:id="bf32v.22"/><l n="b_II,Pa_0004"><hi rend="capitalsize1">H</hi>oe dat die wijs dorpers leuen</l>
+</lg>
+<lg type="disticha" n="II,Pb">
+<lb n="23" xml:id="bf32v.23"/><l n="b_II,Pb_0001"><hi rend="capitalsize1">W</hi>iltu oec leren medicine</l>
+<lb n="24" xml:id="bf32v.24"/><l n="b_II,Pb_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> een goet arsatere te sine</l>
+<lb n="25" xml:id="bf32v.25"/><l n="b_II,Pb_0003"><hi rend="capitalsize1">M</hi>ater heuet <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> al</l>
+<lb n="26" xml:id="bf32v.26"/><l n="b_II,Pb_0004"><hi rend="capitalsize1">W</hi>atmen daer toe pleghen sal</l>
+</lg>
+<lg type="disticha" n="II,Pc">
+<lb n="27" xml:id="bf32v.27"/><l n="b_II,Pc_0001"><hi rend="capitalsize1">W</hi>ltu di des onderwinden</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

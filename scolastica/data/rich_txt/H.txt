@@ -1,0 +1,940 @@
+_sample1_
+&7vb&
+00591 <T_3><E>n stonde(n) en(de) ter seluer vre(n)
+00592 <W>as van allen creature(n)
+00593 <D>at verstaet van allen beesten
+00594 <T>serpent luchstichste na den geesten
+00595 <E>n(de) dat scalkeste oec van synne
+00596 <W>ant die duuel wasser y(n)ne
+00597 <W>ant doe lucifer die scoene
+00598 <W>art geworpen vande(n) trone
+00599 <H>ad hijs niet in alre wijs
+00600 <D>at adam was int paradijs
+00601 <E>n(de) peynsede hoe hyne vte dede steken
+00602 <D>ade hy hem tgebod gods breken
+00603 <S>oe moste hy vte peynsede hy dan
+00604 <M>er dat hy ontsach die man
+00605 <D>es ginck hy yerst totten wiue
+00606 <O>m dat se cranck was van liue
+00607 <M>itten serpent heeft hy bestaen
+00608 <W>ant dat plach doe sonder waen
+00609 <O>p en(de) neder rechte gaen
+&8ra&
+00610 <R_1>echt nae des me(n)sche(n) gedaen
+00611 <B>eda scrijft die clerc was dire
+00612 <E>t was een serpents maniere
+00613 <G>heaensicht als een ioncfrouwe
+00614 <V>te hem sprac die ongetrouwe
+00615 <A>ls hy nv duet wildijt weten
+00616 <V>te dien die hij heeft beseten
+00617 <E>n(de) hy seide dat gebot
+00618 <W>aer o(m)me soe gauet v god
+00619 <D>at ghi van alden houte gemene
+00620 <N>uttet sonder van een allene
+00621 <D>it vragede hy wa(n)t na haer a(n)tworde
+00622 <S>oe visierde hy sijn moerde
+00623 <S>i sprac omdat wy by aue(n)turen
+00624 <D>ie doot nyet en soude(n) besuere(n)
+00625 <D>oe si by aue(n)ture(n) seide
+00626 <M>ercte hy wal haer crancheide
+00627 <D>at sy vaste niet en gelouede
+00628 <E>n(de) seyde vte serpents houede
+00629 <N>een ghy en blijft daer nyet om doot
+00630 <M>er hy weet wel die here groot
+00631 <W>a(n)ner ghy daer af hebt geten
+00632 <S>oe suldi vroden en(de) weten
+00633 <V>roetscap als of gode waert
+00634 <E>ua wart verhouaert
+00635 <W>ant si gode waende geliken
+00636 <S>y sach den scone(n) boem de(n) rijcke(n)
+00637 <E>n(de) die vrucht scoen en(de) sachte
+00638 <S>y at dat sy sinder becofte
+00639 <E>n(de) boet adam hare(n) man
+00640 <D>ie misschien merke(n) began
+00641 <D>at sy to hant nyet en bleef doot
+00642 <N>ochtan wiste hy wel al bloot
+00643 <W>at quade daer off soude komen
+00644 <D>us ist bescreue(n) van hem so(m)men
+00645 <E>n(de) at wat he(m) daer af sal gescien
+&8rb&
+00646 <H_1>aer ogen ontdeden sy myt dien
+00647 <N>yet dat sy blijnt hadden gewesen
+00648 <M>aer haer lust verroerde in desen
+00649 <J>n die natuerlike lede
+00650 <D>at sy toe voeren nyet en dede
+00651 <E>n(de) begonde(n) hem toe scame(n)
+00652 <V>an haren naecten misschame(n)
+00653 <D_2><O>e name(n) sy myt ghemene(n) rade
+00654 <B>eide gader vige blade
+00656 <E>n(de) gorde se om haer scamelhede
+00655 <A>ldus decten sy haer lede
+00657 <D>aer sy saten onder die rijse
+00658 <H>oerden sy inden paradijse
+00659 <G>ode wanderen daer hi quam
+00660 Ø
+00661 <H>ere seit hy doe ic had verstaen
+00662 <D>ijn ste(m)me verueerdic my saen
+00663 <E>n(de) scaemde my door das
+00664 <O>m dat ic soe naect was
+00665 <G>od sprac wie heeft dat gewijst
+00666 <D>attu di ghespijst
+00667 <H>eues myt dat ic di verboet
+00668 <D>oe sprac adam dwaesheit groot
+00669 <A>ls of hij gode sijn misdaet
+00670 <W>ilde tien en(de) sijn quaet
+00671 <T>wijf dattu my gaues sprac hy
+00672 <G>aft my en(de) ic at daer by
+00673 <A>ls of hy meende het waer bleue(n)
+00674 <E>n haddestu se my niet gegeue(n)
+00675 <D>oe sprac god tot haer dies at
+00676 <W>aer om soe daetstu dat
+00677 <D>oe teget eua den serpent
+00678 <M>er van alle den parlament
+00679 <D>roech haer meninghe vander tael
+00680 <G>ode te tien alte mael
+00681 <D_2><O>e adam vander reynre aerde
+00682 <W>as gemaect van groot[er] waerde
+00683 <D>ie nye smit had ontfaen
+00684 <N>och oeck nye was ondaen
+&8va&
+00685 <N>och myt plogen noch myt spade(n)
+00686 <N>och besmit myt ghiene(n) ondaden
+00687 <B>eteykent die reyne marie
+00688 <D>ie sonder enige dorpernye
+00689 <H>aer reyne vleisch in reyne(n) liue
+00690 <N>yet als plegen ander wiue
+00691 <J>hesus droech sy en(de) wan
+00692 <O>nbesmit van allen man
+00693 <G>helijcke wijs dat oec adam
+00694 <D>es sesten dages ter werelt qua(m)
+00695 <A>lso was ihesus ons troest v[er]core(n)
+00696 <J>nder sester ewe gebore(n)
+00697 <D_2><E>n serpe(n)te vragede hy niet
+00698 <B>ute(n) sijn raet ist gesciet
+00699 <W>ant by des duuels raet qua(m)t al
+00700 <D>oe vloecte hy als ic scriue(n) sal
+00701 <W>ant hijt ant serpent began
+00702 <E>n(de) leide hem drie vloken an
+00703 <O>m dat drie sijns mysdede
+00704 <J>erste in die nidichede
+00705 <D>ander om dat hijt loech
+00706 <D>erde om dat hy den man bedroech
+00707 <D>es wast aldus v[er]maledijt
+00708 <H>et was oms me(n)sche(n) hoecheit nijt
+00709 <D>aer o(m)me seide god dus saen
+00710 <O>p dijn burst soe saltu gaen
+00711 <V>an logene(n) sloech god inde(n) mont
+00712 <E>n(de) sprac du salte talre stont
+00713 <E>erde eten al dijn leue(n)
+00714 <D>at luut dat hem was gegeue(n)
+00715 <N>am hem god aldaer ter stede
+00716 <E>n(de) gaf den mont venijn mede
+00717 <V>an droghene gaf hi hem dat
+00718 <J>c sprac god daer ter stat
+00719 <V>iantscap setten sonder blijf
+00720 <T>usschen di is dat wijf
+00721 <S>y sal op dijn hoeft treden
+00722 <E>n(de) du salte oec tot alle(n) steden
+00723 <H>oer en(de) hoer geslachte lagen
+&8vb&
+00724 <D_1>ese woerde mach me(n) draghen
+00725 <T>otter moder gods marien
+00726 <D>ie den duuel myt sijnre {par}tien
+00727 <A>ltoes dwinget en(de) iaget
+00728 <A>l is dat hi se iaget
+00729 <R_2><E>cht als die man duet en(de) pijn
+00730 <O>ntfaet vandes serpents venijn
+00731 <A>lso mach smen(s)chen nuchtere(n) spu
+00732 <D>at serpent doden seg ic v
+00733 <O>m dat se beide naect ware(n)
+00734 <S>oe vliet noch serpent twaren
+00735 <D>en naecte(n) me(n)schen waer hi gecleet
+00736 <S>oe soute(n) veninen ghereet
+00737 <J>n tween saken misdede dat wijf
+00738 <S>i was houerdich int lijf
+00739 <D>aer o(m)me sette se god
+00740 <A>ltoes toe sijn onders mans gebod
+00741 <O>m dat se at verboden spijse
+00742 <D>at becoft se in sulker wijse
+00743 <D>at sy myt rouwe(n) des kijnts genees
+00744 <O>m den appel boet daer me(n) va(n) leest
+00745 <O_2><M> dat adam in eenre wijse
+00746 <A>lleen mysdade an die spijse
+00747 <D>es gheneert hem noch myt arbeide
+00748 <D>ie man in busch en(de) inder heide
+00749 <D>ie aerde was geuloect ghenoech
+00750 <O>m dat sy die vrucht droech
+00751 <D>es draget sy noch in onse(n) toern
+00752 <B>eide distel en(de) doern
+00753 <D_2><O>e maecte god yeue(n) en(de) adam
+00754 <O>m te decken haer scaem
+00755 <T>we rocke(n) van beesten vellen
+00756 <E>n(de) meender mede als wij tellen
+00757 <D>it decsel is van doden dieren
+00758 <E>n(de) du biste steerflic na manieren
+00759 <D>oe sprac god nv is adam gemaect
+00760 <A>ls een van ons wijs en(de) geraect
+00761 <D>it was gelijc als in ene(n) spot
+00762 <O>m dat hij wilde wesen god
+&9ra&
+00763 <O_1>m dat hi waerlic weet
+00764 <Q>uaet en(de) guet en(de) ondersceet
+00765 <N>u stiet hyne vten paradijse
+00766 <D>at hy niet en ete die spijse
+00767 <D>ie is an dat leue(n)de hout
+00768 <E>n(de) hy altoes leuede bout
+00769 <E>n(de) dit en darf v wondere(n) niet
+00770 <D>at dit vande(n) houte gesciet
+00771 <W>ant sulc ylant is onder den dach
+00772 <D>aer ghien me(n)sche sterue(n) en mach
+00773 <J>nt lant van seres segic v
+00774 <E>en dinc an boem die is ru
+00775 <D>aerme(n) mede v[er]lenget dat lijf
+00776 <E>n(de) alexander sonder blijf
+00777 <S>creef tot aristotiles
+00778 <D>atter sonne(n) boem volc es
+00779 <D>ie lange leue(n) vter maten
+00780 Ø
+00780a hier warp god adam ende
+00780b eua vten paradise
+00781 <G_2><O>d stake(n) vten paradise
+00782 <O>m dat hi soude nae dorpers wise
+00783 <D>ie eerde bouwen daer hy to voren
+00784 <A>f was gemaect nu suldi hore(n)
+00785 <V>an wat lande hy gemaect was
+00786 <V>ten lande van damas
+00787 <E>n(de) daer was hy en(de) sijn wijf
+00788 <B>eide bedolue(n) nae haer lijf
+00789 <D>at heit in spelu(n)ca duplici
+00790 <A>lso noemt die bible my
+00791 <J>n dien acker sloech also wel
+00792 <C>ayn doet syne(n) brueder abel
+00793 <V>oert paradijs sette onse here
+00794 <C>herubin die den duuel kere
+00795 <D>at hy daer nu(m)mer in en vaert
+00796 <H>y had oec een vur[e]ch swaert
+00797 <D>at vuer den wech den man benaeme
+00798 <D>atter en ghien in en quame
+00799 <D>at swaert is ker[en]de genant
+00800 <T>en is el niet dan een brant
+&9rb&
+00801 <E>en vueren muer daer om gheet
+00802 <D>aer om yst dat k[er]ende beduut
+00803 <O>m dat god wal duen mocht
+00804 <W>a(n)neer hem dat tijt docht
+00805 <D>at was een starck wijch to same(n)
+00806 <D>oerre enoch en(de) elyas i(n) quame(n)
+00807 <M>er dat bloet dat sint liep
+00808 <W>t ons he[re]n wonden diep
+00809 <J>n sijnre passien deet al wt
+00810 <D>es ysser menige salige bruut
+00811 <V>an gods halue(n) sint in gecome(n)
+00812 <D>ie haer loen heeft ghenome(n)
+____
+_sample2_
+&48vb&
+07303 <E_2><C>ht daden sij na sangers doot
+07304 <D>ie van israel sonde groot
+07305 <E>n(de) god liet se dwinghen dan
+07306 <J>abin den coni(n)ck van canaan
+07307 <D>ie in asor coni(n)c was
+07308 <S>ijn maerscalc was sysaras
+07309 <D>ese hadde tfolc =xx= iaer
+07310 <J>n bedwanghe harde swaer
+07311 <D>oe riepen sy op gode myt synne
+07312 <T>ie tijden was een profetynne
+07313 <H>iet delbora woende in effraym
+07314 <S>y riep barach van neptalim
+&49ra&
+07315 <H_1>aren man en(de) seide god
+07316 <D>ie ghebiet dy dit gebod
+07317 <L>eidt to montabor dijn heer
+07318 <E>n(de) sette di daer toe weer
+07319 <T>wintich dusent nym mitti man
+07320 <V>an sabulon van neptalim dan
+07321 <G>od sal dij gheue(n) sekerlike
+07322 <D>aer by dat fyson loept de beke
+07323 <J>n dijn hande sysaras
+07324 <B>arach sprac en doet niet das
+07325 <D>u en willes selue(n) myt my vare(n)
+07326 <J>c doe sprac delbora tware(n)
+07327 <M>er een wijf sal hebn dere
+07328 <S>ysaras qua(m) die mere
+07329 <D>at dat heer waer an porre
+07330 <T>en berghe waert an taborre
+07331 <H>y versamede haestelike
+07332 <T>ot fyson bi der beke
+07333 =.CCC.M.= ghewapender man
+07334 <E>n(de) tien dusent ridders daer an
+07335 <E>n(de) neghen dusent waghene(n) die snide(n)
+07336 <M>it sekelen an beyden syden
+07337 <E>n(de) ander wagen wies so wondert
+07338 <M>it hem ene(n)twintich hondert
+07339 <D>elbora seide tot barach
+07340 <G>anc neder op desen dach
+07341 <S>al di god geue(n) sysaras
+07342 <H>y daelde en(de) dat myt he(m) was
+07343 <E>n(de) delbora stont en(de) bat
+07344 <O>pten berch in ene stat
+07345 <G>od gaf sysarase ene vaer
+07346 <E>n(de) den syne(n) die ware(n) daer
+07347 <W>ijnt hagel en(de) reghen
+07348 <E>n(de) blixen voren hem daertege(n)
+07349 <S>oe dat die slongere(n) en(de) bogen
+07350 <H>em noch cleyn noch groot en doge(n)
+07351 <S>ulc vel van wagen sulc va(n) peerde
+07352 <D>ie wart vertrede(n) op die eerde
+07353 <D>us dede he(m) al theer vlucht
+07354 <S>ysaras vlo dor die vrucht
+07355 <A>l daer aber cyreus
+07356 <W>oende en(de) sijn wijf was in huys
+&49rb&
+07357 <A_1>ber was comen van ietro
+07358 <E>n(de) was daer gheguet also
+07359 <O>nder tfolc van israel
+07360 <A>bers wijf die hiet iahel
+07361 <H>y hadde vrede myt iabin
+07362 <S>ysaras die vloe daer in
+07363 <E>n(de) bat datme(n) daer decke(n) soude
+07364 <O>ec seide hy dat hy drincke(n) woude
+07365 <S>y gaf hem melc en(de) hij sliep vaste
+07366 <D>oe doersloech sy haren gaste
+07367 <M>it en(en) kouter en(de) nagelden daer
+07368 <J>egens die eerde dat is waer
+07369 <M>yt ene(n) yseren nagel
+07370 <J>ahel beteken die behagel
+07371 <E>n(de) die scone maget maria
+07372 <S>ysaras en(de) sijn partie
+07373 <D>ats lucifer en(de) sijn scaer
+07374 <D>ie verwo(n)nen sijn by haer
+07375 <D>ie nagel mach bedude(n) mede
+07376 <D>en sloten haere reynicheden
+07377 <D>aer sij den duuel mede verwan
+07378 <D>at melc dat yahel gaf den man
+07379 <D>at is ihesus menschelichede
+07380 <D>ie lucifer bedroech mede
+07381 <D>en hamer daer sy mede sloech
+07382 <G>helijct den cruce ghenoech
+07383 <B>y marien reynichede
+07384 <E>n(de) by ihesus menschelichede
+07385 <E>n(de) by den cruce is openbaer
+07386 <G>hesconfiert al des duuels scaer
+07387 <D_2><A>er na saen so qua(m) barach
+07388 <J>ahel togede waer hy lach
+07389 <D>oet daer hy also liep naer
+07390 <A>ldus seyde delbora waer
+07391 <D>at een wijf soude hebbe(n) die zeghe
+07392 <B>arach leide theer an weghe
+07393 <J>eghen iabin en(de) sijn here groot
+07394 <D>ien sloech hy al daer doot
+07395 <E>n(de) asors hoeft stede
+07396 <V>elde hy al gader mede
+07397 <B>arach en(de) delbora
+07398 <S>onghe(n) en(de) louede(n) gode daer nae
+&49va&
+07399 <D>ie soe dicke en(de) soe wel
+07400 <B>escudde die van israel
+07401 <D>oe waren sij in vreede(n) daer naer
+07402 <S>onder vechten viertich iaer
+07403 <A_2><P>ollo was in delbora tijde(n)
+07404 <D>ie de heydene lange sijder
+07405 <A>enbeden in menich lant
+07406 <H>y was die yerste die harpe vant
+07407 <E>n(de) die visierde ierst visike
+07408 <D>at was een wijseit rijke
+07409 <E>sculapis vant se oec sijn soen
+07410 <M>it eenre blixeme was die goen
+07411 <V>erbernt en(de) sijn boke mede
+07412 <D>us bleef die behendichede
+07413 <V>erborghen wel wijfhondert iaer
+07414 <T>ot dat se ypocras vant daer naer
+07415 <T>ien tijden maecte oec ylus soem
+07416 <V>an troyen den tor yliom
+07417 <T>ien tijden sloech doet percheus
+07418 <D>en coni(n)ck acrisius
+07419 <E>n(de) maecte coni(n)crijke mede
+07420 <T>ot *iuwer* ouder stede
+07421 <D>at to voren in argos was
+07422 <A>lso als ict bescreue(n) las
+07423 <A_2>nderwarf misdede sere
+07424 <I>srael iegen onse here
+07425 <D>oe liet hijse dwinghe(n) dan
+07426 <D>en luden van madian
+07427 <E>n(de) dien van amalech dats waer
+07428 <D>ie se dwongen seue(n) iaer
+07429 <E>lxs iaers verheret hi haer coern
+07430 <E>n(de) haer guet na(m) hy to vore(n)
+07431 <D>oe riepe(n) sij an gode genade
+07432 <E>n(de) hij heeft hem beraden
+07433 <E>ne(n) {pro}phete die hem saen
+07434 <V>ermaende wat hem was gedaen
+07435 <V>an gode die se node liet
+07436 <M>er syne wolden hore(n) nyet
+07437 <D>oe qua(m) die engel va(n) hemelrijke
+07438 <T>ot ene(n) ioas die was rijcke
+&49vb&
+07439 <E>n(de) had ene(n) soen hiet gedeon
+07440 <D>ie dorste coern om dat duen
+07441 <D>at hijre toe noet by leue(n) woude
+07442 <D>ie engel seide die gods houde
+07443 <S>y myt di in starc alle ma(n)ne
+07444 <G>edeon antwoerde danne
+07445 <O>f god met ons ware twij
+07446 <W>aer ons dongheual dus by
+07447 <D>ie enghel seide my vaer
+07448 <J>c gheue dy cracht en(de) seynde di daer
+07449 <D>attu tfolc van madian
+07450 <T>er doot slaeste als een man
+07451 <G>edeon scheide ouer man
+07452 <E>n(de) seyde en gae van my niet dan
+07453 <E>er ic mach weder totti come(n)
+07454 <H>ij heeft een hokijn ghenome(n)
+07455 <E>n(de) soet en(de) bracht mede broet
+07456 <D>en engel hij die spijse boet
+07457 <D>ie engel hiet hem ouer een
+07458 <D>at hijse leyde op een steen
+07459 <E>n(de) hij tsop daer vp ghiete(n) soude
+07460 <M>aer die engel als hy woude
+07461 <H>ad een roede na mans wijse
+07462 <E>n(de) die stac hy an die spijse
+07463 <E>en vuer quam daer wyten steen
+07464 <D>iet al verbrande groot en(de) cleen
+07465 <M>ittien ontfoer hy mitter vaert
+07466 Ø
+07467 <G>od riep hij wat sal mijns ghescien
+07468 <D>at ic den engel heb gesien
+07469 <O>nse here seyde vervaer dy niet
+07470 <D>es nachts geboet hy he(m) en(de) hiet
+07471 <D>at hy brake den altaer
+07472 <D>ie sijn vader makede daer
+07473 <J>n baals ere des afgodes
+07474 <G>edeon ontsach hem tghebodes
+07475 <E>n(de) dede snachts dat he(m) god geboet
+07476 <D>es daghes wortmens ghewaer al bloet
+07477 <E>n(de) lude vander stede
+07478 <S>eiden ioas die dat dede
+07479 <D>inen soen brenckt en ons voert
+&50ra&
+07480 <L_1>aeten sterue(n) voer dese moert
+07481 <H>y sprac wildine berichte(n) al
+07482 <J>s hy god wreke hem baal
+07483 <D>us lieten bliue(n) gheen ma(n)
+07484 <A>malech en(de) madian
+07485 <D>estrueerden israel
+07486 <E>n(de) lagen int tlant va(n) israel
+07487 <D>ie hilige geest qua(m) i(n) gedeon
+07488 <H>y ontboet dat volc va(n) zabulo(n)
+07489 <V>an manasse en(de) va(n) neptalim
+07490 <E>n(de) van asar q%ua%me(n) tot hem
+07491 <M>it tweendartich =.m.= tien dage(n)
+07492 <S>elue(n) qua(m) hy mit syne(n) mage(n)
+07493 <E>n(de) eschede va(n) onsen here
+07494 <E>en teke(n) doer sijn selues ere
+07495 <E>en vlies leide op die eerde
+07496 <E>n(de) bad gode doer syne weerde
+07497 <D>at die douwe qua(m) in dat vlies
+07498 <E>n(de) die eerde niet en hadde dies
+07499 <D>it dede god doer syne bede
+07500 <T>en naesten dage dede hy mede
+07501 <D>es douwes daer wt vol een scelle
+07502 <E>cht so bat die degen snelle
+07503 <D>es andere(n) dages dat doe die nacht
+07504 <D>roge bleef by der godes cracht
+07505 <E>n(de) die eerde bedouwe(n) soude
+07506 <S>oe mochte(n) sy vechte(n) als die boude
+07507 <D>it dede god doer hem ope(n)baer
+07508 <D>at hy des seghes seker waer
+07509 <D>at vlies dat sacht is en(de) wit
+07510 <J>s dat licham ombesmit
+07511 <V>ander reynre maget marien
+07512 <D>ie alle tonghen benedien
+07513 <D>ie douwe valt heymelike
+07514 <O>p die eerde van hemelrike
+07515 <A>lso dede hy dat vlies
+07516 <D>ats ihesus sijt seker dies
+07517 <D>ie heymelic in haer qua(m)
+07518 <E>n(de) haer gaf en(de) niet en man
+07519 <M>it suuerheiden dat sij hadde(n) eer
+&50rb&
+07520 <E>n(de) hilichden se vmmermeer
+____
+_sample3_
+&113rb&
+17444 <J>udits geeste gaet hier an 
+17445 <V>an lyue een van herte een man
+17445a hier beghint <J>udith
+17446 <U_2><E>rstaet my wel na cyrus doot
+17447 <W>ort een arfaxat h[er]e groot
+17448 <E>nde vestede die stede
+&113va&
+17449 <D_1>ie staet int tlantscap hiet mede
+17450 <O>m dat hy wolde moghe(n)tlike
+17451 <W>y(n)nen van mede(n) dat coni(n)krijke
+17452 <N>abugodonosor cambises
+17453 <C>yrus soen v[er]noyde das
+17454 <H>em gaf die vader eer hi bleef doet
+17455 <N>iniue die stede groot
+17456 <E>n(de) wan assyrie(n) dat lant
+17457 <T>walif iaer dat is bekant
+17458 <D>roech hy crone voer cyrus doot
+17459 <D>ie gaf arfaxat wederstoet
+17460 <E>n(de) sloghene en(de) wan dat lant
+17461 <D>oe hy hadde in sijn hant
+17462 <B>eyde {per}chen en(de) meden
+17463 <E>n(de) al des vaders moghenthede(n)
+17464 <V>erhief sijn harte daer nae
+17465 <E>n(de) hy senden in cilicia
+17466 <E>n(de) in alle die lande o(m)trent hem
+17467 <A>l tot in iherusalem
+17468 <E>n(de) eyschede thyns en(de) gaue mede
+17469 <M>eer dan ye sijn vader dede
+17470 <E>n(de) sy ontseiden hem alle gauel
+17471 <D>oe nam hy syne(n) cony(n)ck stauel
+17472 <O>lofernus en(de) geboot
+17473 <D>at hy name sijn heer groot
+17474 <E>n(de) hy nemens en(de) vermede
+17475 <N>och borch noch lant noch stede
+17476 <H>yne voer wt myt menige(n) man
+17477 <E>n(de) stoerde tlant van madian
+17478 <E>n(de) tlant van cilicia
+17479 <E>n(de) mesopotania
+17480 <D>oe baden die prince(n) om genade
+17481 <D>oe name(n) sy op borch en(de) stade
+17482 <E>n(de) velden se alle gader neder
+17483 <A>lle die afgode voert en(de) weder
+17484 <B>rac hy toe stucke(n) cleyn en(de) groot
+17485 <O>mdat cambises geboet
+17486 <W>ant hy wolde wesen god
+17487 <A>ls sy v[er]name(n) dat zwaer gebod
+&113vb&
+17488 <D_1>ie ioden va(n) ih[e]r[usa]l[e]m
+17489 <W>aren sy veruaert van hem
+17492 <S>i vesteden die weghe sere
+17493 <E>n(de) baden an onsen here
+17490 <D>at hi niet al sulke(n) scade
+17491 <A>n ons heren tempel dade
+17494 <D>oe v[er]namt olofern{us} wel
+17495 <D>at die kijnd[er] van ih[e]r[usa]l[e]m
+17496 <D>ie wege sloten haer en(de) tare
+17497 <E>n(de) vragede wat volc het ware
+17498 <D>oe sprac die prince der armoniten
+17499 <A>chior die van older viten
+17500 <R>ekende hoe dat volc qua(m)
+17501 <V>anden ghueden abraham
+17502 <E>n(de) hoe sy doer die rode zee ghinge(n)
+17503 <E>n(de) god en wolde niet ghehenge(n)
+17504 <D>at hem nyema(n)t en mochte scade(n)
+17505 <A>lso lange als sy wal daden
+17506 <M>aer daden sy sonde hi liet se plage(n)
+17507 <N>uwinghe oec in corte(n) dagen
+17508 <H>eeft hijse vande(n) bande(n) ontbonde(n)
+17509 <D>aer hijse in had doer haer sonden
+17510 <N>abugodonosor binden liet
+17511 <E>n(de) wildi verwinne(n) dit diet
+17512 <V>ereyschet of hem god is gram
+17513 <W>ij bijnde(n) se al oft waer een lam
+17516 <O_2>m dit balch hem olofern{us}
+17517 <E>n(de) seide ic sal di beuroden dus
+17518 <D>at ghien god en sy achior
+17519 <S>onder nabugodonosor
+17520 <M>ijn groote here cambises
+17521 <D>u moetes myt hem sijn gewes
+17522 <A>lse ic se wynne en(de) dy mede
+17523 <S>oe saltu weten die waerheide
+17524 <O>lofernes die hieten daer nae
+17525 <L>eiden in betulia
+17526 <E>en poort die hy wolde wynne(n)
+17527 <M>aer doe ontsagen die van by(n)nen
+17528 <E>n(de) bonde(n) an enen boem daer
+&114ra&
+17529 <D_1>er steden een deel naer
+17530 <S>oe datten die van by(n)nen name(n)
+17531 <E>n(de) brochten onder tfolc to same(n)
+17532 <E>n(de) seyden wat hij had misdaen
+17533 <D>oe behielt syne sonder waen
+17534 <H>ier nae benam he(m) buyte(n) theer
+17535 <S>oe dat water dat sij sonder weer
+17536 <O>p wolde(n) gheue(n) haer stat
+17537 <E>n(de) seiden onder hem dat
+17538 <H>elpt hem god niet bynne(n) vijf dage(n)
+17539 <D>at sy vmmer wolde(n) waghen
+17540 <E>ne weduue. merket dit
+17541 <W>as in die stat hiete judith
+17542 <D>oer scone en(de) reyn van liue
+17543 <S>e scoelt die pape(n) als kaytiue
+17544 <D>at sy termijn vmmermere
+17545 <A>en die doghet van onsen here
+17546 <S>etten solden dat waer quaet
+17547 <E>n(de) se seyde mijn raet
+17548 <E>n wil ic v altoes niet lere(n)
+17549 <M>aer ic sal doen dat werck ons he[re]n
+17550 <S>taet ter poorte(n) ic wil wt gaen
+17551 <M>ittien paleerde sy haer saen
+17552 <E>n(de) haer ioncfrouwe droech spijse en(de) dranc
+17553 <E>n(de) dede wtwaert den ganc
+17554 <M>aer soe scoen was sy by sonder
+17555 <D>at die papen hadden wonder
+17556 <E>n(de) baden voer hem wael
+17557 <D>oe sy ghenc den berch toe dael
+17558 Ø
+17559 <E>n(de) leyden se al daer sy vant
+17560 <O>lofernes die sat al daer
+17561 <O>nder ene(n) dier clede al @daer@ claer
+17562 <V>an zijde en(de) van golde v[er]heue(n)
+17563 <E>n(de) menich steen daer in gheweue(n)
+17564 <T>alre ijerst dat sy heeft v[er]sien
+17565 <W>ort sijn harte gheuaen myttien
+17566 <E>n(de) sy neech hem openbaer
+&114rb&
+17567 <O_1>lofernes sprac toe hoer
+17568 <S>ech waer o(m)me quaemste neder
+17569 <J>udit antwoerde weder
+17570 <O>nse volc blijft v[er]loren saen
+17571 <W>ant het heuet sere mysdaen
+17572 <G>od heeft my gesent to dy
+17573 <D>at ic solde boetscapen dy
+17574 <E>n(de) ic dy to iherusalem
+17575 <L>eide en(de) dan nym
+17576 <A>l tfolc onder dijn gebot
+17577 <H>ij segede doet my dit dijn god
+17578 <S>oe saltu groote vrouwe myt vs
+17579 <S>ijn in nabugodonosors huys
+17580 <H>y dede se leyden al daer ter stat
+17581 <D>aer lach sijn groote scat
+17582 <S>oe dattet judit hem gebat
+17583 <D>at hijt haer oerlofde dat
+17584 <D>at sy des nachts most wtgaen
+17585 <H>aren god toe bidde(n) dat is gedaen
+17586 <H>y leet haer alle hare(n) wille doen
+17587 <D>rie nachte dede sy hare(n) orisoen
+17588 <E>n(de) ghinc al daer sy wolde mede
+17589 <O>lofernes haer bidden dede
+17590 <D>at se by hem slapen solde
+17591 <E>n(de) sy segede dat sijt wolde
+17592 <E>n(de) qua(m) toe hem wel ghepaleert
+17593 <E>n(de) als hij siet dat sijs begheert
+17594 <D>ranc hij van blijscape(n) also den wijn
+17595 <D>at hij ghinc slape(n) als een zwijn
+17596 <J>udit hiete haren ioncwiue
+17597 <D>at sy voer die dore bliue
+17598 <S>elue(n) ghinc sy voer hem staen
+17599 <E>n(de) bat an gode saen
+17600 <D>at hijse ghestercte teser stont
+17601 <T>ot olofernes hoefden stont
+17602 <E>en calu(m)pne daer an een zwaert
+17603 <D>at trecte <J>udith mytter vaert
+&114va&
+17604 <E>n(de) sloech hem thoeft of myt ij slage
+17605 <H>are(n) ioncwijf heft sijt gedrage
+17606 <E>n(de) nam dat scone ghespert daer
+17607 <E>n(de) ghinc ter stede waert myt haer
+17608 <W>ant haer ghaen nyema(n)t benam
+17609 <T>ierst dat sy ter poorte(n) qua(m)
+17610 <R>iep sy god is myt ons ondoe
+17611 <A>l dat volc qua(m) toe
+17612 <M>it lichte en(de) sy ghetogede daer
+17613 <D>at hoeft en(de) dat ghespert daer
+17614 <E>n(de) seyde louet gode myt vlijte
+17615 <A>ls achior die amonite
+17616 <O>lofernes hoeft versach
+17617 <V>an vare hy an ommacht lach
+17618 <D>oe hy bequa(m) dede hy he(m) to tijden
+17619 <H>em nae die ioetsche wit besnyde(n)
+17620 <E>n(de) bleef ghelouich nae die vre
+17621 <T>hoeft dede judith op die mure
+17622 <H>angen en(de) ment dan bestaet
+17623 <T>heer mytter dagheraert
+17624 <O>ec seyntme(n) boden in alle(n) tijde(n)
+17625 <D>at sy yeghen den viande(n) strijde(n)
+17626 <T>ijtlike die ioden wt quame(n)
+17627 <M>aer doe die heyden v[er]name(n)
+17628 <D>at olofern{us} selue(n) was doot
+17629 <V>loe alt there doer die noot
+17630 <E>n(de) die ioden volgede(n) naer
+17631 <E>n(de) sloghen der menighe daer
+17632 <B>ynne(n) dertich dage hebs geloef
+17633 <H>aelden sy cume den roef
+17634 <E>n(de) wat soe olofern{us} was
+17635 <H>ad <J>udit als ict las
+17636 <E>n(de) <J>udit sanc gode ene(n) sanc
+17637 <D>aer so voerseide in sonder wanc
+17638 <D>en doemsdach en(de) dat die quade
+17639 <G>hepijnt solde(n) sijn sonder genade
+&114vb&
+17640 <T_1>hoe iherusale(m) voer sy daer naer
+17641 <E>n(de) offerde onsen here daer
+17642 <O>lofernes groote rijchede
+17643 <D>en seghe dach hietme(n) viere(n) mede
+17644 <E>n(de) <J>udit die was daer naer
+17645 <A>ltoes gheheten cambisa
+17646 <S>y leuede hondert iaer en(de) viue
+17647 <D>oe sceyde sy van desen lyue
+17648 <C_2>ambises nabugodonosor
+17649 <D>ie wan daer nae menighe(n) tor
+17650 <J>n egypte(n) wan hijt tlant
+17651 <O>ec maecte hi dat sy v bekant
+17652 <J>n egypten babylone
+17653 <D>aer nv die soldaen draget crone
+17654 <A>ls ict bescreue(n) las
+17655 <E>n(de) voerseide iheremias
+17656 <D>oe hy in egypte(n) rumede tlant
+17657 <W>oert hy seer sieck thant
+17658 <J>n damas soe bleef hy doet
+17659 <C>ambyses die here groet
+____
+_sample4_
+&149vb&
+22979 <O>nse here qua(m) al daer
+22980 <A>ls ene die moede is en(de) sit
+22981 <O>p een fonteyne hiet iacobs pit
+22982 @pit@ <D>ie apostele(n) ware(n) in die stede
+22983 <O>m spijse to copen mede
+22984 <E>en wijf qua(m) gaende daer hi sat
+22985 <O>m water en(de) onse here bat
+22986 <D>at sy hem drinken gaue
+22987 <D>it wijf antwoerde aldus daer aue
+22988 <W>ant syne ene(n) iode(n) sach daer bj
+22989 <H>oe moechstu drinke(n) van my
+22990 <W>ant ic bin een samaritane
+22991 <H>ier voer dede ic toe v[er]stane
+22992 <D>at salmanasser die conync
+22993 <T>folc van israel al vinc
+22994 <M>itten coni(n)c ozee
+22995 <D>aer nae en hadde(n) sy coni(n)c niet mee
+22996 <J>nt tlant voerde hy se van canpia
+22997 <D>aer se alexander sloet daer nae
+22998 <S>ijn volc sende hy in israel
+22999 <D>at lant to wynne(n) do worde(n) si fel
+23000 <L>euwen die god sende int tlant
+23001 <H>ier o(m)me ontfinghen sy to hant
+23002 <D>ie ioetsche wit en(de) dat besnyde(n)
+23003 <H>ier toe hadde(n) sy to alle(n) tijden
+23004 <A>fgode daer sy gheloueden an
+23005 <D>it hieten samaritaen
+23006 <V>an samaria die stede
+23007 <H>aer vate en(de) haer spijse mede
+&150ra&
+23008 <E_1>n wolde(n) die ioden niet ontbare(n)
+23009 <V>an desen was twijf tware(n)
+23010 <D>aer onse here of drincke(n) bat
+23011 <E>n(de) hi seide daer ter stat
+23012 <D>at se hadde ghehat vijf man
+23013 <E>n(de) daer sy nv haer hielde an
+23014 <D>at se syne amie ware
+23015 <D>oe seide twijf al openbare
+23016 <J>c sie dattu profete bis
+23017 Ø
+23018 <B>aden gode en(de) diende(n) hem
+23019 <H>ier opten berch to garisim
+23020 <E>n(de) ghi seget dat me(n) hem
+23021 <O>fferen sal in iherusalem
+23022 <O>nse here antwoerde haer
+23023 <W>ijf gheloue my openbaer
+23024 <D>at die tijt is come(n) mede
+23025 <D>at toe iherusalem in die stede
+23026 <N>och hier en suldi bidden 
+23027 <A>n desen woerde hy bediet
+23028 <D>at me(n) gode al ouer al
+23029 <M>it geloue aenbede(n) sal
+23030 <N>iet toe iherusalem allene
+23031 <A>ls men doe dede soe clene
+23032 <T>gheloue was in eertrijke
+23033 <T>wijf antwoerde cortelike
+23034 <J>c weet wel dat crijst come(n) sal
+23035 <E>n(de) als hij comt hi salt ons all
+23036 <S>eggen en(de) doen v[er]staen
+23037 <O>nse here antwoerde saen
+23038 <J>c bint doe liet se hare(n) stoep
+23039 <T>er star waert dede sy hare(n) loop
+23040 <E>n(de) seide ten porters dan
+23041 <C>oemt en(de) siet hier ene(n) man
+23042 <D>ie my heeft al bediet
+23043 <S>oe wat my is ghesciet
+23044 <M>ach dat xp(ristu)s doch iet wesen
+23045 <T>folc qua(m) vter stadt na desen
+&150rb&
+23046 <D_1>oe hi se sach come(n) daer
+23047 <S>eide hi dat coren waer
+23048 <G>hereet ten oeste dat bedude
+23049 <G>hereet te louene lude
+23050 <S>oe dat sy hem baden dat
+23051 <D>at hy myt hem ghinghe in die stad
+23052 <E>n(de) was myt hem twee daghe mede
+23053 <D>aer hier vele gheloue(n) dede
+23053a <J>ohannes
+23054 <U_3><A>n sychar qua(m) hy daer naer
+23055 <J>n galilea toe chana
+23056 <D>aer ons coni(n)cs ghesyn was
+23057 <D>at bedude als ict las
+23058 <E>en die moghenste vande(n) lande
+23059 <N>ae dien coni(n)c als ict kande
+23060 <J>n capharnau(m) lach siec sijn soen
+23061 <O>nse here bat hi die goen
+23062 <D>at hyre q%ua%me en(de) hy ghenase
+23063 <G>od scolt den geliic den dwasen
+23064 <W>ant hy pijnsede in sijn gedochte
+23065 <D>at hyne ghenesen niet en mochte
+23066 <H>ine waer selue(n) gegaen
+23067 <D>och heeft hi also volstaen
+23068 <D>at god tot hem ghesproke(n) heeft
+23069 Ø
+23070 <M>itten woerden hi ghenas
+23071 <D>aer hi selue(n) niet en was
+23072 <D>ie man en(de) sijn meisenide
+23073 <G>helouede(n) duet dus ghesciede
+23074 <H>ier toe bescrijft ons du iohan
+23075 <N>u seggen die ander drie wat an
+23075a matheus
+23076 <L_3><E>ui die oec hiet matheus
+23077 <M>aecte onse here in sijn huys
+23078 <E>en warscap hoerde ic tellen
+23079 <D>aer aten mede leuijs gesellen
+23080 <P>ublicane dat bediet
+23081 <V>olc dat vele der werelt pliet
+23082 <D>ie pharizeen die hem mede
+23083 <V>erhieffen in die hilichede
+&150va&
+23084 <A_1>lse die vroet ware(n) sijn sere
+23085 <B>egrepe(n) onsen here
+23086 <D>at hi at myt den sondare(n)
+23087 <M>aer hy antwoerde twaren
+23088 <J>c en byn daer om niet come(n) al
+23089 <D>at ic die rechte ropen sal
+23090 <M>aer sondere(n) die hebbe(n) misdaen
+23091 <D>at sy penite(n)cie hebbe(n) ontfaen
+23092 <O>ec begrepe(n) als sy saghen
+23093 <D>at syne ionghers niet en plaghe(n)
+23094 <T>e vastene mer onse here
+23095 <D>ie onsculdechde se alle sere
+23096 <J>n dien dat wolc was ongeleert
+23097 <E>n(de) nyewelinghe an he(m) ghekiert
+23098 <E>n(de) hy vleyscelic myt he(m) ware
+23099 <M>aer alst ghesciede hier nare
+23100 <D>at hi worde ghenome(n)
+23101 <S>oe solde hem toe vasten come(n)
+23102 <D>ie pharizeen wolden myt dien
+23103 <E>en hemels teyke(n) van he(m) sien
+23104 <M>aer hy ontseidet he(m) en(de) seide he(m) mede
+23105 <D>at heidene volc van niniue
+23106 <B>eter waren dan sy
+23107 <E>n(de) seide hem reden waer by
+23108 <W>ant si penite(n)cie daden
+23109 <D>oe se ionas dreigede va(n) scaden
+23110 <E>n(de) mere dan ionas ware
+23111 <O>eck seide hy se argher ope(n)bare
+23112 <D>an die heyden cony(n)ghinne
+23113 <D>ie doer cracht van salomons sy(n)ne
+23114 <V>an verre qua(m) soken die mare
+23115 <E>n(de) hy wiser dan salomon ware
+23115a matheus
+23116 <D_2><J>e prince der synagoge(n) qua(m)
+23117 <T>ot onsen here als ict v[er]nam
+23118 <E>n(de) aenbeden en(de) seide(n) mede
+23119 <M>ijn wijf is doet nv ter stede
+23120 <C>om en(de) lech dijn hant op haer
+23121 <S>y sal leue(n) al openbaer
+&150vb&
+23122 <M_1>aer doe hi darwart solde gaen
+23123 <Q>uam een wijf an hem saen
+23124 <D>ie gebloet hadde twalif jaer
+23125 <E>n(de) taste allene die vasen daer
+23126 <V>an syne(n) mantel als ict las
+23127 <M>it dien gheloue als ict las
+23127a <E>n(de) daer mede ghenesen was
+23128 <V>an sancte ambrosius mach me(n) lesen
+23129 <D>at dit martha solde wesen
+23130 <M>arien suster magdalene
+23131 <J>hesus en(de) sijn ionghers ghemene
+23132 <Q>uame(n) daer woende iairus
+23133 <D>at was die prince ginc in huys
+23134 <P>eter hy lede mede dan
+23135 <J>acob die mynre en(de) oeck iohan
+23136 <E>n(de) der ioncfrouwe(n) moed[er] en(de) vader
+23137 <D>ander dreef hy wt allen gader
+23138 <W>ant syne bespotten dat hi riep
+23139 <D>at die dochter lage en(de) sliep
+23140 <O>mndat hy se versceide(n) vant
+23141 <D>ie ioncfrouwe nam hi bider hant
+23142 <E>n(de) hiet dat si vp solde staen
+23143 <E>n(de) hiet haer tetene gheue(n) saen
+23144 <D>ats verrisenis warachtich
+23145 <M>en vint touerie so machtich
+23146 <D>aer me(n) die dode bi doet verrisen
+23147 <M>aer sy en eten in ghienre wisen
+23147a matheus
+23148 <V_3><A>n dane so scrijft matheus
+23149 <S>oe ginc onse here ihesus
+23150 <T>we blijnden volgeden he(m) om tgone
+23151 <E>n(de) riepen ihesu dauids zone
+23152 <O>ntfarme di onser do hi thuys qua(m)
+23153 <T>oe nazareth als ict v[er]nam
+23154 <T>aste hi oer ogen en(de) si ondade(n)
+23155 <M>it eten heeft hijse beladen
+23156 <D>atter nyemant en worde bekant
+23157 <N>ochtan seide(n) sy doert tlant
+23158 <D>oe sy ghesceiden ware(n) dane
+23159 <A>ls ons mede doen toe verstane
+&151ra&
+23160 <B_1>eide marcus en(de) lucas
+23161 <E>en die beseten was
+23162 <M>it den viant me(n) hem brochte
+23163 <D>ie oec spreke(n) niet en mochte
+23164 <O>nse here dreef vt den viant
+23165 <E>n(de) die ste(m)me sprac to hant
+23166 <D>oe prijsden daer menich een
+23167 <M>aer die quade pharizeen
+23168 <S>eiden ouer een toe same(n)
+23169 <D>at hy in belsebuucs name(n)
+23170 <D>ie prince vande(n) duuel weer
+23171 <D>ien duuel wt dreuen va(n) veer
+23172 <J>hesus antwoerde daer ter stede
+23173 <O>f ic in belsebuucs moghenthede
+23174 <D>en viant verdriue(n) kan
+23175 <J>n wies macht doent v kijnd[er] dan
+23176 <W>ant die ioden dat wel wiste(n)
+23177 <D>at onder ware(n) exorcisten
+23178 <D>at luyt bezweers in onser tael
+23179 <D>ie de duuelen consten wael
+23180 <V>ten me(n)schen varen doen
+23181 <E>n(de) die woert van salamon
+23182 <E>n(de) dat seide(n) sy openbaer
+23183 <D>at van gods halue(n) waer
+23184 <M>aer die miracule ons here(n)
+23185 <W>olden si ten quaetste(n) kere(n)
+23185a lucas
+23186 <H_3><J>er na seit lucas dat
+23187 <D>at ihesus qua(m) in de stat
+23188 <D>aer hem een pharizeus bat
+23189 <A>lso dat @hem@ hy mit hem at
+23190 <A>l daer qua(m) myt groote(n) ween
+23191 <D>ie besundige magdaleen
+23192 <E>n(de) dwoech myt trane(n) sine vote
+23193 Ø
+23194 <G>heen pharizeus hiet symeon
+23195 <E>n(de) hy pinsede in syne(n) doen
+23196 <W>eert dat dese een {pro}fete were
+23197 <H>y solde weten openbaer
+23198 <D>at hem een sondich wijf an tast
+&151rb&
+23199 <A>ldus begreep hy syne(n) gast
+23200 <M>aer onse here die ontfant
+23201 <M>it redene al to hant
+23202 <E>n(de) sede haer waer vele verlaten
+23203 <W>ant se mynden vtermate(n)
+23204 <A>l daer en(de) ten selue(n) stonden
+23205 <V>ergaf haer god haer sonden
+23206 <E>n(de) sy volgede hem nar
+23207 <O>nse here ginc in <J>udea
+23208 <J>n een castiel qua(m) hi gegaen
+23209 <D>aer heefte(n) in haer huys ontfaen
+23210 <M>artha die suster marien
+23211 <E>n(de) diende(n) he(m) en(de) sijnre partien
+23212 <M>aria sat by syne(n) voeten
+23213 <E>n(de) hoerde spreken ihesus den soete(n)
+23214 <M>artha beclagede magdalene
+23215 <D>at sie sy diene(n) liet allene
+23216 <D>aer prijsede god marien sere
+23217 <S>o willic en(de) in sulken keer
+23218 <D>at hi altoes in gheenre wijs
+23219 <M>arthen oec en sprac misprijs
+____

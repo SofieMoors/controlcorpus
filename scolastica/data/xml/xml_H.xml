@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: http://hdl.handle.net/1887.1/item:2668898 and https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000001883</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Leiden</settlement>
+            <institution>University Library</institution>
+            <idno>BPL 14 C</idno>
+            <msName>H</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="172"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="4"/> #1 modern?
+                           <num type="book-block" value="172"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="285"/>
+                              <width unit="mm" quantity="205"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-111 and 1-145)</foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="39-42" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="210"/>
+                              <width unit="mm" quantity="160"/> #wrong in BNM (106)
+                           </dimensions> 
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera cursiva">the Rhymed Bible is written in littera cursiva by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>pen-flourished initials (red and blue); titels (red)</decoNote></decoDesc>
+                  <additions><p>f. 55 and f. 176r are missing and added in post-medieval writing</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1460-1470</origDate>
+<origPlace>Gelre or Overijssel</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group><text n="Eva_sample1" xml:id="sample1">
+<body>
+<p>
+
+<pb xml:id="H.f7vb" n="7vb"/>
+<lb n="1" xml:id="Hf7vb.1"/><l n="H_sample1_0591"><hi rend="capitalsize3">T</hi>En <choice><abbr>stonde<g ref="#bar"/></abbr><expan>stonde<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ter seluer <choice><abbr>vre<g ref="#bar"/></abbr><expan>vre<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Hf7vb.2"/><l n="H_sample1_0592"><hi rend="capitalsize1">W</hi>as van allen <choice><abbr>creature<g ref="#bar"/></abbr><expan>creature<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Hf7vb.3"/><l n="H_sample1_0593"><hi rend="capitalsize1">D</hi>at verstaet van allen beesten</l>
+<lb n="4" xml:id="Hf7vb.4"/><l n="H_sample1_0594"><hi rend="capitalsize1">T</hi>serpent luchstichste na den geesten</l>
+<lb n="5" xml:id="Hf7vb.5"/><l n="H_sample1_0595"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dat scalkeste oec van synne</l>
+<lb n="6" xml:id="Hf7vb.6"/><l n="H_sample1_0596"><hi rend="capitalsize1">W</hi>ant die duuel wasser <choice><abbr>y<g ref="#bar"/>ne</abbr><expan>y<ex>n</ex>ne</expan></choice></l>
+<lb n="7" xml:id="Hf7vb.7"/><l n="H_sample1_0597"><hi rend="capitalsize1">W</hi>ant doe lucifer die scoene</l>
+<lb n="8" xml:id="Hf7vb.8"/><l n="H_sample1_0598"><hi rend="capitalsize1">W</hi>art geworpen <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> trone</l>
+<lb n="9" xml:id="Hf7vb.9"/><l n="H_sample1_0599"><hi rend="capitalsize1">H</hi>ad hijs niet in alre wijs</l>
+<lb n="10" xml:id="Hf7vb.10"/><l n="H_sample1_0600"><hi rend="capitalsize1">D</hi>at adam was int paradijs</l>
+<lb n="11" xml:id="Hf7vb.11"/><l n="H_sample1_0601"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> peynsede hoe hyne vte dede steken</l>
+<lb n="12" xml:id="Hf7vb.12"/><l n="H_sample1_0602"><hi rend="capitalsize1">D</hi>ade hy hem tgebod gods breken</l>
+<lb n="13" xml:id="Hf7vb.13"/><l n="H_sample1_0603"><hi rend="capitalsize1">S</hi>oe moste hy vte peynsede hy dan</l>
+<lb n="14" xml:id="Hf7vb.14"/><l n="H_sample1_0604"><hi rend="capitalsize1">M</hi>er dat hy ontsach die man</l>
+<lb n="15" xml:id="Hf7vb.15"/><l n="H_sample1_0605"><hi rend="capitalsize1">D</hi>es ginck hy yerst totten wiue</l>
+<lb n="16" xml:id="Hf7vb.16"/><l n="H_sample1_0606"><hi rend="capitalsize1">O</hi>m dat se cranck was van liue</l>
+<lb n="17" xml:id="Hf7vb.17"/><l n="H_sample1_0607"><hi rend="capitalsize1">M</hi>itten serpent heeft hy bestaen</l>
+<lb n="18" xml:id="Hf7vb.18"/><l n="H_sample1_0608"><hi rend="capitalsize1">W</hi>ant dat plach doe sonder waen</l>
+<lb n="19" xml:id="Hf7vb.19"/><l n="H_sample1_0609"><hi rend="capitalsize1">O</hi>p <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> neder rechte gaen</l>
+
+
+<pb xml:id="H.f8ra" n="8ra"/>
+<lb n="1" xml:id="Hf8ra.1"/><l n="H_sample1_0610"><hi rend="capitalsize1">R</hi>echt nae des <choice><abbr>me<g ref="#bar"/>sche<g ref="#bar"/></abbr><expan>me<ex>n</ex>sche<ex>n</ex></expan></choice> gedaen</l>
+<lb n="2" xml:id="Hf8ra.2"/><l n="H_sample1_0611"><hi rend="capitalsize1">B</hi>eda scrijft die clerc was dire</l>
+<lb n="3" xml:id="Hf8ra.3"/><l n="H_sample1_0612"><hi rend="capitalsize1">E</hi>t was een serpents maniere</l>
+<lb n="4" xml:id="Hf8ra.4"/><l n="H_sample1_0613"><hi rend="capitalsize1">G</hi>heaensicht als een ioncfrouwe</l>
+<lb n="5" xml:id="Hf8ra.5"/><l n="H_sample1_0614"><hi rend="capitalsize1">V</hi>te hem sprac die ongetrouwe</l>
+<lb n="6" xml:id="Hf8ra.6"/><l n="H_sample1_0615"><hi rend="capitalsize1">A</hi>ls hy nv duet wildijt weten</l>
+<lb n="7" xml:id="Hf8ra.7"/><l n="H_sample1_0616"><hi rend="capitalsize1">V</hi>te dien die hij heeft beseten</l>
+<lb n="8" xml:id="Hf8ra.8"/><l n="H_sample1_0617"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy seide dat gebot</l>
+<lb n="9" xml:id="Hf8ra.9"/><l n="H_sample1_0618"><hi rend="capitalsize1">W</hi>aer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> soe gauet v god</l>
+<lb n="10" xml:id="Hf8ra.10"/><l n="H_sample1_0619"><hi rend="capitalsize1">D</hi>at ghi van alden houte gemene</l>
+<lb n="11" xml:id="Hf8ra.11"/><l n="H_sample1_0620"><hi rend="capitalsize1">N</hi>uttet sonder van een allene</l>
+<lb n="12" xml:id="Hf8ra.12"/><l n="H_sample1_0621"><hi rend="capitalsize1">D</hi>it vragede hy <choice><abbr>wa<g ref="#bar"/>t</abbr><expan>wa<ex>n</ex>t</expan></choice> na haer <choice><abbr>a<g ref="#bar"/>tworde</abbr><expan>a<ex>n</ex>tworde</expan></choice></l>
+<lb n="13" xml:id="Hf8ra.13"/><l n="H_sample1_0622"><hi rend="capitalsize1">S</hi>oe visierde hy sijn moerde</l>
+<lb n="14" xml:id="Hf8ra.14"/><l n="H_sample1_0623"><hi rend="capitalsize1">S</hi>i sprac omdat wy by <choice><abbr>aue<g ref="#bar"/>turen</abbr><expan>aue<ex>n</ex>turen</expan></choice></l>
+<lb n="15" xml:id="Hf8ra.15"/><l n="H_sample1_0624"><hi rend="capitalsize1">D</hi>ie doot nyet en <choice><abbr>soude<g ref="#bar"/></abbr><expan>soude<ex>n</ex></expan></choice> <choice><abbr>besuere<g ref="#bar"/></abbr><expan>besuere<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Hf8ra.16"/><l n="H_sample1_0625"><hi rend="capitalsize1">D</hi>oe si by <choice><abbr>aue<g ref="#bar"/>ture<g ref="#bar"/></abbr><expan>aue<ex>n</ex>ture<ex>n</ex></expan></choice> seide</l>
+<lb n="17" xml:id="Hf8ra.17"/><l n="H_sample1_0626"><hi rend="capitalsize1">M</hi>ercte hy wal haer crancheide</l>
+<lb n="18" xml:id="Hf8ra.18"/><l n="H_sample1_0627"><hi rend="capitalsize1">D</hi>at sy vaste niet en gelouede</l>
+<lb n="19" xml:id="Hf8ra.19"/><l n="H_sample1_0628"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyde vte serpents houede</l>
+<lb n="20" xml:id="Hf8ra.20"/><l n="H_sample1_0629"><hi rend="capitalsize1">N</hi>een ghy en blijft daer nyet om doot</l>
+<lb n="21" xml:id="Hf8ra.21"/><l n="H_sample1_0630"><hi rend="capitalsize1">M</hi>er hy weet wel die here groot</l>
+<lb n="22" xml:id="Hf8ra.22"/><l n="H_sample1_0631"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>ner</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>ner</expan></choice> ghy daer af hebt geten</l>
+<lb n="23" xml:id="Hf8ra.23"/><l n="H_sample1_0632"><hi rend="capitalsize1">S</hi>oe suldi vroden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weten</l>
+<lb n="24" xml:id="Hf8ra.24"/><l n="H_sample1_0633"><hi rend="capitalsize1">V</hi>roetscap als of gode waert</l>
+<lb n="25" xml:id="Hf8ra.25"/><l n="H_sample1_0634"><hi rend="capitalsize1">E</hi>ua wart verhouaert</l>
+<lb n="26" xml:id="Hf8ra.26"/><l n="H_sample1_0635"><hi rend="capitalsize1">W</hi>ant si gode waende geliken</l>
+<lb n="27" xml:id="Hf8ra.27"/><l n="H_sample1_0636"><hi rend="capitalsize1">S</hi>y sach den <choice><abbr>scone<g ref="#bar"/></abbr><expan>scone<ex>n</ex></expan></choice> boem <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>rijcke<g ref="#bar"/></abbr><expan>rijcke<ex>n</ex></expan></choice></l>
+<lb n="28" xml:id="Hf8ra.28"/><l n="H_sample1_0637"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die vrucht scoen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sachte</l>
+<lb n="29" xml:id="Hf8ra.29"/><l n="H_sample1_0638"><hi rend="capitalsize1">S</hi>y at dat sy sinder becofte</l>
+<lb n="30" xml:id="Hf8ra.30"/><l n="H_sample1_0639"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> boet adam <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> man</l>
+<lb n="31" xml:id="Hf8ra.31"/><l n="H_sample1_0640"><hi rend="capitalsize1">D</hi>ie misschien <choice><abbr>merke<g ref="#bar"/></abbr><expan>merke<ex>n</ex></expan></choice> began</l>
+<lb n="32" xml:id="Hf8ra.32"/><l n="H_sample1_0641"><hi rend="capitalsize1">D</hi>at sy to hant nyet en bleef doot</l>
+<lb n="33" xml:id="Hf8ra.33"/><l n="H_sample1_0642"><hi rend="capitalsize1">N</hi>ochtan wiste hy wel al bloot</l>
+<lb n="34" xml:id="Hf8ra.34"/><l n="H_sample1_0643"><hi rend="capitalsize1">W</hi>at quade daer off soude komen</l>
+<lb n="35" xml:id="Hf8ra.35"/><l n="H_sample1_0644"><hi rend="capitalsize1">D</hi>us ist <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> van hem <choice><abbr>so<g ref="#bar"/>men</abbr><expan>so<ex>m</ex>men</expan></choice></l>
+<lb n="36" xml:id="Hf8ra.36"/><l n="H_sample1_0645"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> at wat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> daer af sal gescien</l>
+
+
+<pb xml:id="H.f8rb" n="8rb"/>
+<lb n="1" xml:id="Hf8rb.1"/><l n="H_sample1_0646"><hi rend="capitalsize1">H</hi>aer ogen ontdeden sy myt dien</l>
+<lb n="2" xml:id="Hf8rb.2"/><l n="H_sample1_0647"><hi rend="capitalsize1">N</hi>yet dat sy blijnt hadden gewesen</l>
+<lb n="3" xml:id="Hf8rb.3"/><l n="H_sample1_0648"><hi rend="capitalsize1">M</hi>aer haer lust verroerde in desen</l>
+<lb n="4" xml:id="Hf8rb.4"/><l n="H_sample1_0649"><hi rend="capitalsize1">J</hi>n die natuerlike lede</l>
+<lb n="5" xml:id="Hf8rb.5"/><l n="H_sample1_0650"><hi rend="capitalsize1">D</hi>at sy toe voeren nyet en dede</l>
+<lb n="6" xml:id="Hf8rb.6"/><l n="H_sample1_0651"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>begonde<g ref="#bar"/></abbr><expan>begonde<ex>n</ex></expan></choice> hem toe <choice><abbr>scame<g ref="#bar"/></abbr><expan>scame<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Hf8rb.7"/><l n="H_sample1_0652"><hi rend="capitalsize1">V</hi>an haren naecten <choice><abbr>misschame<g ref="#bar"/></abbr><expan>misschame<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="Hf8rb.8"/><l n="H_sample1_0653"><hi rend="capitalsize2">D</hi>Oe <choice><abbr>name<g ref="#bar"/></abbr><expan>name<ex>n</ex></expan></choice> sy myt <choice><abbr>ghemene<g ref="#bar"/></abbr><expan>ghemene<ex>n</ex></expan></choice> rade</l>
+<lb n="9" xml:id="Hf8rb.9"/><l n="H_sample1_0654"><hi rend="capitalsize1">B</hi>eide gader vige blade</l>
+<lb n="10" xml:id="Hf8rb.10"/><l n="H_sample1_0656"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> gorde se om haer scamelhede</l>
+<lb n="11" xml:id="Hf8rb.11"/><l n="H_sample1_0655"><hi rend="capitalsize1">A</hi>ldus decten sy haer lede</l>
+<lb n="12" xml:id="Hf8rb.12"/><l n="H_sample1_0657"><hi rend="capitalsize1">D</hi>aer sy saten onder die rijse</l>
+<lb n="13" xml:id="Hf8rb.13"/><l n="H_sample1_0658"><hi rend="capitalsize1">H</hi>oerden sy inden paradijse</l>
+<lb n="14" xml:id="Hf8rb.14"/><l n="H_sample1_0659"><hi rend="capitalsize1">G</hi>ode wanderen daer hi quam</l>
+
+<note n="H_sample1_0660">Line_number 0660 is missing</note>
+<lb n="15" xml:id="Hf8rb.15"/><l n="H_sample1_0661"><hi rend="capitalsize1">H</hi>ere seit hy doe ic had verstaen</l>
+<lb n="16" xml:id="Hf8rb.16"/><l n="H_sample1_0662"><hi rend="capitalsize1">D</hi>ijn <choice><abbr>ste<g ref="#bar"/>me</abbr><expan>ste<ex>m</ex>me</expan></choice> verueerdic my saen</l>
+<lb n="17" xml:id="Hf8rb.17"/><l n="H_sample1_0663"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> scaemde my door das</l>
+<lb n="18" xml:id="Hf8rb.18"/><l n="H_sample1_0664"><hi rend="capitalsize1">O</hi>m dat ic soe naect was</l>
+<lb n="19" xml:id="Hf8rb.19"/><l n="H_sample1_0665"><hi rend="capitalsize1">G</hi>od sprac wie heeft dat gewijst</l>
+<lb n="20" xml:id="Hf8rb.20"/><l n="H_sample1_0666"><hi rend="capitalsize1">D</hi>attu di ghespijst</l>
+<lb n="21" xml:id="Hf8rb.21"/><l n="H_sample1_0667"><hi rend="capitalsize1">H</hi>eues myt dat ic di verboet</l>
+<lb n="22" xml:id="Hf8rb.22"/><l n="H_sample1_0668"><hi rend="capitalsize1">D</hi>oe sprac adam dwaesheit groot</l>
+<lb n="23" xml:id="Hf8rb.23"/><l n="H_sample1_0669"><hi rend="capitalsize1">A</hi>ls of hij gode sijn misdaet</l>
+<lb n="24" xml:id="Hf8rb.24"/><l n="H_sample1_0670"><hi rend="capitalsize1">W</hi>ilde tien <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn quaet</l>
+<lb n="25" xml:id="Hf8rb.25"/><l n="H_sample1_0671"><hi rend="capitalsize1">T</hi>wijf dattu my gaues sprac hy</l>
+<lb n="26" xml:id="Hf8rb.26"/><l n="H_sample1_0672"><hi rend="capitalsize1">G</hi>aft my <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic at daer by</l>
+<lb n="27" xml:id="Hf8rb.27"/><l n="H_sample1_0673"><hi rend="capitalsize1">A</hi>ls of hy meende het waer <choice><abbr>bleue<g ref="#bar"/></abbr><expan>bleue<ex>n</ex></expan></choice></l>
+<lb n="28" xml:id="Hf8rb.28"/><l n="H_sample1_0674"><hi rend="capitalsize1">E</hi>n haddestu se my niet <choice><abbr>gegeue<g ref="#bar"/></abbr><expan>gegeue<ex>n</ex></expan></choice></l>
+<lb n="29" xml:id="Hf8rb.29"/><l n="H_sample1_0675"><hi rend="capitalsize1">D</hi>oe sprac god tot haer dies at</l>
+<lb n="30" xml:id="Hf8rb.30"/><l n="H_sample1_0676"><hi rend="capitalsize1">W</hi>aer om soe daetstu dat</l>
+<lb n="31" xml:id="Hf8rb.31"/><l n="H_sample1_0677"><hi rend="capitalsize1">D</hi>oe teget eua den serpent</l>
+<lb n="32" xml:id="Hf8rb.32"/><l n="H_sample1_0678"><hi rend="capitalsize1">M</hi>er van alle den parlament</l>
+<lb n="33" xml:id="Hf8rb.33"/><l n="H_sample1_0679"><hi rend="capitalsize1">D</hi>roech haer meninghe vander tael</l>
+<lb n="34" xml:id="Hf8rb.34"/><l n="H_sample1_0680"><hi rend="capitalsize1">G</hi>ode te tien alte mael</l>
+<lb n="35" xml:id="Hf8rb.35"/><l n="H_sample1_0681"><hi rend="capitalsize2">D</hi>Oe adam vander reynre aerde</l>
+<lb n="36" xml:id="Hf8rb.36"/><l n="H_sample1_0682"><hi rend="capitalsize1">W</hi>as gemaect van <choice><abbr>groot<g ref="#apomod"/></abbr><expan>groot<ex>er</ex></expan></choice> waerde</l>
+<lb n="37" xml:id="Hf8rb.37"/><l n="H_sample1_0683"><hi rend="capitalsize1">D</hi>ie nye smit had ontfaen</l>
+<lb n="38" xml:id="Hf8rb.38"/><l n="H_sample1_0684"><hi rend="capitalsize1">N</hi>och oeck nye was ondaen</l>
+
+
+<pb xml:id="H.f8va" n="8va"/>
+<lb n="1" xml:id="Hf8va.1"/><l n="H_sample1_0685"><hi rend="capitalsize1">N</hi>och myt plogen noch myt <choice><abbr>spade<g ref="#bar"/></abbr><expan>spade<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Hf8va.2"/><l n="H_sample1_0686"><hi rend="capitalsize1">N</hi>och besmit myt <choice><abbr>ghiene<g ref="#bar"/></abbr><expan>ghiene<ex>n</ex></expan></choice> ondaden</l>
+<lb n="3" xml:id="Hf8va.3"/><l n="H_sample1_0687"><hi rend="capitalsize1">B</hi>eteykent die reyne marie</l>
+<lb n="4" xml:id="Hf8va.4"/><l n="H_sample1_0688"><hi rend="capitalsize1">D</hi>ie sonder enige dorpernye</l>
+<lb n="5" xml:id="Hf8va.5"/><l n="H_sample1_0689"><hi rend="capitalsize1">H</hi>aer reyne vleisch in <choice><abbr>reyne<g ref="#bar"/></abbr><expan>reyne<ex>n</ex></expan></choice> liue</l>
+<lb n="6" xml:id="Hf8va.6"/><l n="H_sample1_0690"><hi rend="capitalsize1">N</hi>yet als plegen ander wiue</l>
+<lb n="7" xml:id="Hf8va.7"/><l n="H_sample1_0691"><hi rend="capitalsize1">J</hi>hesus droech sy <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan</l>
+<lb n="8" xml:id="Hf8va.8"/><l n="H_sample1_0692"><hi rend="capitalsize1">O</hi>nbesmit van allen man</l>
+<lb n="9" xml:id="Hf8va.9"/><l n="H_sample1_0693"><hi rend="capitalsize1">G</hi>helijcke wijs dat oec adam</l>
+<lb n="10" xml:id="Hf8va.10"/><l n="H_sample1_0694"><hi rend="capitalsize1">D</hi>es sesten dages ter werelt <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="11" xml:id="Hf8va.11"/><l n="H_sample1_0695"><hi rend="capitalsize1">A</hi>lso was ihesus ons troest <choice><abbr>v<g ref="#apomod"/>core<g ref="#bar"/></abbr><expan>v<ex>er</ex>core<ex>n</ex></expan></choice></l>
+<lb n="12" xml:id="Hf8va.12"/><l n="H_sample1_0696"><hi rend="capitalsize1">J</hi>nder sester ewe <choice><abbr>gebore<g ref="#bar"/></abbr><expan>gebore<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Hf8va.13"/><l n="H_sample1_0697"><hi rend="capitalsize2">D</hi>En <choice><abbr>serpe<g ref="#bar"/>te</abbr><expan>serpe<ex>n</ex>te</expan></choice> vragede hy niet</l>
+<lb n="14" xml:id="Hf8va.14"/><l n="H_sample1_0698"><choice><abbr><hi rend="capitalsize1">B</hi>ute<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>ute<ex>n</ex></expan></choice> sijn raet ist gesciet</l>
+<lb n="15" xml:id="Hf8va.15"/><l n="H_sample1_0699"><hi rend="capitalsize1">W</hi>ant by des duuels raet <choice><abbr>qua<g ref="#bar"/>t</abbr><expan>qua<ex>m</ex>t</expan></choice> al</l>
+<lb n="16" xml:id="Hf8va.16"/><l n="H_sample1_0700"><hi rend="capitalsize1">D</hi>oe vloecte hy als ic <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice> sal</l>
+<lb n="17" xml:id="Hf8va.17"/><l n="H_sample1_0701"><hi rend="capitalsize1">W</hi>ant hijt ant serpent began</l>
+<lb n="18" xml:id="Hf8va.18"/><l n="H_sample1_0702"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> leide hem drie vloken an</l>
+<lb n="19" xml:id="Hf8va.19"/><l n="H_sample1_0703"><hi rend="capitalsize1">O</hi>m dat drie sijns mysdede</l>
+<lb n="20" xml:id="Hf8va.20"/><l n="H_sample1_0704"><hi rend="capitalsize1">J</hi>erste in die nidichede</l>
+<lb n="21" xml:id="Hf8va.21"/><l n="H_sample1_0705"><hi rend="capitalsize1">D</hi>ander om dat hijt loech</l>
+<lb n="22" xml:id="Hf8va.22"/><l n="H_sample1_0706"><hi rend="capitalsize1">D</hi>erde om dat hy den man bedroech</l>
+<lb n="23" xml:id="Hf8va.23"/><l n="H_sample1_0707"><hi rend="capitalsize1">D</hi>es wast aldus <choice><abbr>v<g ref="#apomod"/>maledijt</abbr><expan>v<ex>er</ex>maledijt</expan></choice></l>
+<lb n="24" xml:id="Hf8va.24"/><l n="H_sample1_0708"><hi rend="capitalsize1">H</hi>et was oms <choice><abbr>me<g ref="#bar"/>sche<g ref="#bar"/></abbr><expan>me<ex>n</ex>sche<ex>n</ex></expan></choice> hoecheit nijt</l>
+<lb n="25" xml:id="Hf8va.25"/><l n="H_sample1_0709"><hi rend="capitalsize1">D</hi>aer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> seide god dus saen</l>
+<lb n="26" xml:id="Hf8va.26"/><l n="H_sample1_0710"><hi rend="capitalsize1">O</hi>p dijn burst soe saltu gaen</l>
+<lb n="27" xml:id="Hf8va.27"/><l n="H_sample1_0711"><hi rend="capitalsize1">V</hi>an <choice><abbr>logene<g ref="#bar"/></abbr><expan>logene<ex>n</ex></expan></choice> sloech god <choice><abbr>inde<g ref="#bar"/></abbr><expan>inde<ex>n</ex></expan></choice> mont</l>
+<lb n="28" xml:id="Hf8va.28"/><l n="H_sample1_0712"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sprac du salte talre stont</l>
+<lb n="29" xml:id="Hf8va.29"/><l n="H_sample1_0713"><hi rend="capitalsize1">E</hi>erde eten al dijn <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
+<lb n="30" xml:id="Hf8va.30"/><l n="H_sample1_0714"><hi rend="capitalsize1">D</hi>at luut dat hem was <choice><abbr>gegeue<g ref="#bar"/></abbr><expan>gegeue<ex>n</ex></expan></choice></l>
+<lb n="31" xml:id="Hf8va.31"/><l n="H_sample1_0715"><hi rend="capitalsize1">N</hi>am hem god aldaer ter stede</l>
+<lb n="32" xml:id="Hf8va.32"/><l n="H_sample1_0716"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> gaf den mont venijn mede</l>
+<lb n="33" xml:id="Hf8va.33"/><l n="H_sample1_0717"><hi rend="capitalsize1">V</hi>an droghene gaf hi hem dat</l>
+<lb n="34" xml:id="Hf8va.34"/><l n="H_sample1_0718"><hi rend="capitalsize1">J</hi>c sprac god daer ter stat</l>
+<lb n="35" xml:id="Hf8va.35"/><l n="H_sample1_0719"><hi rend="capitalsize1">V</hi>iantscap setten sonder blijf</l>
+<lb n="36" xml:id="Hf8va.36"/><l n="H_sample1_0720"><hi rend="capitalsize1">T</hi>usschen di is dat wijf</l>
+<lb n="37" xml:id="Hf8va.37"/><l n="H_sample1_0721"><hi rend="capitalsize1">S</hi>y sal op dijn hoeft treden</l>
+<lb n="38" xml:id="Hf8va.38"/><l n="H_sample1_0722"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> du salte oec tot <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> steden</l>
+<lb n="39" xml:id="Hf8va.39"/><l n="H_sample1_0723"><hi rend="capitalsize1">H</hi>oer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoer geslachte lagen</l>
+
+
+<pb xml:id="H.f8vb" n="8vb"/>
+<lb n="1" xml:id="Hf8vb.1"/><l n="H_sample1_0724"><hi rend="capitalsize1">D</hi>ese woerde mach <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> draghen</l>
+<lb n="2" xml:id="Hf8vb.2"/><l n="H_sample1_0725"><hi rend="capitalsize1">T</hi>otter moder gods marien</l>
+<lb n="3" xml:id="Hf8vb.3"/><l n="H_sample1_0726"><hi rend="capitalsize1">D</hi>ie den duuel myt sijnre <choice><abbr><g ref="#pbardes"/>tien</abbr><expan><ex>par</ex>tien</expan></choice></l>
+<lb n="4" xml:id="Hf8vb.4"/><l n="H_sample1_0727"><hi rend="capitalsize1">A</hi>ltoes dwinget <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> iaget</l>
+<lb n="5" xml:id="Hf8vb.5"/><l n="H_sample1_0728"><hi rend="capitalsize1">A</hi>l is dat hi se iaget</l>
+<lb n="6" xml:id="Hf8vb.6"/><l n="H_sample1_0729"><hi rend="capitalsize2">R</hi>Echt als die man duet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> pijn</l>
+<lb n="7" xml:id="Hf8vb.7"/><l n="H_sample1_0730"><hi rend="capitalsize1">O</hi>ntfaet vandes serpents venijn</l>
+<lb n="8" xml:id="Hf8vb.8"/><l n="H_sample1_0731"><hi rend="capitalsize1">A</hi>lso mach <choice><abbr>smen<g ref="#bar"/>chen</abbr><expan>smen<ex>s</ex>chen</expan></choice> <choice><abbr>nuchtere<g ref="#bar"/></abbr><expan>nuchtere<ex>n</ex></expan></choice> spu</l>
+<lb n="9" xml:id="Hf8vb.9"/><l n="H_sample1_0732"><hi rend="capitalsize1">D</hi>at serpent doden seg ic v</l>
+<lb n="10" xml:id="Hf8vb.10"/><l n="H_sample1_0733"><hi rend="capitalsize1">O</hi>m dat se beide naect <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Hf8vb.11"/><l n="H_sample1_0734"><hi rend="capitalsize1">S</hi>oe vliet noch serpent twaren</l>
+<lb n="12" xml:id="Hf8vb.12"/><l n="H_sample1_0735"><hi rend="capitalsize1">D</hi>en <choice><abbr>naecte<g ref="#bar"/></abbr><expan>naecte<ex>n</ex></expan></choice> <choice><abbr>me<g ref="#bar"/>schen</abbr><expan>me<ex>n</ex>schen</expan></choice> waer hi gecleet</l>
+<lb n="13" xml:id="Hf8vb.13"/><l n="H_sample1_0736"><hi rend="capitalsize1">S</hi>oe <choice><abbr>soute<g ref="#bar"/></abbr><expan>soute<ex>n</ex></expan></choice> veninen ghereet</l>
+<lb n="14" xml:id="Hf8vb.14"/><l n="H_sample1_0737"><hi rend="capitalsize1">J</hi>n tween saken misdede dat wijf</l>
+<lb n="15" xml:id="Hf8vb.15"/><l n="H_sample1_0738"><hi rend="capitalsize1">S</hi>i was houerdich int lijf</l>
+<lb n="16" xml:id="Hf8vb.16"/><l n="H_sample1_0739"><hi rend="capitalsize1">D</hi>aer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> sette se god</l>
+<lb n="17" xml:id="Hf8vb.17"/><l n="H_sample1_0740"><hi rend="capitalsize1">A</hi>ltoes toe sijn onders mans gebod</l>
+<lb n="18" xml:id="Hf8vb.18"/><l n="H_sample1_0741"><hi rend="capitalsize1">O</hi>m dat se at verboden spijse</l>
+<lb n="19" xml:id="Hf8vb.19"/><l n="H_sample1_0742"><hi rend="capitalsize1">D</hi>at becoft se in sulker wijse</l>
+<lb n="20" xml:id="Hf8vb.20"/><l n="H_sample1_0743"><hi rend="capitalsize1">D</hi>at sy myt <choice><abbr>rouwe<g ref="#bar"/></abbr><expan>rouwe<ex>n</ex></expan></choice> des kijnts genees</l>
+<lb n="21" xml:id="Hf8vb.21"/><l n="H_sample1_0744"><hi rend="capitalsize1">O</hi>m den appel boet daer <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> leest</l>
+<lb n="22" xml:id="Hf8vb.22"/><l n="H_sample1_0745"><hi rend="capitalsize2">O</hi>M dat adam in eenre wijse</l>
+<lb n="23" xml:id="Hf8vb.23"/><l n="H_sample1_0746"><hi rend="capitalsize1">A</hi>lleen mysdade an die spijse</l>
+<lb n="24" xml:id="Hf8vb.24"/><l n="H_sample1_0747"><hi rend="capitalsize1">D</hi>es gheneert hem noch myt arbeide</l>
+<lb n="25" xml:id="Hf8vb.25"/><l n="H_sample1_0748"><hi rend="capitalsize1">D</hi>ie man in busch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> inder heide</l>
+<lb n="26" xml:id="Hf8vb.26"/><l n="H_sample1_0749"><hi rend="capitalsize1">D</hi>ie aerde was geuloect ghenoech</l>
+<lb n="27" xml:id="Hf8vb.27"/><l n="H_sample1_0750"><hi rend="capitalsize1">O</hi>m dat sy die vrucht droech</l>
+<lb n="28" xml:id="Hf8vb.28"/><l n="H_sample1_0751"><hi rend="capitalsize1">D</hi>es draget sy noch in <choice><abbr>onse<g ref="#bar"/></abbr><expan>onse<ex>n</ex></expan></choice> toern</l>
+<lb n="29" xml:id="Hf8vb.29"/><l n="H_sample1_0752"><hi rend="capitalsize1">B</hi>eide distel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doern</l>
+<lb n="30" xml:id="Hf8vb.30"/><l n="H_sample1_0753"><hi rend="capitalsize2">D</hi>Oe maecte god <choice><abbr>yeue<g ref="#bar"/></abbr><expan>yeue<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> adam</l>
+<lb n="31" xml:id="Hf8vb.31"/><l n="H_sample1_0754"><hi rend="capitalsize1">O</hi>m te decken haer scaem</l>
+<lb n="32" xml:id="Hf8vb.32"/><l n="H_sample1_0755"><hi rend="capitalsize1">T</hi>we <choice><abbr>rocke<g ref="#bar"/></abbr><expan>rocke<ex>n</ex></expan></choice> van beesten vellen</l>
+<lb n="33" xml:id="Hf8vb.33"/><l n="H_sample1_0756"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> meender mede als wij tellen</l>
+<lb n="34" xml:id="Hf8vb.34"/><l n="H_sample1_0757"><hi rend="capitalsize1">D</hi>it decsel is van doden dieren</l>
+<lb n="35" xml:id="Hf8vb.35"/><l n="H_sample1_0758"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> du biste steerflic na manieren</l>
+<lb n="36" xml:id="Hf8vb.36"/><l n="H_sample1_0759"><hi rend="capitalsize1">D</hi>oe sprac god nv is adam gemaect</l>
+<lb n="37" xml:id="Hf8vb.37"/><l n="H_sample1_0760"><hi rend="capitalsize1">A</hi>ls een van ons wijs <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> geraect</l>
+<lb n="38" xml:id="Hf8vb.38"/><l n="H_sample1_0761"><hi rend="capitalsize1">D</hi>it was gelijc als in <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> spot</l>
+<lb n="39" xml:id="Hf8vb.39"/><l n="H_sample1_0762"><hi rend="capitalsize1">O</hi>m dat hij wilde wesen god</l>
+
+
+<pb xml:id="H.f9ra" n="9ra"/>
+<lb n="1" xml:id="Hf9ra.1"/><l n="H_sample1_0763"><hi rend="capitalsize1">O</hi>m dat hi waerlic weet</l>
+<lb n="2" xml:id="Hf9ra.2"/><l n="H_sample1_0764"><hi rend="capitalsize1">Q</hi>uaet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> guet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ondersceet</l>
+<lb n="3" xml:id="Hf9ra.3"/><l n="H_sample1_0765"><hi rend="capitalsize1">N</hi>u stiet hyne vten paradijse</l>
+<lb n="4" xml:id="Hf9ra.4"/><l n="H_sample1_0766"><hi rend="capitalsize1">D</hi>at hy niet en ete die spijse</l>
+<lb n="5" xml:id="Hf9ra.5"/><l n="H_sample1_0767"><hi rend="capitalsize1">D</hi>ie is an dat <choice><abbr>leue<g ref="#bar"/>de</abbr><expan>leue<ex>n</ex>de</expan></choice> hout</l>
+<lb n="6" xml:id="Hf9ra.6"/><l n="H_sample1_0768"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy altoes leuede bout</l>
+<lb n="7" xml:id="Hf9ra.7"/><l n="H_sample1_0769"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dit en darf v <choice><abbr>wondere<g ref="#bar"/></abbr><expan>wondere<ex>n</ex></expan></choice> niet</l>
+<lb n="8" xml:id="Hf9ra.8"/><l n="H_sample1_0770"><hi rend="capitalsize1">D</hi>at dit <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> houte gesciet</l>
+<lb n="9" xml:id="Hf9ra.9"/><l n="H_sample1_0771"><hi rend="capitalsize1">W</hi>ant sulc ylant is onder den dach</l>
+<lb n="10" xml:id="Hf9ra.10"/><l n="H_sample1_0772"><hi rend="capitalsize1">D</hi>aer ghien <choice><abbr>me<g ref="#bar"/>sche</abbr><expan>me<ex>n</ex>sche</expan></choice> <choice><abbr>sterue<g ref="#bar"/></abbr><expan>sterue<ex>n</ex></expan></choice> en mach</l>
+<lb n="11" xml:id="Hf9ra.11"/><l n="H_sample1_0773"><hi rend="capitalsize1">J</hi>nt lant van seres segic v</l>
+<lb n="12" xml:id="Hf9ra.12"/><l n="H_sample1_0774"><hi rend="capitalsize1">E</hi>en dinc an boem die is ru</l>
+<lb n="13" xml:id="Hf9ra.13"/><l n="H_sample1_0775"><choice><abbr><hi rend="capitalsize1">D</hi>aerme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>aerme<ex>n</ex></expan></choice> mede <choice><abbr>v<g ref="#apomod"/>lenget</abbr><expan>v<ex>er</ex>lenget</expan></choice> dat lijf</l>
+<lb n="14" xml:id="Hf9ra.14"/><l n="H_sample1_0776"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> alexander sonder blijf</l>
+<lb n="15" xml:id="Hf9ra.15"/><l n="H_sample1_0777"><hi rend="capitalsize1">S</hi>creef tot aristotiles</l>
+<lb n="16" xml:id="Hf9ra.16"/><l n="H_sample1_0778"><hi rend="capitalsize1">D</hi>atter <choice><abbr>sonne<g ref="#bar"/></abbr><expan>sonne<ex>n</ex></expan></choice> boem volc es</l>
+<lb n="17" xml:id="Hf9ra.17"/><l n="H_sample1_0779"><hi rend="capitalsize1">D</hi>ie lange <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> vter maten</l>
+
+<note n="H_sample1_0780">Line_number 0780 is missing</note>
+<lb n="18" xml:id="Hf9ra.18"/><l n="H_sample1_0780a">hier warp god adam ende</l>
+<lb n="19" xml:id="Hf9ra.19"/><l n="H_sample1_0780b">eua vten paradise</l>
+<lb n="20" xml:id="Hf9ra.20"/><l n="H_sample1_0781"><hi rend="capitalsize2">G</hi>Od <choice><abbr>stake<g ref="#bar"/></abbr><expan>stake<ex>n</ex></expan></choice> vten paradise</l>
+<lb n="21" xml:id="Hf9ra.21"/><l n="H_sample1_0782"><hi rend="capitalsize1">O</hi>m dat hi soude nae dorpers wise</l>
+<lb n="22" xml:id="Hf9ra.22"/><l n="H_sample1_0783"><hi rend="capitalsize1">D</hi>ie eerde bouwen daer hy to voren</l>
+<lb n="23" xml:id="Hf9ra.23"/><l n="H_sample1_0784"><hi rend="capitalsize1">A</hi>f was gemaect nu suldi <choice><abbr>hore<g ref="#bar"/></abbr><expan>hore<ex>n</ex></expan></choice></l>
+<lb n="24" xml:id="Hf9ra.24"/><l n="H_sample1_0785"><hi rend="capitalsize1">V</hi>an wat lande hy gemaect was</l>
+<lb n="25" xml:id="Hf9ra.25"/><l n="H_sample1_0786"><hi rend="capitalsize1">V</hi>ten lande van damas</l>
+<lb n="26" xml:id="Hf9ra.26"/><l n="H_sample1_0787"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> daer was hy <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn wijf</l>
+<lb n="27" xml:id="Hf9ra.27"/><l n="H_sample1_0788"><hi rend="capitalsize1">B</hi>eide <choice><abbr>bedolue<g ref="#bar"/></abbr><expan>bedolue<ex>n</ex></expan></choice> nae haer lijf</l>
+<lb n="28" xml:id="Hf9ra.28"/><l n="H_sample1_0789"><hi rend="capitalsize1">D</hi>at heit in <choice><abbr>spelu<g ref="#bar"/>ca</abbr><expan>spelu<ex>n</ex>ca</expan></choice> duplici</l>
+<lb n="29" xml:id="Hf9ra.29"/><l n="H_sample1_0790"><hi rend="capitalsize1">A</hi>lso noemt die bible my</l>
+<lb n="30" xml:id="Hf9ra.30"/><l n="H_sample1_0791"><hi rend="capitalsize1">J</hi>n dien acker sloech also wel</l>
+<lb n="31" xml:id="Hf9ra.31"/><l n="H_sample1_0792"><hi rend="capitalsize1">C</hi>ayn doet <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> brueder abel</l>
+<lb n="32" xml:id="Hf9ra.32"/><l n="H_sample1_0793"><hi rend="capitalsize1">V</hi>oert paradijs sette onse here</l>
+<lb n="33" xml:id="Hf9ra.33"/><l n="H_sample1_0794"><hi rend="capitalsize1">C</hi>herubin die den duuel kere</l>
+<lb n="34" xml:id="Hf9ra.34"/><l n="H_sample1_0795"><hi rend="capitalsize1">D</hi>at hy daer <choice><abbr>nu<g ref="#bar"/>mer</abbr><expan>nu<ex>m</ex>mer</expan></choice> in en vaert</l>
+<lb n="35" xml:id="Hf9ra.35"/><l n="H_sample1_0796"><hi rend="capitalsize1">H</hi>y had oec een <choice><abbr>vur<g ref="#apomod"/>ch</abbr><expan>vur<ex>e</ex>ch</expan></choice> swaert</l>
+<lb n="36" xml:id="Hf9ra.36"/><l n="H_sample1_0797"><hi rend="capitalsize1">D</hi>at vuer den wech den man benaeme</l>
+<lb n="37" xml:id="Hf9ra.37"/><l n="H_sample1_0798"><hi rend="capitalsize1">D</hi>atter en ghien in en quame</l>
+<lb n="38" xml:id="Hf9ra.38"/><l n="H_sample1_0799"><hi rend="capitalsize1">D</hi>at swaert is <choice><abbr>ker<g ref="#apomod"/>de</abbr><expan>ker<ex>en</ex>de</expan></choice> genant</l>
+<lb n="39" xml:id="Hf9ra.39"/><l n="H_sample1_0800"><hi rend="capitalsize1">T</hi>en is el niet dan een brant</l>
+
+
+<pb xml:id="H.f9rb" n="9rb"/>
+<lb n="1" xml:id="Hf9rb.1"/><l n="H_sample1_0801"><hi rend="capitalsize1">E</hi>en vueren muer daer om gheet</l>
+<lb n="2" xml:id="Hf9rb.2"/><l n="H_sample1_0802"><hi rend="capitalsize1">D</hi>aer om yst dat <choice><abbr>k<g ref="#apomod"/>ende</abbr><expan>k<ex>er</ex>ende</expan></choice> beduut</l>
+<lb n="3" xml:id="Hf9rb.3"/><l n="H_sample1_0803"><hi rend="capitalsize1">O</hi>m dat god wal duen mocht</l>
+<lb n="4" xml:id="Hf9rb.4"/><l n="H_sample1_0804"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>neer</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>neer</expan></choice> hem dat tijt docht</l>
+<lb n="5" xml:id="Hf9rb.5"/><l n="H_sample1_0805"><hi rend="capitalsize1">D</hi>at was een starck wijch to <choice><abbr>same<g ref="#bar"/></abbr><expan>same<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Hf9rb.6"/><l n="H_sample1_0806"><hi rend="capitalsize1">D</hi>oerre enoch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> elyas <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Hf9rb.7"/><l n="H_sample1_0807"><hi rend="capitalsize1">M</hi>er dat bloet dat sint liep</l>
+<lb n="8" xml:id="Hf9rb.8"/><l n="H_sample1_0808"><hi rend="capitalsize1">W</hi>t ons <choice><abbr>he<g ref="#apomod"/>n</abbr><expan>he<ex>re</ex>n</expan></choice> wonden diep</l>
+<lb n="9" xml:id="Hf9rb.9"/><l n="H_sample1_0809"><hi rend="capitalsize1">J</hi>n sijnre passien deet al wt</l>
+<lb n="10" xml:id="Hf9rb.10"/><l n="H_sample1_0810"><hi rend="capitalsize1">D</hi>es ysser menige salige bruut</l>
+<lb n="11" xml:id="Hf9rb.11"/><l n="H_sample1_0811"><hi rend="capitalsize1">V</hi>an gods <choice><abbr>halue<g ref="#bar"/></abbr><expan>halue<ex>n</ex></expan></choice> sint in <choice><abbr>gecome<g ref="#bar"/></abbr><expan>gecome<ex>n</ex></expan></choice></l>
+<lb n="12" xml:id="Hf9rb.12"/><l n="H_sample1_0812"><hi rend="capitalsize1">D</hi>ie haer loen heeft <choice><abbr>ghenome<g ref="#bar"/></abbr><expan>ghenome<ex>n</ex></expan></choice></l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Debora_sample2" xml:id="sample2">
+<body>
+<p>
+
+<pb xml:id="H.f48vb" n="48vb"/>
+<lb n="1" xml:id="Hf48vb.1"/><l n="H_sample2_7303"><hi rend="capitalsize2">E</hi>Cht daden sij na sangers doot</l>
+<lb n="2" xml:id="Hf48vb.2"/><l n="H_sample2_7304"><hi rend="capitalsize1">D</hi>ie van israel sonde groot</l>
+<lb n="3" xml:id="Hf48vb.3"/><l n="H_sample2_7305"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> god liet se dwinghen dan</l>
+<lb n="4" xml:id="Hf48vb.4"/><l n="H_sample2_7306"><hi rend="capitalsize1">J</hi>abin den <choice><abbr>coni<g ref="#bar"/>ck</abbr><expan>coni<ex>n</ex>ck</expan></choice> van canaan</l>
+<lb n="5" xml:id="Hf48vb.5"/><l n="H_sample2_7307"><hi rend="capitalsize1">D</hi>ie in asor <choice><abbr>coni<g ref="#bar"/>c</abbr><expan>coni<ex>n</ex>c</expan></choice> was</l>
+<lb n="6" xml:id="Hf48vb.6"/><l n="H_sample2_7308"><hi rend="capitalsize1">S</hi>ijn maerscalc was sysaras</l>
+<lb n="7" xml:id="Hf48vb.7"/><l n="H_sample2_7309"><hi rend="capitalsize1">D</hi>ese hadde tfolc <num type="roman">xx</num> iaer</l>
+<lb n="8" xml:id="Hf48vb.8"/><l n="H_sample2_7310"><hi rend="capitalsize1">J</hi>n bedwanghe harde swaer</l>
+<lb n="9" xml:id="Hf48vb.9"/><l n="H_sample2_7311"><hi rend="capitalsize1">D</hi>oe riepen sy op gode myt synne</l>
+<lb n="10" xml:id="Hf48vb.10"/><l n="H_sample2_7312"><hi rend="capitalsize1">T</hi>ie tijden was een profetynne</l>
+<lb n="11" xml:id="Hf48vb.11"/><l n="H_sample2_7313"><hi rend="capitalsize1">H</hi>iet delbora woende in effraym</l>
+<lb n="12" xml:id="Hf48vb.12"/><l n="H_sample2_7314"><hi rend="capitalsize1">S</hi>y riep barach van neptalim</l>
+
+
+<pb xml:id="H.f49ra" n="49ra"/>
+<lb n="1" xml:id="Hf49ra.1"/><l n="H_sample2_7315"><hi rend="capitalsize1">H</hi>aren man <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seide god</l>
+<lb n="2" xml:id="Hf49ra.2"/><l n="H_sample2_7316"><hi rend="capitalsize1">D</hi>ie ghebiet dy dit gebod</l>
+<lb n="3" xml:id="Hf49ra.3"/><l n="H_sample2_7317"><hi rend="capitalsize1">L</hi>eidt to montabor dijn heer</l>
+<lb n="4" xml:id="Hf49ra.4"/><l n="H_sample2_7318"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sette di daer toe weer</l>
+<lb n="5" xml:id="Hf49ra.5"/><l n="H_sample2_7319"><hi rend="capitalsize1">T</hi>wintich dusent nym mitti man</l>
+<lb n="6" xml:id="Hf49ra.6"/><l n="H_sample2_7320"><hi rend="capitalsize1">V</hi>an sabulon van neptalim dan</l>
+<lb n="7" xml:id="Hf49ra.7"/><l n="H_sample2_7321"><hi rend="capitalsize1">G</hi>od sal dij <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> sekerlike</l>
+<lb n="8" xml:id="Hf49ra.8"/><l n="H_sample2_7322"><hi rend="capitalsize1">D</hi>aer by dat fyson loept de beke</l>
+<lb n="9" xml:id="Hf49ra.9"/><l n="H_sample2_7323"><hi rend="capitalsize1">J</hi>n dijn hande sysaras</l>
+<lb n="10" xml:id="Hf49ra.10"/><l n="H_sample2_7324"><hi rend="capitalsize1">B</hi>arach sprac en doet niet das</l>
+<lb n="11" xml:id="Hf49ra.11"/><l n="H_sample2_7325"><hi rend="capitalsize1">D</hi>u en willes <choice><abbr>selue<g ref="#bar"/></abbr><expan>selue<ex>n</ex></expan></choice> myt my <choice><abbr>vare<g ref="#bar"/></abbr><expan>vare<ex>n</ex></expan></choice></l>
+<lb n="12" xml:id="Hf49ra.12"/><l n="H_sample2_7326"><hi rend="capitalsize1">J</hi>c doe sprac delbora <choice><abbr>tware<g ref="#bar"/></abbr><expan>tware<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Hf49ra.13"/><l n="H_sample2_7327"><hi rend="capitalsize1">M</hi>er een wijf sal hebn dere</l>
+<lb n="14" xml:id="Hf49ra.14"/><l n="H_sample2_7328"><hi rend="capitalsize1">S</hi>ysaras <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> die mere</l>
+<lb n="15" xml:id="Hf49ra.15"/><l n="H_sample2_7329"><hi rend="capitalsize1">D</hi>at dat heer waer an porre</l>
+<lb n="16" xml:id="Hf49ra.16"/><l n="H_sample2_7330"><hi rend="capitalsize1">T</hi>en berghe waert an taborre</l>
+<lb n="17" xml:id="Hf49ra.17"/><l n="H_sample2_7331"><hi rend="capitalsize1">H</hi>y versamede haestelike</l>
+<lb n="18" xml:id="Hf49ra.18"/><l n="H_sample2_7332"><hi rend="capitalsize1">T</hi>ot fyson bi der beke</l>
+<lb n="19" xml:id="Hf49ra.19"/><l n="H_sample2_7333"><num type="roman">.CCC.M.</num> ghewapender man</l>
+<lb n="20" xml:id="Hf49ra.20"/><l n="H_sample2_7334"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> tien dusent ridders daer an</l>
+<lb n="21" xml:id="Hf49ra.21"/><l n="H_sample2_7335"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> neghen dusent <choice><abbr>waghene<g ref="#bar"/></abbr><expan>waghene<ex>n</ex></expan></choice> die <choice><abbr>snide<g ref="#bar"/></abbr><expan>snide<ex>n</ex></expan></choice></l>
+<lb n="22" xml:id="Hf49ra.22"/><l n="H_sample2_7336"><hi rend="capitalsize1">M</hi>it sekelen an beyden syden</l>
+<lb n="23" xml:id="Hf49ra.23"/><l n="H_sample2_7337"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ander wagen wies so wondert</l>
+<lb n="24" xml:id="Hf49ra.24"/><l n="H_sample2_7338"><hi rend="capitalsize1">M</hi>it hem <choice><abbr>ene<g ref="#bar"/>twintich</abbr><expan>ene<ex>n</ex>twintich</expan></choice> hondert</l>
+<lb n="25" xml:id="Hf49ra.25"/><l n="H_sample2_7339"><hi rend="capitalsize1">D</hi>elbora seide tot barach</l>
+<lb n="26" xml:id="Hf49ra.26"/><l n="H_sample2_7340"><hi rend="capitalsize1">G</hi>anc neder op desen dach</l>
+<lb n="27" xml:id="Hf49ra.27"/><l n="H_sample2_7341"><hi rend="capitalsize1">S</hi>al di god <choice><abbr>geue<g ref="#bar"/></abbr><expan>geue<ex>n</ex></expan></choice> sysaras</l>
+<lb n="28" xml:id="Hf49ra.28"/><l n="H_sample2_7342"><hi rend="capitalsize1">H</hi>y daelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat myt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> was</l>
+<lb n="29" xml:id="Hf49ra.29"/><l n="H_sample2_7343"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> delbora stont <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bat</l>
+<lb n="30" xml:id="Hf49ra.30"/><l n="H_sample2_7344"><hi rend="capitalsize1">O</hi>pten berch in ene stat</l>
+<lb n="31" xml:id="Hf49ra.31"/><l n="H_sample2_7345"><hi rend="capitalsize1">G</hi>od gaf sysarase ene vaer</l>
+<lb n="32" xml:id="Hf49ra.32"/><l n="H_sample2_7346"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> den <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> die <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> daer</l>
+<lb n="33" xml:id="Hf49ra.33"/><l n="H_sample2_7347"><hi rend="capitalsize1">W</hi>ijnt hagel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reghen</l>
+<lb n="34" xml:id="Hf49ra.34"/><l n="H_sample2_7348"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> blixen voren hem <choice><abbr>daertege<g ref="#bar"/></abbr><expan>daertege<ex>n</ex></expan></choice></l>
+<lb n="35" xml:id="Hf49ra.35"/><l n="H_sample2_7349"><hi rend="capitalsize1">S</hi>oe dat die <choice><abbr>slongere<g ref="#bar"/></abbr><expan>slongere<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bogen</l>
+<lb n="36" xml:id="Hf49ra.36"/><l n="H_sample2_7350"><hi rend="capitalsize1">H</hi>em noch cleyn noch groot en <choice><abbr>doge<g ref="#bar"/></abbr><expan>doge<ex>n</ex></expan></choice></l>
+<lb n="37" xml:id="Hf49ra.37"/><l n="H_sample2_7351"><hi rend="capitalsize1">S</hi>ulc vel van wagen sulc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> peerde</l>
+<lb n="38" xml:id="Hf49ra.38"/><l n="H_sample2_7352"><hi rend="capitalsize1">D</hi>ie wart <choice><abbr>vertrede<g ref="#bar"/></abbr><expan>vertrede<ex>n</ex></expan></choice> op die eerde</l>
+<lb n="39" xml:id="Hf49ra.39"/><l n="H_sample2_7353"><hi rend="capitalsize1">D</hi>us dede <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> al theer vlucht</l>
+<lb n="40" xml:id="Hf49ra.40"/><l n="H_sample2_7354"><hi rend="capitalsize1">S</hi>ysaras vlo dor die vrucht</l>
+<lb n="41" xml:id="Hf49ra.41"/><l n="H_sample2_7355"><hi rend="capitalsize1">A</hi>l daer aber cyreus</l>
+<lb n="42" xml:id="Hf49ra.42"/><l n="H_sample2_7356"><hi rend="capitalsize1">W</hi>oende <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn wijf was in huys</l>
+
+
+<pb xml:id="H.f49rb" n="49rb"/>
+<lb n="1" xml:id="Hf49rb.1"/><l n="H_sample2_7357"><hi rend="capitalsize1">A</hi>ber was comen van ietro</l>
+<lb n="2" xml:id="Hf49rb.2"/><l n="H_sample2_7358"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> was daer gheguet also</l>
+<lb n="3" xml:id="Hf49rb.3"/><l n="H_sample2_7359"><hi rend="capitalsize1">O</hi>nder tfolc van israel</l>
+<lb n="4" xml:id="Hf49rb.4"/><l n="H_sample2_7360"><hi rend="capitalsize1">A</hi>bers wijf die hiet iahel</l>
+<lb n="5" xml:id="Hf49rb.5"/><l n="H_sample2_7361"><hi rend="capitalsize1">H</hi>y hadde vrede myt iabin</l>
+<lb n="6" xml:id="Hf49rb.6"/><l n="H_sample2_7362"><hi rend="capitalsize1">S</hi>ysaras die vloe daer in</l>
+<lb n="7" xml:id="Hf49rb.7"/><l n="H_sample2_7363"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bat <choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> daer <choice><abbr>decke<g ref="#bar"/></abbr><expan>decke<ex>n</ex></expan></choice> soude</l>
+<lb n="8" xml:id="Hf49rb.8"/><l n="H_sample2_7364"><hi rend="capitalsize1">O</hi>ec seide hy dat hy <choice><abbr>drincke<g ref="#bar"/></abbr><expan>drincke<ex>n</ex></expan></choice> woude</l>
+<lb n="9" xml:id="Hf49rb.9"/><l n="H_sample2_7365"><hi rend="capitalsize1">S</hi>y gaf hem melc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hij sliep vaste</l>
+<lb n="10" xml:id="Hf49rb.10"/><l n="H_sample2_7366"><hi rend="capitalsize1">D</hi>oe doersloech sy haren gaste</l>
+<lb n="11" xml:id="Hf49rb.11"/><l n="H_sample2_7367"><hi rend="capitalsize1">M</hi>it <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>en</ex></expan></choice> kouter <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nagelden daer</l>
+<lb n="12" xml:id="Hf49rb.12"/><l n="H_sample2_7368"><hi rend="capitalsize1">J</hi>egens die eerde dat is waer</l>
+<lb n="13" xml:id="Hf49rb.13"/><l n="H_sample2_7369"><hi rend="capitalsize1">M</hi>yt <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> yseren nagel</l>
+<lb n="14" xml:id="Hf49rb.14"/><l n="H_sample2_7370"><hi rend="capitalsize1">J</hi>ahel beteken die behagel</l>
+<lb n="15" xml:id="Hf49rb.15"/><l n="H_sample2_7371"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die scone maget maria</l>
+<lb n="16" xml:id="Hf49rb.16"/><l n="H_sample2_7372"><hi rend="capitalsize1">S</hi>ysaras <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn partie</l>
+<lb n="17" xml:id="Hf49rb.17"/><l n="H_sample2_7373"><hi rend="capitalsize1">D</hi>ats lucifer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn scaer</l>
+<lb n="18" xml:id="Hf49rb.18"/><l n="H_sample2_7374"><hi rend="capitalsize1">D</hi>ie <choice><abbr>verwo<g ref="#bar"/>nen</abbr><expan>verwo<ex>n</ex>nen</expan></choice> sijn by haer</l>
+<lb n="19" xml:id="Hf49rb.19"/><l n="H_sample2_7375"><hi rend="capitalsize1">D</hi>ie nagel mach <choice><abbr>bedude<g ref="#bar"/></abbr><expan>bedude<ex>n</ex></expan></choice> mede</l>
+<lb n="20" xml:id="Hf49rb.20"/><l n="H_sample2_7376"><hi rend="capitalsize1">D</hi>en sloten haere reynicheden</l>
+<lb n="21" xml:id="Hf49rb.21"/><l n="H_sample2_7377"><hi rend="capitalsize1">D</hi>aer sij den duuel mede verwan</l>
+<lb n="22" xml:id="Hf49rb.22"/><l n="H_sample2_7378"><hi rend="capitalsize1">D</hi>at melc dat yahel gaf den man</l>
+<lb n="23" xml:id="Hf49rb.23"/><l n="H_sample2_7379"><hi rend="capitalsize1">D</hi>at is ihesus menschelichede</l>
+<lb n="24" xml:id="Hf49rb.24"/><l n="H_sample2_7380"><hi rend="capitalsize1">D</hi>ie lucifer bedroech mede</l>
+<lb n="25" xml:id="Hf49rb.25"/><l n="H_sample2_7381"><hi rend="capitalsize1">D</hi>en hamer daer sy mede sloech</l>
+<lb n="26" xml:id="Hf49rb.26"/><l n="H_sample2_7382"><hi rend="capitalsize1">G</hi>helijct den cruce ghenoech</l>
+<lb n="27" xml:id="Hf49rb.27"/><l n="H_sample2_7383"><hi rend="capitalsize1">B</hi>y marien reynichede</l>
+<lb n="28" xml:id="Hf49rb.28"/><l n="H_sample2_7384"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> by ihesus menschelichede</l>
+<lb n="29" xml:id="Hf49rb.29"/><l n="H_sample2_7385"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> by den cruce is openbaer</l>
+<lb n="30" xml:id="Hf49rb.30"/><l n="H_sample2_7386"><hi rend="capitalsize1">G</hi>hesconfiert al des duuels scaer</l>
+<lb n="31" xml:id="Hf49rb.31"/><l n="H_sample2_7387"><hi rend="capitalsize2">D</hi>Aer na saen so <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> barach</l>
+<lb n="32" xml:id="Hf49rb.32"/><l n="H_sample2_7388"><hi rend="capitalsize1">J</hi>ahel togede waer hy lach</l>
+<lb n="33" xml:id="Hf49rb.33"/><l n="H_sample2_7389"><hi rend="capitalsize1">D</hi>oet daer hy also liep naer</l>
+<lb n="34" xml:id="Hf49rb.34"/><l n="H_sample2_7390"><hi rend="capitalsize1">A</hi>ldus seyde delbora waer</l>
+<lb n="35" xml:id="Hf49rb.35"/><l n="H_sample2_7391"><hi rend="capitalsize1">D</hi>at een wijf soude <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> die zeghe</l>
+<lb n="36" xml:id="Hf49rb.36"/><l n="H_sample2_7392"><hi rend="capitalsize1">B</hi>arach leide theer an weghe</l>
+<lb n="37" xml:id="Hf49rb.37"/><l n="H_sample2_7393"><hi rend="capitalsize1">J</hi>eghen iabin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn here groot</l>
+<lb n="38" xml:id="Hf49rb.38"/><l n="H_sample2_7394"><hi rend="capitalsize1">D</hi>ien sloech hy al daer doot</l>
+<lb n="39" xml:id="Hf49rb.39"/><l n="H_sample2_7395"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> asors hoeft stede</l>
+<lb n="40" xml:id="Hf49rb.40"/><l n="H_sample2_7396"><hi rend="capitalsize1">V</hi>elde hy al gader mede</l>
+<lb n="41" xml:id="Hf49rb.41"/><l n="H_sample2_7397"><hi rend="capitalsize1">B</hi>arach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> delbora</l>
+<lb n="42" xml:id="Hf49rb.42"/><l n="H_sample2_7398"><choice><abbr><hi rend="capitalsize1">S</hi>onghe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>onghe<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>louede<g ref="#bar"/></abbr><expan>louede<ex>n</ex></expan></choice> gode daer nae</l>
+
+
+<pb xml:id="H.f49va" n="49va"/>
+<lb n="1" xml:id="Hf49va.1"/><l n="H_sample2_7399"><hi rend="capitalsize1">D</hi>ie soe dicke <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe wel</l>
+<lb n="2" xml:id="Hf49va.2"/><l n="H_sample2_7400"><hi rend="capitalsize1">B</hi>escudde die van israel</l>
+<lb n="3" xml:id="Hf49va.3"/><l n="H_sample2_7401"><hi rend="capitalsize1">D</hi>oe waren sij in <choice><abbr>vreede<g ref="#bar"/></abbr><expan>vreede<ex>n</ex></expan></choice> daer naer</l>
+<lb n="4" xml:id="Hf49va.4"/><l n="H_sample2_7402"><hi rend="capitalsize1">S</hi>onder vechten viertich iaer</l>
+<lb n="5" xml:id="Hf49va.5"/><l n="H_sample2_7403"><hi rend="capitalsize2">A</hi>Pollo was in delbora <choice><abbr>tijde<g ref="#bar"/></abbr><expan>tijde<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Hf49va.6"/><l n="H_sample2_7404"><hi rend="capitalsize1">D</hi>ie de heydene lange sijder</l>
+<lb n="7" xml:id="Hf49va.7"/><l n="H_sample2_7405"><hi rend="capitalsize1">A</hi>enbeden in menich lant</l>
+<lb n="8" xml:id="Hf49va.8"/><l n="H_sample2_7406"><hi rend="capitalsize1">H</hi>y was die yerste die harpe vant</l>
+<lb n="9" xml:id="Hf49va.9"/><l n="H_sample2_7407"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die visierde ierst visike</l>
+<lb n="10" xml:id="Hf49va.10"/><l n="H_sample2_7408"><hi rend="capitalsize1">D</hi>at was een wijseit rijke</l>
+<lb n="11" xml:id="Hf49va.11"/><l n="H_sample2_7409"><hi rend="capitalsize1">E</hi>sculapis vant se oec sijn soen</l>
+<lb n="12" xml:id="Hf49va.12"/><l n="H_sample2_7410"><hi rend="capitalsize1">M</hi>it eenre blixeme was die goen</l>
+<lb n="13" xml:id="Hf49va.13"/><l n="H_sample2_7411"><hi rend="capitalsize1">V</hi>erbernt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn boke mede</l>
+<lb n="14" xml:id="Hf49va.14"/><l n="H_sample2_7412"><hi rend="capitalsize1">D</hi>us bleef die behendichede</l>
+<lb n="15" xml:id="Hf49va.15"/><l n="H_sample2_7413"><hi rend="capitalsize1">V</hi>erborghen wel wijfhondert iaer</l>
+<lb n="16" xml:id="Hf49va.16"/><l n="H_sample2_7414"><hi rend="capitalsize1">T</hi>ot dat se ypocras vant daer naer</l>
+<lb n="17" xml:id="Hf49va.17"/><l n="H_sample2_7415"><hi rend="capitalsize1">T</hi>ien tijden maecte oec ylus soem</l>
+<lb n="18" xml:id="Hf49va.18"/><l n="H_sample2_7416"><hi rend="capitalsize1">V</hi>an troyen den tor yliom</l>
+<lb n="19" xml:id="Hf49va.19"/><l n="H_sample2_7417"><hi rend="capitalsize1">T</hi>ien tijden sloech doet percheus</l>
+<lb n="20" xml:id="Hf49va.20"/><l n="H_sample2_7418"><hi rend="capitalsize1">D</hi>en <choice><abbr>coni<g ref="#bar"/>ck</abbr><expan>coni<ex>n</ex>ck</expan></choice> acrisius</l>
+<lb n="21" xml:id="Hf49va.21"/><l n="H_sample2_7419"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> maecte <choice><abbr>coni<g ref="#bar"/>crijke</abbr><expan>coni<ex>n</ex>crijke</expan></choice> mede</l>
+<lb n="22" xml:id="Hf49va.22"/><l n="H_sample2_7420"><hi rend="capitalsize1">T</hi>ot <unclear>iuwer</unclear> ouder stede</l>
+<lb n="23" xml:id="Hf49va.23"/><l n="H_sample2_7421"><hi rend="capitalsize1">D</hi>at to voren in argos was</l>
+<lb n="24" xml:id="Hf49va.24"/><l n="H_sample2_7422"><hi rend="capitalsize1">A</hi>lso als ict <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> las</l>
+<lb n="25" xml:id="Hf49va.25"/><l n="H_sample2_7423"><hi rend="capitalsize2">A</hi>nderwarf misdede sere</l>
+<lb n="26" xml:id="Hf49va.26"/><l n="H_sample2_7424"><hi rend="capitalsize1">I</hi>srael iegen onse here</l>
+<lb n="27" xml:id="Hf49va.27"/><l n="H_sample2_7425"><hi rend="capitalsize1">D</hi>oe liet hijse <choice><abbr>dwinghe<g ref="#bar"/></abbr><expan>dwinghe<ex>n</ex></expan></choice> dan</l>
+<lb n="28" xml:id="Hf49va.28"/><l n="H_sample2_7426"><hi rend="capitalsize1">D</hi>en luden van madian</l>
+<lb n="29" xml:id="Hf49va.29"/><l n="H_sample2_7427"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dien van amalech dats waer</l>
+<lb n="30" xml:id="Hf49va.30"/><l n="H_sample2_7428"><hi rend="capitalsize1">D</hi>ie se dwongen <choice><abbr>seue<g ref="#bar"/></abbr><expan>seue<ex>n</ex></expan></choice> iaer</l>
+<lb n="31" xml:id="Hf49va.31"/><l n="H_sample2_7429"><hi rend="capitalsize1">E</hi>lxs iaers verheret hi haer coern</l>
+<lb n="32" xml:id="Hf49va.32"/><l n="H_sample2_7430"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haer guet <choice><abbr>na<g ref="#bar"/></abbr><expan>na<ex>m</ex></expan></choice> hy to <choice><abbr>vore<g ref="#bar"/></abbr><expan>vore<ex>n</ex></expan></choice></l>
+<lb n="33" xml:id="Hf49va.33"/><l n="H_sample2_7431"><hi rend="capitalsize1">D</hi>oe <choice><abbr>riepe<g ref="#bar"/></abbr><expan>riepe<ex>n</ex></expan></choice> sij an gode genade</l>
+<lb n="34" xml:id="Hf49va.34"/><l n="H_sample2_7432"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hij heeft hem beraden</l>
+<lb n="35" xml:id="Hf49va.35"/><l n="H_sample2_7433"><choice><abbr><hi rend="capitalsize1">E</hi>ne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>ne<ex>n</ex></expan></choice> <choice><abbr><g ref="#pflour"/>phete</abbr><expan><ex>pro</ex>phete</expan></choice> die hem saen</l>
+<lb n="36" xml:id="Hf49va.36"/><l n="H_sample2_7434"><hi rend="capitalsize1">V</hi>ermaende wat hem was gedaen</l>
+<lb n="37" xml:id="Hf49va.37"/><l n="H_sample2_7435"><hi rend="capitalsize1">V</hi>an gode die se node liet</l>
+<lb n="38" xml:id="Hf49va.38"/><l n="H_sample2_7436"><hi rend="capitalsize1">M</hi>er syne wolden <choice><abbr>hore<g ref="#bar"/></abbr><expan>hore<ex>n</ex></expan></choice> nyet</l>
+<lb n="39" xml:id="Hf49va.39"/><l n="H_sample2_7437"><hi rend="capitalsize1">D</hi>oe <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> die engel <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> hemelrijke</l>
+<lb n="40" xml:id="Hf49va.40"/><l n="H_sample2_7438"><hi rend="capitalsize1">T</hi>ot <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> ioas die was rijcke</l>
+
+
+<pb xml:id="H.f49vb" n="49vb"/>
+<lb n="1" xml:id="Hf49vb.1"/><l n="H_sample2_7439"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> had <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> soen hiet gedeon</l>
+<lb n="2" xml:id="Hf49vb.2"/><l n="H_sample2_7440"><hi rend="capitalsize1">D</hi>ie dorste coern om dat duen</l>
+<lb n="3" xml:id="Hf49vb.3"/><l n="H_sample2_7441"><hi rend="capitalsize1">D</hi>at hijre toe noet by <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> woude</l>
+<lb n="4" xml:id="Hf49vb.4"/><l n="H_sample2_7442"><hi rend="capitalsize1">D</hi>ie engel seide die gods houde</l>
+<lb n="5" xml:id="Hf49vb.5"/><l n="H_sample2_7443"><hi rend="capitalsize1">S</hi>y myt di in starc alle <choice><abbr>ma<g ref="#bar"/>ne</abbr><expan>ma<ex>n</ex>ne</expan></choice></l>
+<lb n="6" xml:id="Hf49vb.6"/><l n="H_sample2_7444"><hi rend="capitalsize1">G</hi>edeon antwoerde danne</l>
+<lb n="7" xml:id="Hf49vb.7"/><l n="H_sample2_7445"><hi rend="capitalsize1">O</hi>f god met ons ware twij</l>
+<lb n="8" xml:id="Hf49vb.8"/><l n="H_sample2_7446"><hi rend="capitalsize1">W</hi>aer ons dongheual dus by</l>
+<lb n="9" xml:id="Hf49vb.9"/><l n="H_sample2_7447"><hi rend="capitalsize1">D</hi>ie enghel seide my vaer</l>
+<lb n="10" xml:id="Hf49vb.10"/><l n="H_sample2_7448"><hi rend="capitalsize1">J</hi>c gheue dy cracht <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seynde di daer</l>
+<lb n="11" xml:id="Hf49vb.11"/><l n="H_sample2_7449"><hi rend="capitalsize1">D</hi>attu tfolc van madian</l>
+<lb n="12" xml:id="Hf49vb.12"/><l n="H_sample2_7450"><hi rend="capitalsize1">T</hi>er doot slaeste als een man</l>
+<lb n="13" xml:id="Hf49vb.13"/><l n="H_sample2_7451"><hi rend="capitalsize1">G</hi>edeon scheide ouer man</l>
+<lb n="14" xml:id="Hf49vb.14"/><l n="H_sample2_7452"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyde en gae van my niet dan</l>
+<lb n="15" xml:id="Hf49vb.15"/><l n="H_sample2_7453"><hi rend="capitalsize1">E</hi>er ic mach weder totti <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Hf49vb.16"/><l n="H_sample2_7454"><hi rend="capitalsize1">H</hi>ij heeft een hokijn <choice><abbr>ghenome<g ref="#bar"/></abbr><expan>ghenome<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Hf49vb.17"/><l n="H_sample2_7455"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> soet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bracht mede broet</l>
+<lb n="18" xml:id="Hf49vb.18"/><l n="H_sample2_7456"><hi rend="capitalsize1">D</hi>en engel hij die spijse boet</l>
+<lb n="19" xml:id="Hf49vb.19"/><l n="H_sample2_7457"><hi rend="capitalsize1">D</hi>ie engel hiet hem ouer een</l>
+<lb n="20" xml:id="Hf49vb.20"/><l n="H_sample2_7458"><hi rend="capitalsize1">D</hi>at hijse leyde op een steen</l>
+<lb n="21" xml:id="Hf49vb.21"/><l n="H_sample2_7459"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hij tsop daer vp <choice><abbr>ghiete<g ref="#bar"/></abbr><expan>ghiete<ex>n</ex></expan></choice> soude</l>
+<lb n="22" xml:id="Hf49vb.22"/><l n="H_sample2_7460"><hi rend="capitalsize1">M</hi>aer die engel als hy woude</l>
+<lb n="23" xml:id="Hf49vb.23"/><l n="H_sample2_7461"><hi rend="capitalsize1">H</hi>ad een roede na mans wijse</l>
+<lb n="24" xml:id="Hf49vb.24"/><l n="H_sample2_7462"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die stac hy an die spijse</l>
+<lb n="25" xml:id="Hf49vb.25"/><l n="H_sample2_7463"><hi rend="capitalsize1">E</hi>en vuer quam daer wyten steen</l>
+<lb n="26" xml:id="Hf49vb.26"/><l n="H_sample2_7464"><hi rend="capitalsize1">D</hi>iet al verbrande groot <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> cleen</l>
+<lb n="27" xml:id="Hf49vb.27"/><l n="H_sample2_7465"><hi rend="capitalsize1">M</hi>ittien ontfoer hy mitter vaert</l>
+
+<note n="H_sample2_7466">Line_number 7466 is missing</note>
+<lb n="28" xml:id="Hf49vb.28"/><l n="H_sample2_7467"><hi rend="capitalsize1">G</hi>od riep hij wat sal mijns ghescien</l>
+<lb n="29" xml:id="Hf49vb.29"/><l n="H_sample2_7468"><hi rend="capitalsize1">D</hi>at ic den engel heb gesien</l>
+<lb n="30" xml:id="Hf49vb.30"/><l n="H_sample2_7469"><hi rend="capitalsize1">O</hi>nse here seyde vervaer dy niet</l>
+<lb n="31" xml:id="Hf49vb.31"/><l n="H_sample2_7470"><hi rend="capitalsize1">D</hi>es nachts geboet hy <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet</l>
+<lb n="32" xml:id="Hf49vb.32"/><l n="H_sample2_7471"><hi rend="capitalsize1">D</hi>at hy brake den altaer</l>
+<lb n="33" xml:id="Hf49vb.33"/><l n="H_sample2_7472"><hi rend="capitalsize1">D</hi>ie sijn vader makede daer</l>
+<lb n="34" xml:id="Hf49vb.34"/><l n="H_sample2_7473"><hi rend="capitalsize1">J</hi>n baals ere des afgodes</l>
+<lb n="35" xml:id="Hf49vb.35"/><l n="H_sample2_7474"><hi rend="capitalsize1">G</hi>edeon ontsach hem tghebodes</l>
+<lb n="36" xml:id="Hf49vb.36"/><l n="H_sample2_7475"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dede snachts dat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> god geboet</l>
+<lb n="37" xml:id="Hf49vb.37"/><l n="H_sample2_7476"><hi rend="capitalsize1">D</hi>es daghes wortmens ghewaer al bloet</l>
+<lb n="38" xml:id="Hf49vb.38"/><l n="H_sample2_7477"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> lude vander stede</l>
+<lb n="39" xml:id="Hf49vb.39"/><l n="H_sample2_7478"><hi rend="capitalsize1">S</hi>eiden ioas die dat dede</l>
+<lb n="40" xml:id="Hf49vb.40"/><l n="H_sample2_7479"><hi rend="capitalsize1">D</hi>inen soen brenckt en ons voert</l>
+
+
+<pb xml:id="H.f50ra" n="50ra"/>
+<lb n="1" xml:id="Hf50ra.1"/><l n="H_sample2_7480"><hi rend="capitalsize1">L</hi>aeten <choice><abbr>sterue<g ref="#bar"/></abbr><expan>sterue<ex>n</ex></expan></choice> voer dese moert</l>
+<lb n="2" xml:id="Hf50ra.2"/><l n="H_sample2_7481"><hi rend="capitalsize1">H</hi>y sprac wildine <choice><abbr>berichte<g ref="#bar"/></abbr><expan>berichte<ex>n</ex></expan></choice> al</l>
+<lb n="3" xml:id="Hf50ra.3"/><l n="H_sample2_7482"><hi rend="capitalsize1">J</hi>s hy god wreke hem baal</l>
+<lb n="4" xml:id="Hf50ra.4"/><l n="H_sample2_7483"><hi rend="capitalsize1">D</hi>us lieten <choice><abbr>bliue<g ref="#bar"/></abbr><expan>bliue<ex>n</ex></expan></choice> gheen <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Hf50ra.5"/><l n="H_sample2_7484"><hi rend="capitalsize1">A</hi>malech <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> madian</l>
+<lb n="6" xml:id="Hf50ra.6"/><l n="H_sample2_7485"><hi rend="capitalsize1">D</hi>estrueerden israel</l>
+<lb n="7" xml:id="Hf50ra.7"/><l n="H_sample2_7486"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> lagen int tlant <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> israel</l>
+<lb n="8" xml:id="Hf50ra.8"/><l n="H_sample2_7487"><hi rend="capitalsize1">D</hi>ie hilige geest <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> gedeon</l>
+<lb n="9" xml:id="Hf50ra.9"/><l n="H_sample2_7488"><hi rend="capitalsize1">H</hi>y ontboet dat volc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>zabulo<g ref="#bar"/></abbr><expan>zabulo<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Hf50ra.10"/><l n="H_sample2_7489"><hi rend="capitalsize1">V</hi>an manasse <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> neptalim</l>
+<lb n="11" xml:id="Hf50ra.11"/><l n="H_sample2_7490"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> van asar <choice><abbr>q<hi rend="superscript">a</hi>me<g ref="#bar"/></abbr><expan>q<ex>ua</ex>me<ex>n</ex></expan></choice> tot hem</l>
+<lb n="12" xml:id="Hf50ra.12"/><l n="H_sample2_7491"><hi rend="capitalsize1">M</hi>it tweendartich <num type="roman">.m.</num> tien <choice><abbr>dage<g ref="#bar"/></abbr><expan>dage<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Hf50ra.13"/><l n="H_sample2_7492"><choice><abbr><hi rend="capitalsize1">S</hi>elue<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>elue<ex>n</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> hy mit <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> <choice><abbr>mage<g ref="#bar"/></abbr><expan>mage<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Hf50ra.14"/><l n="H_sample2_7493"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eschede <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> onsen here</l>
+<lb n="15" xml:id="Hf50ra.15"/><l n="H_sample2_7494"><hi rend="capitalsize1">E</hi>en <choice><abbr>teke<g ref="#bar"/></abbr><expan>teke<ex>n</ex></expan></choice> doer sijn selues ere</l>
+<lb n="16" xml:id="Hf50ra.16"/><l n="H_sample2_7495"><hi rend="capitalsize1">E</hi>en vlies leide op die eerde</l>
+<lb n="17" xml:id="Hf50ra.17"/><l n="H_sample2_7496"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bad gode doer syne weerde</l>
+<lb n="18" xml:id="Hf50ra.18"/><l n="H_sample2_7497"><hi rend="capitalsize1">D</hi>at die douwe <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> in dat vlies</l>
+<lb n="19" xml:id="Hf50ra.19"/><l n="H_sample2_7498"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die eerde niet en hadde dies</l>
+<lb n="20" xml:id="Hf50ra.20"/><l n="H_sample2_7499"><hi rend="capitalsize1">D</hi>it dede god doer syne bede</l>
+<lb n="21" xml:id="Hf50ra.21"/><l n="H_sample2_7500"><hi rend="capitalsize1">T</hi>en naesten dage dede hy mede</l>
+<lb n="22" xml:id="Hf50ra.22"/><l n="H_sample2_7501"><hi rend="capitalsize1">D</hi>es douwes daer wt vol een scelle</l>
+<lb n="23" xml:id="Hf50ra.23"/><l n="H_sample2_7502"><hi rend="capitalsize1">E</hi>cht so bat die degen snelle</l>
+<lb n="24" xml:id="Hf50ra.24"/><l n="H_sample2_7503"><hi rend="capitalsize1">D</hi>es <choice><abbr>andere<g ref="#bar"/></abbr><expan>andere<ex>n</ex></expan></choice> dages dat doe die nacht</l>
+<lb n="25" xml:id="Hf50ra.25"/><l n="H_sample2_7504"><hi rend="capitalsize1">D</hi>roge bleef by der godes cracht</l>
+<lb n="26" xml:id="Hf50ra.26"/><l n="H_sample2_7505"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die eerde <choice><abbr>bedouwe<g ref="#bar"/></abbr><expan>bedouwe<ex>n</ex></expan></choice> soude</l>
+<lb n="27" xml:id="Hf50ra.27"/><l n="H_sample2_7506"><hi rend="capitalsize1">S</hi>oe <choice><abbr>mochte<g ref="#bar"/></abbr><expan>mochte<ex>n</ex></expan></choice> sy <choice><abbr>vechte<g ref="#bar"/></abbr><expan>vechte<ex>n</ex></expan></choice> als die boude</l>
+<lb n="28" xml:id="Hf50ra.28"/><l n="H_sample2_7507"><hi rend="capitalsize1">D</hi>it dede god doer hem <choice><abbr>ope<g ref="#bar"/>baer</abbr><expan>ope<ex>n</ex>baer</expan></choice></l>
+<lb n="29" xml:id="Hf50ra.29"/><l n="H_sample2_7508"><hi rend="capitalsize1">D</hi>at hy des seghes seker waer</l>
+<lb n="30" xml:id="Hf50ra.30"/><l n="H_sample2_7509"><hi rend="capitalsize1">D</hi>at vlies dat sacht is <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wit</l>
+<lb n="31" xml:id="Hf50ra.31"/><l n="H_sample2_7510"><hi rend="capitalsize1">J</hi>s dat licham ombesmit</l>
+<lb n="32" xml:id="Hf50ra.32"/><l n="H_sample2_7511"><hi rend="capitalsize1">V</hi>ander reynre maget marien</l>
+<lb n="33" xml:id="Hf50ra.33"/><l n="H_sample2_7512"><hi rend="capitalsize1">D</hi>ie alle tonghen benedien</l>
+<lb n="34" xml:id="Hf50ra.34"/><l n="H_sample2_7513"><hi rend="capitalsize1">D</hi>ie douwe valt heymelike</l>
+<lb n="35" xml:id="Hf50ra.35"/><l n="H_sample2_7514"><hi rend="capitalsize1">O</hi>p die eerde van hemelrike</l>
+<lb n="36" xml:id="Hf50ra.36"/><l n="H_sample2_7515"><hi rend="capitalsize1">A</hi>lso dede hy dat vlies</l>
+<lb n="37" xml:id="Hf50ra.37"/><l n="H_sample2_7516"><hi rend="capitalsize1">D</hi>ats ihesus sijt seker dies</l>
+<lb n="38" xml:id="Hf50ra.38"/><l n="H_sample2_7517"><hi rend="capitalsize1">D</hi>ie heymelic in haer <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="39" xml:id="Hf50ra.39"/><l n="H_sample2_7518"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haer gaf <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet en man</l>
+<lb n="40" xml:id="Hf50ra.40"/><l n="H_sample2_7519"><hi rend="capitalsize1">M</hi>it suuerheiden dat sij <choice><abbr>hadde<g ref="#bar"/></abbr><expan>hadde<ex>n</ex></expan></choice> eer</l>
+
+
+<pb xml:id="H.f50rb" n="50rb"/>
+<lb n="1" xml:id="Hf50rb.1"/><l n="H_sample2_7520"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hilichden se vmmermeer</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Judit_sample3" xml:id="sample3">
+<body>
+<p>
+
+<pb xml:id="H.f113rb" n="113rb"/>
+<lb n="1" xml:id="Hf113rb.1"/><l n="H_sample3_17444"><hi rend="capitalsize1">J</hi>udits geeste gaet hier an</l>
+<lb n="2" xml:id="Hf113rb.2"/><l n="H_sample3_17445"><hi rend="capitalsize1">V</hi>an lyue een van herte een man</l>
+<lb n="3" xml:id="Hf113rb.3"/><l n="H_sample3_17445a">hier beghint <hi rend="capitalsize1">J</hi>udith</l>
+<lb n="4" xml:id="Hf113rb.4"/><l n="H_sample3_17446"><hi rend="capitalsize2">U</hi>Erstaet my wel na cyrus doot</l>
+<lb n="5" xml:id="Hf113rb.5"/><l n="H_sample3_17447"><hi rend="capitalsize1">W</hi>ort een arfaxat <choice><abbr>h<g ref="#apomod"/>e</abbr><expan>h<ex>er</ex>e</expan></choice> groot</l>
+<lb n="6" xml:id="Hf113rb.6"/><l n="H_sample3_17448"><hi rend="capitalsize1">E</hi>nde vestede die stede</l>
+
+
+<pb xml:id="H.f113va" n="113va"/>
+<lb n="1" xml:id="Hf113va.1"/><l n="H_sample3_17449"><hi rend="capitalsize1">D</hi>ie staet int tlantscap hiet mede</l>
+<lb n="2" xml:id="Hf113va.2"/><l n="H_sample3_17450"><hi rend="capitalsize1">O</hi>m dat hy wolde <choice><abbr>moghe<g ref="#bar"/>tlike</abbr><expan>moghe<ex>n</ex>tlike</expan></choice></l>
+<lb n="3" xml:id="Hf113va.3"/><l n="H_sample3_17451"><choice><abbr><hi rend="capitalsize1">W</hi>y<g ref="#bar"/>nen</abbr><expan><hi rend="capitalsize1">W</hi>y<ex>n</ex>nen</expan></choice> van <choice><abbr>mede<g ref="#bar"/></abbr><expan>mede<ex>n</ex></expan></choice> dat <choice><abbr>coni<g ref="#bar"/>krijke</abbr><expan>coni<ex>n</ex>krijke</expan></choice></l>
+<lb n="4" xml:id="Hf113va.4"/><l n="H_sample3_17452"><hi rend="capitalsize1">N</hi>abugodonosor cambises</l>
+<lb n="5" xml:id="Hf113va.5"/><l n="H_sample3_17453"><hi rend="capitalsize1">C</hi>yrus soen <choice><abbr>v<g ref="#apomod"/>noyde</abbr><expan>v<ex>er</ex>noyde</expan></choice> das</l>
+<lb n="6" xml:id="Hf113va.6"/><l n="H_sample3_17454"><hi rend="capitalsize1">H</hi>em gaf die vader eer hi bleef doet</l>
+<lb n="7" xml:id="Hf113va.7"/><l n="H_sample3_17455"><hi rend="capitalsize1">N</hi>iniue die stede groot</l>
+<lb n="8" xml:id="Hf113va.8"/><l n="H_sample3_17456"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wan <choice><abbr>assyrie<g ref="#bar"/></abbr><expan>assyrie<ex>n</ex></expan></choice> dat lant</l>
+<lb n="9" xml:id="Hf113va.9"/><l n="H_sample3_17457"><hi rend="capitalsize1">T</hi>walif iaer dat is bekant</l>
+<lb n="10" xml:id="Hf113va.10"/><l n="H_sample3_17458"><hi rend="capitalsize1">D</hi>roech hy crone voer cyrus doot</l>
+<lb n="11" xml:id="Hf113va.11"/><l n="H_sample3_17459"><hi rend="capitalsize1">D</hi>ie gaf arfaxat wederstoet</l>
+<lb n="12" xml:id="Hf113va.12"/><l n="H_sample3_17460"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloghene <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan dat lant</l>
+<lb n="13" xml:id="Hf113va.13"/><l n="H_sample3_17461"><hi rend="capitalsize1">D</hi>oe hy hadde in sijn hant</l>
+<lb n="14" xml:id="Hf113va.14"/><l n="H_sample3_17462"><hi rend="capitalsize1">B</hi>eyde <choice><abbr><g ref="#pbardes"/>chen</abbr><expan><ex>per</ex>chen</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> meden</l>
+<lb n="15" xml:id="Hf113va.15"/><l n="H_sample3_17463"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> al des vaders <choice><abbr>moghenthede<g ref="#bar"/></abbr><expan>moghenthede<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Hf113va.16"/><l n="H_sample3_17464"><hi rend="capitalsize1">V</hi>erhief sijn harte daer nae</l>
+<lb n="17" xml:id="Hf113va.17"/><l n="H_sample3_17465"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy senden in cilicia</l>
+<lb n="18" xml:id="Hf113va.18"/><l n="H_sample3_17466"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> in alle die lande <choice><abbr>o<g ref="#bar"/>trent</abbr><expan>o<ex>m</ex>trent</expan></choice> hem</l>
+<lb n="19" xml:id="Hf113va.19"/><l n="H_sample3_17467"><hi rend="capitalsize1">A</hi>l tot in iherusalem</l>
+<lb n="20" xml:id="Hf113va.20"/><l n="H_sample3_17468"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eyschede thyns <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gaue mede</l>
+<lb n="21" xml:id="Hf113va.21"/><l n="H_sample3_17469"><hi rend="capitalsize1">M</hi>eer dan ye sijn vader dede</l>
+<lb n="22" xml:id="Hf113va.22"/><l n="H_sample3_17470"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sy ontseiden hem alle gauel</l>
+<lb n="23" xml:id="Hf113va.23"/><l n="H_sample3_17471"><hi rend="capitalsize1">D</hi>oe nam hy <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> <choice><abbr>cony<g ref="#bar"/>ck</abbr><expan>cony<ex>n</ex>ck</expan></choice> stauel</l>
+<lb n="24" xml:id="Hf113va.24"/><l n="H_sample3_17472"><hi rend="capitalsize1">O</hi>lofernus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> geboot</l>
+<lb n="25" xml:id="Hf113va.25"/><l n="H_sample3_17473"><hi rend="capitalsize1">D</hi>at hy name sijn heer groot</l>
+<lb n="26" xml:id="Hf113va.26"/><l n="H_sample3_17474"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy nemens <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vermede</l>
+<lb n="27" xml:id="Hf113va.27"/><l n="H_sample3_17475"><hi rend="capitalsize1">N</hi>och borch noch lant noch stede</l>
+<lb n="28" xml:id="Hf113va.28"/><l n="H_sample3_17476"><hi rend="capitalsize1">H</hi>yne voer wt myt <choice><abbr>menige<g ref="#bar"/></abbr><expan>menige<ex>n</ex></expan></choice> man</l>
+<lb n="29" xml:id="Hf113va.29"/><l n="H_sample3_17477"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> stoerde tlant van madian</l>
+<lb n="30" xml:id="Hf113va.30"/><l n="H_sample3_17478"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> tlant van cilicia</l>
+<lb n="31" xml:id="Hf113va.31"/><l n="H_sample3_17479"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> mesopotania</l>
+<lb n="32" xml:id="Hf113va.32"/><l n="H_sample3_17480"><hi rend="capitalsize1">D</hi>oe baden die <choice><abbr>prince<g ref="#bar"/></abbr><expan>prince<ex>n</ex></expan></choice> om genade</l>
+<lb n="33" xml:id="Hf113va.33"/><l n="H_sample3_17481"><hi rend="capitalsize1">D</hi>oe <choice><abbr>name<g ref="#bar"/></abbr><expan>name<ex>n</ex></expan></choice> sy op borch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stade</l>
+<lb n="34" xml:id="Hf113va.34"/><l n="H_sample3_17482"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> velden se alle gader neder</l>
+<lb n="35" xml:id="Hf113va.35"/><l n="H_sample3_17483"><hi rend="capitalsize1">A</hi>lle die afgode voert <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weder</l>
+<lb n="36" xml:id="Hf113va.36"/><l n="H_sample3_17484"><hi rend="capitalsize1">B</hi>rac hy toe <choice><abbr>stucke<g ref="#bar"/></abbr><expan>stucke<ex>n</ex></expan></choice> cleyn <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
+<lb n="37" xml:id="Hf113va.37"/><l n="H_sample3_17485"><hi rend="capitalsize1">O</hi>mdat cambises geboet</l>
+<lb n="38" xml:id="Hf113va.38"/><l n="H_sample3_17486"><hi rend="capitalsize1">W</hi>ant hy wolde wesen god</l>
+<lb n="39" xml:id="Hf113va.39"/><l n="H_sample3_17487"><hi rend="capitalsize1">A</hi>ls sy <choice><abbr>v<g ref="#apomod"/>name<g ref="#bar"/></abbr><expan>v<ex>er</ex>name<ex>n</ex></expan></choice> dat zwaer gebod</l>
+
+
+<pb xml:id="H.f113vb" n="113vb"/>
+<lb n="1" xml:id="Hf113vb.1"/><l n="H_sample3_17488"><hi rend="capitalsize1">D</hi>ie ioden <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice></l>
+<lb n="2" xml:id="Hf113vb.2"/><l n="H_sample3_17489"><hi rend="capitalsize1">W</hi>aren sy veruaert van hem</l>
+<lb n="3" xml:id="Hf113vb.3"/><l n="H_sample3_17492"><hi rend="capitalsize1">S</hi>i vesteden die weghe sere</l>
+<lb n="4" xml:id="Hf113vb.4"/><l n="H_sample3_17493"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> baden an onsen here</l>
+<lb n="5" xml:id="Hf113vb.5"/><l n="H_sample3_17490"><hi rend="capitalsize1">D</hi>at hi niet al <choice><abbr>sulke<g ref="#bar"/></abbr><expan>sulke<ex>n</ex></expan></choice> scade</l>
+<lb n="6" xml:id="Hf113vb.6"/><l n="H_sample3_17491"><hi rend="capitalsize1">A</hi>n ons heren tempel dade</l>
+<lb n="7" xml:id="Hf113vb.7"/><l n="H_sample3_17494"><hi rend="capitalsize1">D</hi>oe <choice><abbr>v<g ref="#apomod"/>namt</abbr><expan>v<ex>er</ex>namt</expan></choice> <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> wel</l>
+<lb n="8" xml:id="Hf113vb.8"/><l n="H_sample3_17495"><hi rend="capitalsize1">D</hi>at die <choice><abbr>kijnd<g ref="#apomod"/></abbr><expan>kijnd<ex>er</ex></expan></choice> van <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice></l>
+<lb n="9" xml:id="Hf113vb.9"/><l n="H_sample3_17496"><hi rend="capitalsize1">D</hi>ie wege sloten haer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tare</l>
+<lb n="10" xml:id="Hf113vb.10"/><l n="H_sample3_17497"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vragede wat volc het ware</l>
+<lb n="11" xml:id="Hf113vb.11"/><l n="H_sample3_17498"><hi rend="capitalsize1">D</hi>oe sprac die prince der armoniten</l>
+<lb n="12" xml:id="Hf113vb.12"/><l n="H_sample3_17499"><hi rend="capitalsize1">A</hi>chior die van older viten</l>
+<lb n="13" xml:id="Hf113vb.13"/><l n="H_sample3_17500"><hi rend="capitalsize1">R</hi>ekende hoe dat volc <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="14" xml:id="Hf113vb.14"/><l n="H_sample3_17501"><hi rend="capitalsize1">V</hi>anden ghueden abraham</l>
+<lb n="15" xml:id="Hf113vb.15"/><l n="H_sample3_17502"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hoe sy doer die rode zee <choice><abbr>ghinge<g ref="#bar"/></abbr><expan>ghinge<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Hf113vb.16"/><l n="H_sample3_17503"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> god en wolde niet <choice><abbr>ghehenge<g ref="#bar"/></abbr><expan>ghehenge<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Hf113vb.17"/><l n="H_sample3_17504"><hi rend="capitalsize1">D</hi>at hem <choice><abbr>nyema<g ref="#bar"/>t</abbr><expan>nyema<ex>n</ex>t</expan></choice> en mochte <choice><abbr>scade<g ref="#bar"/></abbr><expan>scade<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Hf113vb.18"/><l n="H_sample3_17505"><hi rend="capitalsize1">A</hi>lso lange als sy wal daden</l>
+<lb n="19" xml:id="Hf113vb.19"/><l n="H_sample3_17506"><hi rend="capitalsize1">M</hi>aer daden sy sonde hi liet se <choice><abbr>plage<g ref="#bar"/></abbr><expan>plage<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Hf113vb.20"/><l n="H_sample3_17507"><hi rend="capitalsize1">N</hi>uwinghe oec in <choice><abbr>corte<g ref="#bar"/></abbr><expan>corte<ex>n</ex></expan></choice> dagen</l>
+<lb n="21" xml:id="Hf113vb.21"/><l n="H_sample3_17508"><hi rend="capitalsize1">H</hi>eeft hijse <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> <choice><abbr>bande<g ref="#bar"/></abbr><expan>bande<ex>n</ex></expan></choice> <choice><abbr>ontbonde<g ref="#bar"/></abbr><expan>ontbonde<ex>n</ex></expan></choice></l>
+<lb n="22" xml:id="Hf113vb.22"/><l n="H_sample3_17509"><hi rend="capitalsize1">D</hi>aer hijse in had doer haer sonden</l>
+<lb n="23" xml:id="Hf113vb.23"/><l n="H_sample3_17510"><hi rend="capitalsize1">N</hi>abugodonosor binden liet</l>
+<lb n="24" xml:id="Hf113vb.24"/><l n="H_sample3_17511"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wildi <choice><abbr>verwinne<g ref="#bar"/></abbr><expan>verwinne<ex>n</ex></expan></choice> dit diet</l>
+<lb n="25" xml:id="Hf113vb.25"/><l n="H_sample3_17512"><hi rend="capitalsize1">V</hi>ereyschet of hem god is gram</l>
+<lb n="26" xml:id="Hf113vb.26"/><l n="H_sample3_17513"><hi rend="capitalsize1">W</hi>ij <choice><abbr>bijnde<g ref="#bar"/></abbr><expan>bijnde<ex>n</ex></expan></choice> se al oft waer een lam</l>
+<lb n="27" xml:id="Hf113vb.27"/><l n="H_sample3_17516"><hi rend="capitalsize2">O</hi>m dit balch hem <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice></l>
+<lb n="28" xml:id="Hf113vb.28"/><l n="H_sample3_17517"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide ic sal di beuroden dus</l>
+<lb n="29" xml:id="Hf113vb.29"/><l n="H_sample3_17518"><hi rend="capitalsize1">D</hi>at ghien god en sy achior</l>
+<lb n="30" xml:id="Hf113vb.30"/><l n="H_sample3_17519"><hi rend="capitalsize1">S</hi>onder nabugodonosor</l>
+<lb n="31" xml:id="Hf113vb.31"/><l n="H_sample3_17520"><hi rend="capitalsize1">M</hi>ijn groote here cambises</l>
+<lb n="32" xml:id="Hf113vb.32"/><l n="H_sample3_17521"><hi rend="capitalsize1">D</hi>u moetes myt hem sijn gewes</l>
+<lb n="33" xml:id="Hf113vb.33"/><l n="H_sample3_17522"><hi rend="capitalsize1">A</hi>lse ic se wynne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dy mede</l>
+<lb n="34" xml:id="Hf113vb.34"/><l n="H_sample3_17523"><hi rend="capitalsize1">S</hi>oe saltu weten die waerheide</l>
+<lb n="35" xml:id="Hf113vb.35"/><l n="H_sample3_17524"><hi rend="capitalsize1">O</hi>lofernes die hieten daer nae</l>
+<lb n="36" xml:id="Hf113vb.36"/><l n="H_sample3_17525"><hi rend="capitalsize1">L</hi>eiden in betulia</l>
+<lb n="37" xml:id="Hf113vb.37"/><l n="H_sample3_17526"><hi rend="capitalsize1">E</hi>en poort die hy wolde <choice><abbr>wynne<g ref="#bar"/></abbr><expan>wynne<ex>n</ex></expan></choice></l>
+<lb n="38" xml:id="Hf113vb.38"/><l n="H_sample3_17527"><hi rend="capitalsize1">M</hi>aer doe ontsagen die van <choice><abbr>by<g ref="#bar"/>nen</abbr><expan>by<ex>n</ex>nen</expan></choice></l>
+<lb n="39" xml:id="Hf113vb.39"/><l n="H_sample3_17528"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>bonde<g ref="#bar"/></abbr><expan>bonde<ex>n</ex></expan></choice> an enen boem daer</l>
+
+
+<pb xml:id="H.f114ra" n="114ra"/>
+<lb n="1" xml:id="Hf114ra.1"/><l n="H_sample3_17529"><hi rend="capitalsize1">D</hi>er steden een deel naer</l>
+<lb n="2" xml:id="Hf114ra.2"/><l n="H_sample3_17530"><hi rend="capitalsize1">S</hi>oe datten die van <choice><abbr>by<g ref="#bar"/>nen</abbr><expan>by<ex>n</ex>nen</expan></choice> <choice><abbr>name<g ref="#bar"/></abbr><expan>name<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Hf114ra.3"/><l n="H_sample3_17531"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> brochten onder tfolc to <choice><abbr>same<g ref="#bar"/></abbr><expan>same<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Hf114ra.4"/><l n="H_sample3_17532"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyden wat hij had misdaen</l>
+<lb n="5" xml:id="Hf114ra.5"/><l n="H_sample3_17533"><hi rend="capitalsize1">D</hi>oe behielt syne sonder waen</l>
+<lb n="6" xml:id="Hf114ra.6"/><l n="H_sample3_17534"><hi rend="capitalsize1">H</hi>ier nae benam <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>buyte<g ref="#bar"/></abbr><expan>buyte<ex>n</ex></expan></choice> theer</l>
+<lb n="7" xml:id="Hf114ra.7"/><l n="H_sample3_17535"><hi rend="capitalsize1">S</hi>oe dat water dat sij sonder weer</l>
+<lb n="8" xml:id="Hf114ra.8"/><l n="H_sample3_17536"><hi rend="capitalsize1">O</hi>p <choice><abbr>wolde<g ref="#bar"/></abbr><expan>wolde<ex>n</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> haer stat</l>
+<lb n="9" xml:id="Hf114ra.9"/><l n="H_sample3_17537"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seiden onder hem dat</l>
+<lb n="10" xml:id="Hf114ra.10"/><l n="H_sample3_17538"><hi rend="capitalsize1">H</hi>elpt hem god niet <choice><abbr>bynne<g ref="#bar"/></abbr><expan>bynne<ex>n</ex></expan></choice> vijf <choice><abbr>dage<g ref="#bar"/></abbr><expan>dage<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Hf114ra.11"/><l n="H_sample3_17539"><hi rend="capitalsize1">D</hi>at sy vmmer <choice><abbr>wolde<g ref="#bar"/></abbr><expan>wolde<ex>n</ex></expan></choice> waghen</l>
+<lb n="12" xml:id="Hf114ra.12"/><l n="H_sample3_17540"><hi rend="capitalsize1">E</hi>ne weduue. merket dit</l>
+<lb n="13" xml:id="Hf114ra.13"/><l n="H_sample3_17541"><hi rend="capitalsize1">W</hi>as in die stat hiete judith</l>
+<lb n="14" xml:id="Hf114ra.14"/><l n="H_sample3_17542"><hi rend="capitalsize1">D</hi>oer scone <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reyn van liue</l>
+<lb n="15" xml:id="Hf114ra.15"/><l n="H_sample3_17543"><hi rend="capitalsize1">S</hi>e scoelt die <choice><abbr>pape<g ref="#bar"/></abbr><expan>pape<ex>n</ex></expan></choice> als kaytiue</l>
+<lb n="16" xml:id="Hf114ra.16"/><l n="H_sample3_17544"><hi rend="capitalsize1">D</hi>at sy termijn vmmermere</l>
+<lb n="17" xml:id="Hf114ra.17"/><l n="H_sample3_17545"><hi rend="capitalsize1">A</hi>en die doghet van onsen here</l>
+<lb n="18" xml:id="Hf114ra.18"/><l n="H_sample3_17546"><hi rend="capitalsize1">S</hi>etten solden dat waer quaet</l>
+<lb n="19" xml:id="Hf114ra.19"/><l n="H_sample3_17547"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> se seyde mijn raet</l>
+<lb n="20" xml:id="Hf114ra.20"/><l n="H_sample3_17548"><hi rend="capitalsize1">E</hi>n wil ic v altoes niet <choice><abbr>lere<g ref="#bar"/></abbr><expan>lere<ex>n</ex></expan></choice></l>
+<lb n="21" xml:id="Hf114ra.21"/><l n="H_sample3_17549"><hi rend="capitalsize1">M</hi>aer ic sal doen dat werck ons <choice><abbr>he<g ref="#apomod"/>n</abbr><expan>he<ex>re</ex>n</expan></choice></l>
+<lb n="22" xml:id="Hf114ra.22"/><l n="H_sample3_17550"><hi rend="capitalsize1">S</hi>taet ter <choice><abbr>poorte<g ref="#bar"/></abbr><expan>poorte<ex>n</ex></expan></choice> ic wil wt gaen</l>
+<lb n="23" xml:id="Hf114ra.23"/><l n="H_sample3_17551"><hi rend="capitalsize1">M</hi>ittien paleerde sy haer saen</l>
+<lb n="24" xml:id="Hf114ra.24"/><l n="H_sample3_17552"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haer ioncfrouwe droech spijse <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dranc</l>
+<lb n="25" xml:id="Hf114ra.25"/><l n="H_sample3_17553"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dede wtwaert den ganc</l>
+<lb n="26" xml:id="Hf114ra.26"/><l n="H_sample3_17554"><hi rend="capitalsize1">M</hi>aer soe scoen was sy by sonder</l>
+<lb n="27" xml:id="Hf114ra.27"/><l n="H_sample3_17555"><hi rend="capitalsize1">D</hi>at die papen hadden wonder</l>
+<lb n="28" xml:id="Hf114ra.28"/><l n="H_sample3_17556"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> baden voer hem wael</l>
+<lb n="29" xml:id="Hf114ra.29"/><l n="H_sample3_17557"><hi rend="capitalsize1">D</hi>oe sy ghenc den berch toe dael</l>
+
+<note n="H_sample3_17558">Line_number 17558 is missing</note>
+<lb n="30" xml:id="Hf114ra.30"/><l n="H_sample3_17559"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> leyden se al daer sy vant</l>
+<lb n="31" xml:id="Hf114ra.31"/><l n="H_sample3_17560"><hi rend="capitalsize1">O</hi>lofernes die sat al daer</l>
+<lb n="32" xml:id="Hf114ra.32"/><l n="H_sample3_17561"><hi rend="capitalsize1">O</hi>nder <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> dier clede al <del>daer</del> claer</l>
+<lb n="33" xml:id="Hf114ra.33"/><l n="H_sample3_17562"><hi rend="capitalsize1">V</hi>an zijde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van golde <choice><abbr>v<g ref="#apomod"/>heue<g ref="#bar"/></abbr><expan>v<ex>er</ex>heue<ex>n</ex></expan></choice></l>
+<lb n="34" xml:id="Hf114ra.34"/><l n="H_sample3_17563"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> menich steen daer in <choice><abbr>gheweue<g ref="#bar"/></abbr><expan>gheweue<ex>n</ex></expan></choice></l>
+<lb n="35" xml:id="Hf114ra.35"/><l n="H_sample3_17564"><hi rend="capitalsize1">T</hi>alre ijerst dat sy heeft <choice><abbr>v<g ref="#apomod"/>sien</abbr><expan>v<ex>er</ex>sien</expan></choice></l>
+<lb n="36" xml:id="Hf114ra.36"/><l n="H_sample3_17565"><hi rend="capitalsize1">W</hi>ort sijn harte gheuaen myttien</l>
+<lb n="37" xml:id="Hf114ra.37"/><l n="H_sample3_17566"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sy neech hem openbaer</l>
+
+
+<pb xml:id="H.f114rb" n="114rb"/>
+<lb n="1" xml:id="Hf114rb.1"/><l n="H_sample3_17567"><hi rend="capitalsize1">O</hi>lofernes sprac toe hoer</l>
+<lb n="2" xml:id="Hf114rb.2"/><l n="H_sample3_17568"><hi rend="capitalsize1">S</hi>ech waer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> quaemste neder</l>
+<lb n="3" xml:id="Hf114rb.3"/><l n="H_sample3_17569"><hi rend="capitalsize1">J</hi>udit antwoerde weder</l>
+<lb n="4" xml:id="Hf114rb.4"/><l n="H_sample3_17570"><hi rend="capitalsize1">O</hi>nse volc blijft <choice><abbr>v<g ref="#apomod"/>loren</abbr><expan>v<ex>er</ex>loren</expan></choice> saen</l>
+<lb n="5" xml:id="Hf114rb.5"/><l n="H_sample3_17571"><hi rend="capitalsize1">W</hi>ant het heuet sere mysdaen</l>
+<lb n="6" xml:id="Hf114rb.6"/><l n="H_sample3_17572"><hi rend="capitalsize1">G</hi>od heeft my gesent to dy</l>
+<lb n="7" xml:id="Hf114rb.7"/><l n="H_sample3_17573"><hi rend="capitalsize1">D</hi>at ic solde boetscapen dy</l>
+<lb n="8" xml:id="Hf114rb.8"/><l n="H_sample3_17574"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ic dy to iherusalem</l>
+<lb n="9" xml:id="Hf114rb.9"/><l n="H_sample3_17575"><hi rend="capitalsize1">L</hi>eide <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dan nym</l>
+<lb n="10" xml:id="Hf114rb.10"/><l n="H_sample3_17576"><hi rend="capitalsize1">A</hi>l tfolc onder dijn gebot</l>
+<lb n="11" xml:id="Hf114rb.11"/><l n="H_sample3_17577"><hi rend="capitalsize1">H</hi>ij segede doet my dit dijn god</l>
+<lb n="12" xml:id="Hf114rb.12"/><l n="H_sample3_17578"><hi rend="capitalsize1">S</hi>oe saltu groote vrouwe myt vs</l>
+<lb n="13" xml:id="Hf114rb.13"/><l n="H_sample3_17579"><hi rend="capitalsize1">S</hi>ijn in nabugodonosors huys</l>
+<lb n="14" xml:id="Hf114rb.14"/><l n="H_sample3_17580"><hi rend="capitalsize1">H</hi>y dede se leyden al daer ter stat</l>
+<lb n="15" xml:id="Hf114rb.15"/><l n="H_sample3_17581"><hi rend="capitalsize1">D</hi>aer lach sijn groote scat</l>
+<lb n="16" xml:id="Hf114rb.16"/><l n="H_sample3_17582"><hi rend="capitalsize1">S</hi>oe dattet judit hem gebat</l>
+<lb n="17" xml:id="Hf114rb.17"/><l n="H_sample3_17583"><hi rend="capitalsize1">D</hi>at hijt haer oerlofde dat</l>
+<lb n="18" xml:id="Hf114rb.18"/><l n="H_sample3_17584"><hi rend="capitalsize1">D</hi>at sy des nachts most wtgaen</l>
+<lb n="19" xml:id="Hf114rb.19"/><l n="H_sample3_17585"><hi rend="capitalsize1">H</hi>aren god toe <choice><abbr>bidde<g ref="#bar"/></abbr><expan>bidde<ex>n</ex></expan></choice> dat is gedaen</l>
+<lb n="20" xml:id="Hf114rb.20"/><l n="H_sample3_17586"><hi rend="capitalsize1">H</hi>y leet haer alle <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> wille doen</l>
+<lb n="21" xml:id="Hf114rb.21"/><l n="H_sample3_17587"><hi rend="capitalsize1">D</hi>rie nachte dede sy <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> orisoen</l>
+<lb n="22" xml:id="Hf114rb.22"/><l n="H_sample3_17588"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghinc al daer sy wolde mede</l>
+<lb n="23" xml:id="Hf114rb.23"/><l n="H_sample3_17589"><hi rend="capitalsize1">O</hi>lofernes haer bidden dede</l>
+<lb n="24" xml:id="Hf114rb.24"/><l n="H_sample3_17590"><hi rend="capitalsize1">D</hi>at se by hem slapen solde</l>
+<lb n="25" xml:id="Hf114rb.25"/><l n="H_sample3_17591"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sy segede dat sijt wolde</l>
+<lb n="26" xml:id="Hf114rb.26"/><l n="H_sample3_17592"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> toe hem wel ghepaleert</l>
+<lb n="27" xml:id="Hf114rb.27"/><l n="H_sample3_17593"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> als hij siet dat sijs begheert</l>
+<lb n="28" xml:id="Hf114rb.28"/><l n="H_sample3_17594"><hi rend="capitalsize1">D</hi>ranc hij van <choice><abbr>blijscape<g ref="#bar"/></abbr><expan>blijscape<ex>n</ex></expan></choice> also den wijn</l>
+<lb n="29" xml:id="Hf114rb.29"/><l n="H_sample3_17595"><hi rend="capitalsize1">D</hi>at hij ghinc <choice><abbr>slape<g ref="#bar"/></abbr><expan>slape<ex>n</ex></expan></choice> als een zwijn</l>
+<lb n="30" xml:id="Hf114rb.30"/><l n="H_sample3_17596"><hi rend="capitalsize1">J</hi>udit hiete haren ioncwiue</l>
+<lb n="31" xml:id="Hf114rb.31"/><l n="H_sample3_17597"><hi rend="capitalsize1">D</hi>at sy voer die dore bliue</l>
+<lb n="32" xml:id="Hf114rb.32"/><l n="H_sample3_17598"><choice><abbr><hi rend="capitalsize1">S</hi>elue<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>elue<ex>n</ex></expan></choice> ghinc sy voer hem staen</l>
+<lb n="33" xml:id="Hf114rb.33"/><l n="H_sample3_17599"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bat an gode saen</l>
+<lb n="34" xml:id="Hf114rb.34"/><l n="H_sample3_17600"><hi rend="capitalsize1">D</hi>at hijse ghestercte teser stont</l>
+<lb n="35" xml:id="Hf114rb.35"/><l n="H_sample3_17601"><hi rend="capitalsize1">T</hi>ot olofernes hoefden stont</l>
+<lb n="36" xml:id="Hf114rb.36"/><l n="H_sample3_17602"><hi rend="capitalsize1">E</hi>en <choice><abbr>calu<g ref="#bar"/>pne</abbr><expan>calu<ex>m</ex>pne</expan></choice> daer an een zwaert</l>
+<lb n="37" xml:id="Hf114rb.37"/><l n="H_sample3_17603"><hi rend="capitalsize1">D</hi>at trecte <hi rend="capitalsize1">J</hi>udith mytter vaert</l>
+
+
+<pb xml:id="H.f114va" n="114va"/>
+<lb n="1" xml:id="Hf114va.1"/><l n="H_sample3_17604"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloech hem thoeft of myt ij slage</l>
+<lb n="2" xml:id="Hf114va.2"/><l n="H_sample3_17605"><choice><abbr><hi rend="capitalsize1">H</hi>are<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">H</hi>are<ex>n</ex></expan></choice> ioncwijf heft sijt gedrage</l>
+<lb n="3" xml:id="Hf114va.3"/><l n="H_sample3_17606"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> nam dat scone ghespert daer</l>
+<lb n="4" xml:id="Hf114va.4"/><l n="H_sample3_17607"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghinc ter stede waert myt haer</l>
+<lb n="5" xml:id="Hf114va.5"/><l n="H_sample3_17608"><hi rend="capitalsize1">W</hi>ant haer ghaen <choice><abbr>nyema<g ref="#bar"/>t</abbr><expan>nyema<ex>n</ex>t</expan></choice> benam</l>
+<lb n="6" xml:id="Hf114va.6"/><l n="H_sample3_17609"><hi rend="capitalsize1">T</hi>ierst dat sy ter <choice><abbr>poorte<g ref="#bar"/></abbr><expan>poorte<ex>n</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="7" xml:id="Hf114va.7"/><l n="H_sample3_17610"><hi rend="capitalsize1">R</hi>iep sy god is myt ons ondoe</l>
+<lb n="8" xml:id="Hf114va.8"/><l n="H_sample3_17611"><hi rend="capitalsize1">A</hi>l dat volc <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> toe</l>
+<lb n="9" xml:id="Hf114va.9"/><l n="H_sample3_17612"><hi rend="capitalsize1">M</hi>it lichte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sy ghetogede daer</l>
+<lb n="10" xml:id="Hf114va.10"/><l n="H_sample3_17613"><hi rend="capitalsize1">D</hi>at hoeft <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat ghespert daer</l>
+<lb n="11" xml:id="Hf114va.11"/><l n="H_sample3_17614"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyde louet gode myt vlijte</l>
+<lb n="12" xml:id="Hf114va.12"/><l n="H_sample3_17615"><hi rend="capitalsize1">A</hi>ls achior die amonite</l>
+<lb n="13" xml:id="Hf114va.13"/><l n="H_sample3_17616"><hi rend="capitalsize1">O</hi>lofernes hoeft versach</l>
+<lb n="14" xml:id="Hf114va.14"/><l n="H_sample3_17617"><hi rend="capitalsize1">V</hi>an vare hy an ommacht lach</l>
+<lb n="15" xml:id="Hf114va.15"/><l n="H_sample3_17618"><hi rend="capitalsize1">D</hi>oe hy <choice><abbr>bequa<g ref="#bar"/></abbr><expan>bequa<ex>m</ex></expan></choice> dede hy <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> to tijden</l>
+<lb n="16" xml:id="Hf114va.16"/><l n="H_sample3_17619"><hi rend="capitalsize1">H</hi>em nae die ioetsche wit <choice><abbr>besnyde<g ref="#bar"/></abbr><expan>besnyde<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Hf114va.17"/><l n="H_sample3_17620"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bleef ghelouich nae die vre</l>
+<lb n="18" xml:id="Hf114va.18"/><l n="H_sample3_17621"><hi rend="capitalsize1">T</hi>hoeft dede judith op die mure</l>
+<lb n="19" xml:id="Hf114va.19"/><l n="H_sample3_17622"><hi rend="capitalsize1">H</hi>angen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ment dan bestaet</l>
+<lb n="20" xml:id="Hf114va.20"/><l n="H_sample3_17623"><hi rend="capitalsize1">T</hi>heer mytter dagheraert</l>
+<lb n="21" xml:id="Hf114va.21"/><l n="H_sample3_17624"><hi rend="capitalsize1">O</hi>ec <choice><abbr>seyntme<g ref="#bar"/></abbr><expan>seyntme<ex>n</ex></expan></choice> boden in <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> <choice><abbr>tijde<g ref="#bar"/></abbr><expan>tijde<ex>n</ex></expan></choice></l>
+<lb n="22" xml:id="Hf114va.22"/><l n="H_sample3_17625"><hi rend="capitalsize1">D</hi>at sy yeghen den <choice><abbr>viande<g ref="#bar"/></abbr><expan>viande<ex>n</ex></expan></choice> <choice><abbr>strijde<g ref="#bar"/></abbr><expan>strijde<ex>n</ex></expan></choice></l>
+<lb n="23" xml:id="Hf114va.23"/><l n="H_sample3_17626"><hi rend="capitalsize1">T</hi>ijtlike die ioden wt <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice></l>
+<lb n="24" xml:id="Hf114va.24"/><l n="H_sample3_17627"><hi rend="capitalsize1">M</hi>aer doe die heyden <choice><abbr>v<g ref="#apomod"/>name<g ref="#bar"/></abbr><expan>v<ex>er</ex>name<ex>n</ex></expan></choice></l>
+<lb n="25" xml:id="Hf114va.25"/><l n="H_sample3_17628"><hi rend="capitalsize1">D</hi>at <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> <choice><abbr>selue<g ref="#bar"/></abbr><expan>selue<ex>n</ex></expan></choice> was doot</l>
+<lb n="26" xml:id="Hf114va.26"/><l n="H_sample3_17629"><hi rend="capitalsize1">V</hi>loe alt there doer die noot</l>
+<lb n="27" xml:id="Hf114va.27"/><l n="H_sample3_17630"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die ioden <choice><abbr>volgede<g ref="#bar"/></abbr><expan>volgede<ex>n</ex></expan></choice> naer</l>
+<lb n="28" xml:id="Hf114va.28"/><l n="H_sample3_17631"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloghen der menighe daer</l>
+<lb n="29" xml:id="Hf114va.29"/><l n="H_sample3_17632"><choice><abbr><hi rend="capitalsize1">B</hi>ynne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>ynne<ex>n</ex></expan></choice> dertich dage hebs geloef</l>
+<lb n="30" xml:id="Hf114va.30"/><l n="H_sample3_17633"><hi rend="capitalsize1">H</hi>aelden sy cume den roef</l>
+<lb n="31" xml:id="Hf114va.31"/><l n="H_sample3_17634"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wat soe <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> was</l>
+<lb n="32" xml:id="Hf114va.32"/><l n="H_sample3_17635"><hi rend="capitalsize1">H</hi>ad <hi rend="capitalsize1">J</hi>udit als ict las</l>
+<lb n="33" xml:id="Hf114va.33"/><l n="H_sample3_17636"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <hi rend="capitalsize1">J</hi>udit sanc gode <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> sanc</l>
+<lb n="34" xml:id="Hf114va.34"/><l n="H_sample3_17637"><hi rend="capitalsize1">D</hi>aer so voerseide in sonder wanc</l>
+<lb n="35" xml:id="Hf114va.35"/><l n="H_sample3_17638"><hi rend="capitalsize1">D</hi>en doemsdach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat die quade</l>
+<lb n="36" xml:id="Hf114va.36"/><l n="H_sample3_17639"><hi rend="capitalsize1">G</hi>hepijnt <choice><abbr>solde<g ref="#bar"/></abbr><expan>solde<ex>n</ex></expan></choice> sijn sonder genade</l>
+
+
+<pb xml:id="H.f114vb" n="114vb"/>
+<lb n="1" xml:id="Hf114vb.1"/><l n="H_sample3_17640"><hi rend="capitalsize1">T</hi>hoe <choice><abbr>iherusale<g ref="#bar"/></abbr><expan>iherusale<ex>m</ex></expan></choice> voer sy daer naer</l>
+<lb n="2" xml:id="Hf114vb.2"/><l n="H_sample3_17641"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> offerde onsen here daer</l>
+<lb n="3" xml:id="Hf114vb.3"/><l n="H_sample3_17642"><hi rend="capitalsize1">O</hi>lofernes groote rijchede</l>
+<lb n="4" xml:id="Hf114vb.4"/><l n="H_sample3_17643"><hi rend="capitalsize1">D</hi>en seghe dach <choice><abbr>hietme<g ref="#bar"/></abbr><expan>hietme<ex>n</ex></expan></choice> <choice><abbr>viere<g ref="#bar"/></abbr><expan>viere<ex>n</ex></expan></choice> mede</l>
+<lb n="5" xml:id="Hf114vb.5"/><l n="H_sample3_17644"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <hi rend="capitalsize1">J</hi>udit die was daer naer</l>
+<lb n="6" xml:id="Hf114vb.6"/><l n="H_sample3_17645"><hi rend="capitalsize1">A</hi>ltoes gheheten cambisa</l>
+<lb n="7" xml:id="Hf114vb.7"/><l n="H_sample3_17646"><hi rend="capitalsize1">S</hi>y leuede hondert iaer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> viue</l>
+<lb n="8" xml:id="Hf114vb.8"/><l n="H_sample3_17647"><hi rend="capitalsize1">D</hi>oe sceyde sy van desen lyue</l>
+<lb n="9" xml:id="Hf114vb.9"/><l n="H_sample3_17648"><hi rend="capitalsize2">C</hi>ambises nabugodonosor</l>
+<lb n="10" xml:id="Hf114vb.10"/><l n="H_sample3_17649"><hi rend="capitalsize1">D</hi>ie wan daer nae <choice><abbr>menighe<g ref="#bar"/></abbr><expan>menighe<ex>n</ex></expan></choice> tor</l>
+<lb n="11" xml:id="Hf114vb.11"/><l n="H_sample3_17650"><hi rend="capitalsize1">J</hi>n <choice><abbr>egypte<g ref="#bar"/></abbr><expan>egypte<ex>n</ex></expan></choice> wan hijt tlant</l>
+<lb n="12" xml:id="Hf114vb.12"/><l n="H_sample3_17651"><hi rend="capitalsize1">O</hi>ec maecte hi dat sy v bekant</l>
+<lb n="13" xml:id="Hf114vb.13"/><l n="H_sample3_17652"><hi rend="capitalsize1">J</hi>n egypten babylone</l>
+<lb n="14" xml:id="Hf114vb.14"/><l n="H_sample3_17653"><hi rend="capitalsize1">D</hi>aer nv die soldaen draget crone</l>
+<lb n="15" xml:id="Hf114vb.15"/><l n="H_sample3_17654"><hi rend="capitalsize1">A</hi>ls ict <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> las</l>
+<lb n="16" xml:id="Hf114vb.16"/><l n="H_sample3_17655"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> voerseide iheremias</l>
+<lb n="17" xml:id="Hf114vb.17"/><l n="H_sample3_17656"><hi rend="capitalsize1">D</hi>oe hy in <choice><abbr>egypte<g ref="#bar"/></abbr><expan>egypte<ex>n</ex></expan></choice> rumede tlant</l>
+<lb n="18" xml:id="Hf114vb.18"/><l n="H_sample3_17657"><hi rend="capitalsize1">W</hi>oert hy seer sieck thant</l>
+<lb n="19" xml:id="Hf114vb.19"/><l n="H_sample3_17658"><hi rend="capitalsize1">J</hi>n damas soe bleef hy doet</l>
+<lb n="20" xml:id="Hf114vb.20"/><l n="H_sample3_17659"><hi rend="capitalsize1">C</hi>ambyses die here groet</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="NT_sample4" xml:id="sample4">
+<body>
+<p>
+
+<pb xml:id="H.f149vb" n="149vb"/>
+<lb n="1" xml:id="Hf149vb.1"/><l n="H_sample4_22979"><hi rend="capitalsize1">O</hi>nse here <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> al daer</l>
+<lb n="2" xml:id="Hf149vb.2"/><l n="H_sample4_22980"><hi rend="capitalsize1">A</hi>ls ene die moede is <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sit</l>
+<lb n="3" xml:id="Hf149vb.3"/><l n="H_sample4_22981"><hi rend="capitalsize1">O</hi>p een fonteyne hiet iacobs pit</l>
+<lb n="4" xml:id="Hf149vb.4"/><l n="H_sample4_22982"><del>pit</del> <hi rend="capitalsize1">D</hi>ie <choice><abbr>apostele<g ref="#bar"/></abbr><expan>apostele<ex>n</ex></expan></choice> <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> in die stede</l>
+<lb n="5" xml:id="Hf149vb.5"/><l n="H_sample4_22983"><hi rend="capitalsize1">O</hi>m spijse to copen mede</l>
+<lb n="6" xml:id="Hf149vb.6"/><l n="H_sample4_22984"><hi rend="capitalsize1">E</hi>en wijf <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> gaende daer hi sat</l>
+<lb n="7" xml:id="Hf149vb.7"/><l n="H_sample4_22985"><hi rend="capitalsize1">O</hi>m water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onse here bat</l>
+<lb n="8" xml:id="Hf149vb.8"/><l n="H_sample4_22986"><hi rend="capitalsize1">D</hi>at sy hem drinken gaue</l>
+<lb n="9" xml:id="Hf149vb.9"/><l n="H_sample4_22987"><hi rend="capitalsize1">D</hi>it wijf antwoerde aldus daer aue</l>
+<lb n="10" xml:id="Hf149vb.10"/><l n="H_sample4_22988"><hi rend="capitalsize1">W</hi>ant syne <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>iode<g ref="#bar"/></abbr><expan>iode<ex>n</ex></expan></choice> sach daer bj</l>
+<lb n="11" xml:id="Hf149vb.11"/><l n="H_sample4_22989"><hi rend="capitalsize1">H</hi>oe moechstu <choice><abbr>drinke<g ref="#bar"/></abbr><expan>drinke<ex>n</ex></expan></choice> van my</l>
+<lb n="12" xml:id="Hf149vb.12"/><l n="H_sample4_22990"><hi rend="capitalsize1">W</hi>ant ic bin een samaritane</l>
+<lb n="13" xml:id="Hf149vb.13"/><l n="H_sample4_22991"><hi rend="capitalsize1">H</hi>ier voer dede ic toe <choice><abbr>v<g ref="#apomod"/>stane</abbr><expan>v<ex>er</ex>stane</expan></choice></l>
+<lb n="14" xml:id="Hf149vb.14"/><l n="H_sample4_22992"><hi rend="capitalsize1">D</hi>at salmanasser die conync</l>
+<lb n="15" xml:id="Hf149vb.15"/><l n="H_sample4_22993"><hi rend="capitalsize1">T</hi>folc van israel al vinc</l>
+<lb n="16" xml:id="Hf149vb.16"/><l n="H_sample4_22994"><hi rend="capitalsize1">M</hi>itten <choice><abbr>coni<g ref="#bar"/>c</abbr><expan>coni<ex>n</ex>c</expan></choice> ozee</l>
+<lb n="17" xml:id="Hf149vb.17"/><l n="H_sample4_22995"><hi rend="capitalsize1">D</hi>aer nae en <choice><abbr>hadde<g ref="#bar"/></abbr><expan>hadde<ex>n</ex></expan></choice> sy <choice><abbr>coni<g ref="#bar"/>c</abbr><expan>coni<ex>n</ex>c</expan></choice> niet mee</l>
+<lb n="18" xml:id="Hf149vb.18"/><l n="H_sample4_22996"><hi rend="capitalsize1">J</hi>nt tlant voerde hy se van canpia</l>
+<lb n="19" xml:id="Hf149vb.19"/><l n="H_sample4_22997"><hi rend="capitalsize1">D</hi>aer se alexander sloet daer nae</l>
+<lb n="20" xml:id="Hf149vb.20"/><l n="H_sample4_22998"><hi rend="capitalsize1">S</hi>ijn volc sende hy in israel</l>
+<lb n="21" xml:id="Hf149vb.21"/><l n="H_sample4_22999"><hi rend="capitalsize1">D</hi>at lant to <choice><abbr>wynne<g ref="#bar"/></abbr><expan>wynne<ex>n</ex></expan></choice> do <choice><abbr>worde<g ref="#bar"/></abbr><expan>worde<ex>n</ex></expan></choice> si fel</l>
+<lb n="22" xml:id="Hf149vb.22"/><l n="H_sample4_23000"><hi rend="capitalsize1">L</hi>euwen die god sende int tlant</l>
+<lb n="23" xml:id="Hf149vb.23"/><l n="H_sample4_23001"><hi rend="capitalsize1">H</hi>ier <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> ontfinghen sy to hant</l>
+<lb n="24" xml:id="Hf149vb.24"/><l n="H_sample4_23002"><hi rend="capitalsize1">D</hi>ie ioetsche wit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat <choice><abbr>besnyde<g ref="#bar"/></abbr><expan>besnyde<ex>n</ex></expan></choice></l>
+<lb n="25" xml:id="Hf149vb.25"/><l n="H_sample4_23003"><hi rend="capitalsize1">H</hi>ier toe <choice><abbr>hadde<g ref="#bar"/></abbr><expan>hadde<ex>n</ex></expan></choice> sy to <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> tijden</l>
+<lb n="26" xml:id="Hf149vb.26"/><l n="H_sample4_23004"><hi rend="capitalsize1">A</hi>fgode daer sy gheloueden an</l>
+<lb n="27" xml:id="Hf149vb.27"/><l n="H_sample4_23005"><hi rend="capitalsize1">D</hi>it hieten samaritaen</l>
+<lb n="28" xml:id="Hf149vb.28"/><l n="H_sample4_23006"><hi rend="capitalsize1">V</hi>an samaria die stede</l>
+<lb n="29" xml:id="Hf149vb.29"/><l n="H_sample4_23007"><hi rend="capitalsize1">H</hi>aer vate <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer spijse mede</l>
+
+
+<pb xml:id="H.f150ra" n="150ra"/>
+<lb n="1" xml:id="Hf150ra.1"/><l n="H_sample4_23008"><hi rend="capitalsize1">E</hi>n <choice><abbr>wolde<g ref="#bar"/></abbr><expan>wolde<ex>n</ex></expan></choice> die ioden niet <choice><abbr>ontbare<g ref="#bar"/></abbr><expan>ontbare<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Hf150ra.2"/><l n="H_sample4_23009"><hi rend="capitalsize1">V</hi>an desen was twijf <choice><abbr>tware<g ref="#bar"/></abbr><expan>tware<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Hf150ra.3"/><l n="H_sample4_23010"><hi rend="capitalsize1">D</hi>aer onse here of <choice><abbr>drincke<g ref="#bar"/></abbr><expan>drincke<ex>n</ex></expan></choice> bat</l>
+<lb n="4" xml:id="Hf150ra.4"/><l n="H_sample4_23011"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hi seide daer ter stat</l>
+<lb n="5" xml:id="Hf150ra.5"/><l n="H_sample4_23012"><hi rend="capitalsize1">D</hi>at se hadde ghehat vijf man</l>
+<lb n="6" xml:id="Hf150ra.6"/><l n="H_sample4_23013"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> daer sy nv haer hielde an</l>
+<lb n="7" xml:id="Hf150ra.7"/><l n="H_sample4_23014"><hi rend="capitalsize1">D</hi>at se syne amie ware</l>
+<lb n="8" xml:id="Hf150ra.8"/><l n="H_sample4_23015"><hi rend="capitalsize1">D</hi>oe seide twijf al openbare</l>
+<lb n="9" xml:id="Hf150ra.9"/><l n="H_sample4_23016"><hi rend="capitalsize1">J</hi>c sie dattu profete bis</l>
+
+<note n="H_sample4_23017">Line_number 23017 is missing</note>
+<lb n="10" xml:id="Hf150ra.10"/><l n="H_sample4_23018"><hi rend="capitalsize1">B</hi>aden gode <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>diende<g ref="#bar"/></abbr><expan>diende<ex>n</ex></expan></choice> hem</l>
+<lb n="11" xml:id="Hf150ra.11"/><l n="H_sample4_23019"><hi rend="capitalsize1">H</hi>ier opten berch to garisim</l>
+<lb n="12" xml:id="Hf150ra.12"/><l n="H_sample4_23020"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghi seget dat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> hem</l>
+<lb n="13" xml:id="Hf150ra.13"/><l n="H_sample4_23021"><hi rend="capitalsize1">O</hi>fferen sal in iherusalem</l>
+<lb n="14" xml:id="Hf150ra.14"/><l n="H_sample4_23022"><hi rend="capitalsize1">O</hi>nse here antwoerde haer</l>
+<lb n="15" xml:id="Hf150ra.15"/><l n="H_sample4_23023"><hi rend="capitalsize1">W</hi>ijf gheloue my openbaer</l>
+<lb n="16" xml:id="Hf150ra.16"/><l n="H_sample4_23024"><hi rend="capitalsize1">D</hi>at die tijt is <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> mede</l>
+<lb n="17" xml:id="Hf150ra.17"/><l n="H_sample4_23025"><hi rend="capitalsize1">D</hi>at toe iherusalem in die stede</l>
+<lb n="18" xml:id="Hf150ra.18"/><l n="H_sample4_23026"><hi rend="capitalsize1">N</hi>och hier en suldi bidden</l>
+<lb n="19" xml:id="Hf150ra.19"/><l n="H_sample4_23027"><hi rend="capitalsize1">A</hi>n desen woerde hy bediet</l>
+<lb n="20" xml:id="Hf150ra.20"/><l n="H_sample4_23028"><hi rend="capitalsize1">D</hi>at <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> gode al ouer al</l>
+<lb n="21" xml:id="Hf150ra.21"/><l n="H_sample4_23029"><hi rend="capitalsize1">M</hi>it geloue <choice><abbr>aenbede<g ref="#bar"/></abbr><expan>aenbede<ex>n</ex></expan></choice> sal</l>
+<lb n="22" xml:id="Hf150ra.22"/><l n="H_sample4_23030"><hi rend="capitalsize1">N</hi>iet toe iherusalem allene</l>
+<lb n="23" xml:id="Hf150ra.23"/><l n="H_sample4_23031"><hi rend="capitalsize1">A</hi>ls men doe dede soe clene</l>
+<lb n="24" xml:id="Hf150ra.24"/><l n="H_sample4_23032"><hi rend="capitalsize1">T</hi>gheloue was in eertrijke</l>
+<lb n="25" xml:id="Hf150ra.25"/><l n="H_sample4_23033"><hi rend="capitalsize1">T</hi>wijf antwoerde cortelike</l>
+<lb n="26" xml:id="Hf150ra.26"/><l n="H_sample4_23034"><hi rend="capitalsize1">J</hi>c weet wel dat crijst <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> sal</l>
+<lb n="27" xml:id="Hf150ra.27"/><l n="H_sample4_23035"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> als hij comt hi salt ons all</l>
+<lb n="28" xml:id="Hf150ra.28"/><l n="H_sample4_23036"><hi rend="capitalsize1">S</hi>eggen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doen <choice><abbr>v<g ref="#apomod"/>staen</abbr><expan>v<ex>er</ex>staen</expan></choice></l>
+<lb n="29" xml:id="Hf150ra.29"/><l n="H_sample4_23037"><hi rend="capitalsize1">O</hi>nse here antwoerde saen</l>
+<lb n="30" xml:id="Hf150ra.30"/><l n="H_sample4_23038"><hi rend="capitalsize1">J</hi>c bint doe liet se <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> stoep</l>
+<lb n="31" xml:id="Hf150ra.31"/><l n="H_sample4_23039"><hi rend="capitalsize1">T</hi>er star waert dede sy <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> loop</l>
+<lb n="32" xml:id="Hf150ra.32"/><l n="H_sample4_23040"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide ten porters dan</l>
+<lb n="33" xml:id="Hf150ra.33"/><l n="H_sample4_23041"><hi rend="capitalsize1">C</hi>oemt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> siet hier <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> man</l>
+<lb n="34" xml:id="Hf150ra.34"/><l n="H_sample4_23042"><hi rend="capitalsize1">D</hi>ie my heeft al bediet</l>
+<lb n="35" xml:id="Hf150ra.35"/><l n="H_sample4_23043"><hi rend="capitalsize1">S</hi>oe wat my is ghesciet</l>
+<lb n="36" xml:id="Hf150ra.36"/><l n="H_sample4_23044"><hi rend="capitalsize1">M</hi>ach dat <choice><abbr>xp<g ref="#bar"/>s</abbr><expan>xp<ex>ristu</ex>s</expan></choice> doch iet wesen</l>
+<lb n="37" xml:id="Hf150ra.37"/><l n="H_sample4_23045"><hi rend="capitalsize1">T</hi>folc <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> vter stadt na desen</l>
+
+
+<pb xml:id="H.f150rb" n="150rb"/>
+<lb n="1" xml:id="Hf150rb.1"/><l n="H_sample4_23046"><hi rend="capitalsize1">D</hi>oe hi se sach <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> daer</l>
+<lb n="2" xml:id="Hf150rb.2"/><l n="H_sample4_23047"><hi rend="capitalsize1">S</hi>eide hi dat coren waer</l>
+<lb n="3" xml:id="Hf150rb.3"/><l n="H_sample4_23048"><hi rend="capitalsize1">G</hi>hereet ten oeste dat bedude</l>
+<lb n="4" xml:id="Hf150rb.4"/><l n="H_sample4_23049"><hi rend="capitalsize1">G</hi>hereet te louene lude</l>
+<lb n="5" xml:id="Hf150rb.5"/><l n="H_sample4_23050"><hi rend="capitalsize1">S</hi>oe dat sy hem baden dat</l>
+<lb n="6" xml:id="Hf150rb.6"/><l n="H_sample4_23051"><hi rend="capitalsize1">D</hi>at hy myt hem ghinghe in die stad</l>
+<lb n="7" xml:id="Hf150rb.7"/><l n="H_sample4_23052"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> was myt hem twee daghe mede</l>
+<lb n="8" xml:id="Hf150rb.8"/><l n="H_sample4_23053"><hi rend="capitalsize1">D</hi>aer hier vele <choice><abbr>gheloue<g ref="#bar"/></abbr><expan>gheloue<ex>n</ex></expan></choice> dede</l>
+<lb n="9" xml:id="Hf150rb.9"/><l n="H_sample4_23053a"><hi rend="capitalsize1">J</hi>ohannes</l>
+<lb n="10" xml:id="Hf150rb.10"/><l n="H_sample4_23054"><hi rend="capitalsize3">U</hi>An sychar <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> hy daer naer</l>
+<lb n="11" xml:id="Hf150rb.11"/><l n="H_sample4_23055"><hi rend="capitalsize1">J</hi>n galilea toe chana</l>
+<lb n="12" xml:id="Hf150rb.12"/><l n="H_sample4_23056"><hi rend="capitalsize1">D</hi>aer ons <choice><abbr>coni<g ref="#bar"/>cs</abbr><expan>coni<ex>n</ex>cs</expan></choice> ghesyn was</l>
+<lb n="13" xml:id="Hf150rb.13"/><l n="H_sample4_23057"><hi rend="capitalsize1">D</hi>at bedude als ict las</l>
+<lb n="14" xml:id="Hf150rb.14"/><l n="H_sample4_23058"><hi rend="capitalsize1">E</hi>en die moghenste <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> lande</l>
+<lb n="15" xml:id="Hf150rb.15"/><l n="H_sample4_23059"><hi rend="capitalsize1">N</hi>ae dien <choice><abbr>coni<g ref="#bar"/>c</abbr><expan>coni<ex>n</ex>c</expan></choice> als ict kande</l>
+<lb n="16" xml:id="Hf150rb.16"/><l n="H_sample4_23060"><hi rend="capitalsize1">J</hi>n <choice><abbr>capharnau<g ref="#bar"/></abbr><expan>capharnau<ex>m</ex></expan></choice> lach siec sijn soen</l>
+<lb n="17" xml:id="Hf150rb.17"/><l n="H_sample4_23061"><hi rend="capitalsize1">O</hi>nse here bat hi die goen</l>
+<lb n="18" xml:id="Hf150rb.18"/><l n="H_sample4_23062"><hi rend="capitalsize1">D</hi>at hyre <choice><abbr>q<hi rend="superscript">a</hi>me</abbr><expan>q<ex>ua</ex>me</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hy ghenase</l>
+<lb n="19" xml:id="Hf150rb.19"/><l n="H_sample4_23063"><hi rend="capitalsize1">G</hi>od scolt den geliic den dwasen</l>
+<lb n="20" xml:id="Hf150rb.20"/><l n="H_sample4_23064"><hi rend="capitalsize1">W</hi>ant hy pijnsede in sijn gedochte</l>
+<lb n="21" xml:id="Hf150rb.21"/><l n="H_sample4_23065"><hi rend="capitalsize1">D</hi>at hyne ghenesen niet en mochte</l>
+<lb n="22" xml:id="Hf150rb.22"/><l n="H_sample4_23066"><hi rend="capitalsize1">H</hi>ine waer <choice><abbr>selue<g ref="#bar"/></abbr><expan>selue<ex>n</ex></expan></choice> gegaen</l>
+<lb n="23" xml:id="Hf150rb.23"/><l n="H_sample4_23067"><hi rend="capitalsize1">D</hi>och heeft hi also volstaen</l>
+<lb n="24" xml:id="Hf150rb.24"/><l n="H_sample4_23068"><hi rend="capitalsize1">D</hi>at god tot hem <choice><abbr>ghesproke<g ref="#bar"/></abbr><expan>ghesproke<ex>n</ex></expan></choice> heeft</l>
+
+<note n="H_sample4_23069">Line_number 23069 is missing</note>
+<lb n="25" xml:id="Hf150rb.25"/><l n="H_sample4_23070"><hi rend="capitalsize1">M</hi>itten woerden hi ghenas</l>
+<lb n="26" xml:id="Hf150rb.26"/><l n="H_sample4_23071"><hi rend="capitalsize1">D</hi>aer hi <choice><abbr>selue<g ref="#bar"/></abbr><expan>selue<ex>n</ex></expan></choice> niet en was</l>
+<lb n="27" xml:id="Hf150rb.27"/><l n="H_sample4_23072"><hi rend="capitalsize1">D</hi>ie man <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn meisenide</l>
+<lb n="28" xml:id="Hf150rb.28"/><l n="H_sample4_23073"><choice><abbr><hi rend="capitalsize1">G</hi>helouede<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">G</hi>helouede<ex>n</ex></expan></choice> duet dus ghesciede</l>
+<lb n="29" xml:id="Hf150rb.29"/><l n="H_sample4_23074"><hi rend="capitalsize1">H</hi>ier toe bescrijft ons du iohan</l>
+<lb n="30" xml:id="Hf150rb.30"/><l n="H_sample4_23075"><hi rend="capitalsize1">N</hi>u seggen die ander drie wat an</l>
+<lb n="31" xml:id="Hf150rb.31"/><l n="H_sample4_23075a">matheus</l>
+<lb n="32" xml:id="Hf150rb.32"/><l n="H_sample4_23076"><hi rend="capitalsize3">L</hi>Eui die oec hiet matheus</l>
+<lb n="33" xml:id="Hf150rb.33"/><l n="H_sample4_23077"><hi rend="capitalsize1">M</hi>aecte onse here in sijn huys</l>
+<lb n="34" xml:id="Hf150rb.34"/><l n="H_sample4_23078"><hi rend="capitalsize1">E</hi>en warscap hoerde ic tellen</l>
+<lb n="35" xml:id="Hf150rb.35"/><l n="H_sample4_23079"><hi rend="capitalsize1">D</hi>aer aten mede leuijs gesellen</l>
+<lb n="36" xml:id="Hf150rb.36"/><l n="H_sample4_23080"><hi rend="capitalsize1">P</hi>ublicane dat bediet</l>
+<lb n="37" xml:id="Hf150rb.37"/><l n="H_sample4_23081"><hi rend="capitalsize1">V</hi>olc dat vele der werelt pliet</l>
+<lb n="38" xml:id="Hf150rb.38"/><l n="H_sample4_23082"><hi rend="capitalsize1">D</hi>ie pharizeen die hem mede</l>
+<lb n="39" xml:id="Hf150rb.39"/><l n="H_sample4_23083"><hi rend="capitalsize1">V</hi>erhieffen in die hilichede</l>
+
+
+<pb xml:id="H.f150va" n="150va"/>
+<lb n="1" xml:id="Hf150va.1"/><l n="H_sample4_23084"><hi rend="capitalsize1">A</hi>lse die vroet <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> sijn sere</l>
+<lb n="2" xml:id="Hf150va.2"/><l n="H_sample4_23085"><choice><abbr><hi rend="capitalsize1">B</hi>egrepe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>egrepe<ex>n</ex></expan></choice> onsen here</l>
+<lb n="3" xml:id="Hf150va.3"/><l n="H_sample4_23086"><hi rend="capitalsize1">D</hi>at hi at myt den <choice><abbr>sondare<g ref="#bar"/></abbr><expan>sondare<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Hf150va.4"/><l n="H_sample4_23087"><hi rend="capitalsize1">M</hi>aer hy antwoerde twaren</l>
+<lb n="5" xml:id="Hf150va.5"/><l n="H_sample4_23088"><hi rend="capitalsize1">J</hi>c en byn daer om niet <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> al</l>
+<lb n="6" xml:id="Hf150va.6"/><l n="H_sample4_23089"><hi rend="capitalsize1">D</hi>at ic die rechte ropen sal</l>
+<lb n="7" xml:id="Hf150va.7"/><l n="H_sample4_23090"><hi rend="capitalsize1">M</hi>aer <choice><abbr>sondere<g ref="#bar"/></abbr><expan>sondere<ex>n</ex></expan></choice> die <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> misdaen</l>
+<lb n="8" xml:id="Hf150va.8"/><l n="H_sample4_23091"><hi rend="capitalsize1">D</hi>at sy <choice><abbr>penite<g ref="#bar"/>cie</abbr><expan>penite<ex>n</ex>cie</expan></choice> <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> ontfaen</l>
+<lb n="9" xml:id="Hf150va.9"/><l n="H_sample4_23092"><hi rend="capitalsize1">O</hi>ec <choice><abbr>begrepe<g ref="#bar"/></abbr><expan>begrepe<ex>n</ex></expan></choice> als sy saghen</l>
+<lb n="10" xml:id="Hf150va.10"/><l n="H_sample4_23093"><hi rend="capitalsize1">D</hi>at syne ionghers niet en <choice><abbr>plaghe<g ref="#bar"/></abbr><expan>plaghe<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Hf150va.11"/><l n="H_sample4_23094"><hi rend="capitalsize1">T</hi>e vastene mer onse here</l>
+<lb n="12" xml:id="Hf150va.12"/><l n="H_sample4_23095"><hi rend="capitalsize1">D</hi>ie onsculdechde se alle sere</l>
+<lb n="13" xml:id="Hf150va.13"/><l n="H_sample4_23096"><hi rend="capitalsize1">J</hi>n dien dat wolc was ongeleert</l>
+<lb n="14" xml:id="Hf150va.14"/><l n="H_sample4_23097"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> nyewelinghe an <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> ghekiert</l>
+<lb n="15" xml:id="Hf150va.15"/><l n="H_sample4_23098"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy vleyscelic myt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> ware</l>
+<lb n="16" xml:id="Hf150va.16"/><l n="H_sample4_23099"><hi rend="capitalsize1">M</hi>aer alst ghesciede hier nare</l>
+<lb n="17" xml:id="Hf150va.17"/><l n="H_sample4_23100"><hi rend="capitalsize1">D</hi>at hi worde <choice><abbr>ghenome<g ref="#bar"/></abbr><expan>ghenome<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Hf150va.18"/><l n="H_sample4_23101"><hi rend="capitalsize1">S</hi>oe solde hem toe vasten <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Hf150va.19"/><l n="H_sample4_23102"><hi rend="capitalsize1">D</hi>ie pharizeen wolden myt dien</l>
+<lb n="20" xml:id="Hf150va.20"/><l n="H_sample4_23103"><hi rend="capitalsize1">E</hi>en hemels <choice><abbr>teyke<g ref="#bar"/></abbr><expan>teyke<ex>n</ex></expan></choice> van <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> sien</l>
+<lb n="21" xml:id="Hf150va.21"/><l n="H_sample4_23104"><hi rend="capitalsize1">M</hi>aer hy ontseidet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seide <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> mede</l>
+<lb n="22" xml:id="Hf150va.22"/><l n="H_sample4_23105"><hi rend="capitalsize1">D</hi>at heidene volc van niniue</l>
+<lb n="23" xml:id="Hf150va.23"/><l n="H_sample4_23106"><hi rend="capitalsize1">B</hi>eter waren dan sy</l>
+<lb n="24" xml:id="Hf150va.24"/><l n="H_sample4_23107"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide hem reden waer by</l>
+<lb n="25" xml:id="Hf150va.25"/><l n="H_sample4_23108"><hi rend="capitalsize1">W</hi>ant si <choice><abbr>penite<g ref="#bar"/>cie</abbr><expan>penite<ex>n</ex>cie</expan></choice> daden</l>
+<lb n="26" xml:id="Hf150va.26"/><l n="H_sample4_23109"><hi rend="capitalsize1">D</hi>oe se ionas dreigede <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> scaden</l>
+<lb n="27" xml:id="Hf150va.27"/><l n="H_sample4_23110"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> mere dan ionas ware</l>
+<lb n="28" xml:id="Hf150va.28"/><l n="H_sample4_23111"><hi rend="capitalsize1">O</hi>eck seide hy se argher <choice><abbr>ope<g ref="#bar"/>bare</abbr><expan>ope<ex>n</ex>bare</expan></choice></l>
+<lb n="29" xml:id="Hf150va.29"/><l n="H_sample4_23112"><hi rend="capitalsize1">D</hi>an die heyden <choice><abbr>cony<g ref="#bar"/>ghinne</abbr><expan>cony<ex>n</ex>ghinne</expan></choice></l>
+<lb n="30" xml:id="Hf150va.30"/><l n="H_sample4_23113"><hi rend="capitalsize1">D</hi>ie doer cracht van salomons <choice><abbr>sy<g ref="#bar"/>ne</abbr><expan>sy<ex>n</ex>ne</expan></choice></l>
+<lb n="31" xml:id="Hf150va.31"/><l n="H_sample4_23114"><hi rend="capitalsize1">V</hi>an verre <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> soken die mare</l>
+<lb n="32" xml:id="Hf150va.32"/><l n="H_sample4_23115"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy wiser dan salomon ware</l>
+<lb n="33" xml:id="Hf150va.33"/><l n="H_sample4_23115a">matheus</l>
+<lb n="34" xml:id="Hf150va.34"/><l n="H_sample4_23116"><hi rend="capitalsize2">D</hi>Je prince der <choice><abbr>synagoge<g ref="#bar"/></abbr><expan>synagoge<ex>n</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="35" xml:id="Hf150va.35"/><l n="H_sample4_23117"><hi rend="capitalsize1">T</hi>ot onsen here als ict <choice><abbr>v<g ref="#apomod"/>nam</abbr><expan>v<ex>er</ex>nam</expan></choice></l>
+<lb n="36" xml:id="Hf150va.36"/><l n="H_sample4_23118"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> aenbeden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>seide<g ref="#bar"/></abbr><expan>seide<ex>n</ex></expan></choice> mede</l>
+<lb n="37" xml:id="Hf150va.37"/><l n="H_sample4_23119"><hi rend="capitalsize1">M</hi>ijn wijf is doet nv ter stede</l>
+<lb n="38" xml:id="Hf150va.38"/><l n="H_sample4_23120"><hi rend="capitalsize1">C</hi>om <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lech dijn hant op haer</l>
+<lb n="39" xml:id="Hf150va.39"/><l n="H_sample4_23121"><hi rend="capitalsize1">S</hi>y sal <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> al openbaer</l>
+
+
+<pb xml:id="H.f150vb" n="150vb"/>
+<lb n="1" xml:id="Hf150vb.1"/><l n="H_sample4_23122"><hi rend="capitalsize1">M</hi>aer doe hi darwart solde gaen</l>
+<lb n="2" xml:id="Hf150vb.2"/><l n="H_sample4_23123"><hi rend="capitalsize1">Q</hi>uam een wijf an hem saen</l>
+<lb n="3" xml:id="Hf150vb.3"/><l n="H_sample4_23124"><hi rend="capitalsize1">D</hi>ie gebloet hadde twalif jaer</l>
+<lb n="4" xml:id="Hf150vb.4"/><l n="H_sample4_23125"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> taste allene die vasen daer</l>
+<lb n="5" xml:id="Hf150vb.5"/><l n="H_sample4_23126"><hi rend="capitalsize1">V</hi>an <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> mantel als ict las</l>
+<lb n="6" xml:id="Hf150vb.6"/><l n="H_sample4_23127"><hi rend="capitalsize1">M</hi>it dien gheloue als ict las</l>
+<lb n="7" xml:id="Hf150vb.7"/><l n="H_sample4_23127a"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> daer mede ghenesen was</l>
+<lb n="8" xml:id="Hf150vb.8"/><l n="H_sample4_23128"><hi rend="capitalsize1">V</hi>an sancte ambrosius mach <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> lesen</l>
+<lb n="9" xml:id="Hf150vb.9"/><l n="H_sample4_23129"><hi rend="capitalsize1">D</hi>at dit martha solde wesen</l>
+<lb n="10" xml:id="Hf150vb.10"/><l n="H_sample4_23130"><hi rend="capitalsize1">M</hi>arien suster magdalene</l>
+<lb n="11" xml:id="Hf150vb.11"/><l n="H_sample4_23131"><hi rend="capitalsize1">J</hi>hesus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn ionghers ghemene</l>
+<lb n="12" xml:id="Hf150vb.12"/><l n="H_sample4_23132"><choice><abbr><hi rend="capitalsize1">Q</hi>uame<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">Q</hi>uame<ex>n</ex></expan></choice> daer woende iairus</l>
+<lb n="13" xml:id="Hf150vb.13"/><l n="H_sample4_23133"><hi rend="capitalsize1">D</hi>at was die prince ginc in huys</l>
+<lb n="14" xml:id="Hf150vb.14"/><l n="H_sample4_23134"><hi rend="capitalsize1">P</hi>eter hy lede mede dan</l>
+<lb n="15" xml:id="Hf150vb.15"/><l n="H_sample4_23135"><hi rend="capitalsize1">J</hi>acob die mynre <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oeck iohan</l>
+<lb n="16" xml:id="Hf150vb.16"/><l n="H_sample4_23136"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> der <choice><abbr>ioncfrouwe<g ref="#bar"/></abbr><expan>ioncfrouwe<ex>n</ex></expan></choice> <choice><abbr>moed<g ref="#apomod"/></abbr><expan>moed<ex>er</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vader</l>
+<lb n="17" xml:id="Hf150vb.17"/><l n="H_sample4_23137"><hi rend="capitalsize1">D</hi>ander dreef hy wt allen gader</l>
+<lb n="18" xml:id="Hf150vb.18"/><l n="H_sample4_23138"><hi rend="capitalsize1">W</hi>ant syne bespotten dat hi riep</l>
+<lb n="19" xml:id="Hf150vb.19"/><l n="H_sample4_23139"><hi rend="capitalsize1">D</hi>at die dochter lage <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sliep</l>
+<lb n="20" xml:id="Hf150vb.20"/><l n="H_sample4_23140"><hi rend="capitalsize1">O</hi>mndat hy se <choice><abbr>versceide<g ref="#bar"/></abbr><expan>versceide<ex>n</ex></expan></choice> vant</l>
+<lb n="21" xml:id="Hf150vb.21"/><l n="H_sample4_23141"><hi rend="capitalsize1">D</hi>ie ioncfrouwe nam hi bider hant</l>
+<lb n="22" xml:id="Hf150vb.22"/><l n="H_sample4_23142"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hiet dat si vp solde staen</l>
+<lb n="23" xml:id="Hf150vb.23"/><l n="H_sample4_23143"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hiet haer tetene <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> saen</l>
+<lb n="24" xml:id="Hf150vb.24"/><l n="H_sample4_23144"><hi rend="capitalsize1">D</hi>ats verrisenis warachtich</l>
+<lb n="25" xml:id="Hf150vb.25"/><l n="H_sample4_23145"><hi rend="capitalsize1">M</hi>en vint touerie so machtich</l>
+<lb n="26" xml:id="Hf150vb.26"/><l n="H_sample4_23146"><hi rend="capitalsize1">D</hi>aer <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> die dode bi doet verrisen</l>
+<lb n="27" xml:id="Hf150vb.27"/><l n="H_sample4_23147"><hi rend="capitalsize1">M</hi>aer sy en eten in ghienre wisen</l>
+<lb n="28" xml:id="Hf150vb.28"/><l n="H_sample4_23147a">matheus</l>
+<lb n="29" xml:id="Hf150vb.29"/><l n="H_sample4_23148"><hi rend="capitalsize3">V</hi>An dane so scrijft matheus</l>
+<lb n="30" xml:id="Hf150vb.30"/><l n="H_sample4_23149"><hi rend="capitalsize1">S</hi>oe ginc onse here ihesus</l>
+<lb n="31" xml:id="Hf150vb.31"/><l n="H_sample4_23150"><hi rend="capitalsize1">T</hi>we blijnden volgeden <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> om tgone</l>
+<lb n="32" xml:id="Hf150vb.32"/><l n="H_sample4_23151"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> riepen ihesu dauids zone</l>
+<lb n="33" xml:id="Hf150vb.33"/><l n="H_sample4_23152"><hi rend="capitalsize1">O</hi>ntfarme di onser do hi thuys <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="34" xml:id="Hf150vb.34"/><l n="H_sample4_23153"><hi rend="capitalsize1">T</hi>oe nazareth als ict <choice><abbr>v<g ref="#apomod"/>nam</abbr><expan>v<ex>er</ex>nam</expan></choice></l>
+<lb n="35" xml:id="Hf150vb.35"/><l n="H_sample4_23154"><hi rend="capitalsize1">T</hi>aste hi oer ogen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> si <choice><abbr>ondade<g ref="#bar"/></abbr><expan>ondade<ex>n</ex></expan></choice></l>
+<lb n="36" xml:id="Hf150vb.36"/><l n="H_sample4_23155"><hi rend="capitalsize1">M</hi>it eten heeft hijse beladen</l>
+<lb n="37" xml:id="Hf150vb.37"/><l n="H_sample4_23156"><hi rend="capitalsize1">D</hi>atter nyemant en worde bekant</l>
+<lb n="38" xml:id="Hf150vb.38"/><l n="H_sample4_23157"><hi rend="capitalsize1">N</hi>ochtan <choice><abbr>seide<g ref="#bar"/></abbr><expan>seide<ex>n</ex></expan></choice> sy doert tlant</l>
+<lb n="39" xml:id="Hf150vb.39"/><l n="H_sample4_23158"><hi rend="capitalsize1">D</hi>oe sy ghesceiden <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> dane</l>
+<lb n="40" xml:id="Hf150vb.40"/><l n="H_sample4_23159"><hi rend="capitalsize1">A</hi>ls ons mede doen toe verstane</l>
+
+
+<pb xml:id="H.f151ra" n="151ra"/>
+<lb n="1" xml:id="Hf151ra.1"/><l n="H_sample4_23160"><hi rend="capitalsize1">B</hi>eide marcus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lucas</l>
+<lb n="2" xml:id="Hf151ra.2"/><l n="H_sample4_23161"><hi rend="capitalsize1">E</hi>en die beseten was</l>
+<lb n="3" xml:id="Hf151ra.3"/><l n="H_sample4_23162"><hi rend="capitalsize1">M</hi>it den viant <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> hem brochte</l>
+<lb n="4" xml:id="Hf151ra.4"/><l n="H_sample4_23163"><hi rend="capitalsize1">D</hi>ie oec <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> niet en mochte</l>
+<lb n="5" xml:id="Hf151ra.5"/><l n="H_sample4_23164"><hi rend="capitalsize1">O</hi>nse here dreef vt den viant</l>
+<lb n="6" xml:id="Hf151ra.6"/><l n="H_sample4_23165"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die <choice><abbr>ste<g ref="#bar"/>me</abbr><expan>ste<ex>m</ex>me</expan></choice> sprac to hant</l>
+<lb n="7" xml:id="Hf151ra.7"/><l n="H_sample4_23166"><hi rend="capitalsize1">D</hi>oe prijsden daer menich een</l>
+<lb n="8" xml:id="Hf151ra.8"/><l n="H_sample4_23167"><hi rend="capitalsize1">M</hi>aer die quade pharizeen</l>
+<lb n="9" xml:id="Hf151ra.9"/><l n="H_sample4_23168"><hi rend="capitalsize1">S</hi>eiden ouer een toe <choice><abbr>same<g ref="#bar"/></abbr><expan>same<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Hf151ra.10"/><l n="H_sample4_23169"><hi rend="capitalsize1">D</hi>at hy in belsebuucs <choice><abbr>name<g ref="#bar"/></abbr><expan>name<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Hf151ra.11"/><l n="H_sample4_23170"><hi rend="capitalsize1">D</hi>ie prince <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> duuel weer</l>
+<lb n="12" xml:id="Hf151ra.12"/><l n="H_sample4_23171"><hi rend="capitalsize1">D</hi>ien duuel wt dreuen <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> veer</l>
+<lb n="13" xml:id="Hf151ra.13"/><l n="H_sample4_23172"><hi rend="capitalsize1">J</hi>hesus antwoerde daer ter stede</l>
+<lb n="14" xml:id="Hf151ra.14"/><l n="H_sample4_23173"><hi rend="capitalsize1">O</hi>f ic in belsebuucs moghenthede</l>
+<lb n="15" xml:id="Hf151ra.15"/><l n="H_sample4_23174"><hi rend="capitalsize1">D</hi>en viant <choice><abbr>verdriue<g ref="#bar"/></abbr><expan>verdriue<ex>n</ex></expan></choice> kan</l>
+<lb n="16" xml:id="Hf151ra.16"/><l n="H_sample4_23175"><hi rend="capitalsize1">J</hi>n wies macht doent v <choice><abbr>kijnd<g ref="#apomod"/></abbr><expan>kijnd<ex>er</ex></expan></choice> dan</l>
+<lb n="17" xml:id="Hf151ra.17"/><l n="H_sample4_23176"><hi rend="capitalsize1">W</hi>ant die ioden dat wel <choice><abbr>wiste<g ref="#bar"/></abbr><expan>wiste<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Hf151ra.18"/><l n="H_sample4_23177"><hi rend="capitalsize1">D</hi>at onder <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> exorcisten</l>
+<lb n="19" xml:id="Hf151ra.19"/><l n="H_sample4_23178"><hi rend="capitalsize1">D</hi>at luyt bezweers in onser tael</l>
+<lb n="20" xml:id="Hf151ra.20"/><l n="H_sample4_23179"><hi rend="capitalsize1">D</hi>ie de duuelen consten wael</l>
+<lb n="21" xml:id="Hf151ra.21"/><l n="H_sample4_23180"><hi rend="capitalsize1">V</hi>ten <choice><abbr>me<g ref="#bar"/>schen</abbr><expan>me<ex>n</ex>schen</expan></choice> varen doen</l>
+<lb n="22" xml:id="Hf151ra.22"/><l n="H_sample4_23181"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die woert van salamon</l>
+<lb n="23" xml:id="Hf151ra.23"/><l n="H_sample4_23182"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dat <choice><abbr>seide<g ref="#bar"/></abbr><expan>seide<ex>n</ex></expan></choice> sy openbaer</l>
+<lb n="24" xml:id="Hf151ra.24"/><l n="H_sample4_23183"><hi rend="capitalsize1">D</hi>at van gods <choice><abbr>halue<g ref="#bar"/></abbr><expan>halue<ex>n</ex></expan></choice> waer</l>
+<lb n="25" xml:id="Hf151ra.25"/><l n="H_sample4_23184"><hi rend="capitalsize1">M</hi>aer die miracule ons <choice><abbr>here<g ref="#bar"/></abbr><expan>here<ex>n</ex></expan></choice></l>
+<lb n="26" xml:id="Hf151ra.26"/><l n="H_sample4_23185"><hi rend="capitalsize1">W</hi>olden si ten <choice><abbr>quaetste<g ref="#bar"/></abbr><expan>quaetste<ex>n</ex></expan></choice> <choice><abbr>kere<g ref="#bar"/></abbr><expan>kere<ex>n</ex></expan></choice></l>
+<lb n="27" xml:id="Hf151ra.27"/><l n="H_sample4_23185a">lucas</l>
+<lb n="28" xml:id="Hf151ra.28"/><l n="H_sample4_23186"><hi rend="capitalsize3">H</hi>Jer na seit lucas dat</l>
+<lb n="29" xml:id="Hf151ra.29"/><l n="H_sample4_23187"><hi rend="capitalsize1">D</hi>at ihesus <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> in de stat</l>
+<lb n="30" xml:id="Hf151ra.30"/><l n="H_sample4_23188"><hi rend="capitalsize1">D</hi>aer hem een pharizeus bat</l>
+<lb n="31" xml:id="Hf151ra.31"/><l n="H_sample4_23189"><hi rend="capitalsize1">A</hi>lso dat <del>hem</del> hy mit hem at</l>
+<lb n="32" xml:id="Hf151ra.32"/><l n="H_sample4_23190"><hi rend="capitalsize1">A</hi>l daer <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> myt <choice><abbr>groote<g ref="#bar"/></abbr><expan>groote<ex>n</ex></expan></choice> ween</l>
+<lb n="33" xml:id="Hf151ra.33"/><l n="H_sample4_23191"><hi rend="capitalsize1">D</hi>ie besundige magdaleen</l>
+<lb n="34" xml:id="Hf151ra.34"/><l n="H_sample4_23192"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dwoech myt <choice><abbr>trane<g ref="#bar"/></abbr><expan>trane<ex>n</ex></expan></choice> sine vote</l>
+
+<note n="H_sample4_23193">Line_number 23193 is missing</note>
+<lb n="35" xml:id="Hf151ra.35"/><l n="H_sample4_23194"><hi rend="capitalsize1">G</hi>heen pharizeus hiet symeon</l>
+<lb n="36" xml:id="Hf151ra.36"/><l n="H_sample4_23195"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hy pinsede in <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> doen</l>
+<lb n="37" xml:id="Hf151ra.37"/><l n="H_sample4_23196"><hi rend="capitalsize1">W</hi>eert dat dese een <choice><abbr><g ref="#pflour"/>fete</abbr><expan><ex>pro</ex>fete</expan></choice> were</l>
+<lb n="38" xml:id="Hf151ra.38"/><l n="H_sample4_23197"><hi rend="capitalsize1">H</hi>y solde weten openbaer</l>
+<lb n="39" xml:id="Hf151ra.39"/><l n="H_sample4_23198"><hi rend="capitalsize1">D</hi>at hem een sondich wijf an tast</l>
+
+
+<pb xml:id="H.f151rb" n="151rb"/>
+<lb n="1" xml:id="Hf151rb.1"/><l n="H_sample4_23199"><hi rend="capitalsize1">A</hi>ldus begreep hy <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> gast</l>
+<lb n="2" xml:id="Hf151rb.2"/><l n="H_sample4_23200"><hi rend="capitalsize1">M</hi>aer onse here die ontfant</l>
+<lb n="3" xml:id="Hf151rb.3"/><l n="H_sample4_23201"><hi rend="capitalsize1">M</hi>it redene al to hant</l>
+<lb n="4" xml:id="Hf151rb.4"/><l n="H_sample4_23202"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sede haer waer vele verlaten</l>
+<lb n="5" xml:id="Hf151rb.5"/><l n="H_sample4_23203"><hi rend="capitalsize1">W</hi>ant se mynden <choice><abbr>vtermate<g ref="#bar"/></abbr><expan>vtermate<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Hf151rb.6"/><l n="H_sample4_23204"><hi rend="capitalsize1">A</hi>l daer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ten <choice><abbr>selue<g ref="#bar"/></abbr><expan>selue<ex>n</ex></expan></choice> stonden</l>
+<lb n="7" xml:id="Hf151rb.7"/><l n="H_sample4_23205"><hi rend="capitalsize1">V</hi>ergaf haer god haer sonden</l>
+<lb n="8" xml:id="Hf151rb.8"/><l n="H_sample4_23206"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sy volgede hem nar</l>
+<lb n="9" xml:id="Hf151rb.9"/><l n="H_sample4_23207"><hi rend="capitalsize1">O</hi>nse here ginc in <hi rend="capitalsize1">J</hi>udea</l>
+<lb n="10" xml:id="Hf151rb.10"/><l n="H_sample4_23208"><hi rend="capitalsize1">J</hi>n een castiel <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> hi gegaen</l>
+<lb n="11" xml:id="Hf151rb.11"/><l n="H_sample4_23209"><hi rend="capitalsize1">D</hi>aer <choice><abbr>heefte<g ref="#bar"/></abbr><expan>heefte<ex>n</ex></expan></choice> in haer huys ontfaen</l>
+<lb n="12" xml:id="Hf151rb.12"/><l n="H_sample4_23210"><hi rend="capitalsize1">M</hi>artha die suster marien</l>
+<lb n="13" xml:id="Hf151rb.13"/><l n="H_sample4_23211"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>diende<g ref="#bar"/></abbr><expan>diende<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijnre partien</l>
+<lb n="14" xml:id="Hf151rb.14"/><l n="H_sample4_23212"><hi rend="capitalsize1">M</hi>aria sat by <choice><abbr>syne<g ref="#bar"/></abbr><expan>syne<ex>n</ex></expan></choice> voeten</l>
+<lb n="15" xml:id="Hf151rb.15"/><l n="H_sample4_23213"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hoerde spreken ihesus den <choice><abbr>soete<g ref="#bar"/></abbr><expan>soete<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Hf151rb.16"/><l n="H_sample4_23214"><hi rend="capitalsize1">M</hi>artha beclagede magdalene</l>
+<lb n="17" xml:id="Hf151rb.17"/><l n="H_sample4_23215"><hi rend="capitalsize1">D</hi>at sie sy <choice><abbr>diene<g ref="#bar"/></abbr><expan>diene<ex>n</ex></expan></choice> liet allene</l>
+<lb n="18" xml:id="Hf151rb.18"/><l n="H_sample4_23216"><hi rend="capitalsize1">D</hi>aer prijsede god marien sere</l>
+<lb n="19" xml:id="Hf151rb.19"/><l n="H_sample4_23217"><hi rend="capitalsize1">S</hi>o willic <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in sulken keer</l>
+<lb n="20" xml:id="Hf151rb.20"/><l n="H_sample4_23218"><hi rend="capitalsize1">D</hi>at hi altoes in gheenre wijs</l>
+<lb n="21" xml:id="Hf151rb.21"/><l n="H_sample4_23219"><hi rend="capitalsize1">M</hi>arthen oec en sprac misprijs</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

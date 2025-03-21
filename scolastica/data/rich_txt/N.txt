@@ -1,0 +1,1160 @@
+_sample1_
+&4rb&
+00591 <T_2><J>er stont tier seluer vre(n)
+00592 <W>as va(n) allen creatuere(n)
+00593 <D>at v[er]staet va(n) alle(n) beeste(n)
+00594 <T>serpe(n)t lustechste vand[er] geeste(n)
+00595 <E>n(de) h[er]de scalc oec va(n) zi(n)ne
+00596 <W>ant die duuel wasser i(n)ne
+00597 <B>idi d{at} lucifer die scone
+00598 <W>as geworpe(n) vte(n) trone
+00599 <H>adde hijs in ald[er] wijs
+00600 <S>pijt d{at} adam was i(n)t paradijs
+00601 <E>n(de) pensde hoe hine dade vte steke(n)
+00602 <D>ade hi hem tgebod gods breke(n)
+00603 <S>oe moeste hi vte pensde hi da(n)
+00604 <M>aer d{at}i meer ontsach de(n) ma(n)
+00605 <D>ies ginc hi ierst tote(n) wiue
+00606 <O>m d{at} se crank[er] was va(n) liue
+00607 <M>ette(n) serpente heeft hijt bestae(n)
+00608 <W>a(n)t h{et} plach doe sond[er] wae(n)
+00609 <O>p en(de) ned[er] recht te gane
+00610 <R>echt in des mensche(n) gedane
+00611 <B>eda scrijft die cleerc was diere
+00612 <H>et was eens serpens maniere
+00613 <G>eansicht als ene <J>oncfrouwe
+00614 <V>te he(m) sp%ra%c die ongetrouwe
+00615 <A>lst nv doet wildijt wete(n)
+00616 <V>ut die(n) hi heeft besete(n)
+00617 <E>n(de) seide te hare d{at} god gebod
+00618 <W>aer o(m)me soe gaeft v god
+00619 <D>at gi va(n) alden houte gemene
+00620 <N>utte(n) sout dan va(n) ene(n) allene
+00621 <D>it vragede hi na hare andworde
+00622 <S>oe visierde hi sine moerde
+&4va&
+00623 <S_3>i sprac omme d{at} wi bi auontuere(n)
+00624 <D>ie doot n{iet} en soude(n) besuere(n)
+00625 <E>nde alse hi bi auontuere(n) seide
+00626 <M>ercte hi wel hare crancheide
+00627 <E>n(de) datse vaste n{iet} en geloefde
+00628 <E>n(de) sp%ra%c vut serpents hoefde
+00629 <N>ee(n) gine blijft[er] n{iet} om doot
+00630 <M>aer hi weet wel die h[er]e es groet
+00631 <W>elc tijt als gire af hebt gebete(n)
+00632 <S>oe seldi vroede(n) en(de) weten
+00633 <V>roetscap oft gi god waert
+00634 <Y>eue die wert v[er]houaert
+00635 <W>a(n)t si gode waende gelike(n)
+00636 <S>i sach den scone(n) boem de(n) rike(n)
+00637 <E>n(de) die vrucht scone en(de) sochte
+00638 <S>i at d{at} si sint becochte
+00639 <E>n(de) bods adam hare(n) ma(n)
+00640 <D>ie messchie(n) merke(n) bega(n)
+00641 <D>at si te hant n{iet} en bleef doot
+00642 <N>ochta(n) wiste hi wel al bloet
+00643 <D>at quaet d[aer] af soude come(n)
+00644 <D>its bescreue(n) va(n) he(m) some(n)
+00645 <E>n(de) at watt[er] af soude gescie(n)
+00646 <H>are oge(n) ontdade(n) si m{et}tie[n]
+00647 <N>iet d{at} si bleent hadde(n) gewese(n)
+00648 <M>aer h[aer] licht v[er]roerde m{et} dese(n)
+00649 <J>n die mensche natuerlike lede
+00650 <D>at si te vore(n) nie en dede
+00651 <E>n(de) begonste(n) haer beide scame(n)
+00652 <V>a(n) hare naect[er] mesquame(n)
+00653 <D_2><O>e namen si m{et} gemeine(n) rade
+00654 <B>eide gad[er] vigeblade
+00656 <E>n(de) decte(n) hare scamelhede
+00655 <A>l o(m)me en(de) o(m)me hare lede
+00657 <D>aer si sate(n) ond[er] die rise
+00658 <D>oe hoerde(n) si inde(n) paradise
+00659 <G>ode wandele(n) d[aer] hi qua(m)
+00660 <H>i sp%ra%c w[aer] bestu adam
+00661 <H>eere sp%ra%c hi doe(n) ic hadde v[er]stae(n)
+00662 <D>ine ste(m)me v[er]uaerdic mi sae(n)
+00663 <E>n(de) hebbe mi gedect doer das
+00664 <O>m d{at} ic al naect was
+00665 <G>od sp%ra%c wie heuet di gewiset
+00666 <D>aer du di d{us} ane heeft gespiset
+00667 <M>et d{at} ic di verboet
+&4vb&
+00668 <D_3><O>e sprac adam dulheit groet
+00669 <A>ls ofti gode sine mesdaet
+00670 <W>ilde ane tien en(de) sijn quaet
+00671 <D>wijf die du gaues h[er]e mij
+00672 <A>t tierst en(de) ic at bi di
+00673 <A>ls ofti mee(n)de h{et} ware
+00674 <N>e hadstu mi n{iet} gegeue(n) hare
+00675 <D>oe sp%ra%c god te hare diese at
+00676 <W>aer o(m)me soe daetstu d{at}
+00677 <O>ec teecht yeue de(n) serpe(n)te
+00678 <M>aer vande(n) parlemente
+00679 <D>roech hare meini(n)ge vand[er] tale
+00680 <O>nse h[er]e te diene alte male
+00681 <D>at adam vand[er] reind[er] erde(n)
+00682 <W>as gemaect m{et} grot[er] werde(n)
+00683 <D>ie nie smette hadde ontfae(n)
+00684 <N>o oec n{iet} en was ontdae(n)
+00685 <N>o m{et} ploege(n) no m{et} spade(n)
+00686 <N>o besmet m{et} gene(n) dade(n)
+00687 <B>eteke(n)t die reine marie
+00688 <D>ie sond[er] enich dorpernie
+00690 <N>iet alse plege(n) and[er]e wiue
+00689 <O>nbesmet va(n) hare(n) liue
+00691 Ø
+00692 Ø
+00693 <G>elik[er] wijs d{at} oec adam
+00694 <T>sestes dages t[er] werelt qua(m)
+00695 <A>lsoe was ih[esu]s ons troest v[er]core(n)
+00696 <J>nd[er] sest[er] euwe(n) gebore(n)
+00697 <D>e(n) serpente vragede hi niet
+00698 <B>ute(n) sine rade eest gesciet
+00699 <W>a(n)t bi sduuels rade waest al
+00700 <D>oe vloecte hi alsic scriue(n) sal
+00702 <D>rie vloeke seggic v al dan
+00701 <W>a(n)t hijs ant tserpe(n)t bega(n)
+00703 <O>m d{at} het driere sins *mesdede*
+00704 <D>alre ierst in de nidechede
+00705 <A>nd[er] w[er]f om d{at} het loech
+00706 <E>n(de) derdew[er]f om d{at} bedroech
+00707 <D>e(n) ma(n) d{us} waest v[er]male(n)dijt
+00708 <H>et hadde om tsme(n)sche(n) hoecheit nijt
+00709 <B>idi seide god ald{us} saen
+00710 <O>p dine borst soe saeltu gae(n)
+00711 <V>a(n) loghene(n) sloech hijt inde(n) mo(n)t
+00712 <E>n(de) sprac du saelt talre stont
+00713 <D>ie erde ete(n) in dijn leue(n)
+00714 <D>ie(n) luut die(n) he(m) wert gegeuen
+&5ra&
+00715 <N_2>am hem god al daer ter stede
+00716 <E>n(de) gaf den monde venij(n) mede
+00717 <V>a(n) loene hadde hi ene(n) gods had
+00718 <J>c sal sp%ra%c god d[aer] t[er] stat
+00719 <V>iantscap sette(n) sond[er] blijf
+00720 <T>ussche(n) di en(de) d{at} wijf
+00721 <S>i sal op dijn hoeft trede(n)
+00722 <E>n(de) du sout oec talre stede(n)
+00723 <H>are en(de) hare geslechte lage(n)
+00724 <D>ese woerde machme(n) drage(n)
+00725 <T>ot[er] moed[er] gods marie(n)
+00726 <D>ie de(n) duuel m{et} siere paertie(n)
+00727 <A>ltoes dwinget en(de) iaght
+00728 <A>l eest d{at}ti de hare laght
+00729 <R_2><E>cht alse die ma(n) doet en(de) pine
+00730 <O>ntfeet va(n) serpens venine
+00731 <A>lsoe mach tsme(n)sche(n) nucht[er]e spu
+00732 <D>at serpent d{at} seggic v
+00733 <O>m d{at} se beide naect ware(n)
+00734 <S>oe vliet tserpe(n)t tware(n)
+00735 <D>e(n) naecte(n) w[aer] hi gecleet
+00736 <S>oe soutene venine(n) wel gereet
+00737 <J>n twee sake(n) mesdede dwijf
+00738 <S>i was hou[er]dech in h[aer] lijf
+00739 <B>idi soe settese e(m)mer god
+00740 <O>nd[er]dae(n) te sine tsma(n)s gebod
+00741 <O>m d{at} si at v[er]bodene spise
+00742 <D>at becocht in elk[er] wise
+00743 <D>atse m{et} rouwe(n) skins geneest
+00744 <O>mde(n) appel d[aer] me(n) af leest
+00745 <O_2><M> d{at} adam in eere wise
+00746 <A>llene mesdede an die spise
+00747 <D>ies geneert he(m) m{et} arbeide
+00748 <D>ie ma(n) in bossche en(de) in heide
+00749 <D>ie erde was geuloect genoech
+00750 <O>m d{at} si die vrucht droech
+00751 <D>ies draget si in onse(n) torne
+00752 <B>eide destel en(de) dorne
+00753 <O_2><E>c maecte god ieue en(de) adame
+00754 <O>mme te deckene hare scame
+00755 <T>wee rocke va(n) beeste(n) velle(n)
+00756 <D>at meende hire mede als wi telle(n)
+00757 <D>at dechsel es va(n) desen diere
+00758 <E>n(de) sterflijc bestu va(n) maniere(n)
+00759 <D>oe sp%ra%c hi nv es adam gemaect
+&5rb&
+00760 <A_3>lse een man wijs ende geraect
+00761 <D>{at} was gelijc als ee(n) spot
+00762 <O>m d{at}ti wilde wesen god
+00763 <E>n(de) hi vrielike weet
+00764 <Q>uaet en(de) goet ond[er]sceet
+00765 <N>v steect me(n) vte(n) paradise
+00766 <D>at hi n{iet} en ete d[er] spise
+00767 <D>ie es ane d{at} lignu(m) vite
+00768 <E>n(de) hi da(n) leue e(m)m[er]mee
+00769 <E>n(de) dit en derf v wondere(n) n{iet}
+00770 <D>at dit vande(n) houte es gesciet
+00771 <W>ant selc eylant es ond[er] de(n) dach
+00772 <D>aer gee(n) me(n)sche sterue(n) mach
+00773 <J>nt lant va(n) seres wast seggic v
+00774 <E>ne dinc va(n) bome die es al ru
+00775 <D>aer me(n) mede lang{et} dlijf
+00776 <E>n(de) alexand[er] sond[er] blijf
+00777 <D>ie screef tote aristotiles
+00778 <D>att[er] somech volc oec es
+00779 <D>ie lange leue(n) boue(n) mate(n)
+00780 <O>mme d{at} si vand[er] vrucht ate(n)
+00781 <G_2><O>d stackene vte(n) paradise
+00782 <O>m d{at}ti soude na dorpers wise
+00783 <D>ie erde oeffene(n) d[aer] hi te vore(n)
+00784 <A>f was gemact nv seldi hore(n)
+00785 <E>n(de) va(n) wat lande d{at} hi gemaect was
+00786 <W>a(n)t vte(n) lande va(n) damas
+00787 <D>ane(n) was hi en(de) sijn wijf
+00788 <B>eide begraue(n) na h[aer] lijf
+00789 <J>n spelunca duplici
+00790 <A>lsoe nomt die bibel mi
+00791 <J>n die(n) «ack[er]» sloech als ee(n) fel
+00792 <C>aym sine(n) broed[er] abel
+00793 <V>oer tparadijs sette onse h[er]e
+00794 <C>herubin d{at}ti de(n) duuel k[er]e
+00795 <E>n(de) hire ne(m)m[er]meer voert
+00796 <I>n ne quame v[er]staet en(de) hoert
+00797 <D>at vier den ma(n) de(n) wech benam
+00798 <D>att[er] ne(m)mer ne gee(n) ne qua(m)
+00799 <D>at zw[aer]t es bere(n)de genant
+00800 <W>ant hens el n{iet} dan ee(n) bra(n)t
+00801 <E>e(n) viere(n) muer d[aer] o(m)me geet
+00802 <B>idi eest d{at} me(n)t kerende heet
+00803 <D>at god dan wel doe(n) mochte
+00804 <A>lst he(m) best dochte
+&5va&
+00805 <H_3><E>t was een stucke wech alte same(n)
+00806 <D>oenre enoc en(de) elyas in quame(n)
+00807 <M>aer d{at} bloet d{at} sider liep
+00808 <W>erd ons here(n) wonde(n) diep
+00809 <I>n siere passien dede hijt al vut
+00810 <D>ies esser menege salege bruut
+00811 <V>a(n) sine(n) halue(n) sint in come(n)
+00812 <D>ie hare loen d[aer] heeft genome(n)
+____
+_sample2_
+&41va&
+07303 <E>cht dade(n) si na sang[er] doot
+07304 <D>ie va(n) ysrael anxt groet
+07305 <G>od lietse dwinge(n) dan
+07306 <L>abijn die co(ninc) va(n) canaan
+07307 <D>ie in asor co(ninc) was
+07308 <S>ijn marscalc was fisaras
+07309 <D>ese hadde tfolc =.xx.= jaer
+07310 <J>n bedwange herde zw[aer]
+07311 <D>oe riepe(n) si op gode m{et} zi(n)ne
+07312 <T>ie(n) tide was ee(n) {pro}phti(n)ne
+07313 <H>iet delbora en(de) woende i(n) effraym
+07314 <S>i riep barach va(n) neptalim
+07315 <H>aren ma(n) en(de) seide god
+07316 <D>ie gebiet di dit gebod
+07317 <L>eid te montabor dijn heere
+07318 <E>n(de) set di ter were
+07319 =.xx.m= nemt m{et} di ma(n)
+07320 <V>an sabulon en(de) va(n) neptalim da(n)
+07321 <G>od sal di geue(n) sek[er]leke
+07322 <D>aer bi d{at} fison loept die beke
+07323 <J>n dine hande(n) cysaras
+07324 <B>arach sp%ra%c ic en doe n{iet} das
+07325 <D>une wilt selue m{et} mi vare(n)
+07326 <J>c doet sp%ra%c delbara tware(n)
+07327 <M>aer een wijf sal hebbe(n) die ere
+07328 <S>ysaras qua(m) die mare
+07329 <D>at d{at} ware in porre
+07330 <T>en berge w[aer]t va(n) thaborre
+07331 <H>i v[er]samde haesteleke
+&41vb&
+07332 <T_2><O>te phisoen op die beke
+07333 =.CCC.m.= gewapent ma(n)
+07334 <E>n(de) =.x.m.= riddere(n) d[aer] an
+07335 <E>n(de) =.ix.c= wagene die snide(n)
+07336 <M>et sekele(n) in beide(n) side(n)
+07337 <E>n(de) and[er] wagene wies wond[er]t
+07338 <M>et he(m) =.xxi.= hondert
+07339 <D>elbora seide tote barach
+07340 <G>anc ned[er] op desen dach
+07341 <S>al di god geue(n) cysaras
+07342 <H>i daelde en(de) al d{at} met hem was
+07343 <D>elbora stont en(de) bat
+07344 <O>pte(n) berch in ene stat
+07345 <G>od gaf cysarase ene(n) vaer
+07346 <E>n(de) den sine(n) die hadde(n) hi d[aer]
+07347 <W>int hagel @en@ en(de) rege(n)
+07348 <E>n(de) blixeme volgedem iege(n)
+07349 <S>oe d{at} die slingere(n) en(de) die boge(n)
+07350 <H>en no groet no clein ne doge(n)
+07351 <S>elc viel vande(n) wagene op derde
+07352 <S>elc w[or]t v[er]torde(n) ond[er] die perde
+07353 <D>us dede hem d{at} heer t[er] vlocht
+07354 <C>ysaras vloe doer die vrocht
+07355 <A>ld[aer] abuer cyneus
+07355a <C>ysaras vlo dore die vrocht 
+07355b <A>ld[aer] abuer cyneus
+07356 <W>oende en(de) sijn wijf was thuus
+07357 <A>buer was come(n) va(n) getroe
+07358 <E>n(de) was d[aer] gehont soe
+07359 <O>nd[er] tfolc va(n) ysrael
+07360 <A>buers wijf die hiet iael
+07361 <H>i hadde vrede m{et} labin
+07362 <C>ysaras die vloe d[aer] in
+07363 <E>n(de) bat d{at} me(n)ne decke(n) woude
+07364 <O>ec seidi d{at}ti drinke(n) woude
+07365 <S>i gaf he(m) melc en(de) hi sliep vaste
+07366 <D>ie dore sloet si hare gaste
+07367 <B>eide diere sliepe(n) nagelde(n) si vaste d[aer]
+07368 <J>ege(n) die erde d{at}s w[aer]
+07369 <M>et ene(n) ysere(n) nagele
+07370 <J>abel betekent die behagele
+07371 <E>n(de) die scone mag{et} marie
+07372 <S>ysaras en(de) sine partie
+07373 <D>at es lucifer en(de) sine scare
+&42ra&
+07374 <D_2><I>e verwonnen sijn bi hare
+07375 <D>ie nagel mach bediede(n) mede
+07376 <D>ie slotel va(n) reinichede
+07377 <D>aer si de(n) duuel mede v[er]wa(n)
+07378 <D>at melc d{at} iael gaf de(n) ma(n)
+07379 <D>at es ih[esu]s menschelijchede
+07380 <D>ie lucifer bedroech mede
+07381 <D>ie hamer d[aer] si mede sloege(n)
+07382 <G>elijct de(n) cruce genoech
+07383 <B>i marie(n) reinechede
+07384 <E>n(de) bi ih[esu]s menschelijchede
+07385 <E>n(de) biden cruce es openbare
+07386 <G>escoffiert dese sduuels scare
+07387 <D_2><A>er na soe qua(m) barach
+07388 <J>ael toende he(m) w[aer] hi lach
+07389 <D>oot d[aer] hi liep alsoe naer
+07390 <A>ld{us} seide delbora w[aer]
+07391 <D>at een wijf soude hebbe(n) de(n) sege
+07392 <B>arech leide theer en wege
+07393 <J>ege(n) labin en(de) sijn heer groet
+07394 <D>ien sloech hi al d[aer] t[er] doot
+07395 <E>n(de) asor sijn hoeft stede
+07396 <V>elde hi al gad[er] mede
+07397 <B>arach ende delbora
+07398 <S>ongen en(de) loefde(n) gode d[aer] na
+07399 <D>ie soe dicke en(de) soe wel
+07400 <B>escudde die va(n) ysrael
+07401 <D>oe ware(n) si in vrede(n) d[aer] naer
+07402 <S>ond[er] vechten =.xl.= <J>aer
+07403 <A>pollo was in delbora tide(n)
+07404 <D>ie de heidene lange zide(n)
+07405 <A>ne beden in menech lant
+07406 <H>i was die ierst die harpe vant
+07407 <E>n(de) die visierde ierst visike
+07408 <D>at was ene wijsheit rike
+07409 <E>sculapus vantse oec sijn sone
+07410 <M>et eere blixeme(n) was die gone
+07411 <V>erbert ende sijn boke(n) mede
+07412 <D>us bleef die behendichede
+07413 <V>erlore(n) wel =.v.c= <J>aer
+07414 <T>ote d{at}se ypocras vant d[aer] naer
+07415 <T>ie(n) tide maecte ylus som
+07416 <V>an troyen den torre ylon
+07417 <T>ien tide sloech doot precius
+&42rb&
+07418 <D_2><E>n coninc acrisius
+07420 <T>ote nit in die oude stede
+07419 <E>n(de) maecte tconi(n)crike mede
+07421 <D>at te vore(n) inagros was
+07422 <A>lsoe alsict bescreue(n) las
+07423 <A_2><N>d[er]w[er]f mesdede ze[er]e
+07424 <Y>srael iege(n) onsen h[er]e
+07425 <D>oe hiet hise dwinge(n) dan
+07426 <D>e(n) liede(n) van madian
+07427 <E>n(de) die va(n) amaloch d{at}s w[aer]
+07428 <D>ese dwonge(n)se naer
+07429 <E>lcs <J>aers dade(n) sise tcore(n)
+07430 <E>n(de) hare beeste(n) alse wijt hore(n)
+07431 <D>oe(n) riepe(n) si ane he(m) genade(n)
+07432 <E>n(de) hi heeft hem berade(n)
+07433 <M>et {pro}pheten die he(m) saen
+07434 <V>ermaende(n) wat he(m) was gedae(n)
+07435 <V>a(n) gode diese wel node liet
+07436 <M>aer sine wildene hore(n) n{iet}
+07437 <D>oe qua(m) die jngel va(n) hemelrike
+07438 <T>ote ene(n) ioas die was rike
+07439 <E>n(de) hadde ene(n) sone hiet gedeoe(n)
+07440 <H>i derscede core(n) om d{at} doe(n)
+07441 <D>at hire t[er] noet bi leue(n) soude
+07442 <D>ie jngel seide die gods houde
+07443 <S>i m{et} starcs menege(n) ma(n)ne
+07444 <G>edeoe(n) andw[or]de da(n)ne
+07445 <O>f god met ons ware twi
+07446 <W>are ons ongeual d{us} bi
+07447 <D>ie ingel seide nv vare
+07448 <J>c geue di cracht en(de) sindi dare
+07449 <D>attu tfolc va(n) madian
+07450 <T>e doot sloecht als ee(n) ma(n)
+07451 <G>edeoen hieltene ou[er] ma(n)
+07452 <E>n(de) seide vrient scedet n{iet} va(n) mi da(n)
+07453 <E>eer ic wed[er] mach tote di come(n)
+07454 <H>i heeft ee(n) hueke(n) genome(n)
+07455 <E>n(de) soed en(de) brocht[er] mede broet
+07456 <D>e(n) ingel die hi die spise boet
+07457 <D>ie jngel hiet he(m) ouer ee(n)
+07458 <D>at hise leide op ene(n) stee(n)
+07459 <E>n(de) hi tsop d[aer] op giete(n) soude
+07460 <M>aer die jngel alse hi woude
+07461 <H>adde ene roede na mans wise
+&42va&
+07462 <E_2><N>de die stac hi ane die spise
+07463 <E>en vier qua(m) d[aer] ute(n) stene
+07464 <D>at al v[er]berde groet en(de) cleine
+07465 <M>ettie(n) ontvoer hi m{et}t[er] vaert
+07466 <G>edeoe(n) die w[ar]t veruaert
+07467 <E>n(de) riep wat sal mij(n)s gescie(n)
+07468 <D>at ic de(n) ingel hebbe gesie(n)
+07469 <O>nse h[er]e seide v[er]uaert v n{iet}
+07470 <T>snachts geboet hi he(m) en(de) hiet
+07471 <D>at hi brake de(n) outaer
+07472 <D>ie sijn vad[er] maecte d[aer]
+07473 <J>n abals ere des af gods
+07474 <G>edeoe(n) ontsach hem tgebods
+07475 <E>n(de) dede tsnachts d{at} he(m) god geboet
+07476 <S>dages werd me(n) geware al bloet
+07477 <E>n(de) die lieden vand[er] stede
+07478 <S>eiden ioas d{at} hijt dede
+07479 <D>iene(n) sone brinct ons voert
+07480 <L>aettene sterue(n) doer die mort
+07481 <H>i sp%ra%c wildine berechte(n) al
+07482 <E>s hi god wreke hem baal
+07483 <D>us lietene bliue(n) gene(n) ma(n)
+07484 <E>n(de) amalech en(de) madran
+07485 <D>estruwerden al ysarael
+07486 <E>n(de) lage(n) in d{at} dal va(n) betel
+07487 <D>ie heilege geest qua(m) in gedeoe(n)
+07488 <H>i ontboet tfolc va(n) rabuloe(n)
+07489 <V>a(n) manasse en(de) va(n) neptalim
+07490 <E>n(de) va(n) alex die quame(n) te hem
+07491 <M>et =.xxxij.m.= liede(n) in die(n) dage(n)
+07492 <S>elue qua(m) hi op ene(n) wage(n)
+07493 <E>n(de) eyschede van onsen h[er]e
+07494 <E>e(n) teke(n) doer sijns selfs eere
+07495 <E>e(n) vlies leidi op die erde
+07496 <E>n(de) bat gode doer sine werde
+07497 <D>at die dau quame in d{at} vlies
+07498 <E>n(de) die erde n{iet} en hadde dies
+07499 <D>it dede god doer sine werde
+07500 <T>en naeste(n) dage soe dedi mede
+07501 <D>es daus d[aer] vte ene scelle
+07502 <E>cht soe bat die dege(n) snelle
+07503 <D>es anders dages d{at} die vacht
+07504 <D>roge bleue(n) bid[er] gods cracht
+07505 <E>n(de) die erde bedauwe(n) soude
+&42vb&
+07506 <S_2><O>e mochten wi weren alse die boude
+07507 <D>it dede god doer hem openbaer
+07508 <D>at hi des seges seker w[aer]
+07509 <T>lies d{at} soechte es en(de) wit
+07510 <E>s die lichame onbesmet
+07511 <V>and[er] reind[er] mag{et} marie(n)
+07512 <D>ie alle tonge(n) gebenedie(n)
+07513 <D>ie dau die vallet heimelike
+07514 <O>p die erde va(n) hemelrike
+07515 <S>oe dedi in d{at} vlies
+07516 <D>at ihesus sijt seker dies
+07517 <D>ie heimelike in hare qua(m)
+07518 <E>n(de) h[aer] gaf en(de) niet en quam
+07519 <M>eer suuerhede dan si dede eer
+07520 <E>n(de) heilegetse e(m)m[er]meer
+____
+_sample3_
+&98vb&
+17444 <I_9><V>tis ieeste gaet hier an
+17445 <V>a(n) liue wijf va(n) herte(n) ma(n)
+17446 <V>[er]staet mi wel na chyrus doot
+17447 <W>[er]t ee(n) arfaxat herde groet
+17448 <E>n(de) veste antamius die stede
+17449 <E>ne stat in d{at} lant va(n) mede
+17450 <O>m d{at}ti wilde moge(n)delike
+17451 <W>i(n)ne(n) va(n) mede(n) d{at} coni(n)crike
+17452 <N>abugodonoser cambises
+17453 <C>hyrus sone v[er]noyde des
+17454 <H>em gaf die vader eer hi bleef doot
+17455 <N>iniue die goede stede groet
+17456 <E>n(de) va(n) surie(n) d{at} lant
+17457 =.Xij.= <J>aer d{at}s wel becant
+17458 <D>roech hi crone voer chyrus doot
+17459 <D>ie gaf arfaxat wed[er] stoet
+17460 <E>n(de) sloechene doot en(de) wan dlant
+17461 <E>n(de) doen hine hadde in die hant
+17462 <B>eide persen en(de) mede(n)
+17463 <E>n(de) al tsvaders moge(n)thede
+17464 <V>erhief hi sijn h[er]te d[aer] na
+17465 <E>n(de) hi sinde in chyria
+17466 <E>n(de) in alle die lande om tre(n)t he(m)
+17467 <A>l toter stat va(n) iherusalem
+17468 <E>n(de) eischede chijs en(de) gauel mede
+17469 <M>eer dan noyt sijn vad[er] dede
+17470 <E>n(de) si ontseiden he(m) alle gauel
+17471 <D>oe nam hi sine(n) coni(n)c stauel
+17472 <H>olofernis en(de) geboet
+17473 <D>atti name sijn heer groet
+17474 <E>n(de) nieme(n)s oec v[er]mide
+17475 <N>o borch no lant no gene stede
+17476 <H>i voer vut m{et} menege(n) ma(n)
+17477 <E>n(de) storde dlant va(n) madian
+17478 <E>n(de) oec dlant va(n) cyssilia
+&99ra&
+17479 <E_2><N_1>de van mesopotania
+17480 <D>oe bade(n) die prince(n) om genade
+17481 <D>oe nam hi op borch en(de) stade(n)
+17482 <E>n(de) velse alle gad[er] neder
+17483 <A>lle die afgode voert en(de) wed[er]
+17484 <B>rac hi te stucke(n) cleine en(de) groet
+17485 <O>m d{at} cambises geboet
+17486 <W>a(n)t hi wilde wesen god
+17487 <A>lsi v[er]name(n) d{at} sware gebod
+17488 <D>ie iode(n) va(n) iherusalem
+17489 <W>are(n) si v[er]uaert va(n) hem
+17490 <D>at hi niet alsulke scade
+17491 <D>e(n) tempel ons here(n) dade
+17492 <S>i veste(n) die wege(n) zere
+17493 <E>n(de) bade(n) vaste ane onse(n) h[er]e
+17494 <D>oe(n) v[er]namt olyfernes wel
+17495 <D>at die kind[er] va(n) ysrael
+17496 <D>ie wege slote(n) hare en(de) tare
+17497 <E>n(de) vragede wat volke het ware
+17498 <D>aer sp%ra%c die prince d[er] amonite(n)
+17499 <A>cior die va(n) oude(n) vite(n)
+17500 <B>ekende hoe d{at} volc qua(m)
+17501 <V>ande(n) goede(n) abraham
+17502 <E>n(de) hoe si doer die rode zee ginge(n)
+17503 <E>n(de) god niene wilde gehinge(n)
+17504 <D>at he(m) yeme(n) mochte scade(n)
+17505 <A>lsoe lange alsi wel dade(n)
+17506 <M>aer daden si sonde hi daedse plage(n)
+17507 <N>iewinge oec in corte(n) dage(n)
+17508 <H>eeft hise va(n) bande ontbonde(n)
+17509 <D>aer hise doer hare sonde(n)
+17510 <N>abugodonoser binde(n) liet
+17511 <E>n(de) wildi v[er]winne(n) dit diet
+17512 <V>er eescht oftem god es gram
+17513 <W>i bindense oft waer ee(n) lam
+17514 <M>aer eest d{at}ti he(m) es hout
+17515 <S>one diet d[aer] toe gee(n) gewout
+17516 <O_2>m dit bat hem olifernes
+17517 <E>n(de) seide ic sal di beuroede(n) des
+17518 <D>at gee(n) god si atenor
+17519 <S>ond[er] allene nabugonor
+17520 <M>ijn grote h[er]e cambises
+17521 <D>u moets m{et} he(m) sijn gewes
+17522 <A>ls icse wi(n)ne en(de) die mede
+&99rb&
+17523 <D_2>an seltu weten die waerhede
+17524 <O>lofernes hiete(m) d[aer] na
+17525 <L>eide(n) tote betulia
+17526 <E>ne poert die wilde wi(n)ne(n)
+17527 <M>aer doe(n) ontsage(n) si die va(n) bi(n)ne(n)
+17528 <E>n(de) bondene an ene(n) boem d[aer]
+17529 <D>er stede(n) ee(n) deel wel naer
+17530 <S>oe d{at}te(n) die va(n) bi(n)ne(n) name(n)
+17531 <E>n(de) brachtene ond[er] tfolc te same(n)
+17532 <E>n(de) seide(n) wat hi hadde mesdae(n)
+17533 <D>oe(n) behielde(n) sine sond[er] wae(n)
+17534 <D>oe(n) v[er]nam bute(n) d{at} heere
+17535 <D>at water d{at} si sond[er] were
+17536 <O>p wilde(n) geue(n) hare stat
+17537 <E>n(de) seide(n) ond[er] he(m) alle(n) d{at}
+17538 <H>ulpt he(m) niet god bi(n)ne(n) =.v.= dage(n)
+17539 <D>at si e(m)m[er] wilden die stat op drage(n)
+17540 <E>ne weduwe nv merct dit
+17541 <W>as in ene stat en(de) heet iudit
+17542 <D>oer scone en(de) doer reine va(n) liue
+17543 <S>i scalt die pape(n) als keytiue
+17544 <D>at si termine e(m)m[er]mere
+17545 <A>ne die doget va(n) onse(n) h[er]e
+17546 <S>ette(n) soude d{at} waer quaet
+17547 <E>n(de) si seide mine(n) stille(n) raet
+17548 <N>e willic altoes niet lere(n)
+17549 <M>aer ic sal doe(n) dwerc ons here(n)
+17550 <S>taet t[er] porte(n) ic wille vut gae(n)
+17551 <M>ettie(n) porde si wel sae(n)
+17552 <E>n(de) ee(n) ioncfrouwe droech spise en(de) dranc
+17553 <M>et hare en(de) dede vut w[er]t de(n) ganc
+17554 <M>aer scone was si besond[er]
+17555 <D>ats die pape(n) hadde(n) wond[er]
+17556 <E>n(de) bade(n) ouer hare doe wale
+17557 <D>at si ginge va(n) berge te dale
+17558 <V>ingense die spiers te hant
+17559 <E>n(de) leidense d[aer] si vant
+17560 <O>lifernes die sat ald[aer]
+17561 <O>nd[er] ene(n) diere(n) sporewaer
+17562 <V>a(n) zide(n) en(de) va(n) goude v[er]heue(n)
+17563 <E>n(de) menech steen d[aer] in geweue(n)
+17564 <T>alre ierst d{at} hise heeft v[er]sie(n)
+17565 <W>ert sijn h[er]te beuae(n) m{et}tie(n)
+17566 <E>n(de) si neech hem opebare
+&99va&
+17567 <O_2><L_1>ifernes die sprac te <H_1>are
+17568 <S>ech twi quaemstu tot o(n)s hier tale
+17569 <J>udit die antw[er]de wale
+17570 <O>ns volc blijft v[er]lore(n) sae(n)
+17571 <W>a(n)t h{et} heeft z[er]e mesdae(n)
+17572 <G>od heeft mi gesent te di
+17573 <D>at ic dit boetscapede vri
+17574 <E>n(de) ic di te iherusalem
+17575 <D>aer leide en(de) da(n)*...* nem
+17576 <D>at volc ond[er] dijn gebod
+17577 <H>i sp%ra%c doet mi dit dijn god.
+17578 <S>oe saltu grote vrouwe m{et} ons wese(n)
+17579 <E>n(de) nabugodonoser m{et} desen
+17580 <H>i deetse leide(n) d[aer] ter stat
+17581 <A>ld[aer] d{at} lach sijn grote scat
+17583 <D>atti haer belouede d{at}
+17582 <S>oe d{at} <J>udit d{at} gebat
+17584 <D>at si tsnachts moeste vut gae(n)
+17585 <H>are(n) god te biddene sae(n)
+17586 <H>i liet hare al hare(n) wille doe(n)
+17587 <D>rie der nachte deetsi orisoe(n)
+17588 <E>n(de) ginc al d[aer] si wilde mede
+17589 <O>lofernes haer bidde(n) dede
+17590 <D>at si bi hem slape(n) soude
+17591 <E>n(de) si seide d{at} si woude
+17592 <E>n(de) qua(m) te he(m) wel gepareert
+17593 <E>n(de) als hi siet d{at} si begeert
+17594 <D>ranc hi va(n) ioien soe de(n) wijn
+17595 <D>atti ginc slape(n) als ee(n) zwijn
+17596 <I_2><V>dich die hiet hare(n) ioncwiue
+17597 <D>{at} si voer die dore bliue
+17598 <S>elue ginc si voer he(m) staen
+17599 <E>n(de) si bat ane gode doe sae(n)
+17600 <D>at hise gesterke teser stont
+17601 <T>olifernis hoeft stont
+17602 <E>ne columpme d[aer] ane hinc ee(n) zw[aer]t
+17603 <E>n(de) d{at} <J>udich trac ter vaert
+17604 <E>n(de) sloech hem thoeft aue m{et} ene(n) slage
+17605 <H>are ioncwiue hiet sijt drage(n)
+17606 <E>n(de) nam de(n) goede(n) sporware
+17607 <E>n(de) ginc t[er] stat w[er]t sond[er] vare
+17608 <W>ant h[aer] tgae(n) nieme(n) en benam
+17609 <E>n(de) tierst d{at} si t[er] porte(n) qua(m)
+17610 <R>iep si god es m{et} ons ontdoe
+&99vb&
+17611 <A_2><L_1>le tfo<L_1>c <L_1>ieper toe
+17612 <M>{et} lichte en(de) si toge d[aer]
+17613 <D>at hoeft en(de) de(n) sporwaer
+17614 <E>n(de) seide louet gode m{et} vlite
+17615 <A>ls achior va(n) a(m)monite
+17616 <O>lifers hoeft gesach
+17617 <V>a(n) vare hi in o(m)macht lach
+17618 <D>oe(n) hi dit sach dede hi he(m) tie(n) tide(n)
+17619 <N>a die iodsche wet besniden
+17620 <E>n(de) bleef gelouech na die vre
+17621 <D>at hoeft hinc <J>udit opte(n) muere
+17622 <D>it was ene stoute daet
+17623 <D>at geuiel in die dageraet
+17624 <O>ec seideme(n) in alle(n) stede(n)
+17625 <D>at si iege(n) die viande strede(n)
+17626 <T>ilike d{at} die <J>ode(n) vut gerede(n) quame(n)
+17627 <M>aer doent die here(n) v[er]name(n)
+17628 <D>at olofernis selue was doot
+17629 <V>loe d{at} heer doer de noet
+17630 <E>n(de) die iode(n) volgede(n) naer
+17631 <E>n(de) sloege(n)d[er] menege(n) d[aer]
+17632 <B>i(n)ne(n) =.xxx.= dage(n) des geloeft
+17633 <G>ehaelde(n) si cume de(n) roef
+17634 <E>n(de) wat soe olofernis was
+17635 <H>adde al d[aer] <J>udich alsict las
+17636 <E>n(de) <J>udech sanc gode ene(n) sanc
+17637 <D>aer si voerseide in sond[er] wanc
+17638 <D>e(n) doemsdach en(de) d{at} die quade
+17639 <G>epijn soude(n) sijn sond[er] genade
+17640 <T>e ih[e]r[usa]l[e]m voer hi d[aer] naer
+17641 <E>n(de) offerde onsen h[er]e al d[aer]
+17642 <O>lifernis grote rijchede
+17643 <D>ie(n) dach soe vierdeme(n) mede
+17644 <E>n(de) <J>udich die wert hier naer
+17645 <A>ltoe gehete(n) cambisa
+17646 =.C.= <J>aer <J>aer lesen wi en(de) viue
+17647 <W>as hi out doe(n) hi v[er]sciet in dese(n) liue
+17648 <C_2>ambises nabugodonoser
+17649 <W>an d[aer] na menege(n) tor
+17650 <J>n egypte(n) en(de) wan d{at} lant
+17651 <O>ec maecti d{at} si v bekant
+17652 <J>n egypte(n) die stat va(n) babylone
+17653 <D>aer die soudae(n) draget crone
+17654 <W>ille me(n) die w[aer]heit wete(n) das
+&100ra&
+17655 <A_2><L_1>se ons voer seide ieremias
+17656 <D>oe(n) hi egypte(n) rumde dlant
+17657 <W>ert hi z[er]e siec te hant
+17658 <J>n damas bleef hi doot
+17659 <C>ambises die h[er]e groet
+____
+_sample4_
+&129va&
+22979 <O>nse h[er]e die qua(m) al d[aer]
+22980 <A>ls een die moede es ende sit
+22981 <V>p eene fonteine heet jacops pit
+22982 <D>ie apostele(n) ware(n) in die stede
+22983 <O>mme spise te copene mede
+22984 Ø
+22985 Ø
+22986 <D>at si he(m) drinke(n) gaue(n)
+22987 <D>wijf antw[or]de d{us} d[aer] aue
+22988 <W>ant sine <J>ode sach bi di
+&129vb&
+22989 <H_3><O>e mogestu drin<K_1>en van mi
+22990 <W>ant jc ben ee(n) samaritane
+22991 <H>ier vore dedic v te v[er]stane
+22992 <D>at salmanazer die co(ninc)
+22993 <T>folc va(n) ysrael al o(m)me vinc
+22994 <M>ette(n) coninc osee
+22995 <D>aer na hadde(n) si coni(n)ge(n) mee
+22996 <J>nt lant voerde hise va(n) caspia
+22997 <D>aerse alexand[er] sloet d[aer] na
+22998 <S>ij(n) volc sinde hi in ysrael
+22999 <D>lant te wi(n)ne(n) doe w[or]t he(m) fel
+23000 <L>euwe(n) die he(m) sinde int dlant
+23001 <H>ier o(m)me ontfinge(n) si te hant
+23002 <D>ie ioedsche wet en(de) dade(n) besnide(n)
+23003 <H>ier toe hadde(n) si in alle(n) tide(n)
+23004 <D>afgode d[aer] si geloefde(n) ane
+23005 <D>ie si hiete(n) samaritane
+23006 <D>i ware(n) van samarie(n) die stede
+23007 <H>are vate no hare spise mede
+23008 <N>e wilde(n) die <J>ode(n) n{iet} ontbare(n)
+23009 <V>a(n) desen was d{at} wijf tware(n)
+23010 <D>ie onse(n) h[er]e drinke(n) bat
+23011 <E>n(de) hi seide d[aer] ter stat
+23012 <D>at si hadde gehat =.v.= ma(n)ne
+23013 <E>n(de) si hare nv hielt ane
+23014 <D>atse sine amie oec ware
+23015 <D>oe seide dwijf al ope(n)bare
+23016 <J>c sie d{at}tu {pro}phete sijs
+23017 <O>nse vorders ware(n)s wijs
+23018 <E>n(de) *si* diende(n) gode en(de) bade(n) he(m)
+23019 <H>ier opte(n) berch te grarisem
+23020 <E>n(de) gi segt d{at} me(n) he(m)
+23021 <S>al offere(n) in ih[e]r[usa]l[e]m
+23022 <O_2>nse h[er]e seide te hare
+23023 <W>ijf geloeft mi openbare
+23024 <D>at die dijt es come(n) mede
+23025 <D>at te ih[e]r[usa]l[e]m in stede
+23026 <N>och hier seldi bidde(n) niet
+23027 <A>ne dese woert hi behiet
+23028 <D>at me(n) gode ouer al
+23029 <M>et geloue anebede(n) sal
+23030 <N>iet te ih[e]r[usa]l[e]m allene
+23031 <A>lse me(n) doe dede soe clene
+23032 <G>eloue was in ertrike
+&130ra&
+23033 <D_3><W>ijf antwerde corte<L_1>i<K_1>e
+23034 <J>c weet wel d{at} kerst come(n) sal
+23035 <E>n(de) hi comt hi sal ons al
+23036 <S>egge(n) en(de) doe(n) v[er]staen
+23037 <O>ns h[er]e antw[er]de sae(n)
+23038 <J>c ben doe(n) liet si h[aer] scop
+23039 <T>er stat dede si hare(n) loep
+23040 <E>n(de) si seide ten porters dan
+23041 <C>omt en(de) siet hier ene(n) ma(n)
+23042 <D>ie mi heeft al bediet
+23043 <S>oe wat soe mi es gesciet
+23044 <M>ach d{at} kerst doch yet wesen
+23045 <T>folc qua(m) vt[er] stat m{et} desen
+23046 <E>n(de) doe hise sach come(n) d[aer]
+23047 <S>eide hi d{at} dat core(n) w[aer]
+23048 <G>ereet te(n) oechste d{at} bediede
+23049 <G>ereit v te(n) oechste te(n) geloeue liede
+23050 <S>oe d{at} si hem d[aer] bade(n) d{at}
+23051 <D>atti mede ginge t[er] stat
+23052 <D>aer was hi twee dage m{et} he(m) mede
+23053 <D>aer hire vele geloue(n) dede
+23053a <L>ucas
+23054 <U_2>an sythar qua(m) hi d[aer] nae
+23055 <J>n galylee te chanaee
+23056 <D>aer ee(n) co(ninc) i(n)ne was
+23057 <E>n(de) d{at} bediet alsic las
+23058 <E>e(n) die mogenste va(n) de(n) lande
+23059 <N>a de(n) co(ninc) alsic becande
+23060 <J>n capharnaam lach siec sijn sone
+23061 <O>nsen h[er]e soe bat die gone
+23062 <D>at hire quame en(de) hine genase
+23063 <G>od scaltene gelijc ene(n) dwase
+23064 <W>ant hi peinsde in sijn gedochte
+23065 <D>at hine genesen niet en mochte
+23066 <H>ine ware selue gegae(n)
+23067 <D>och soe heefti alsoe v[er]stae(n)
+23068 <D>at god te he(m) gesproke(n) heeft
+23069 <G>anc thuus dijn sone leeft
+23070 <M>ette(n) worde hine genas
+23071 <A>ld[aer] hi selue niet en was
+23072 <D>ie ma(n) en(de) sine meysniede
+23073 <G>eloefdent d{at} dus gesciede
+23074 <H>ier toe bescrijft ons jan
+23075 <N>v segge(n) dand[er] drie voert an
+&130rb&
+23076 <L_3><E>ui die oec <H_1>iet mat<H_1>eus.
+23077 <M>aecte onsen h[er]e in sijn huus
+23078 <E>e(n) werscap d{at} horic telle(n)
+23079 <D>aer ate(n) mede leuis geselle(n)
+23080 <P>ubblicane d{at} dit oec bediet
+23081 <V>olc d{at} vele der werelt pliet
+23082 <D>ie phariseen die he(m) mede
+23083 <V>erhieue(n) in die heilichede
+23084 <A>ls die vroet waende(n) sijn z[er]e
+23085 <D>ie begrepe(n) onsen h[er]e
+23086 <D>at hi at m{et} sondare(n)
+23087 <M>aer hi antw[or]de te ware(n)
+23088 <J>n ben bi di n{iet} come(n) al
+23089 <D>at ic die gerechte roepe(n) sal
+23090 <M>aer die sondege sond[er] wae(n)
+23091 <D>at si penitencie sele(n) ontfae(n)
+23092 <O>ec begrepe(n) si als si d{at} sage(n)
+23093 <D>at sine jongers n{iet} en plage(n)
+23094 <T>e vastene m[aer] onse h[er]e
+23095 <O>ntsculdegese al doe z[er]e
+23096 <J>n die(n) d{at} tfolc was ongeleert
+23097 <E>n(de) nvwinge an he(m) gekeert
+23098 <E>n(de) hi vleeschelike m{et} he(m) ware
+23099 <A>lst gesciede oec d[aer] nare
+23100 <D>at hi he(m) worde genome(n)
+23101 <S>ouds he(m) genoech te vastene come(n)
+23102 <D>ie phariseuse wilde(n) m{et}tie(n)
+23103 <E>e(n) heimelike teke(n) ane he(m) sie(n)
+23104 <H>i ontseit he(m) en(de) seide mee
+23105 <D>at heydene vloc va(n) ninivee
+23106 <D>at beter ware dan si
+23107 <E>n(de) seide he(m) redene d[aer] bi
+23108 <W>a(n)t si penitencie dade(n)
+23109 <D>oense ionas dreigede va(n) scade(n)
+23110 <E>n(de) hi meerre da(n) ionas ware
+23111 <O>ec seide hise arghere ope(n)bare
+23112 <D>a(n) die heidine coni(n)gi(n)ne
+23113 <D>ie doer cracht va(n) salomo(n)s si(n)ne
+23114 <V>a(n) v[er]re quam soeke(n) niemare
+23115 <D>at hi wiser dan salomoe(n) ware
+23115a <L>ucas
+23116 <D_2><J>e prinche der synagoge qua(m)
+23117 <T>ote onse h[er]e alsic v[er]nam
+23118 <E>n(de) anbedene en(de) seide mede
+&130va&
+23119 <H_3><E>re mijn wijf es doot ter stede
+23120 <C>omt en(de) legt dij(n) hant op hare
+23121 <S>i sal genesen openbare
+23122 <D>oe hi daer w[aer]t soude gae(n)
+23123 <Q>ua(m) ee(n) wijf ane he(m) sae(n)
+23124 <D>ie gebloet hadde =.xij.= jaer
+23125 <E>n(de) taste allene die vese(n) d[aer]
+23126 <V>a(n) sine(n) mantele alsic las
+23127 <M>ettie(n) geloue si genas
+23128 <V>a(n) ambrosise machme(n) lesen
+23129 <D>at die martha soude wese(n)
+23130 <M>arie(n) sust[er] magdalene
+23131 <J>hesus en(de) sine jongers gemene
+23132 <Q>uame(n) d[aer] woende jayrus
+23133 <D>at was die prince vande(n) huus
+23134 <P>eter leidi m{et} he(m) da(n)ne
+23135 <J>acop de(n) meerre(n) en(de) ja(n)ne
+23136 <E>n(de) d[er] ioncfr[ouwen] moed[er] en(de) vad[er]
+23137 <D>ie and[er] dreef hi vut al gad[er]
+23138 <W>ant si bespottene d{at} hi riep
+23139 <D>at die docht[er] lach en(de) sliep
+23140 <O>mme d{at} hise v[er]scede(n) vant
+23141 <D>ie ioncfr[ouwe] nam hi bid[er] hant
+23142 <D>ie hieti d{at} si soude op stae(n)
+23143 <E>n(de) hiet h[aer] tete(n) geue(n) saen
+23144 <D>ats v[er]risenesse w[aer]achtich
+23145 <M>e(n) vint touerie soe machtich
+23146 <D>aer me(n) die dode m{et} doet v[er]risen
+23147 <M>aer sine ete(n) gene spise
+23147a <M>atheus
+23148 <V_2><A>n desen scrijft matheus
+23149 <D>at ginc onse h[er]e ihesus
+23150 <D>ie blinde volgede(n) he(m) om tgone
+23151 <E>n(de) riep ihesus dauids sone
+23152 <O>ntferme onser doe(n) hi thuus qua(m)
+23153 <T>e nazareth als ict v[er]nam
+23154 <T>aste hi h[aer] oge(n) en(de) si ontdade(n)
+23155 <D>at sijt niet en seide en(de) dade(n)
+23156 <D>oe d{at} woert es bekant
+23157 <N>ochtan seide(n) sijt alle int lant
+23158 <D>oe(n) si gescede(n) ware(n) dane(n)
+23159 <A>ls ons mede doet te v[er]stane
+23160 <B>eide matheus en(de) lucas
+23161 <E>ne(n) die besete(n) was
+&130vb&
+23162 <M_3><E>tten viant d{at}men <B_1>roc<H_1>te
+23163 <D>ie oec spreke(n) n{iet} en mochte
+23164 <O>nse h[er]e dreef vut de(n) via(n)t
+23165 <D>ie sto(m)me sp%ra%c te hant
+23166 <D>oe(n) pijndene d[aer] menech ee(n)
+23167 <M>aer die pijnlike phariseen
+23168 <S>eide(n) ouer ee(n) te same(n)
+23169 <D>at hi in belsebucs name(n)
+23170 <D>ie prinche vande(n) duuele ware
+23171 <E>n(de) de(n) duuel v[er]dreef va(n) vare
+23172 <J>h[esu]s antw[or]de d[aer] ter stede
+23173 <O>chte ic bi belsebucs moge(n)thede
+23174 <D>e(n) viant wel v[er]driue(n) can
+23175 <B>i wien doe(n) v kindre dan
+23176 <W>at die jode(n) d{at} wel wiste(n)
+23177 <D>at ond[er] he(m) ware(n) exoxtististe(n)
+23178 <D>at luud besuers in onse tale
+23179 <D>ie duuel conste wale
+23180 <V>te(n) me(n)sche vare(n) doe(n)
+23181 <E>n(de) die wort va(n) salomoe(n)
+23182 <E>n(de) d{at} seide(n) si al openbare
+23183 <D>at va(n) gods halue(n) ware
+23184 <M>aer die mierakele ons here(n)
+23185 <W>ilde(n) si te(n) quatste(n) kere(n)
+23185a <L>ucas
+23186 <H_2><J>er na segt lucas
+23187 <D>at ih[esu]s qua(m) in ene stat
+23188 <D>aer he(m) ee(n) phariseus bat
+23189 <S>oe d{at}ti met hem at
+23190 <A>ld[aer] qua(m) m{et} grote(n) wene
+23191 <D>ie besondege magdalene
+23192 <E>n(de) dwoech m{et} hare(n) trane(n) sine voete
+23193 <M>et hare(n) hare wreef sise soete
+23194 <G>he(n)e phariseeu hiet symoe(n)
+23195 <E>n(de) pensde doe(n) in sijn doe(n)
+23196 <W>aert d{at} dese ee(n) {pro}phete ware
+23197 <H>i soude wete(n) openbare
+23198 <D>attene ee(n) sondech wijf ane tast
+23199 <A>ld{us} begrep hi sine(n) gast
+23200 <M>aer onse here die ontwant
+23201 <M>et eere redene alte hant
+23202 <E>n(de) seide hare ware vele v[er]late(n)
+23203 <D>at sine minde vt[er] mate(n)
+23204 <E>n(de) ald[aer] ter seluer stonden
+&131ra&
+23205 <V_2><E>rgaf god <H_1>aer <H_1>are sonden
+23206 <E>n(de) si volgede staphans na
+23207 <O>nsen h[er]e en(de) ginc in juda
+23208 <J_3><N> ene(n) casteel qua(m) hi gegae(n)
+23209 <D>[aer] heeftene in h[aer] huus ontfae(n)
+23210 <M>aerta die sust[er] marien
+23211 <E>n(de) diende m{et} he(m) siere pertie(n)
+23212 <M>aria sat bi sine(n) voete(n)
+23213 <E>n(de) hoerde spreke(n) ih[esu]s de(n) soete(n)
+23214 <M>artha beclagede magdalene
+23215 <D>at sise diene(n) liet allene
+23216 <D>aer prijsde god marie(n) z[er]e
+23217 <S>oe wiselike en(de) in selk[er] eere
+23218 <D>at hi altoes in eere wijs
+23219 <M>arthe(n) oec ne gaf mesprijs
+____
+_sample5_
+&188rb&
+33296 <D_2><J>e mordenaers die de(n) tempel helde(n)
+33297 <R>uste(n) ind[er] were oec selde(n)
+33298 <D>och visierde(n) si dese moert
+33299 <A>ne die vest zide nv hoert
+33300 <S>tont ee(n) portael diere en(de) goet
+33301 <D>aer droege(n) si hout toe sciere
+33302 <B>ute(n) en(de) sulfer oec mede
+33303 <E>n(de) weke(n) dane(n) vand[er] stede
+33304 <G>elijc oft si gelouich ware(n)
+33305 <V>ele riese vand[er] scare(n)
+33306 <V>olgede(n) en(de) clo(m)me(n) naer
+33307 <M>et ledere(n) opt portael d[aer]
+33308 <D>at dochte selke(n) wese(n) quaet
+33309 <A>l d{at} jodsche volc d{at} v[er]staet
+33310 <D>at portael w[or]d vol te hant
+33311 <E>ntie jode(n) stake(n) d[aer] in de(n) bra(n)t
+33312 <D>oe w[or]t alte hant ontsteke(n)
+33313 <D>ie romeine m{et} de(n) jode(n) treke(n)
+33314 <W>orde(n) begae(n) d[aer] en was gee(n) vlie(n)
+33315 <T>yt{us} die dit heeft v[er]sien
+33316 <W>as droeue hine const n{iet} gewreke(n)
+33317 <M>et ald{us} gedane(n) treke(n)
+33318 <S>torue(n) si wel naer alte male
+33319 <D>ie d[aer] ware(n) inde(n) portale
+33320 <D>aer na brake(n) die romeine al
+33321 <M>aer d{us} danich mesual
+33322 <M>aecte dicken vroet
+33323 <E>lc heeft he(m) te nauwer behoet
+33324 <T_2><E>n naeste(n) dage soe ontstake(n)
+33325 <D>ie romeine om dese sake(n)
+33326 <D>at portael ane die noert zide
+33327 <A>l (o)mme de(n) tempel tie(n) tide
+&188va&
+33328 <D_2>at was al dus dane moert
+33329 <N>v hoert ee(n) deel vand[er] poert
+33330 <D>aer was die hong[er] soe groet
+33331 <N>oit en hoerde ma(n) des noet
+33332 <O>m spise vochte(n) si menege(n) wijch
+33333 <D>aer o(m)me was alle die crijch
+33334 <J>a die dieue ontdecte(n) mede
+33335 <D>ie dode liede(n) vand[er] stede
+33336 <E>n(de) ond[er] sochte(n) o(m)me ete(n)
+33337 <R>ieme(n) scoe(n) wildijt wete(n)
+33338 <A>te(n) si d[aer] si dlijf op hielde(n)
+33339 <E>n(de) d{at} oude leer vande(n) scilde(n)
+33340 <J>a hoy wat sal des meer
+33341 <H>oert hier ja(m)mer groet en(de) zeer
+33342 <E_2><E>n wijf va(n) ou[er] die jordane
+33343 <D>ie wile(n) rijc was jc wane
+33344 <M>arie hiet si bi name(n)
+33345 <D>oe and[er] liede(n) in ih[e]r[usa]l[e]m quame(n)
+33346 <Q>ua(m) sire in en(de) was besete(n)
+33347 <M>ette(n) andere(n) als wijt wete(n)
+33348 <W>a(n)t si m{et} hare hadde brocht
+33349 <V>a(n) ou[er] dwat[er] was besocht
+33350 <E>n(de) vande(n) rouers hare genome(n)
+33351 <D>aer toe sachme(n) alle dage come(n)
+33352 <D>ie rouers die hare name(n) tete(n)
+33353 <A>lsiere iet hadde v[er]gete(n)
+33354 <D_2><J>e vrouwe d{at} sw[aer] v[er]droech
+33355 <E>n(de) vloecte die dieue genoech
+33356 <O>m d{at} si gerne hadde v[er]dient
+33357 <D>at enich viant ofte vrint
+33358 <H>aer d{at} lijf hadde genome(n)
+33359 <M>aer d[aer] toe en mocht n{iet} come(n)
+33360 <M>aer d{at} me(n)t hare nam soe rene
+33361 <D>at h[aer] en bleef groet no clene
+33362 <E>ntie hong[er] ginc h[aer] ane z[er]e
+33363 <D>aer toe v[er]woede gramscap mere
+33364 <D>ies w[or]t si va(n) felle(n) moede
+33365 <E>n(de) va(n) gebreke va(n) goede
+33366 <J>ege(n) hare natuere gram
+33367 <H>aer suge(n)de kint d{at} si na(m)
+33368 <V>erdomt kint sp%ra%c si m{et} desen
+33369 <J>a(m)merlike tide moet e(m)mer wese(n)
+33370 <T>e vies boef salic di voede(n)
+33371 <T>e(n) romeine(n) wiltut geuroeder
+&188vb&
+33372 <B_2>v werds arm behoustu dlijf
+33373 <M>aer die hong[er] aerm keytijf
+33374 <S>al di v[er]tere(n) eer dit gesciede
+33375 <N>ochta(n) es dit mordadege diede
+33376 <A>rgere dan sijn si twee
+33377 <W>es mine spise voert mee
+33378 <D>ie dieue sele(n) worde(n) erre
+33379 <M>e(n) sal dese fauele telle(n) v[er]re
+33380 <W>a(n)t dit es gebreit allene
+33381 <A>nd[er] jode(n) plage(n) gemene
+33382 <D>it sp%ra%c si en(de) sloech h[aer] kint doot
+33383 <S>om briet sijt ofte soet
+33384 <E>n(de) dand[er] decte si en(de) helt
+33385 <N>v quame(n) die rouers m{et} gewelt
+33386 <E>n(de) hebbe(n) d{at} v[er]roke(n) sae(n)
+33387 <S>i dreichdense si soude(n) se doot slae(n)
+33388 <E>n ware d{at} si h[er]e d[er] spise gaue
+33389 <S>i seide ee(n) groet deel d[aer] aue
+33390 <H>ebbic gehoude(n) tuwe(n) boef
+33391 <M>ettie(n) si decsel op sloech
+33392 <E>n(de) toende he(m) haers kints relief
+33393 <D>aer en was soe cone(n) dief
+33394 <H>em en eysede d[aer] hijt sach toe
+33395 <D>oe seide d{at} wijf hoe vaerdi hoe
+33396 <D>its mij(n) kint en(de) mine scout wildijt wete(n)
+33397 <E>n(de) ic hebber af vore(n) gete(n)
+33398 <J>c en wille n{iet} d{at} gi sek[er] sijt
+33399 <D>a(n) ee(n) wijf en nes gee(n) dijt
+33400 <E>n(de) ontfarmeg[er] dan die moed[er]
+33401 <A>l eest soe d{at} gijs sijt vroed[er]
+33402 <O>ntsegdijt ic hebber af gete(n)
+33403 <E>n(de) hout d{at}ter af es gesplete(n)
+33404 <A_2>l beue(n)de ginge(n) die dieue dane(n)
+33405 <E>n(de) cume lieten si als ic wane
+33406 <D>er moed[er] allene hebbe(n) d{at}
+33407 <H>ier af w[or]d vol alle die stat
+33408 <O>nd[er] theer qua(m) oec die mare
+33409 <S>elc wande d{at} boerde ware
+33410 <S>elke ontfermets en(de) selc mede
+33411 <H>att[er] o(m)me alle die stede
+33412 <T>yt{us} clages onsen h[er]e
+33413 <E>n(de) toende d{at} hi hem eere
+33414 <P>ays boet en(de) v[er]geue(n) woude
+33415 <A>lle mesdaet va(n) hare(n) sonden
+&189ra&
+33416 <M>aer si coren strijt voer vrede
+33417 <E>n(de) hong[er] voer welde mede
+33418 <E>n(de) om d{at} si te hare(n) scande(n)
+33419 <D>e(n) tempel ontstake(n) m{et} hare(n) hande(n)
+33420 <W>are(n) si werdich va(n) sulk[er] spise
+33421 <M>aer hi sout wreke(n) in d[er] wise
+33422 <D>at hi dlant soude destruere(n)
+33423 <E>ntie poert oec al sond[er] v[er]tere(n)
+33424 <D>at ne(m)m[er]meer ma(n) en lage die stede
+33425 <D>at dwijf ald{us} h[aer] kint v[er]dede
+33426 <A_2>ld{us} maecte hi sijn geclach
+33427 <J>nde(n) ogeste opte(n) =.xviij.=ste(n) dach
+33428 <S>oe w[or]t voldrage(n) die dracht
+33429 <W>est ane de(n) tempel m{et} grot[er] cracht
+33430 <D>aer brachtme(n) de(n) sterke(n) ram
+33431 =.vij.= dage stac hi alsic v[er]nam
+33432 <D>at si n{iet} en wo(n)ne(n) ee(n) haer
+33433 <S>oe groet was dwerc d[aer]
+33434 <D>ie noert porte ond[er] groeue(n) si some
+33435 <M>aer d[aer] af qua(m) he(m) cleine vrome
+33436 <E>n diede niet d{at} siere ane dade(n)
+33437 <S>oe d{at} si worde(n) berade(n)
+33438 <D>at si ledere(n) toe droege(n)
+33439 <M>aer die jode(n) v[er]sloege(n)
+33440 <D>er romeine(n) soe vele
+33441 <D>at he(m) ginc vte(n) spele
+33442 <H>ier o(m)me w[or]t tyt{us} tongemake
+33443 <E>n(de) hiet d{at} me(n) die porte ontstake
+33444 <D_2><O>e(n) quame(n) twee die felste gevloe(n)
+33445 <D>ie ond[er] he(m) hadde symoe(n)
+33446 <T>ote tyt{us} o(m)me genade
+33447 <H>i was dies herde wel berade(n)
+33448 <D>at hise hadde gedae(n) ontliue(n)
+33449 <M>aer hine wilde n{iet} menechtich bliue(n)
+33450 <W>a(n)t si beide mordenaers ware(n)
+33451 <D>ie ridd[er]s droege(n) vier sond[er] spare(n)
+33452 <E>n(de) ginge(n) die porte ontsteke(n)
+33453 <D>ie jode(n) en conste(n)t n{iet} gewreke(n)
+33454 <D>at zeluer smalt te hant d[aer] jege(n)
+33455 <D>aer m{et} was beslegen
+33456 <E>n(de) thout ontstac te hant
+33457 <A>lse die jode(n) sage(n) de(n) brant
+33458 <O>ntsanc he(m) h[ar]te en(de) moet
+33459 <W>a(n)t d[aer] gee(n) hulpe toe en stoet
+&189rb&
+33460 <N_2>ochtan keerden si om niet
+33461 <S>oe vele d{at}t[er] ee(n) toe riet
+33462 <D>at me(n) behoude(n) soude doch
+33463 <T>selue d{at} d[aer] stont noch
+33464 <D>ages en(de) tnachs soe wies
+33465 <D>ie brant sijt sek[er] dies
+33466 <T_2><E>n naeste(n) dage tyt{us} geboet
+33467 <D>{at} me(n) blusschede de(n) brant groet
+33468 <E>n(de) wech te makene de(n) heere
+33469 <H>i nam raet na sine(n) gheere
+33470 <M>ette(n) vorste(n) va(n) sine(n) rade
+33471 <W>atti beest m{et}te(n) tempel dade
+33472 <S>elc seide h{et} ware best te broke(n)
+33473 <D>ie jode(n) soude(n) wed[er] stoke(n)
+33474 <N>uwe orloge liet me(n) stae(n)
+33475 <W>a(n)t al ware(n) si dan geuae(n)
+33476 <S>i soude(n) o(m)me lanc alle kere(n)
+33477 <D>aer de(n) tempel m{et} grot[er] eere(n)
+33478 <H>et scee(n) bat wesen ee(n) casteel
+33479 <D>us w[or]d geuelt best geheel
+33480 <T>yt{us} antw[or]de selc werc
+33481 <S>oe scone soe diere so sterc
+33482 <D>at en brake hi ne(m)m[er]mere
+33483 <H>et ware de(n) romsche(n) rike grote eere
+33484 <D>att[er] selc werc in stoede
+33485 <M>e(n) maecte die strate in corte(n) stonde
+33486 <D>ie iode(n) va(n) vare en(de) va(n) onwille
+33487 <L>ietse make(n) en(de) lage(n) stille
+33488 <T>snachs dages quame(n) si vut gelope(n)
+33489 <T>er porte(n) diere stont ope(n)
+33490 <E>n(de) hebbe(n) die romeine bestae(n)
+33491 <D>iese wel bitterlike ontfae(n)
+33492 <D>at v[er]sach sae(n) d[aer] na
+33493 <T>it{us} vte antonia
+33494 <E>n(de) qua(m) m{et} eere scare(n) te(n) stride
+33495 <D>oe weke(n) die jode(n) ou[er] zide
+33496 <J>n die ind[er]ste port doer die noet
+33497 <D>aer hare liede(n) vele sijn doot
+33498 <E>n(de) tyt{us} keerde in antonia
+33499 <H>i sette des and[er]s dages d[aer] na
+33500 <D>e(n) tempel te besettene al o(m)me
+33501 <M>et al den heere tere so(m)me
+33502 <M>aer die sente(n)cie va(n) onse(n) h[er]e
+33503 <H>adde v[er]doemt die(n) tempel soe z[er]e
+&189va&
+33504 <D_2>at hi verbrende vanden viere
+33505 <A>ls gi selt v[er]neme(n) sciere
+33506 <S_2><O> v[er]re qua(m) alsic v[er]sach
+33507 <J>nde(n) ogest opte(n) =.xx.=ste(n) dach
+33508 <D>at was va(n) nabugodonoser als wijt hore(n)
+33509 Ø
+33510 <V>erbert was die tempel mede
+33511 <D>ie salomoe(n) ierst make(n) dede
+____

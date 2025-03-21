@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Mettingen</settlement>
+            <institution>Draiflessen Collection Liberna</institution>
+	<idno>DC(L)M, W 147</idno>
+<settlement>Antwerp</settlement>
+            <institution>Erfgoedbibliotheek Hendrik Conscience</institution>
+            <idno>805634:05 [C2-559 i]</idno>
+           
+   	<settlement>Nijmegen</settlement>
+            <institution>Radboud University, Central Library - Special Collections</institution>
+            <idno>OD TBI 201 c 159 nr.9</idno>
+<settlement>Amsterdam</settlement>
+            <institution>Allard Pierson Depot</institution>
+            <idno>OTM: O 06-8283</idno>
+ <msName>Print Stroobant, d2</msName>
+          </msIdentifier>
+
+                <p>...</p></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

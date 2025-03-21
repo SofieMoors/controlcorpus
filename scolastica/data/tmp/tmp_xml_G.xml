@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: https://rug.on.worldcat.org/oclc/801522955 and Biemans, J.A.A.M. (2020). Monastic scriptorium or municipal workshop. In E. C. Dijkhof (Ed.), Medieval documents as artefacts: Interdisciplinary perspectives on codicology, palaeography and diplomatics (pp. 55–92). Uitgeverij Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Groningen</settlement>
+            <institution> University Library</institution>
+            <idno>HS 405</idno>
+            <msName>Gronings-Zutphens Maerlant Manuscript, G</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="15r" to="192v"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="sammelband/groeihandschrift">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="7"/>
+                           <num type="book-block" value="235"/>
+                           <num type="end-flyleaf" value="9"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="315"/>
+                              <width unit="mm" quantity="210"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in red ink in roman numbers and modern foliation in pencil</foliation>
+                     <collation>1II(4);2V(14);3-20IV(158);21IV+1(167);22-26IV(207);27IV+1(216);28-29IV(232);30,1+I or II-1(235)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="40-51" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="247"/>
+                              <width unit="mm" quantity="140"/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Rhymed Bible is written in littera textualis by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>miniatures; titles (red); historiated initial (gold, blue and red); lombardic capitals (red and blue)</decoNote></decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate notBefore="1335" notAfter="1339">1335-1339</origDate>
+<origPlace>Brabant or Gelre</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group><text n="Eva_sample1" xml:id="sample1">
+<body>
+<p>
+
+<pb xml:id="G.f26ra" n="26ra"/>
+<lb n="1" xml:id="Gf26ra.1"/><l n="G_sample1_0591"><hi rend="capitalsize1">T</hi>ottien stonden en ter uren</l>
+<lb n="2" xml:id="Gf26ra.2"/><l n="G_sample1_0592">so was van allen creaturen</l>
+<lb n="3" xml:id="Gf26ra.3"/><l n="G_sample1_0593">dat verstaet van allen beesten</l>
+<lb n="4" xml:id="Gf26ra.4"/><l n="G_sample1_0594">is tserpent tscalcste na der ieesten</l>
+<lb n="5" xml:id="Gf26ra.5"/><l n="G_sample1_0595"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> subtijl oec van zinne</l>
+<lb n="6" xml:id="Gf26ra.6"/><l n="G_sample1_0596">want die duuel wasser inne</l>
+<lb n="7" xml:id="Gf26ra.7"/><l n="G_sample1_0597">want doe lucifer die scone</l>
+<lb n="8" xml:id="Gf26ra.8"/><l n="G_sample1_0598">wart gheworpen van den trone</l>
+<lb n="9" xml:id="Gf26ra.9"/><l n="G_sample1_0599">had hijs nijt in alre wijs</l>
+<lb n="10" xml:id="Gf26ra.10"/><l n="G_sample1_0600">dat adam was int paradys</l>
+<lb n="11" xml:id="Gf26ra.11"/><l n="G_sample1_0601"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> peinsede hoe hine vut dede steken</l>
+<lb n="12" xml:id="Gf26ra.12"/><l n="G_sample1_0602">dede hi hem gods ghebod breken</l>
+<lb n="13" xml:id="Gf26ra.13"/><l n="G_sample1_0603">zo moeste hi vut peinsde hi dan</l>
+<lb n="14" xml:id="Gf26ra.14"/><l n="G_sample1_0604">mer dat hi ontsach den man</l>
+<lb n="15" xml:id="Gf26ra.15"/><l n="G_sample1_0605">des ghinc hi ierst toten wiue</l>
+<lb n="16" xml:id="Gf26ra.16"/><l n="G_sample1_0606">om dat si cranker was van liue</l>
+<lb n="17" xml:id="Gf26ra.17"/><l n="G_sample1_0607">metten serpente heuethise bestaen</l>
+<lb n="18" xml:id="Gf26ra.18"/><l n="G_sample1_0608">want het plach doe zonder waen</l>
+<lb n="19" xml:id="Gf26ra.19"/><l n="G_sample1_0609">op <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> neder recht tegaene</l>
+
+
+<pb xml:id="G.f26rb" n="26rb"/>
+<lb n="1" xml:id="Gf26rb.1"/><l n="G_sample1_0610">recht na des menschen ghedane</l>
+<lb n="2" xml:id="Gf26rb.2"/><l n="G_sample1_0611">beda scrijft die clerc was diere</l>
+<lb n="3" xml:id="Gf26rb.3"/><l n="G_sample1_0612">het was een serpents maniere</l>
+<lb n="4" xml:id="Gf26rb.4"/><l n="G_sample1_0613">gheaensicht als ene jonfrouwe</l>
+<lb n="5" xml:id="Gf26rb.5"/><l n="G_sample1_0614">vte hem sprac die onghetrouwe</l>
+<lb n="6" xml:id="Gf26rb.6"/><l n="G_sample1_0615">als hi nu doet wil dijt weten</l>
+<lb n="7" xml:id="Gf26rb.7"/><l n="G_sample1_0616">vte dien die hi heeft beseten</l>
+<lb n="8" xml:id="Gf26rb.8"/><l n="G_sample1_0617"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi seide dat ghebod</l>
+<lb n="9" xml:id="Gf26rb.9"/><l n="G_sample1_0618">waer omme gaeft v god</l>
+<lb n="10" xml:id="Gf26rb.10"/><l n="G_sample1_0619">dat <del>hi</del> <add>ghi</add> uan allen houte ghemene</l>
+<lb n="11" xml:id="Gf26rb.11"/><l n="G_sample1_0620">nut zonder van enen allene</l>
+<lb n="12" xml:id="Gf26rb.12"/><l n="G_sample1_0621">dit vraghede hi want na hoer antworde</l>
+<lb n="13" xml:id="Gf26rb.13"/><l n="G_sample1_0622">zo visierde hi zine moerde</l>
+<lb n="14" xml:id="Gf26rb.14"/><l n="G_sample1_0623">zi sprac om dat wij bi <choice><abbr>auonture<g ref="#bar"/></abbr><expan>auonture<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Gf26rb.15"/><l n="G_sample1_0624">die doet niet en souden besuren</l>
+<lb n="16" xml:id="Gf26rb.16"/><l n="G_sample1_0625">alsi bi auonturen seide</l>
+<lb n="17" xml:id="Gf26rb.17"/><l n="G_sample1_0626">merctehi wel huer crancheide</l>
+<lb n="18" xml:id="Gf26rb.18"/><l n="G_sample1_0627">dat si uaste niene ghelouede</l>
+<lb n="19" xml:id="Gf26rb.19"/><l n="G_sample1_0628">doe sprac vut tserpents houede</l>
+<lb n="20" xml:id="Gf26rb.20"/><l n="G_sample1_0629">neen ghine blijfter niet om doet</l>
+<lb n="21" xml:id="Gf26rb.21"/><l n="G_sample1_0630">mer wet wel die ere groet</l>
+<lb n="22" xml:id="Gf26rb.22"/><l n="G_sample1_0631">zo weltijt ghi daer af hebt gheten</l>
+<lb n="23" xml:id="Gf26rb.23"/><l n="G_sample1_0632">zo zuldi uroeden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weten</l>
+<lb n="24" xml:id="Gf26rb.24"/><l n="G_sample1_0633">vroetscap als of ghi god waert</l>
+<lb n="25" xml:id="Gf26rb.25"/><l n="G_sample1_0634">eua waert verhouaert</l>
+<lb n="26" xml:id="Gf26rb.26"/><l n="G_sample1_0635">want si gode waende gheliken</l>
+<lb n="27" xml:id="Gf26rb.27"/><l n="G_sample1_0636">zi sach den sconen bome den riken</l>
+<lb n="28" xml:id="Gf26rb.28"/><l n="G_sample1_0637">die vrucht scone <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sochte</l>
+<lb n="29" xml:id="Gf26rb.29"/><l n="G_sample1_0638"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi at datsi zider becochte</l>
+<lb n="30" xml:id="Gf26rb.30"/><l n="G_sample1_0639"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> boet adame hoeren man</l>
+<lb n="31" xml:id="Gf26rb.31"/><l n="G_sample1_0640">die mettien merken began</l>
+<lb n="32" xml:id="Gf26rb.32"/><l n="G_sample1_0641">dat si altehant niene bleef doet</l>
+<lb n="33" xml:id="Gf26rb.33"/><l n="G_sample1_0642">nochtan wisthi wel al bloet</l>
+<lb n="34" xml:id="Gf26rb.34"/><l n="G_sample1_0643">wat quade daer af zoude comen</l>
+<lb n="35" xml:id="Gf26rb.35"/><l n="G_sample1_0644">dus eest bescreuen <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> hem zomen</l>
+<lb n="36" xml:id="Gf26rb.36"/><l n="G_sample1_0645"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> at wat daer af soude ghescien</l>
+<lb n="37" xml:id="Gf26rb.37"/><l n="G_sample1_0646">huer oghen ontdaden mettien</l>
+<lb n="38" xml:id="Gf26rb.38"/><l n="G_sample1_0647">niet dat si blijnt hadden ghewesen</l>
+<lb n="39" xml:id="Gf26rb.39"/><l n="G_sample1_0648">mer huer lust verroerde met desen</l>
+<lb n="40" xml:id="Gf26rb.40"/><l n="G_sample1_0649"><hi rend="capitalsize1">J</hi>n die naturliken leden</l>
+<lb n="41" xml:id="Gf26rb.41"/><l n="G_sample1_0650">dat si teuoren niet en deden</l>
+<lb n="42" xml:id="Gf26rb.42"/><l n="G_sample1_0651"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> begonden hem te scamen</l>
+<lb n="43" xml:id="Gf26rb.43"/><l n="G_sample1_0652">van hore naecter mesquamen</l>
+<lb n="44" xml:id="Gf26rb.44"/><l n="G_sample1_0653"><hi rend="capitalsize1">D</hi>oe namen si met <choice><abbr>ghemene<g ref="#bar"/></abbr><expan>ghemene<ex>n</ex></expan></choice> rade</l>
+<lb n="45" xml:id="Gf26rb.45"/><l n="G_sample1_0654">beidegader vigheblade</l>
+<lb n="46" xml:id="Gf26rb.46"/><l n="G_sample1_0656">ende gordense om huer scamelhede</l>
+<lb n="47" xml:id="Gf26rb.47"/><l n="G_sample1_0655">aldus decten si huer lede</l>
+<lb n="48" xml:id="Gf26rb.48"/><l n="G_sample1_0657">daersi zaten onder die rise</l>
+
+
+<pb xml:id="G.f26va" n="26va"/>
+<lb n="1" xml:id="Gf26va.1"/><l n="G_sample1_0658">hoerdensi in den paradyse</l>
+<lb n="2" xml:id="Gf26va.2"/><l n="G_sample1_0659">gode wandren daerhi quam</l>
+<lb n="3" xml:id="Gf26va.3"/><l n="G_sample1_0660">die sprac waer bistu adam</l>
+<lb n="4" xml:id="Gf26va.4"/><l n="G_sample1_0661">here sprac hi doe ic hadde uerstaen</l>
+<lb n="5" xml:id="Gf26va.5"/><l n="G_sample1_0662">dine stemme veruaerdic mi saen</l>
+<lb n="6" xml:id="Gf26va.6"/><l n="G_sample1_0663"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> heb mi ghedect om das</l>
+<lb n="7" xml:id="Gf26va.7"/><l n="G_sample1_0664">om dat ic naect was</l>
+<lb n="8" xml:id="Gf26va.8"/><l n="G_sample1_0665">god sprac wie heeft di dat ghewiset</l>
+<lb n="9" xml:id="Gf26va.9"/><l n="G_sample1_0666">zonder dattu di ghespiset</l>
+<lb n="10" xml:id="Gf26va.10"/><l n="G_sample1_0667">heuest met dat ic di verboet</l>
+<lb n="11" xml:id="Gf26va.11"/><l n="G_sample1_0668">doe sprac adam dulheit groet</l>
+<lb n="12" xml:id="Gf26va.12"/><l n="G_sample1_0669">of als hi gode zine mesdaet</l>
+<lb n="13" xml:id="Gf26va.13"/><l n="G_sample1_0670">tijen zoude <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn quaet</l>
+<lb n="14" xml:id="Gf26va.14"/><l n="G_sample1_0671">dat wijf dattu mi gaues sprac hi</l>
+<lb n="15" xml:id="Gf26va.15"/><l n="G_sample1_0672">gauet mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic at bedi</l>
+<lb n="16" xml:id="Gf26va.16"/><l n="G_sample1_0673">als of hi meinde het waer bleuen</l>
+<lb n="17" xml:id="Gf26va.17"/><l n="G_sample1_0674">en hadstuse mi niet ghegheuen</l>
+<lb n="18" xml:id="Gf26va.18"/><l n="G_sample1_0675">doe sprac god te hare diet at</l>
+<lb n="19" xml:id="Gf26va.19"/><l n="G_sample1_0676">waeromme so deetstu dat</l>
+<lb n="20" xml:id="Gf26va.20"/><l n="G_sample1_0677">doe teecht yeue den serpente</l>
+<lb n="21" xml:id="Gf26va.21"/><l n="G_sample1_0678">mer van alden parlamente</l>
+<lb n="22" xml:id="Gf26va.22"/><l n="G_sample1_0679">droech huer meninghe <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> der tale</l>
+<lb n="23" xml:id="Gf26va.23"/><l n="G_sample1_0680">gode te tijen altemale</l>
+<lb n="24" xml:id="Gf26va.24"/><l n="G_sample1_0681">dat adam van der reinre eerde</l>
+<lb n="25" xml:id="Gf26va.25"/><l n="G_sample1_0682">was ghemaect met groter weerde</l>
+<lb n="26" xml:id="Gf26va.26"/><l n="G_sample1_0683">die nie smette en hadde ontfaen</l>
+<lb n="27" xml:id="Gf26va.27"/><l n="G_sample1_0684">noch oec niet en was ondaen</l>
+<lb n="28" xml:id="Gf26va.28"/><l n="G_sample1_0685">no met ploeghen no met spaden</l>
+<lb n="29" xml:id="Gf26va.29"/><l n="G_sample1_0686">no besmet met ghenen ondaden</l>
+<lb n="30" xml:id="Gf26va.30"/><l n="G_sample1_0687">betekent die reine marie</l>
+<lb n="31" xml:id="Gf26va.31"/><l n="G_sample1_0688">die sonder enighe dorpernie</l>
+<lb n="32" xml:id="Gf26va.32"/><l n="G_sample1_0689">huer reine uleisch in <choice><abbr>reine<g ref="#bar"/></abbr><expan>reine<ex>n</ex></expan></choice> liue</l>
+<lb n="33" xml:id="Gf26va.33"/><l n="G_sample1_0690">niet als pleghen ander wiue</l>
+<lb n="34" xml:id="Gf26va.34"/><l n="G_sample1_0691"><hi rend="capitalsize1">J</hi>hesus droech oec ende wan</l>
+<lb n="35" xml:id="Gf26va.35"/><l n="G_sample1_0692">ombesmet <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> enighen man</l>
+<lb n="36" xml:id="Gf26va.36"/><l n="G_sample1_0693">ghelikerwijs oec als adam</l>
+<lb n="37" xml:id="Gf26va.37"/><l n="G_sample1_0694">des zestendaechs ter werelt quam</l>
+<lb n="38" xml:id="Gf26va.38"/><l n="G_sample1_0695">also was onze troest vercoren</l>
+<lb n="39" xml:id="Gf26va.39"/><l n="G_sample1_0696"><hi rend="capitalsize1">J</hi>n der zester ewe gheboren</l>
+<lb n="40" xml:id="Gf26va.40"/><l n="G_sample1_0697">den serpente en vraghede hi niet</l>
+<lb n="41" xml:id="Gf26va.41"/><l n="G_sample1_0698">buten zinen rade eest ghesciet</l>
+<lb n="42" xml:id="Gf26va.42"/><l n="G_sample1_0699">want bi den duuel quaemt al</l>
+<lb n="43" xml:id="Gf26va.43"/><l n="G_sample1_0700">doe vloecte hijt als ict scriuen zal</l>
+<lb n="44" xml:id="Gf26va.44"/><l n="G_sample1_0701">want hijs an tserpent began</l>
+<lb n="45" xml:id="Gf26va.45"/><l n="G_sample1_0702"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> leide hem drie uloeke an</l>
+<lb n="46" xml:id="Gf26va.46"/><l n="G_sample1_0703">om dattet driesins mesdede</l>
+<lb n="47" xml:id="Gf26va.47"/><l n="G_sample1_0704">dat ierste in die nidichede</l>
+<lb n="48" xml:id="Gf26va.48"/><l n="G_sample1_0705">dat ander om dattet loech</l>
+
+
+<pb xml:id="G.f26vb" n="26vb"/>
+<lb n="1" xml:id="Gf26vb.1"/><l n="G_sample1_0706">terde om dat den man bedroech</l>
+<lb n="2" xml:id="Gf26vb.2"/><l n="G_sample1_0707">des waest aldus vermaledijt</l>
+<lb n="3" xml:id="Gf26vb.3"/><l n="G_sample1_0708">het hadde om smenschen hoecheit nijt</l>
+<lb n="4" xml:id="Gf26vb.4"/><l n="G_sample1_0709">bi dien seide god aldus zaen</l>
+<lb n="5" xml:id="Gf26vb.5"/><l n="G_sample1_0710">op dine borst zulstu gaen</l>
+<lb n="6" xml:id="Gf26vb.6"/><l n="G_sample1_0711">van loeghenen sloecht god in den mont</l>
+<lb n="7" xml:id="Gf26vb.7"/><l n="G_sample1_0712"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sprac du soute talre stont</l>
+<lb n="8" xml:id="Gf26vb.8"/><l n="G_sample1_0713">eerde eten in dijn leuen</l>
+<lb n="9" xml:id="Gf26vb.9"/><l n="G_sample1_0714">dat luud dat hem was ghegheuen</l>
+<lb n="10" xml:id="Gf26vb.10"/><l n="G_sample1_0715">nam hem god daer ter stede</l>
+<lb n="11" xml:id="Gf26vb.11"/><l n="G_sample1_0716"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gaf den monde venijn mede</l>
+<lb n="12" xml:id="Gf26vb.12"/><l n="G_sample1_0717">van hoene hadt enen godshat</l>
+<lb n="13" xml:id="Gf26vb.13"/><l n="G_sample1_0718">jc sal sprac god daer terstat</l>
+<lb n="14" xml:id="Gf26vb.14"/><l n="G_sample1_0719">v<del>r</del>ienscap setten zonder blijf</l>
+<lb n="15" xml:id="Gf26vb.15"/><l n="G_sample1_0720">tusghen di <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat wijf</l>
+<lb n="16" xml:id="Gf26vb.16"/><l n="G_sample1_0721">zi sal op dijn houet treden</l>
+<lb n="17" xml:id="Gf26vb.17"/><l n="G_sample1_0722"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> du zout tot alre steden</l>
+<lb n="18" xml:id="Gf26vb.18"/><l n="G_sample1_0723">huer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hueren gheslechte laghen</l>
+<lb n="19" xml:id="Gf26vb.19"/><l n="G_sample1_0724">dese woerde machmen draghen</l>
+<lb n="20" xml:id="Gf26vb.20"/><l n="G_sample1_0725">toter moeder gods marien</l>
+<lb n="21" xml:id="Gf26vb.21"/><l n="G_sample1_0726">die den duuel met sijnre partien</l>
+<lb n="22" xml:id="Gf26vb.22"/><l n="G_sample1_0727">altoes dwinghet ende iaghet</l>
+<lb n="23" xml:id="Gf26vb.23"/><l n="G_sample1_0728">al is dat hi huer laghet</l>
+<lb n="24" xml:id="Gf26vb.24"/><l n="G_sample1_0729"><hi rend="capitalsize2">R</hi>echt als die man doet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> pine</l>
+<lb n="25" xml:id="Gf26vb.25"/><l n="G_sample1_0730">onfaet van serpents venine</l>
+<lb n="26" xml:id="Gf26vb.26"/><l n="G_sample1_0731">also mach smenschen nuchteren spu</l>
+<lb n="27" xml:id="Gf26vb.27"/><l n="G_sample1_0732">tserpent doden seggic v</l>
+<lb n="28" xml:id="Gf26vb.28"/><l n="G_sample1_0733">om dat si beide naect waren</l>
+<lb n="29" xml:id="Gf26vb.29"/><l n="G_sample1_0734">so vliet noch tserpent twaren</l>
+<lb n="30" xml:id="Gf26vb.30"/><l n="G_sample1_0735">den naecten man waer hi ghecleedt</l>
+<lb n="31" xml:id="Gf26vb.31"/><l n="G_sample1_0736">so scotet sijn venijn ghereet</l>
+<lb n="32" xml:id="Gf26vb.32"/><l n="G_sample1_0737"><hi rend="capitalsize1">J</hi>n <num type="roman">ij.</num> zaken mesdede twijf</l>
+<lb n="33" xml:id="Gf26vb.33"/><l n="G_sample1_0738">zi was houerdich in dat lijf</l>
+<lb n="34" xml:id="Gf26vb.34"/><l n="G_sample1_0739">bedi zette se emmerme god</l>
+<lb n="35" xml:id="Gf26vb.35"/><l n="G_sample1_0740">tesine onder des mans ghebod</l>
+<lb n="36" xml:id="Gf26vb.36"/><l n="G_sample1_0741">om dat si at verboden spise</l>
+<lb n="37" xml:id="Gf26vb.37"/><l n="G_sample1_0742">dat becocht si in zulker wise</l>
+<lb n="38" xml:id="Gf26vb.38"/><l n="G_sample1_0743">dat si met rouwen huer leuen leide</l>
+<lb n="39" xml:id="Gf26vb.39"/><l n="G_sample1_0744">om den appel daer ic af seide</l>
+<lb n="40" xml:id="Gf26vb.40"/><l n="G_sample1_0745"><hi rend="capitalsize2">O</hi>m dat adam in eenre wise</l>
+<lb n="41" xml:id="Gf26vb.41"/><l n="G_sample1_0746">allene mesdede an die spise</l>
+<lb n="42" xml:id="Gf26vb.42"/><l n="G_sample1_0747">des gheneert hem noch met arbeide</l>
+<lb n="43" xml:id="Gf26vb.43"/><l n="G_sample1_0748">die man in bosch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ander heide</l>
+<lb n="44" xml:id="Gf26vb.44"/><l n="G_sample1_0749">die eerde was gheuloect gnoech</l>
+<lb n="45" xml:id="Gf26vb.45"/><l n="G_sample1_0750">om datsi die vrucht droech</l>
+<lb n="46" xml:id="Gf26vb.46"/><l n="G_sample1_0751">des draghet si noch in onzen toerne</l>
+<lb n="47" xml:id="Gf26vb.47"/><l n="G_sample1_0752">beide dijstelen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doerne</l>
+<lb n="48" xml:id="Gf26vb.48"/><l n="G_sample1_0752a">beide dijstelen ende doerne.</l>
+
+
+<pb xml:id="G.f27ra" n="27ra"/>
+<lb n="1" xml:id="Gf27ra.1"/><l n="G_sample1_0753"><hi rend="capitalsize2">D</hi>oe maecte god yeuen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> adame</l>
+<lb n="2" xml:id="Gf27ra.2"/><l n="G_sample1_0754">om te decken hore scame</l>
+<lb n="3" xml:id="Gf27ra.3"/><l n="G_sample1_0755">twe rocke van beesten uellen</l>
+<lb n="4" xml:id="Gf27ra.4"/><l n="G_sample1_0756">dat meende hire mede als wj tellen</l>
+<lb n="5" xml:id="Gf27ra.5"/><l n="G_sample1_0757">dat decsels es van doden dieren</l>
+<lb n="6" xml:id="Gf27ra.6"/><l n="G_sample1_0758"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> du bist sterflic van manieren</l>
+<lb n="7" xml:id="Gf27ra.7"/><l n="G_sample1_0759">doe sprac god nu is adam ghemaect</l>
+<lb n="8" xml:id="Gf27ra.8"/><l n="G_sample1_0760">als een wijsman ende gheraect</l>
+<lb n="9" xml:id="Gf27ra.9"/><l n="G_sample1_0761">dit was ghelijc als in een spot</l>
+<lb n="10" xml:id="Gf27ra.10"/><l n="G_sample1_0762">om dat hi wilde wesen god</l>
+<lb n="11" xml:id="Gf27ra.11"/><l n="G_sample1_0763">om dat hi frailike weet</l>
+<lb n="12" xml:id="Gf27ra.12"/><l n="G_sample1_0764">quaeds <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> goeds ondersceet</l>
+<lb n="13" xml:id="Gf27ra.13"/><l n="G_sample1_0765"><hi rend="capitalsize2">N</hi>u steect hine uten paradyse</l>
+<lb n="14" xml:id="Gf27ra.14"/><l n="G_sample1_0766">dat hi niet en nutte der spise</l>
+<lb n="15" xml:id="Gf27ra.15"/><l n="G_sample1_0767">die es an dat <choice><abbr>lignu<g ref="#bar"/></abbr><expan>lignu<ex>m</ex></expan></choice> vite</l>
+<lb n="16" xml:id="Gf27ra.16"/><l n="G_sample1_0768"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dathi leue emmerme</l>
+<lb n="17" xml:id="Gf27ra.17"/><l n="G_sample1_0769"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dit en darf v wondren niet</l>
+<lb n="18" xml:id="Gf27ra.18"/><l n="G_sample1_0770">dat dit van dien houte ghesciet</l>
+<lb n="19" xml:id="Gf27ra.19"/><l n="G_sample1_0771">want zulc eylant es onder den dach</l>
+<lb n="20" xml:id="Gf27ra.20"/><l n="G_sample1_0772">daer gheen mensche in steruen mach</l>
+<lb n="21" xml:id="Gf27ra.21"/><l n="G_sample1_0773"><hi rend="capitalsize1">J</hi>nt lant <choice><abbr>ua<g ref="#bar"/></abbr><expan>ua<ex>n</ex></expan></choice> ceres wast zeggic v</l>
+<lb n="22" xml:id="Gf27ra.22"/><l n="G_sample1_0774">een dinc an bomen dat is ru</l>
+<lb n="23" xml:id="Gf27ra.23"/><l n="G_sample1_0775">daermen mede langhet dlijf</l>
+<lb n="24" xml:id="Gf27ra.24"/><l n="G_sample1_0776"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> alexander screef zonder blijf</l>
+<lb n="25" xml:id="Gf27ra.25"/><l n="G_sample1_0777">tesinen meister aristotiles</l>
+<lb n="26" xml:id="Gf27ra.26"/><l n="G_sample1_0778">dat ter zonnen bome uolc es</l>
+<lb n="27" xml:id="Gf27ra.27"/><l n="G_sample1_0779">die langhe leuen utermaten</l>
+<lb n="28" xml:id="Gf27ra.28"/><l n="G_sample1_0780">om datsi uan der urucht aten</l>
+<lb n="29" xml:id="Gf27ra.29"/><l n="G_sample1_0781">god stacken uten paradise</l>
+<lb n="30" xml:id="Gf27ra.30"/><l n="G_sample1_0782">om dat hi soude na dorpers wise</l>
+<lb n="31" xml:id="Gf27ra.31"/><l n="G_sample1_0783">die eerde oefenen. daer hi teuoren</l>
+<lb n="32" xml:id="Gf27ra.32"/><l n="G_sample1_0784">af was ghemaect. nu zuldi horen</l>
+<lb n="33" xml:id="Gf27ra.33"/><l n="G_sample1_0785">van wat lande hi ghemaect was</l>
+<lb n="34" xml:id="Gf27ra.34"/><l n="G_sample1_0786">vten lande van damas</l>
+<lb n="35" xml:id="Gf27ra.35"/><l n="G_sample1_0787">daerbi waren zi hi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn wijf</l>
+<lb n="36" xml:id="Gf27ra.36"/><l n="G_sample1_0788">beide begrauen na huer lijf</l>
+<lb n="37" xml:id="Gf27ra.37"/><l n="G_sample1_0789"><hi rend="capitalsize1">J</hi>n spelunca duplici</l>
+<lb n="38" xml:id="Gf27ra.38"/><l n="G_sample1_0790">also noemt die bible mi</l>
+<lb n="39" xml:id="Gf27ra.39"/><l n="G_sample1_0791"><hi rend="capitalsize1">J</hi>n dien acker sloech also wel</l>
+<lb n="40" xml:id="Gf27ra.40"/><l n="G_sample1_0792"><hi rend="capitalsize1">C</hi>ayn zinen broeder abel</l>
+<lb n="41" xml:id="Gf27ra.41"/><l n="G_sample1_0793">voer tparadijs zette onze here</l>
+<lb n="42" xml:id="Gf27ra.42"/><l n="G_sample1_0794">cherubin dat hi den duuel kere</l>
+<lb n="43" xml:id="Gf27ra.43"/><l n="G_sample1_0795">dat hi daer nemmerme in en vaert</l>
+<lb n="44" xml:id="Gf27ra.44"/><l n="G_sample1_0796">die hadde oec een vierich swaert</l>
+<lb n="45" xml:id="Gf27ra.45"/><l n="G_sample1_0797">dat hi den man den wech bename</l>
+<lb n="46" xml:id="Gf27ra.46"/><l n="G_sample1_0798">dat hire niet in en quame</l>
+<lb n="47" xml:id="Gf27ra.47"/><l n="G_sample1_0799">dat swaert is keringhe ghenant</l>
+<lb n="48" xml:id="Gf27ra.48"/><l n="G_sample1_0800">dat en is el niet dan een brant</l>
+
+
+<pb xml:id="G.f27rb" n="27rb"/>
+<lb n="1" xml:id="Gf27rb.1"/><l n="G_sample1_0801">een vierich muur daer omme gheet</l>
+<lb n="2" xml:id="Gf27rb.2"/><l n="G_sample1_0802">bi dien eest dat ment kerende heet</l>
+<lb n="3" xml:id="Gf27rb.3"/><l n="G_sample1_0803">datten god daden wel doen mochte</l>
+<lb n="4" xml:id="Gf27rb.4"/><l n="G_sample1_0804">wanneer soet hem tijt dochte</l>
+<lb n="5" xml:id="Gf27rb.5"/><l n="G_sample1_0805">het was een slecht wech altesamen</l>
+<lb n="6" xml:id="Gf27rb.6"/><l n="G_sample1_0806">doe enoch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> helyas in quamen</l>
+<lb n="7" xml:id="Gf27rb.7"/><l n="G_sample1_0807">mer dat bloet dat zider liep</l>
+<lb n="8" xml:id="Gf27rb.8"/><l n="G_sample1_0808">vut ons heren wonden diep</l>
+<lb n="9" xml:id="Gf27rb.9"/><l n="G_sample1_0809"><hi rend="capitalsize1">J</hi>n sijnre passien deet al uut</l>
+<lb n="10" xml:id="Gf27rb.10"/><l n="G_sample1_0810">des esser menighe zalighe bruut</l>
+<lb n="11" xml:id="Gf27rb.11"/><l n="G_sample1_0811">van gods haluen zider in comen</l>
+<lb n="12" xml:id="Gf27rb.12"/><l n="G_sample1_0812">die huer loen heuet ghenomen.</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Debora_sample2" xml:id="sample2">
+<body>
+<p>
+
+<pb xml:id="G.f60vb" n="60vb"/>
+<lb n="1" xml:id="Gf60vb.1"/><l n="G_sample2_7303">echt deden zi na sanghers doet</l>
+<lb n="2" xml:id="Gf60vb.2"/><l n="G_sample2_7304">die van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> zonde groet</l>
+<lb n="3" xml:id="Gf60vb.3"/><l n="G_sample2_7305"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> god lietse dwinghen dan</l>
+<lb n="4" xml:id="Gf60vb.4"/><l n="G_sample2_7306"><hi rend="capitalsize1">J</hi>abin den coninc van canaan</l>
+<lb n="5" xml:id="Gf60vb.5"/><l n="G_sample2_7307">die in azor coninc was</l>
+<lb n="6" xml:id="Gf60vb.6"/><l n="G_sample2_7308">zijn marscalc dat was sisaras</l>
+<lb n="7" xml:id="Gf60vb.7"/><l n="G_sample2_7309">dese hadde tfolc <num type="roman">.xx.</num> iaer</l>
+<lb n="8" xml:id="Gf60vb.8"/><l n="G_sample2_7310">jn bedwanghe harde swaer</l>
+<lb n="9" xml:id="Gf60vb.9"/><l n="G_sample2_7311">doe riepen zi op gode met zinne</l>
+<lb n="10" xml:id="Gf60vb.10"/><l n="G_sample2_7312">tien tiden was ene prophetinne</l>
+<lb n="11" xml:id="Gf60vb.11"/><l n="G_sample2_7313">hiet delbora woende in effraym</l>
+<lb n="12" xml:id="Gf60vb.12"/><l n="G_sample2_7314">zi riep barach van neptalim</l>
+<lb n="13" xml:id="Gf60vb.13"/><l n="G_sample2_7315">horen man. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide god</l>
+<lb n="14" xml:id="Gf60vb.14"/><l n="G_sample2_7316">die ghebiet di dit ghebot</l>
+<lb n="15" xml:id="Gf60vb.15"/><l n="G_sample2_7317">leydt te mancabor dijn here</l>
+<lb n="16" xml:id="Gf60vb.16"/><l n="G_sample2_7318"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zetti met hem ter were</l>
+<lb n="17" xml:id="Gf60vb.17"/><l n="G_sample2_7319"><num type="roman">.xx.</num> dusent nem metti man</l>
+<lb n="18" xml:id="Gf60vb.18"/><l n="G_sample2_7320">van zabulon <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> neptalim dan</l>
+<lb n="19" xml:id="Gf60vb.19"/><l n="G_sample2_7321"><hi rend="capitalsize1">G</hi>od zal di <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> zekerleke</l>
+<lb n="20" xml:id="Gf60vb.20"/><l n="G_sample2_7322">daerbi dat phison loept die beke</l>
+<lb n="21" xml:id="Gf60vb.21"/><l n="G_sample2_7323">jn dine hande cisaras</l>
+<lb n="22" xml:id="Gf60vb.22"/><l n="G_sample2_7324">barach sprac enne doe niet das</l>
+<lb n="23" xml:id="Gf60vb.23"/><l n="G_sample2_7325">dune wilste zelue met mi varen</l>
+<lb n="24" xml:id="Gf60vb.24"/><l n="G_sample2_7326"><hi rend="capitalsize1">J</hi>c doe sprac delbora twaren</l>
+<lb n="25" xml:id="Gf60vb.25"/><l n="G_sample2_7327">mer een wijf zal <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> die ere</l>
+<lb n="26" xml:id="Gf60vb.26"/><l n="G_sample2_7328">cisaras quam die mere</l>
+<lb n="27" xml:id="Gf60vb.27"/><l n="G_sample2_7329">dat dat here ware an porre</l>
+<lb n="28" xml:id="Gf60vb.28"/><l n="G_sample2_7330">te berghe waert van taborre</l>
+<lb n="29" xml:id="Gf60vb.29"/><l n="G_sample2_7331">hi versamende haesteleke</l>
+<lb n="30" xml:id="Gf60vb.30"/><l n="G_sample2_7332">tote fison bi der beke</l>
+<lb n="31" xml:id="Gf60vb.31"/><l n="G_sample2_7333">driedusent ghewapender man</l>
+<lb n="32" xml:id="Gf60vb.32"/><l n="G_sample2_7334"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <num type="roman">x</num> dusent ridders daer an</l>
+<lb n="33" xml:id="Gf60vb.33"/><l n="G_sample2_7335"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <num type="roman">.ix.</num> hondert waghene die <choice><abbr>snide<g ref="#bar"/></abbr><expan>snide<ex>n</ex></expan></choice></l>
+<lb n="34" xml:id="Gf60vb.34"/><l n="G_sample2_7336">met zekelen aen beiden ziden</l>
+<lb n="35" xml:id="Gf60vb.35"/><l n="G_sample2_7337"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ander waghene wien zoes wondert</l>
+<lb n="36" xml:id="Gf60vb.36"/><l n="G_sample2_7338">met hem enentwentich hondert</l>
+<lb n="37" xml:id="Gf60vb.37"/><l n="G_sample2_7339">delbora zeide tote barach</l>
+<lb n="38" xml:id="Gf60vb.38"/><l n="G_sample2_7340">gaue weder op desen dach</l>
+<lb n="39" xml:id="Gf60vb.39"/><l n="G_sample2_7341">zal di god <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> cisaras</l>
+<lb n="40" xml:id="Gf60vb.40"/><l n="G_sample2_7342">hi daelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> al dat met hem was</l>
+<lb n="41" xml:id="Gf60vb.41"/><l n="G_sample2_7343"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> delbora stont ende bat</l>
+<lb n="42" xml:id="Gf60vb.42"/><l n="G_sample2_7344">opten berch in eenre stat</l>
+<lb n="43" xml:id="Gf60vb.43"/><l n="G_sample2_7345">god gaf cisaras <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> vaer</l>
+<lb n="44" xml:id="Gf60vb.44"/><l n="G_sample2_7346">enten <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice> die waren daer</l>
+
+
+<pb xml:id="G.f61ra" n="61ra"/>
+<lb n="1" xml:id="Gf61ra.1"/><l n="G_sample2_7347">wijnt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haghel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reghen</l>
+<lb n="2" xml:id="Gf61ra.2"/><l n="G_sample2_7348"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> blixeme <choice><abbr>voere<g ref="#bar"/></abbr><expan>voere<ex>n</ex></expan></choice> hem ieghen</l>
+<lb n="3" xml:id="Gf61ra.3"/><l n="G_sample2_7349">zo dattie slinghere entie <choice><abbr>boghe<g ref="#bar"/></abbr><expan>boghe<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Gf61ra.4"/><l n="G_sample2_7350">hem min noch meer en doghen</l>
+<lb n="5" xml:id="Gf61ra.5"/><l n="G_sample2_7351">zul viel van waghene zulc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> perde</l>
+<lb n="6" xml:id="Gf61ra.6"/><l n="G_sample2_7352">die waert <choice><abbr>vertrede<g ref="#bar"/></abbr><expan>vertrede<ex>n</ex></expan></choice> op die erde</l>
+<lb n="7" xml:id="Gf61ra.7"/><l n="G_sample2_7353">dus dede hem althere ter ulucht</l>
+<lb n="8" xml:id="Gf61ra.8"/><l n="G_sample2_7354"><hi rend="capitalsize1">C</hi>isaras <add>vlo</add> daer die vrucht</l>
+<lb n="9" xml:id="Gf61ra.9"/><l n="G_sample2_7355"><hi rend="capitalsize1">A</hi>ldaer abner cineus</l>
+<lb n="10" xml:id="Gf61ra.10"/><l n="G_sample2_7356">woende <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn wijf was in zijn huus</l>
+<lb n="11" xml:id="Gf61ra.11"/><l n="G_sample2_7357"><hi rend="capitalsize1">A</hi>bner was comen van ietro</l>
+<lb n="12" xml:id="Gf61ra.12"/><l n="G_sample2_7358"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was daer ghegoedt also</l>
+<lb n="13" xml:id="Gf61ra.13"/><l n="G_sample2_7359">onder tfolc van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="14" xml:id="Gf61ra.14"/><l n="G_sample2_7360"><hi rend="capitalsize1">A</hi>bners wijf hiet iael</l>
+<lb n="15" xml:id="Gf61ra.15"/><l n="G_sample2_7361">zi hadde vrede met iabin</l>
+<lb n="16" xml:id="Gf61ra.16"/><l n="G_sample2_7362"><hi rend="capitalsize1">C</hi>isaras die vlo daer in</l>
+<lb n="17" xml:id="Gf61ra.17"/><l n="G_sample2_7363"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bat datmene daer <choice><abbr>decke<g ref="#bar"/></abbr><expan>decke<ex>n</ex></expan></choice> zoude</l>
+<lb n="18" xml:id="Gf61ra.18"/><l n="G_sample2_7364">oec zeide hi dat hi drinken woude</l>
+<lb n="19" xml:id="Gf61ra.19"/><l n="G_sample2_7365">zi gaf hem mel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi sliep uaste</l>
+<lb n="20" xml:id="Gf61ra.20"/><l n="G_sample2_7366">doe doersloech zi horen gaste</l>
+<lb n="21" xml:id="Gf61ra.21"/><l n="G_sample2_7367">beide die slape <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> neghelden daer</l>
+<lb n="22" xml:id="Gf61ra.22"/><l n="G_sample2_7368"><hi rend="capitalsize1">J</hi>eghen die erde dat is waer</l>
+<lb n="23" xml:id="Gf61ra.23"/><l n="G_sample2_7369">met <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> yseren naghele</l>
+<lb n="24" xml:id="Gf61ra.24"/><l n="G_sample2_7370"><hi rend="capitalsize1">J</hi>ahel betekent die behaghele</l>
+<lb n="25" xml:id="Gf61ra.25"/><l n="G_sample2_7371">entie scone maghet marie</l>
+<lb n="26" xml:id="Gf61ra.26"/><l n="G_sample2_7372"><hi rend="capitalsize1">C</hi>isaras ende zine partye</l>
+<lb n="27" xml:id="Gf61ra.27"/><l n="G_sample2_7373">dats lucifer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine scare</l>
+<lb n="28" xml:id="Gf61ra.28"/><l n="G_sample2_7374">die <choice><abbr>verwonne<g ref="#bar"/></abbr><expan>verwonne<ex>n</ex></expan></choice> zijn bi hare</l>
+<lb n="29" xml:id="Gf61ra.29"/><l n="G_sample2_7375">die naghel mach bedieden mede</l>
+<lb n="30" xml:id="Gf61ra.30"/><l n="G_sample2_7376">dien slotel hore reinichede</l>
+<lb n="31" xml:id="Gf61ra.31"/><l n="G_sample2_7377">daer zi den duuel mede verwan</l>
+<lb n="32" xml:id="Gf61ra.32"/><l n="G_sample2_7378">die melc die iahel gaf den man</l>
+<lb n="33" xml:id="Gf61ra.33"/><l n="G_sample2_7379">dat is <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> menslichede</l>
+<lb n="34" xml:id="Gf61ra.34"/><l n="G_sample2_7380">die den viant bedroech mede</l>
+<lb n="35" xml:id="Gf61ra.35"/><l n="G_sample2_7381">die hamer daer si mede sloech</l>
+<lb n="36" xml:id="Gf61ra.36"/><l n="G_sample2_7382">die ghelijct den cruce ghenoech</l>
+<lb n="37" xml:id="Gf61ra.37"/><l n="G_sample2_7383">bi marien reynichede</l>
+<lb n="38" xml:id="Gf61ra.38"/><l n="G_sample2_7384"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bi <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> menschlichede</l>
+<lb n="39" xml:id="Gf61ra.39"/><l n="G_sample2_7385"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bi den cruce es openbare</l>
+<lb n="40" xml:id="Gf61ra.40"/><l n="G_sample2_7386"><hi rend="capitalsize1">G</hi>hesconfiert des duuels scare</l>
+<lb n="41" xml:id="Gf61ra.41"/><l n="G_sample2_7387"><hi rend="capitalsize2">D</hi>Aer na zaen quam barach</l>
+<lb n="42" xml:id="Gf61ra.42"/><l n="G_sample2_7388"><hi rend="capitalsize1">J</hi>ahel toghede hem waerhi lach</l>
+<lb n="43" xml:id="Gf61ra.43"/><l n="G_sample2_7389">doet daer hi liep met uare</l>
+<lb n="44" xml:id="Gf61ra.44"/><l n="G_sample2_7390">aldus zeide delbora ware</l>
+<lb n="45" xml:id="Gf61ra.45"/><l n="G_sample2_7391">dat een wijf zoude <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> den zeghe</l>
+<lb n="46" xml:id="Gf61ra.46"/><l n="G_sample2_7392">barach leide there en weghe</l>
+<lb n="47" xml:id="Gf61ra.47"/><l n="G_sample2_7393">teghen iabin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zijn here groet</l>
+<lb n="48" xml:id="Gf61ra.48"/><l n="G_sample2_7394">dien sloech hi aldaer ter doet</l>
+
+
+<pb xml:id="G.f61rb" n="61rb"/>
+<lb n="1" xml:id="Gf61rb.1"/><l n="G_sample2_7395"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> azoth ene houet stede</l>
+<lb n="2" xml:id="Gf61rb.2"/><l n="G_sample2_7396">veldehi algader mede</l>
+<lb n="3" xml:id="Gf61rb.3"/><l n="G_sample2_7397">barach ende delbora</l>
+<lb n="4" xml:id="Gf61rb.4"/><l n="G_sample2_7398"><choice><abbr>zonghe<g ref="#bar"/></abbr><expan>zonghe<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> loueden gode <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> na</l>
+<lb n="5" xml:id="Gf61rb.5"/><l n="G_sample2_7399">die zo dicke <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zo wel</l>
+<lb n="6" xml:id="Gf61rb.6"/><l n="G_sample2_7400">bescudde die van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="7" xml:id="Gf61rb.7"/><l n="G_sample2_7401">doe waren zi in <choice><abbr>vrede<g ref="#bar"/></abbr><expan>vrede<ex>n</ex></expan></choice> daer naer</l>
+<lb n="8" xml:id="Gf61rb.8"/><l n="G_sample2_7402">zonder uechten <num type="roman">.xl.</num> iaer</l>
+<lb n="9" xml:id="Gf61rb.9"/><l n="G_sample2_7403"><hi rend="capitalsize1">A</hi>pollo was <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> delboraes <choice><abbr>tide<g ref="#bar"/></abbr><expan>tide<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Gf61rb.10"/><l n="G_sample2_7404">dien die heidene langhe <choice><abbr>zide<g ref="#bar"/></abbr><expan>zide<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Gf61rb.11"/><l n="G_sample2_7405"><choice><abbr><hi rend="capitalsize1">A</hi>enbeedde<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">A</hi>enbeedde<ex>n</ex></expan></choice> in menich lant</l>
+<lb n="12" xml:id="Gf61rb.12"/><l n="G_sample2_7406">hi was die ierste die herpen vant</l>
+<lb n="13" xml:id="Gf61rb.13"/><l n="G_sample2_7407"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> visierde ierst musike</l>
+<lb n="14" xml:id="Gf61rb.14"/><l n="G_sample2_7408">dat was ene wijsheit rike</l>
+<lb n="15" xml:id="Gf61rb.15"/><l n="G_sample2_7409">esculapis vantse oec zijn zoene</l>
+<lb n="16" xml:id="Gf61rb.16"/><l n="G_sample2_7410">met eenre blixeme was die gone</l>
+<lb n="17" xml:id="Gf61rb.17"/><l n="G_sample2_7411">verbernet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine boeke mede</l>
+<lb n="18" xml:id="Gf61rb.18"/><l n="G_sample2_7412">dus bleef die behendichede</l>
+<lb n="19" xml:id="Gf61rb.19"/><l n="G_sample2_7413">verloren wel vijfhondert iaer</l>
+<lb n="20" xml:id="Gf61rb.20"/><l n="G_sample2_7414">tot datse ypocras vant daernaer</l>
+<lb n="21" xml:id="Gf61rb.21"/><l n="G_sample2_7415">tien <choice><abbr>tide<g ref="#bar"/></abbr><expan>tide<ex>n</ex></expan></choice> maecte oec ilusum</l>
+<lb n="22" xml:id="Gf61rb.22"/><l n="G_sample2_7416">van troyen den toern ilum</l>
+<lb n="23" xml:id="Gf61rb.23"/><l n="G_sample2_7417">tien <choice><abbr>tide<g ref="#bar"/></abbr><expan>tide<ex>n</ex></expan></choice> sloech doet percheus</l>
+<lb n="24" xml:id="Gf61rb.24"/><l n="G_sample2_7418">den coninc acrisitius</l>
+<lb n="25" xml:id="Gf61rb.25"/><l n="G_sample2_7419"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> maecte conincrike mede</l>
+<lb n="26" xml:id="Gf61rb.26"/><l n="G_sample2_7420">tote nie der ouder stede</l>
+<lb n="27" xml:id="Gf61rb.27"/><l n="G_sample2_7421">dat teuoren margos was</l>
+<lb n="28" xml:id="Gf61rb.28"/><l n="G_sample2_7422"><hi rend="capitalsize1">A</hi>lso alsict bescreuen las</l>
+<lb n="29" xml:id="Gf61rb.29"/><l n="G_sample2_7423"><hi rend="capitalsize2">A</hi>nderwarf misdede zere</l>
+<lb n="30" xml:id="Gf61rb.30"/><l n="G_sample2_7424"><choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> ieghen onzen here</l>
+<lb n="31" xml:id="Gf61rb.31"/><l n="G_sample2_7425">doe liet hi ze dwinghen dan</l>
+<lb n="32" xml:id="Gf61rb.32"/><l n="G_sample2_7426">den luden van madian</l>
+<lb n="33" xml:id="Gf61rb.33"/><l n="G_sample2_7427"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dien van amalech dats waer</l>
+<lb n="34" xml:id="Gf61rb.34"/><l n="G_sample2_7428">diese dwonghen <num type="roman">.vij.</num> iaer</l>
+<lb n="35" xml:id="Gf61rb.35"/><l n="G_sample2_7429">elx jaers verheerden zi huer coren</l>
+<lb n="36" xml:id="Gf61rb.36"/><l n="G_sample2_7430"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> huer <choice><abbr>beeste<g ref="#bar"/></abbr><expan>beeste<ex>n</ex></expan></choice> alswijt horen</l>
+<lb n="37" xml:id="Gf61rb.37"/><l n="G_sample2_7431">doe riepen zi aen gode <choice><abbr>ghenade<g ref="#bar"/></abbr><expan>ghenade<ex>n</ex></expan></choice></l>
+<lb n="38" xml:id="Gf61rb.38"/><l n="G_sample2_7432"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi heuet hem beraden</l>
+<lb n="39" xml:id="Gf61rb.39"/><l n="G_sample2_7433"><choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> prophete diese zaen</l>
+<lb n="40" xml:id="Gf61rb.40"/><l n="G_sample2_7434">vermaende wat hem was ghedaen</l>
+<lb n="41" xml:id="Gf61rb.41"/><l n="G_sample2_7435">van gode diese node liet</l>
+<lb n="42" xml:id="Gf61rb.42"/><l n="G_sample2_7436">mer si en wouden horen niet</l>
+<lb n="43" xml:id="Gf61rb.43"/><l n="G_sample2_7437">doe quam dinghel <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> hemelrike</l>
+<lb n="44" xml:id="Gf61rb.44"/><l n="G_sample2_7438">tot <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> ioas die was rike</l>
+<lb n="45" xml:id="Gf61rb.45"/><l n="G_sample2_7439"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hadde <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> zone hiet gedeon</l>
+<lb n="46" xml:id="Gf61rb.46"/><l n="G_sample2_7439a">die listich was in al zijn doen</l>
+<lb n="47" xml:id="Gf61rb.47"/><l n="G_sample2_7439b"><hi rend="capitalsize1">A</hi>ls ghi hierna zult horen</l>
+<lb n="48" xml:id="Gf61rb.48"/><l n="G_sample2_7440"><hi rend="capitalsize1">D</hi>ie stont <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dorschede coren</l>
+
+
+<pb xml:id="G.f61va" n="61va"/>
+<lb n="1" xml:id="Gf61va.1"/><l n="G_sample2_7441">daer hi ter noet bi leuen woude</l>
+<lb n="2" xml:id="Gf61va.2"/><l n="G_sample2_7442">die inghel zeide gods houde</l>
+<lb n="3" xml:id="Gf61va.3"/><l n="G_sample2_7443">zi metti starxt menigher manne</l>
+<lb n="4" xml:id="Gf61va.4"/><l n="G_sample2_7444">gedeon antworde danne</l>
+<lb n="5" xml:id="Gf61va.5"/><l n="G_sample2_7445">of god ware met ons twi</l>
+<lb n="6" xml:id="Gf61va.6"/><l n="G_sample2_7446">waer ons tongheual dus bi</l>
+<lb n="7" xml:id="Gf61va.7"/><l n="G_sample2_7447">dinghel zeide nu vare</l>
+<lb n="8" xml:id="Gf61va.8"/><l n="G_sample2_7448"><hi rend="capitalsize1">J</hi>c gheue di crachte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeinde di dare</l>
+<lb n="9" xml:id="Gf61va.9"/><l n="G_sample2_7449">dattu tfolc van madian</l>
+<lb n="10" xml:id="Gf61va.10"/><l n="G_sample2_7450">doet slaest als een man</l>
+<lb n="11" xml:id="Gf61va.11"/><l n="G_sample2_7451"><hi rend="capitalsize1">G</hi>edeon hilten ouer man</l>
+<lb n="12" xml:id="Gf61va.12"/><l n="G_sample2_7452"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide en sceit niet <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> mi dan</l>
+<lb n="13" xml:id="Gf61va.13"/><l n="G_sample2_7453">eer ic mach weder totti comen</l>
+<lb n="14" xml:id="Gf61va.14"/><l n="G_sample2_7454">hi heuet een hoeken <choice><abbr>ghenome<g ref="#bar"/></abbr><expan>ghenome<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Gf61va.15"/><l n="G_sample2_7455"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> heeftet <choice><abbr>ghesode<g ref="#bar"/></abbr><expan>ghesode<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> brochte broet</l>
+<lb n="16" xml:id="Gf61va.16"/><l n="G_sample2_7456">den inghel hi die spise boet</l>
+<lb n="17" xml:id="Gf61va.17"/><l n="G_sample2_7457">die inghel hiet hem ouer een</l>
+<lb n="18" xml:id="Gf61va.18"/><l n="G_sample2_7458">dat hise leide op enen steen</l>
+<lb n="19" xml:id="Gf61va.19"/><l n="G_sample2_7459"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi tsop daerop ghieten zoude</l>
+<lb n="20" xml:id="Gf61va.20"/><l n="G_sample2_7460">mer die inghel als hi woude</l>
+<lb n="21" xml:id="Gf61va.21"/><l n="G_sample2_7461">hadde ene roede na mans wise</l>
+<lb n="22" xml:id="Gf61va.22"/><l n="G_sample2_7462">entie stac hi an die spise</l>
+<lb n="23" xml:id="Gf61va.23"/><l n="G_sample2_7463">een vier quam daer uten stene</l>
+<lb n="24" xml:id="Gf61va.24"/><l n="G_sample2_7464">diet al verbrande groet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> clene</l>
+<lb n="25" xml:id="Gf61va.25"/><l n="G_sample2_7465">mettien ontuoer hi metter vaert</l>
+<lb n="26" xml:id="Gf61va.26"/><l n="G_sample2_7466">gedeon die waert veruaert</l>
+<lb n="27" xml:id="Gf61va.27"/><l n="G_sample2_7467">hi riep god wat zal mijns ghescien</l>
+<lb n="28" xml:id="Gf61va.28"/><l n="G_sample2_7468">dat ic den inghel hebbe ghesien</l>
+<lb n="29" xml:id="Gf61va.29"/><l n="G_sample2_7469">onze here zeide en veruare di niet</l>
+<lb n="30" xml:id="Gf61va.30"/><l n="G_sample2_7470">des nachts gheboet hi hem <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet</l>
+<lb n="31" xml:id="Gf61va.31"/><l n="G_sample2_7471">dat hi brake dat outaer</l>
+<lb n="32" xml:id="Gf61va.32"/><l n="G_sample2_7472">dat zijn vader maecte daer</l>
+<lb n="33" xml:id="Gf61va.33"/><l n="G_sample2_7473"><hi rend="capitalsize1">J</hi>n baals ere des afgoeds</l>
+<lb n="34" xml:id="Gf61va.34"/><l n="G_sample2_7474">gedeon ontsach hem des gheboeds</l>
+<lb n="35" xml:id="Gf61va.35"/><l n="G_sample2_7475"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dede nachts dat hem god gheboet</l>
+<lb n="36" xml:id="Gf61va.36"/><l n="G_sample2_7476">des daghes waert mens gheware al bloet</l>
+<lb n="37" xml:id="Gf61va.37"/><l n="G_sample2_7477">entie lude van der stede</l>
+<lb n="38" xml:id="Gf61va.38"/><l n="G_sample2_7478">zeiden ioas die dat dede</l>
+<lb n="39" xml:id="Gf61va.39"/><l n="G_sample2_7479"><choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> zone brinc os voert</l>
+<lb n="40" xml:id="Gf61va.40"/><l n="G_sample2_7480">laten steruen vor dese moert</l>
+<lb n="41" xml:id="Gf61va.41"/><l n="G_sample2_7481">hi sprac wildine berichten al</l>
+<lb n="42" xml:id="Gf61va.42"/><l n="G_sample2_7482"><hi rend="capitalsize1">J</hi>s hi god wreke hem baal</l>
+<lb n="43" xml:id="Gf61va.43"/><l n="G_sample2_7483">dus lietent bliuen ghene man</l>
+<lb n="44" xml:id="Gf61va.44"/><l n="G_sample2_7484"><hi rend="capitalsize1">A</hi>malech ende madian</l>
+<lb n="45" xml:id="Gf61va.45"/><l n="G_sample2_7485">destrueerden <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="46" xml:id="Gf61va.46"/><l n="G_sample2_7486"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> laghen int dal van iesrael</l>
+<lb n="47" xml:id="Gf61va.47"/><l n="G_sample2_7487">die heiligheest quam in gedeone</l>
+<lb n="48" xml:id="Gf61va.48"/><l n="G_sample2_7488">hi ontboet tfolc van zabulone</l>
+
+
+<pb xml:id="G.f61vb" n="61vb"/>
+<lb n="1" xml:id="Gf61vb.1"/><l n="G_sample2_7489">van manasse <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van neptalim</l>
+<lb n="2" xml:id="Gf61vb.2"/><l n="G_sample2_7490"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van azer die quamen te him</l>
+<lb n="3" xml:id="Gf61vb.3"/><l n="G_sample2_7491">met <num type="roman">.xxxij.</num> dusent tien daghen</l>
+<lb n="4" xml:id="Gf61vb.4"/><l n="G_sample2_7492">zelue quam hi met <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> maghen</l>
+<lb n="5" xml:id="Gf61vb.5"/><l n="G_sample2_7493"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> eischede van onzen here</l>
+<lb n="6" xml:id="Gf61vb.6"/><l n="G_sample2_7494">een teiken dor zijns zelues ere</l>
+<lb n="7" xml:id="Gf61vb.7"/><l n="G_sample2_7495">een vlies leide hi op die erde</l>
+<lb n="8" xml:id="Gf61vb.8"/><l n="G_sample2_7496"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bat gode dor zine werde</l>
+<lb n="9" xml:id="Gf61vb.9"/><l n="G_sample2_7497">dattie dau quam in dat vlies</l>
+<lb n="10" xml:id="Gf61vb.10"/><l n="G_sample2_7498">entie erde niet en hadde dies</l>
+<lb n="11" xml:id="Gf61vb.11"/><l n="G_sample2_7499">dit dede god dor zine bede</l>
+<lb n="12" xml:id="Gf61vb.12"/><l n="G_sample2_7500">ten naesten daghe dede hi mede</l>
+<lb n="13" xml:id="Gf61vb.13"/><l n="G_sample2_7501">des daus daer vut vol ene scelle</l>
+<lb n="14" xml:id="Gf61vb.14"/><l n="G_sample2_7502">voert zo bat die deghen snelle</l>
+<lb n="15" xml:id="Gf61vb.15"/><l n="G_sample2_7503">des anders nachts dattoe die vacht</l>
+<lb n="16" xml:id="Gf61vb.16"/><l n="G_sample2_7504">droghe bleue bi godes cracht</l>
+<lb n="17" xml:id="Gf61vb.17"/><l n="G_sample2_7505">entie erde bedauwen zoude</l>
+<lb n="18" xml:id="Gf61vb.18"/><l n="G_sample2_7506">zo mochten zi <choice><abbr>uechte<g ref="#bar"/></abbr><expan>uechte<ex>n</ex></expan></choice> alse die boude</l>
+<lb n="19" xml:id="Gf61vb.19"/><l n="G_sample2_7507">dat dede god dor hem openbare</l>
+<lb n="20" xml:id="Gf61vb.20"/><l n="G_sample2_7508">dat hi des zeghen zeker ware</l>
+<lb n="21" xml:id="Gf61vb.21"/><l n="G_sample2_7509"><hi rend="capitalsize1">D</hi>at vlies dat zachte is <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wit</l>
+<lb n="22" xml:id="Gf61vb.22"/><l n="G_sample2_7510"><hi rend="capitalsize1">J</hi>s die lichame ombesmit</l>
+<lb n="23" xml:id="Gf61vb.23"/><l n="G_sample2_7511">van der reinre maghet marien</l>
+<lb n="24" xml:id="Gf61vb.24"/><l n="G_sample2_7512">die alle tonghen benedien</l>
+<lb n="25" xml:id="Gf61vb.25"/><l n="G_sample2_7513">die dau die vellet hemelike</l>
+<lb n="26" xml:id="Gf61vb.26"/><l n="G_sample2_7514">op die erde van hemelrike</l>
+<lb n="27" xml:id="Gf61vb.27"/><l n="G_sample2_7515"><hi rend="capitalsize1">A</hi>lso dede hi in dat vlies</l>
+<lb n="28" xml:id="Gf61vb.28"/><l n="G_sample2_7516">dats <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> zijt zeker dies</l>
+<lb n="29" xml:id="Gf61vb.29"/><l n="G_sample2_7517">die heimelike in huer quam</l>
+<lb n="30" xml:id="Gf61vb.30"/><l n="G_sample2_7518">die huer gaf <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet en nam</l>
+<lb n="31" xml:id="Gf61vb.31"/><l n="G_sample2_7519">meer <choice><abbr>zuuerheide<g ref="#bar"/></abbr><expan>zuuerheide<ex>n</ex></expan></choice> dan zi hadde ere</l>
+<lb n="32" xml:id="Gf61vb.32"/><l n="G_sample2_7520"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> heilighedze emmermere.</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Judit_sample3" xml:id="sample3">
+<body>
+<p>
+
+<pb xml:id="G.f112vb" n="112vb"/>
+<lb n="1" xml:id="Gf112vb.1"/><l n="G_sample3_17444"><hi rend="capitalsize1">J</hi>udits geeste gaet hier an</l>
+<lb n="2" xml:id="Gf112vb.2"/><l n="G_sample3_17445"><hi rend="capitalsize1">V</hi>an liue wijf. van herten man...</l>
+<lb n="3" xml:id="Gf112vb.3"/><l n="G_sample3_17445a"><hi rend="capitalsize1">D</hi>it is die boec van judith</l>
+<lb n="4" xml:id="Gf112vb.4"/><l n="G_sample3_17446"><hi rend="capitalsize4">N</hi>A coninc tyrus doet</l>
+<lb n="5" xml:id="Gf112vb.5"/><l n="G_sample3_17447">wart arfaxat here groet</l>
+<lb n="6" xml:id="Gf112vb.6"/><l n="G_sample3_17448"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ueste gatanus die stede</l>
+<lb n="7" xml:id="Gf112vb.7"/><l n="G_sample3_17449">die staet in tlant <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> mede</l>
+<lb n="8" xml:id="Gf112vb.8"/><l n="G_sample3_17450">om dat hi wilde moghentlike</l>
+<lb n="9" xml:id="Gf112vb.9"/><l n="G_sample3_17451">winen van meden tconincrike</l>
+<lb n="10" xml:id="Gf112vb.10"/><l n="G_sample3_17452">nabugodonosor cambices</l>
+<lb n="11" xml:id="Gf112vb.11"/><l n="G_sample3_17453">tyrus zone verdiende des</l>
+<lb n="12" xml:id="Gf112vb.12"/><l n="G_sample3_17454">dat hem cyrus gaf eer hi bleef doet</l>
+<lb n="13" xml:id="Gf112vb.13"/><l n="G_sample3_17455">niniue die stede groet</l>
+<lb n="14" xml:id="Gf112vb.14"/><l n="G_sample3_17456">ende van assyrien dat lant</l>
+<lb n="15" xml:id="Gf112vb.15"/><l n="G_sample3_17457"><num type="roman">xij</num> iaer dats wel becant</l>
+<lb n="16" xml:id="Gf112vb.16"/><l n="G_sample3_17458">droech hi crone vor tyrus doet</l>
+<lb n="17" xml:id="Gf112vb.17"/><l n="G_sample3_17459">dien gaf arfaxat wederstoet</l>
+<lb n="18" xml:id="Gf112vb.18"/><l n="G_sample3_17460"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sloeghen doet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan tlant</l>
+<lb n="19" xml:id="Gf112vb.19"/><l n="G_sample3_17461"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doe hi hadde in zine hant</l>
+<lb n="20" xml:id="Gf112vb.20"/><l n="G_sample3_17462">beide persen ende meden</l>
+<lb n="21" xml:id="Gf112vb.21"/><l n="G_sample3_17463"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> aldes uader moghentheden</l>
+<lb n="22" xml:id="Gf112vb.22"/><l n="G_sample3_17464">verhief <add>hi</add> zijn herte daerna</l>
+<lb n="23" xml:id="Gf112vb.23"/><l n="G_sample3_17465">ende hi zeinde in cicilia</l>
+<lb n="24" xml:id="Gf112vb.24"/><l n="G_sample3_17466"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in al die lande omtrent hem</l>
+<lb n="25" xml:id="Gf112vb.25"/><l n="G_sample3_17467">al toter stat van iherusalem</l>
+<lb n="26" xml:id="Gf112vb.26"/><l n="G_sample3_17468"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> eysscede thuus <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gauel mede</l>
+<lb n="27" xml:id="Gf112vb.27"/><l n="G_sample3_17469">meer dan ye zijn uader dede</l>
+<lb n="28" xml:id="Gf112vb.28"/><l n="G_sample3_17470"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi ontseiden alle gauel</l>
+<lb n="29" xml:id="Gf112vb.29"/><l n="G_sample3_17471">doe nam hi <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> conincstauel</l>
+<lb n="30" xml:id="Gf112vb.30"/><l n="G_sample3_17472">holofernesse ende gheboet</l>
+<lb n="31" xml:id="Gf112vb.31"/><l n="G_sample3_17473">dat hi name zijn here groet</l>
+<lb n="32" xml:id="Gf112vb.32"/><l n="G_sample3_17474"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niemens oec en uermede</l>
+<lb n="33" xml:id="Gf112vb.33"/><l n="G_sample3_17475">no borch no lant in ghene stede</l>
+<lb n="34" xml:id="Gf112vb.34"/><l n="G_sample3_17476">hi voer vut met menighen man</l>
+<lb n="35" xml:id="Gf112vb.35"/><l n="G_sample3_17477"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stoerde tlant van madian</l>
+<lb n="36" xml:id="Gf112vb.36"/><l n="G_sample3_17478"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oec tlant van cicilia</l>
+<lb n="37" xml:id="Gf112vb.37"/><l n="G_sample3_17479">ende mesopotamia</l>
+<lb n="38" xml:id="Gf112vb.38"/><l n="G_sample3_17480">doe baden die princen om genaden</l>
+<lb n="39" xml:id="Gf112vb.39"/><l n="G_sample3_17481">doe nam hi borghe ende staden</l>
+<lb n="40" xml:id="Gf112vb.40"/><l n="G_sample3_17482">ende velledze algader neder</l>
+<lb n="41" xml:id="Gf112vb.41"/><l n="G_sample3_17483">alle die afgode voert ende weder</l>
+<lb n="42" xml:id="Gf112vb.42"/><l n="G_sample3_17484">brac hi testucken cleen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groet</l>
+<lb n="43" xml:id="Gf112vb.43"/><l n="G_sample3_17485">om dat cambices gheboet</l>
+<lb n="44" xml:id="Gf112vb.44"/><l n="G_sample3_17486">want hi wilde wesen god</l>
+<lb n="45" xml:id="Gf112vb.45"/><l n="G_sample3_17487">alsi <choice><abbr>uername<g ref="#bar"/></abbr><expan>uername<ex>n</ex></expan></choice> dat swaer ghebod</l>
+<lb n="46" xml:id="Gf112vb.46"/><l n="G_sample3_17488">die ioeden van iherusalem</l>
+<lb n="47" xml:id="Gf112vb.47"/><l n="G_sample3_17489">warenzi ueruaert van hem</l>
+<lb n="48" xml:id="Gf112vb.48"/><l n="G_sample3_17490">dat hi niet al zulken scade</l>
+<lb n="49" xml:id="Gf112vb.49"/><l n="G_sample3_17491">den tempel ons heren en dade</l>
+
+
+<pb xml:id="G.f113ra" n="113ra"/>
+<lb n="1" xml:id="Gf113ra.1"/><l n="G_sample3_17492">zi vesten die weghe zere</l>
+<lb n="2" xml:id="Gf113ra.2"/><l n="G_sample3_17493"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> baden uaste an onzen here</l>
+<lb n="3" xml:id="Gf113ra.3"/><l n="G_sample3_17494">doe vernaemt holofernes wel</l>
+<lb n="4" xml:id="Gf113ra.4"/><l n="G_sample3_17495">dattie kinder van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="5" xml:id="Gf113ra.5"/><l n="G_sample3_17496">sloten die weghe hare entare</l>
+<lb n="6" xml:id="Gf113ra.6"/><l n="G_sample3_17497"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vraghede wat uolc het ware</l>
+<lb n="7" xml:id="Gf113ra.7"/><l n="G_sample3_17498">daer sprac die prince der <choice><abbr>amonite<g ref="#bar"/></abbr><expan>amonite<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="Gf113ra.8"/><l n="G_sample3_17499">achior. die van ouden viten</l>
+<lb n="9" xml:id="Gf113ra.9"/><l n="G_sample3_17500">bekinde hoe dat fol<add>c</add> quam</l>
+<lb n="10" xml:id="Gf113ra.10"/><l n="G_sample3_17501">van den goeden abraham</l>
+<lb n="11" xml:id="Gf113ra.11"/><l n="G_sample3_17502"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoe zi dor die rode zee ghinghen</l>
+<lb n="12" xml:id="Gf113ra.12"/><l n="G_sample3_17503"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> god niet en wilde ghehinghen</l>
+<lb n="13" xml:id="Gf113ra.13"/><l n="G_sample3_17504">dat hem yemen mochte scaden</l>
+<lb n="14" xml:id="Gf113ra.14"/><l n="G_sample3_17505">also langhe alsi wel daden</l>
+<lb n="15" xml:id="Gf113ra.15"/><l n="G_sample3_17506">mer daden zi zonde hi zoudze <choice><abbr>plaghe<g ref="#bar"/></abbr><expan>plaghe<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Gf113ra.16"/><l n="G_sample3_17507">niewinghe oec in corten daghen</l>
+<lb n="17" xml:id="Gf113ra.17"/><l n="G_sample3_17508">heeft hise van bande ontbonden</l>
+<lb n="18" xml:id="Gf113ra.18"/><l n="G_sample3_17509">daer hise in om hore zonden</l>
+<lb n="19" xml:id="Gf113ra.19"/><l n="G_sample3_17510">nabugodonosor binden liet</l>
+<lb n="20" xml:id="Gf113ra.20"/><l n="G_sample3_17511"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wil di verwinnen dit diet</l>
+<lb n="21" xml:id="Gf113ra.21"/><l n="G_sample3_17512">vreischt of hem god is gram</l>
+<lb n="22" xml:id="Gf113ra.22"/><l n="G_sample3_17513">wi bindenze oft waer een lam</l>
+<lb n="23" xml:id="Gf113ra.23"/><l n="G_sample3_17514">mer eest dat hi hem is hout</l>
+<lb n="24" xml:id="Gf113ra.24"/><l n="G_sample3_17515">zo ne diedt enghene ghewout...</l>
+<lb n="25" xml:id="Gf113ra.25"/><l n="G_sample3_17516"><hi rend="capitalsize2">O</hi>m dit balch holofernes</l>
+<lb n="26" xml:id="Gf113ra.26"/><l n="G_sample3_17517"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide ic zal di beuroeden des</l>
+<lb n="27" xml:id="Gf113ra.27"/><l n="G_sample3_17518">dat gheen god en zi achior</l>
+<lb n="28" xml:id="Gf113ra.28"/><l n="G_sample3_17519">zonder allene nabugodonosor</l>
+<lb n="29" xml:id="Gf113ra.29"/><l n="G_sample3_17520">mijn grote here cambices</l>
+<lb n="30" xml:id="Gf113ra.30"/><l n="G_sample3_17521">du moets met hem zijn ghewes</l>
+<lb n="31" xml:id="Gf113ra.31"/><l n="G_sample3_17522">als ic ze winne enti mede</l>
+<lb n="32" xml:id="Gf113ra.32"/><l n="G_sample3_17523">dan zaltu weten die waerheide</l>
+<lb n="33" xml:id="Gf113ra.33"/><l n="G_sample3_17524">holofernes hiet <del>hem</del> daer na</l>
+<lb n="34" xml:id="Gf113ra.34"/><l n="G_sample3_17525">hem leiden tote beculia</l>
+<lb n="35" xml:id="Gf113ra.35"/><l n="G_sample3_17526">ene porte die hi wilde winnen</l>
+<lb n="36" xml:id="Gf113ra.36"/><l n="G_sample3_17527">maer doe <choice><abbr>ontsaghe<g ref="#bar"/></abbr><expan>ontsaghe<ex>n</ex></expan></choice> zi hem die <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice></l>
+<lb n="37" xml:id="Gf113ra.37"/><l n="G_sample3_17528">ende bondene an <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> boem daer</l>
+<lb n="38" xml:id="Gf113ra.38"/><l n="G_sample3_17529">der steden een deel naer</l>
+<lb n="39" xml:id="Gf113ra.39"/><l n="G_sample3_17530">zo datten die van <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> namen</l>
+<lb n="40" xml:id="Gf113ra.40"/><l n="G_sample3_17531"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> brachten onder tfolc te zamen</l>
+<lb n="41" xml:id="Gf113ra.41"/><l n="G_sample3_17532"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>zeide<g ref="#bar"/></abbr><expan>zeide<ex>n</ex></expan></choice> hem wat hi hadde misdaen</l>
+<lb n="42" xml:id="Gf113ra.42"/><l n="G_sample3_17533">doe behilden zine zonder waen</l>
+<lb n="43" xml:id="Gf113ra.43"/><l n="G_sample3_17536"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> holofernes belach die stat</l>
+<lb n="44" xml:id="Gf113ra.44"/><l n="G_sample3_17537"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeiden onder hem allen dat</l>
+<lb n="45" xml:id="Gf113ra.45"/><l n="G_sample3_17538">helpt hem god niet <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> <num type="roman">.v.</num> <choice><abbr>daghe<g ref="#bar"/></abbr><expan>daghe<ex>n</ex></expan></choice></l>
+<lb n="46" xml:id="Gf113ra.46"/><l n="G_sample3_17539">dat si emmer wilden ghewaghen</l>
+<lb n="47" xml:id="Gf113ra.47"/><l n="G_sample3_17539a">datsize stormen wilden</l>
+<lb n="48" xml:id="Gf113ra.48"/><l n="G_sample3_17539b">waert datse die <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> hilden</l>
+
+
+<pb xml:id="G.f113rb" n="113rb"/>
+<lb n="1" xml:id="Gf113rb.1"/><l n="G_sample3_17540"><hi rend="capitalsize1">E</hi>ne wedue nu merket dit</l>
+<lb n="2" xml:id="Gf113rb.2"/><l n="G_sample3_17541">was in die stat <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet iudith</l>
+<lb n="3" xml:id="Gf113rb.3"/><l n="G_sample3_17542">harde scoen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reine van liue</l>
+<lb n="4" xml:id="Gf113rb.4"/><l n="G_sample3_17543">zi scaut die papen alze keitiue</l>
+<lb n="5" xml:id="Gf113rb.5"/><l n="G_sample3_17547">ende zeide minen stillen raet</l>
+<lb n="6" xml:id="Gf113rb.6"/><l n="G_sample3_17546">die niet en zal wesen quaet</l>
+<lb n="7" xml:id="Gf113rb.7"/><l n="G_sample3_17548">en wil ic v altoes niet leren</l>
+<lb n="8" xml:id="Gf113rb.8"/><l n="G_sample3_17549">mer ic zal doen dwerc ons heren</l>
+<lb n="9" xml:id="Gf113rb.9"/><l n="G_sample3_17550">staet ter porten ic wil vutgaen</l>
+<lb n="10" xml:id="Gf113rb.10"/><l n="G_sample3_17551">mettien porrede zi wel zaen</l>
+<lb n="11" xml:id="Gf113rb.11"/><l n="G_sample3_17552"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> huer ioncwijf droech spise <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dranc</l>
+<lb n="12" xml:id="Gf113rb.12"/><l n="G_sample3_17553">met huer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dede vutwart den ganc</l>
+<lb n="13" xml:id="Gf113rb.13"/><l n="G_sample3_17554">mer zo scone was zi bezonder</l>
+<lb n="14" xml:id="Gf113rb.14"/><l n="G_sample3_17555">dattie papen hadden wonder</l>
+<lb n="15" xml:id="Gf113rb.15"/><l n="G_sample3_17556">ende vor huer doe baden wale</l>
+<lb n="16" xml:id="Gf113rb.16"/><l n="G_sample3_17557">daersi ghinc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> berghe te dale</l>
+<lb n="17" xml:id="Gf113rb.17"/><l n="G_sample3_17558">vinghen ze die spieres tehant</l>
+<lb n="18" xml:id="Gf113rb.18"/><l n="G_sample3_17559">ende leiden ze daer zi vant</l>
+<lb n="19" xml:id="Gf113rb.19"/><l n="G_sample3_17560">holofernes die zat aldare</l>
+<lb n="20" xml:id="Gf113rb.20"/><l n="G_sample3_17561">onder <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> dieren spaerware</l>
+<lb n="21" xml:id="Gf113rb.21"/><l n="G_sample3_17562">van ziden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>ua<g ref="#bar"/></abbr><expan>ua<ex>n</ex></expan></choice> goude uerheuen</l>
+<lb n="22" xml:id="Gf113rb.22"/><l n="G_sample3_17563"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> menich steen daer in gheweuen</l>
+<lb n="23" xml:id="Gf113rb.23"/><l n="G_sample3_17564">tierst dat hise heeft uerzien</l>
+<lb n="24" xml:id="Gf113rb.24"/><l n="G_sample3_17565"><hi rend="capitalsize1">W</hi>art zijn herte beuaen mettien</l>
+<lb n="25" xml:id="Gf113rb.25"/><l n="G_sample3_17566"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi neech hem openbare</l>
+<lb n="26" xml:id="Gf113rb.26"/><l n="G_sample3_17567">holofernes sprac te hare</l>
+<lb n="27" xml:id="Gf113rb.27"/><l n="G_sample3_17568">zech twi quaemstu tot ons neder</l>
+<lb n="28" xml:id="Gf113rb.28"/><l n="G_sample3_17569"><hi rend="capitalsize1">J</hi>udith antworde weder</l>
+<lb n="29" xml:id="Gf113rb.29"/><l n="G_sample3_17570">onze volc blijft verloren zaen</l>
+<lb n="30" xml:id="Gf113rb.30"/><l n="G_sample3_17571">want het heuet zeer misdaen</l>
+<lb n="31" xml:id="Gf113rb.31"/><l n="G_sample3_17572">god heeft mi gheseint te di</l>
+<lb n="32" xml:id="Gf113rb.32"/><l n="G_sample3_17573">dit te boetscapene vri</l>
+<lb n="33" xml:id="Gf113rb.33"/><l n="G_sample3_17574">ende ic di tot iherusalem</l>
+<lb n="34" xml:id="Gf113rb.34"/><l n="G_sample3_17575"><hi rend="capitalsize1">L</hi>eden zal. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dan nem</l>
+<lb n="35" xml:id="Gf113rb.35"/><l n="G_sample3_17576">dat uolc onder dijn ghebod</l>
+<lb n="36" xml:id="Gf113rb.36"/><l n="G_sample3_17577">hi sprac ombiet mi dit god</l>
+<lb n="37" xml:id="Gf113rb.37"/><l n="G_sample3_17578">zo zaltu grote vrouwe met ws</l>
+<lb n="38" xml:id="Gf113rb.38"/><l n="G_sample3_17579">wesen in nabugodonosors huus</l>
+<lb n="39" xml:id="Gf113rb.39"/><l n="G_sample3_17580">hi dede ze leiden daer ter stat</l>
+<lb n="40" xml:id="Gf113rb.40"/><l n="G_sample3_17581">al daer dat lach die grote scat</l>
+<lb n="41" xml:id="Gf113rb.41"/><l n="G_sample3_17582">zo dat iudith dat ghebat</l>
+<lb n="42" xml:id="Gf113rb.42"/><l n="G_sample3_17583">dat hi huer gheloefde dat</l>
+<lb n="43" xml:id="Gf113rb.43"/><l n="G_sample3_17584">datsi nachts mochte vutgaen</l>
+<lb n="44" xml:id="Gf113rb.44"/><l n="G_sample3_17585">horen god te biddene zaen</l>
+<lb n="45" xml:id="Gf113rb.45"/><l n="G_sample3_17586">hi liet huer al hueren wille doen</l>
+<lb n="46" xml:id="Gf113rb.46"/><l n="G_sample3_17587">drie der nachte deedzi orisoen</l>
+<lb n="47" xml:id="Gf113rb.47"/><l n="G_sample3_17588"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghinc al daer zi wilde mede</l>
+<lb n="48" xml:id="Gf113rb.48"/><l n="G_sample3_17589">holofernes huer bidden dede</l>
+
+
+<pb xml:id="G.f113va" n="113va"/>
+<lb n="1" xml:id="Gf113va.1"/><l n="G_sample3_17590">datsi bi hem slapen zoude</l>
+<lb n="2" xml:id="Gf113va.2"/><l n="G_sample3_17591"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi zeide datsi woude</l>
+<lb n="3" xml:id="Gf113va.3"/><l n="G_sample3_17592"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> quam te hem wel ghepalleert</l>
+<lb n="4" xml:id="Gf113va.4"/><l n="G_sample3_17593"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> als hi ziet dat sijs begheert</l>
+<lb n="5" xml:id="Gf113va.5"/><l n="G_sample3_17594">dranc hi van ioyen zo den wijn</l>
+<lb n="6" xml:id="Gf113va.6"/><l n="G_sample3_17595">dat hi ghinc slapen als een swijn</l>
+<lb n="7" xml:id="Gf113va.7"/><l n="G_sample3_17596"><hi rend="capitalsize1">J</hi>udit hiet horen ioncwiue</l>
+<lb n="8" xml:id="Gf113va.8"/><l n="G_sample3_17597">datsi vor die doere bliue</l>
+<lb n="9" xml:id="Gf113va.9"/><l n="G_sample3_17598">zelue ghinc zi vor hem staen</l>
+<lb n="10" xml:id="Gf113va.10"/><l n="G_sample3_17599"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi bad an gode zaen</l>
+<lb n="11" xml:id="Gf113va.11"/><l n="G_sample3_17600">dat hise ghesterke teser stont</l>
+<lb n="12" xml:id="Gf113va.12"/><l n="G_sample3_17601">te holofernes hoefde stont</l>
+<lb n="13" xml:id="Gf113va.13"/><l n="G_sample3_17602">ene columme daer an hinc <num type="roman">.i.</num> swaert</l>
+<lb n="14" xml:id="Gf113va.14"/><l n="G_sample3_17603"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat trac iudith teruaert</l>
+<lb n="15" xml:id="Gf113va.15"/><l n="G_sample3_17604"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sloech hem thoeft af tenen slaghe</l>
+<lb n="16" xml:id="Gf113va.16"/><l n="G_sample3_17605"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet den ioncwiue dat zijt draghe</l>
+<lb n="17" xml:id="Gf113va.17"/><l n="G_sample3_17606"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nam den goeden spareware</l>
+<lb n="18" xml:id="Gf113va.18"/><l n="G_sample3_17607"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> droechen terstat wart <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>er</ex></expan></choice> vare</l>
+<lb n="19" xml:id="Gf113va.19"/><l n="G_sample3_17608">want huer tgaen nieman benam</l>
+<lb n="20" xml:id="Gf113va.20"/><l n="G_sample3_17609"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tierst datsi ter porten quam</l>
+<lb n="21" xml:id="Gf113va.21"/><l n="G_sample3_17610">riep si god es met ons ondoe</l>
+<lb n="22" xml:id="Gf113va.22"/><l n="G_sample3_17611">ende al dat uolc liep toe</l>
+<lb n="23" xml:id="Gf113va.23"/><l n="G_sample3_17612">men lichte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi toghede dare</l>
+<lb n="24" xml:id="Gf113va.24"/><l n="G_sample3_17613">dat hoeft enten spareware</l>
+<lb n="25" xml:id="Gf113va.25"/><l n="G_sample3_17614"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide louet gode met vlite</l>
+<lb n="26" xml:id="Gf113va.26"/><l n="G_sample3_17615"><hi rend="capitalsize1">A</hi>ls achior die amonite</l>
+<lb n="27" xml:id="Gf113va.27"/><l n="G_sample3_17616">holofernes hoeft ghesach</l>
+<lb n="28" xml:id="Gf113va.28"/><l n="G_sample3_17617">van vare hi in ommacht lach</l>
+<lb n="29" xml:id="Gf113va.29"/><l n="G_sample3_17618">doe hi dit zach dede hi tien tiden</l>
+<lb n="30" xml:id="Gf113va.30"/><l n="G_sample3_17619">hem na die ioedsche wet besniden</l>
+<lb n="31" xml:id="Gf113va.31"/><l n="G_sample3_17620"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bleef ghelouich na die vre</l>
+<lb n="32" xml:id="Gf113va.32"/><l n="G_sample3_17621">thoeft hinc iudith optie mure</l>
+<lb n="33" xml:id="Gf113va.33"/><l n="G_sample3_17622">dat was ene stoute daet</l>
+<lb n="34" xml:id="Gf113va.34"/><l n="G_sample3_17623">dat gheuiel in die dagheraet</l>
+<lb n="35" xml:id="Gf113va.35"/><l n="G_sample3_17624">oec zeidemen doe in allen steden</l>
+<lb n="36" xml:id="Gf113va.36"/><l n="G_sample3_17625">dat si teghen die viande streden</l>
+<lb n="37" xml:id="Gf113va.37"/><l n="G_sample3_17626">tilike dattie ioeden vut quamen</l>
+<lb n="38" xml:id="Gf113va.38"/><l n="G_sample3_17627">mer doet die heren vernamen</l>
+<lb n="39" xml:id="Gf113va.39"/><l n="G_sample3_17628">dat holofernes zelue was doet</l>
+<lb n="40" xml:id="Gf113va.40"/><l n="G_sample3_17629"><hi rend="capitalsize1">V</hi>lo dat here dor die noet</l>
+<lb n="41" xml:id="Gf113va.41"/><l n="G_sample3_17630">entie ioeden volgheden naer</l>
+<lb n="42" xml:id="Gf113va.42"/><l n="G_sample3_17631"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sloeghenre menich daer</l>
+<lb n="43" xml:id="Gf113va.43"/><l n="G_sample3_17632"><choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> <num type="roman">.xxx.</num> daghen hebs gheloef</l>
+<lb n="44" xml:id="Gf113va.44"/><l n="G_sample3_17633">hadden zi cume den roef</l>
+<lb n="45" xml:id="Gf113va.45"/><l n="G_sample3_17634"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wat so holofernes was</l>
+<lb n="46" xml:id="Gf113va.46"/><l n="G_sample3_17635">hadde aldaer iudith als ic las</l>
+<lb n="47" xml:id="Gf113va.47"/><l n="G_sample3_17636"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> iudith zanc gode enen zanc</l>
+<lb n="48" xml:id="Gf113va.48"/><l n="G_sample3_17637">daer zi in vorzeide zonder wanc</l>
+
+
+<pb xml:id="G.f113vb" n="113vb"/>
+<lb n="1" xml:id="Gf113vb.1"/><l n="G_sample3_17638">den doemsdach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dattie quade</l>
+<lb n="2" xml:id="Gf113vb.2"/><l n="G_sample3_17639">ghepijnt zouden zijn <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>er</ex></expan></choice> genade</l>
+<lb n="3" xml:id="Gf113vb.3"/><l n="G_sample3_17640">te <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice> voeren zi daer naer</l>
+<lb n="4" xml:id="Gf113vb.4"/><l n="G_sample3_17641"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> offerden onzen here daer</l>
+<lb n="5" xml:id="Gf113vb.5"/><l n="G_sample3_17642">holofernes grote rijchede</l>
+<lb n="6" xml:id="Gf113vb.6"/><l n="G_sample3_17643">dien dach zo vierdemen mede</l>
+<lb n="7" xml:id="Gf113vb.7"/><l n="G_sample3_17644">ende iudith die wart daerna</l>
+<lb n="8" xml:id="Gf113vb.8"/><l n="G_sample3_17645">altoes gheheten cambisa</l>
+<lb n="9" xml:id="Gf113vb.9"/><l n="G_sample3_17646">zi leuede <num type="roman">.c.</num> iaer ende viue</l>
+<lb n="10" xml:id="Gf113vb.10"/><l n="G_sample3_17647">doe sciet zi van desen liue</l>
+<lb n="11" xml:id="Gf113vb.11"/><l n="G_sample3_17648">cambices nabugodonosor</l>
+<lb n="12" xml:id="Gf113vb.12"/><l n="G_sample3_17649">wan daer na menighen tor</l>
+<lb n="13" xml:id="Gf113vb.13"/><l n="G_sample3_17650"><hi rend="capitalsize1">J</hi>n egypten <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan dat lant</l>
+<lb n="14" xml:id="Gf113vb.14"/><l n="G_sample3_17651">oec maecte hi dat is becant</l>
+<lb n="15" xml:id="Gf113vb.15"/><l n="G_sample3_17652"><hi rend="capitalsize1">J</hi>n egypten die stat babylone</l>
+<lb n="16" xml:id="Gf113vb.16"/><l n="G_sample3_17653">daer die soldane draghen crone</l>
+<lb n="17" xml:id="Gf113vb.17"/><l n="G_sample3_17654">wilmen die waerheit weten das</l>
+<lb n="18" xml:id="Gf113vb.18"/><l n="G_sample3_17655">als ons vorzeide iheremias</l>
+<lb n="19" xml:id="Gf113vb.19"/><l n="G_sample3_17656">doe hi egypten ruumde tlant</l>
+<lb n="20" xml:id="Gf113vb.20"/><l n="G_sample3_17657">wart hi zere ziec tehant</l>
+<lb n="21" xml:id="Gf113vb.21"/><l n="G_sample3_17658"><hi rend="capitalsize1">J</hi>n damas bleef hi doet</l>
+<lb n="22" xml:id="Gf113vb.22"/><l n="G_sample3_17659">cambices die here groet</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="NT_sample4" xml:id="sample4">
+<body>
+<p>
+
+<pb xml:id="G.f141va" n="141va"/>
+<lb n="1" xml:id="Gf141va.1"/><l n="G_sample4_22979">onze here quam aldaer</l>
+<lb n="2" xml:id="Gf141va.2"/><l n="G_sample4_22980">als een die moede es <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zit</l>
+<lb n="3" xml:id="Gf141va.3"/><l n="G_sample4_22981">op ene fonteine hiet iacobs pit</l>
+<lb n="4" xml:id="Gf141va.4"/><l n="G_sample4_22982">die apostolen waren in die stede</l>
+<lb n="5" xml:id="Gf141va.5"/><l n="G_sample4_22983">om spise te copene mede</l>
+<lb n="6" xml:id="Gf141va.6"/><l n="G_sample4_22984">een wijf quam gaende daer <add>hi</add> zat</l>
+<lb n="7" xml:id="Gf141va.7"/><l n="G_sample4_22985">om water <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onze here bat</l>
+<lb n="8" xml:id="Gf141va.8"/><l n="G_sample4_22986">datsi hem drinken gaue</l>
+<lb n="9" xml:id="Gf141va.9"/><l n="G_sample4_22987">dwijf andworde dus daer aue</l>
+<lb n="10" xml:id="Gf141va.10"/><l n="G_sample4_22988">want zine jode zach bedi</l>
+<lb n="11" xml:id="Gf141va.11"/><l n="G_sample4_22989">hoe mochstu drinken van mi</l>
+<lb n="12" xml:id="Gf141va.12"/><l n="G_sample4_22990">want ic ben ene samaritane</l>
+<lb n="13" xml:id="Gf141va.13"/><l n="G_sample4_22991">hier vor dede hi teuerstane</l>
+<lb n="14" xml:id="Gf141va.14"/><l n="G_sample4_22992">dat salmanasar die coninc</l>
+<lb n="15" xml:id="Gf141va.15"/><l n="G_sample4_22993">tfolc van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> al vinc</l>
+<lb n="16" xml:id="Gf141va.16"/><l n="G_sample4_22994">metten coninc ozee</l>
+<lb n="17" xml:id="Gf141va.17"/><l n="G_sample4_22995">daerna <choice><abbr>hadde<g ref="#bar"/></abbr><expan>hadde<ex>n</ex></expan></choice> zi coninc mee</l>
+<lb n="18" xml:id="Gf141va.18"/><l n="G_sample4_22996">jn tlant voerde hise van caspia</l>
+<lb n="19" xml:id="Gf141va.19"/><l n="G_sample4_22997">daer ze alexander sloech daerna</l>
+<lb n="20" xml:id="Gf141va.20"/><l n="G_sample4_22998">zijn volc zeinde in <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="21" xml:id="Gf141va.21"/><l n="G_sample4_22999">tlant <choice><abbr>tewinne<g ref="#bar"/></abbr><expan>tewinne<ex>n</ex></expan></choice> doe <choice><abbr>weerde<g ref="#bar"/></abbr><expan>weerde<ex>n</ex></expan></choice> hem fel</l>
+<lb n="22" xml:id="Gf141va.22"/><l n="G_sample4_23000">leuwen. die god zeinde in tlant</l>
+<lb n="23" xml:id="Gf141va.23"/><l n="G_sample4_23001">hierom ontfinghen zi altehant</l>
+<lb n="24" xml:id="Gf141va.24"/><l n="G_sample4_23002">die joedsche wet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat besniden</l>
+<lb n="25" xml:id="Gf141va.25"/><l n="G_sample4_23003">hiertoe hadden zi tallen tiden</l>
+<lb n="26" xml:id="Gf141va.26"/><l n="G_sample4_23004">afgode daer zi gheloefden ane</l>
+<lb n="27" xml:id="Gf141va.27"/><l n="G_sample4_23005">dit hieten wesen samaritane</l>
+<lb n="28" xml:id="Gf141va.28"/><l n="G_sample4_23006">van samarien die stede</l>
+<lb n="29" xml:id="Gf141va.29"/><l n="G_sample4_23007">huer uate noch huer spise mede</l>
+<lb n="30" xml:id="Gf141va.30"/><l n="G_sample4_23008">en wilden die ioden niet <choice><abbr>ombare<g ref="#bar"/></abbr><expan>ombare<ex>n</ex></expan></choice></l>
+<lb n="31" xml:id="Gf141va.31"/><l n="G_sample4_23009">van desen was dat wijf twaren</l>
+<lb n="32" xml:id="Gf141va.32"/><l n="G_sample4_23010">die onze here kende dat</l>
+<lb n="33" xml:id="Gf141va.33"/><l n="G_sample4_23011"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi zeide daer terstat</l>
+<lb n="34" xml:id="Gf141va.34"/><l n="G_sample4_23012">datsi ghehadt hadde <num type="roman">.v.</num> man</l>
+<lb n="35" xml:id="Gf141va.35"/><l n="G_sample4_23013"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daer zi huer hilde an</l>
+<lb n="36" xml:id="Gf141va.36"/><l n="G_sample4_23014">datsi zine amye ware</l>
+<lb n="37" xml:id="Gf141va.37"/><l n="G_sample4_23015">doe zeide dwijf al openbare</l>
+<lb n="38" xml:id="Gf141va.38"/><l n="G_sample4_23016">jc zie dattu prophete zijs</l>
+<lb n="39" xml:id="Gf141va.39"/><l n="G_sample4_23017">onze vorders waren wijs</l>
+<lb n="40" xml:id="Gf141va.40"/><l n="G_sample4_23018">baden gode <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dienden him</l>
+<lb n="41" xml:id="Gf141va.41"/><l n="G_sample4_23019">hier opten berch te garisim</l>
+<lb n="42" xml:id="Gf141va.42"/><l n="G_sample4_23020"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghi zegt datmen hem</l>
+<lb n="43" xml:id="Gf141va.43"/><l n="G_sample4_23021">zal offren in <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice></l>
+<lb n="44" xml:id="Gf141va.44"/><l n="G_sample4_23022"><hi rend="capitalsize1">O</hi>nze here andworde hare</l>
+<lb n="45" xml:id="Gf141va.45"/><l n="G_sample4_23023">wijf gheloue mi openbare</l>
+<lb n="46" xml:id="Gf141va.46"/><l n="G_sample4_23024">dat die tijt is comen mede</l>
+<lb n="47" xml:id="Gf141va.47"/><l n="G_sample4_23025">dat te <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice> in die stede</l>
+<lb n="48" xml:id="Gf141va.48"/><l n="G_sample4_23026">noch hier en zuldi bidden niet</l>
+
+
+<pb xml:id="G.f141vb" n="141vb"/>
+<lb n="1" xml:id="Gf141vb.1"/><l n="G_sample4_23027">an dese worde hi bediet</l>
+<lb n="2" xml:id="Gf141vb.2"/><l n="G_sample4_23028">datmen gode ouer al</l>
+<lb n="3" xml:id="Gf141vb.3"/><l n="G_sample4_23029">met gheloue aenbeden zal</l>
+<lb n="4" xml:id="Gf141vb.4"/><l n="G_sample4_23030">niet te <choice><abbr>ih<g ref="#apomod"/>r<g ref="#apomod"/>l<g ref="#apomod"/>m</abbr><expan>ih<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m</expan></choice> allene</l>
+<lb n="5" xml:id="Gf141vb.5"/><l n="G_sample4_23031">alsmen dede doe zo clene</l>
+<lb n="6" xml:id="Gf141vb.6"/><l n="G_sample4_23032">was tgheloue in ertrike</l>
+<lb n="7" xml:id="Gf141vb.7"/><l n="G_sample4_23033">dwijf andworde cortelike</l>
+<lb n="8" xml:id="Gf141vb.8"/><l n="G_sample4_23034">jc weet wel dat kerst <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> zal</l>
+<lb n="9" xml:id="Gf141vb.9"/><l n="G_sample4_23035"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> als hi coemt hi zal ons al</l>
+<lb n="10" xml:id="Gf141vb.10"/><l n="G_sample4_23036">zegghen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doen uerstaen</l>
+<lb n="11" xml:id="Gf141vb.11"/><l n="G_sample4_23037">onze here andworde zaen</l>
+<lb n="12" xml:id="Gf141vb.12"/><l n="G_sample4_23038">jc bent. doe lietsi staen den stoop</l>
+<lb n="13" xml:id="Gf141vb.13"/><l n="G_sample4_23039">ter stat wart dede zi den loop</l>
+<lb n="14" xml:id="Gf141vb.14"/><l n="G_sample4_23040"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide den porters dan</l>
+<lb n="15" xml:id="Gf141vb.15"/><l n="G_sample4_23041">coemt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ziet hier enen man</l>
+<lb n="16" xml:id="Gf141vb.16"/><l n="G_sample4_23042">die mi heuet al bediet</l>
+<lb n="17" xml:id="Gf141vb.17"/><l n="G_sample4_23043">zo wat mi es ghesciet</l>
+<lb n="18" xml:id="Gf141vb.18"/><l n="G_sample4_23044">mach dat <choice><abbr>xp<g ref="#bar"/>s</abbr><expan>xp<ex>ristu</ex>s</expan></choice> doch iet wesen</l>
+<lb n="19" xml:id="Gf141vb.19"/><l n="G_sample4_23045">tfolc quam uter stede na desen</l>
+<lb n="20" xml:id="Gf141vb.20"/><l n="G_sample4_23046"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doe hise zach comen dare</l>
+<lb n="21" xml:id="Gf141vb.21"/><l n="G_sample4_23047">zeide hi datter coren ware</l>
+<lb n="22" xml:id="Gf141vb.22"/><l n="G_sample4_23048">ghereet ten oeste dat bedude</l>
+<lb n="23" xml:id="Gf141vb.23"/><l n="G_sample4_23049">ghereet teghelouene liede</l>
+<lb n="24" xml:id="Gf141vb.24"/><l n="G_sample4_23050">zo datsi hem baden dat</l>
+<lb n="25" xml:id="Gf141vb.25"/><l n="G_sample4_23051">dat hi mede ghinghe in die stat</l>
+<lb n="26" xml:id="Gf141vb.26"/><l n="G_sample4_23052">ende was met hem <num type="roman">.ij.</num> daghe mede</l>
+<lb n="27" xml:id="Gf141vb.27"/><l n="G_sample4_23053"><hi rend="capitalsize1">D</hi>aer hire vele ghelouen dede.</l>
+<lb n="28" xml:id="Gf141vb.28"/><l n="G_sample4_23054"><hi rend="capitalsize2">U</hi>an sichar quam hi daer na</l>
+<lb n="29" xml:id="Gf141vb.29"/><l n="G_sample4_23055">jn galilee tote cana</l>
+<lb n="30" xml:id="Gf141vb.30"/><l n="G_sample4_23056">daer een conincxken was</l>
+<lb n="31" xml:id="Gf141vb.31"/><l n="G_sample4_23057">dat beduut alsict las</l>
+<lb n="32" xml:id="Gf141vb.32"/><l n="G_sample4_23058">een die moghenste van den lande</l>
+<lb n="33" xml:id="Gf141vb.33"/><l n="G_sample4_23059">na den coninc alsict kande</l>
+<lb n="34" xml:id="Gf141vb.34"/><l n="G_sample4_23060">jn cafarnaum lach ziec zijn zone</l>
+<lb n="35" xml:id="Gf141vb.35"/><l n="G_sample4_23061">onzen here bat hi die gone</l>
+<lb n="36" xml:id="Gf141vb.36"/><l n="G_sample4_23062">dat hire quame <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hine ghenase</l>
+<lb n="37" xml:id="Gf141vb.37"/><l n="G_sample4_23063">god scauten ghelike den dwase<del>n</del></l>
+<lb n="38" xml:id="Gf141vb.38"/><l n="G_sample4_23064">want hi peinsde in zijn ghedochte</l>
+<lb n="39" xml:id="Gf141vb.39"/><l n="G_sample4_23065">dat hine niet ghenesen en mochte</l>
+<lb n="40" xml:id="Gf141vb.40"/><l n="G_sample4_23066">hine ware zelue ghegaen</l>
+<lb n="41" xml:id="Gf141vb.41"/><l n="G_sample4_23067">doch heeft hi an hem uerstaen</l>
+<lb n="42" xml:id="Gf141vb.42"/><l n="G_sample4_23068">dat god an hem <choice><abbr>ghesproke<g ref="#bar"/></abbr><expan>ghesproke<ex>n</ex></expan></choice> heuet</l>
+<lb n="43" xml:id="Gf141vb.43"/><l n="G_sample4_23069">ganc thuus dijn zone leuet</l>
+<lb n="44" xml:id="Gf141vb.44"/><l n="G_sample4_23070">mettien worde hi ghenas</l>
+<lb n="45" xml:id="Gf141vb.45"/><l n="G_sample4_23071">daer hi zelue niet en was</l>
+<lb n="46" xml:id="Gf141vb.46"/><l n="G_sample4_23072">die man <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine maisseniede</l>
+<lb n="47" xml:id="Gf141vb.47"/><l n="G_sample4_23073">gheloefden doet aldus ghesciede</l>
+<lb n="48" xml:id="Gf141vb.48"/><l n="G_sample4_23074">hiertoe scriuet ons dus jan</l>
+
+
+<pb xml:id="G.f142ra" n="142ra"/>
+<lb n="1" xml:id="Gf142ra.1"/><l n="G_sample4_23075">nu zegghen die <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> drie vort an.</l>
+<lb n="2" xml:id="Gf142ra.2"/><l n="G_sample4_23075a">die <num type="roman">.xx.</num> zondach na pinxten.</l>
+<lb n="3" xml:id="Gf142ra.3"/><l n="G_sample4_23076"><hi rend="capitalsize2">L</hi>eui die oec hiet matheus</l>
+<lb n="4" xml:id="Gf142ra.4"/><l n="G_sample4_23077">maecte onzen here in zijn huus</l>
+<lb n="5" xml:id="Gf142ra.5"/><l n="G_sample4_23078">ene werscap horic tellen</l>
+<lb n="6" xml:id="Gf142ra.6"/><l n="G_sample4_23079">daer aten mede leuijs ghesellen</l>
+<lb n="7" xml:id="Gf142ra.7"/><l n="G_sample4_23080">publicane dat bediet</l>
+<lb n="8" xml:id="Gf142ra.8"/><l n="G_sample4_23081">volc dat vele der werelt pliet</l>
+<lb n="9" xml:id="Gf142ra.9"/><l n="G_sample4_23082">die phariseen die hem mede</l>
+<lb n="10" xml:id="Gf142ra.10"/><l n="G_sample4_23083">verhieuen in die heilichede</l>
+<lb n="11" xml:id="Gf142ra.11"/><l n="G_sample4_23084">als die vroet <choice><abbr>waende<g ref="#bar"/></abbr><expan>waende<ex>n</ex></expan></choice> zijn zere</l>
+<lb n="12" xml:id="Gf142ra.12"/><l n="G_sample4_23085">zi begrepen onzen here</l>
+<lb n="13" xml:id="Gf142ra.13"/><l n="G_sample4_23086">dat hi at metten zondaren</l>
+<lb n="14" xml:id="Gf142ra.14"/><l n="G_sample4_23087">mer hi andworde tewaren</l>
+<lb n="15" xml:id="Gf142ra.15"/><l n="G_sample4_23088">en ben daer om niet comen al</l>
+<lb n="16" xml:id="Gf142ra.16"/><l n="G_sample4_23089">dat ic die rechte roepen zal</l>
+<lb n="17" xml:id="Gf142ra.17"/><l n="G_sample4_23090">mer <choice><abbr>zondare<g ref="#bar"/></abbr><expan>zondare<ex>n</ex></expan></choice> die <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> misdaen</l>
+<lb n="18" xml:id="Gf142ra.18"/><l n="G_sample4_23091">datsi penitencie ontfaen</l>
+<lb n="19" xml:id="Gf142ra.19"/><l n="G_sample4_23092">oec begrepen zine alsi zaghen</l>
+<lb n="20" xml:id="Gf142ra.20"/><l n="G_sample4_23093">dat zine ionghers niet en <choice><abbr>plaghe<g ref="#bar"/></abbr><expan>plaghe<ex>n</ex></expan></choice></l>
+<lb n="21" xml:id="Gf142ra.21"/><l n="G_sample4_23094">teuastene. mer onze here</l>
+<lb n="22" xml:id="Gf142ra.22"/><l n="G_sample4_23095">onsculdichtse zere</l>
+<lb n="23" xml:id="Gf142ra.23"/><l n="G_sample4_23096">jn dien dat uolc was ongheleert</l>
+<lb n="24" xml:id="Gf142ra.24"/><l n="G_sample4_23097"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in wighe no ghekeert</l>
+<lb n="25" xml:id="Gf142ra.25"/><l n="G_sample4_23098"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi vleisscelic met hem ware</l>
+<lb n="26" xml:id="Gf142ra.26"/><l n="G_sample4_23099">mer alst ghesciede daer nare</l>
+<lb n="27" xml:id="Gf142ra.27"/><l n="G_sample4_23100">dat hi hem wart ghenomen</l>
+<lb n="28" xml:id="Gf142ra.28"/><l n="G_sample4_23101">zo zoude hem vele <choice><abbr>teuaste<g ref="#bar"/></abbr><expan>teuaste<ex>n</ex></expan></choice> comen</l>
+<lb n="29" xml:id="Gf142ra.29"/><l n="G_sample4_23102">die phariseen wilden mettien</l>
+<lb n="30" xml:id="Gf142ra.30"/><l n="G_sample4_23103">een hemel teken van hem zien</l>
+<lb n="31" xml:id="Gf142ra.31"/><l n="G_sample4_23104">mer hi ontseit hem <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide mee</l>
+<lb n="32" xml:id="Gf142ra.32"/><l n="G_sample4_23105">die heidine van niniue</l>
+<lb n="33" xml:id="Gf142ra.33"/><l n="G_sample4_23106">beter waren dan zi</l>
+<lb n="34" xml:id="Gf142ra.34"/><l n="G_sample4_23107"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide redene waerbi</l>
+<lb n="35" xml:id="Gf142ra.35"/><l n="G_sample4_23108">want si penitencie daden</l>
+<lb n="36" xml:id="Gf142ra.36"/><l n="G_sample4_23109">doe ze jonas dreichde van scaden</l>
+<lb n="37" xml:id="Gf142ra.37"/><l n="G_sample4_23110">ende hi meerre dan jonas ware</l>
+<lb n="38" xml:id="Gf142ra.38"/><l n="G_sample4_23111">oec zeide hi ze argher openbare</l>
+<lb n="39" xml:id="Gf142ra.39"/><l n="G_sample4_23112">dan die heidine coninghinne</l>
+<lb n="40" xml:id="Gf142ra.40"/><l n="G_sample4_23113">die dor cracht van salomon<add>s</add> zinne</l>
+<lb n="41" xml:id="Gf142ra.41"/><l n="G_sample4_23114">van verre quam <choice><abbr>zoeke<g ref="#bar"/></abbr><expan>zoeke<ex>n</ex></expan></choice> die mare</l>
+<lb n="42" xml:id="Gf142ra.42"/><l n="G_sample4_23115"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi wiser dan salomon ware</l>
+<lb n="43" xml:id="Gf142ra.43"/><l n="G_sample4_23116"><hi rend="capitalsize1">D</hi>ie prince der <choice><abbr>synagoge<g ref="#bar"/></abbr><expan>synagoge<ex>n</ex></expan></choice> quam</l>
+<lb n="44" xml:id="Gf142ra.44"/><l n="G_sample4_23117">tot onzen here alsict vernam</l>
+<lb n="45" xml:id="Gf142ra.45"/><l n="G_sample4_23118"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> aenbeedden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide mede</l>
+<lb n="46" xml:id="Gf142ra.46"/><l n="G_sample4_23119">mijn dochter is nu doot ter stede</l>
+<lb n="47" xml:id="Gf142ra.47"/><l n="G_sample4_23120">com <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lech dijn hant op hare</l>
+<lb n="48" xml:id="Gf142ra.48"/><l n="G_sample4_23121">zi zal leuen openbare</l>
+
+
+<pb xml:id="G.f142rb" n="142rb"/>
+<lb n="1" xml:id="Gf142rb.1"/><l n="G_sample4_23122">mer doe hi darwart zoude gaen</l>
+<lb n="2" xml:id="Gf142rb.2"/><l n="G_sample4_23123">quam een wijf an hem zaen</l>
+<lb n="3" xml:id="Gf142rb.3"/><l n="G_sample4_23124">die ghebloedt hadde <num type="roman">.xij.</num> iaer</l>
+<lb n="4" xml:id="Gf142rb.4"/><l n="G_sample4_23125">ende taste allene die vaesen daer</l>
+<lb n="5" xml:id="Gf142rb.5"/><l n="G_sample4_23126">van <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> mantel alsict las</l>
+<lb n="6" xml:id="Gf142rb.6"/><l n="G_sample4_23127">mettien gheloue datsi ghenas</l>
+<lb n="7" xml:id="Gf142rb.7"/><l n="G_sample4_23127a"><hi rend="capitalsize2">U</hi>an zente. die <num type="roman">.xxiij.</num> <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>ach</ex></expan></choice> na <choice><abbr>pinxte<g ref="#bar"/>.</abbr><expan>pinxte<ex>n</ex>.</expan></choice></l>
+<lb n="8" xml:id="Gf142rb.8"/><l n="G_sample4_23128"><hi rend="capitalsize1">A</hi>mbrosius machmen lesen</l>
+<lb n="9" xml:id="Gf142rb.9"/><l n="G_sample4_23129">dat dit martha zoude wesen</l>
+<lb n="10" xml:id="Gf142rb.10"/><l n="G_sample4_23130">marien zuster magdalene</l>
+<lb n="11" xml:id="Gf142rb.11"/><l n="G_sample4_23131"><choice><abbr><hi rend="capitalsize1">J</hi>h<g ref="#apomod"/>s</abbr><expan><hi rend="capitalsize1">J</hi>h<ex>esu</ex>s</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zine ionghers ghemene</l>
+<lb n="12" xml:id="Gf142rb.12"/><l n="G_sample4_23132">quamen daer woende lazarus</l>
+<lb n="13" xml:id="Gf142rb.13"/><l n="G_sample4_23133">dat was een prince hi ghinc int huus</l>
+<lb n="14" xml:id="Gf142rb.14"/><l n="G_sample4_23134">petre leidde hi mede danne</l>
+<lb n="15" xml:id="Gf142rb.15"/><l n="G_sample4_23135">jacob den meerren ende janne</l>
+<lb n="16" xml:id="Gf142rb.16"/><l n="G_sample4_23136"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> der jonfrouwen <choice><abbr>moed<g ref="#apomod"/></abbr><expan>moed<ex>er</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> uader</l>
+<lb n="17" xml:id="Gf142rb.17"/><l n="G_sample4_23137">die ander dreef hi vut algader</l>
+<lb n="18" xml:id="Gf142rb.18"/><l n="G_sample4_23138">want toten luden dat hi riep</l>
+<lb n="19" xml:id="Gf142rb.19"/><l n="G_sample4_23139">dattie dochter lach ende sliep</l>
+<lb n="20" xml:id="Gf142rb.20"/><l n="G_sample4_23140">om dat hise <choice><abbr>uersceide<g ref="#bar"/></abbr><expan>uersceide<ex>n</ex></expan></choice> vant</l>
+<lb n="21" xml:id="Gf142rb.21"/><l n="G_sample4_23141">die jonfrou nam hi bi der hant</l>
+<lb n="22" xml:id="Gf142rb.22"/><l n="G_sample4_23142"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet huer datsi zoude opstaen</l>
+<lb n="23" xml:id="Gf142rb.23"/><l n="G_sample4_23143"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet huer redene gheuen zaen</l>
+<lb n="24" xml:id="Gf142rb.24"/><l n="G_sample4_23144">dats verrisenisse warachtich</l>
+<lb n="25" xml:id="Gf142rb.25"/><l n="G_sample4_23145">men vint touerie zo machtich</l>
+<lb n="26" xml:id="Gf142rb.26"/><l n="G_sample4_23146"><choice><abbr>daerme<g ref="#bar"/></abbr><expan>daerme<ex>n</ex></expan></choice> die doden doet bi verrisen</l>
+<lb n="27" xml:id="Gf142rb.27"/><l n="G_sample4_23147">mer zine doens in gheenre wisen</l>
+<lb n="28" xml:id="Gf142rb.28"/><l n="G_sample4_23147a">matheus</l>
+<lb n="29" xml:id="Gf142rb.29"/><l n="G_sample4_23148"><hi rend="capitalsize2">U</hi>an dane scriuet matheus</l>
+<lb n="30" xml:id="Gf142rb.30"/><l n="G_sample4_23149">ghinc onze here jhesus</l>
+<lb n="31" xml:id="Gf142rb.31"/><l n="G_sample4_23150"><num type="roman">.ij.</num> blinde volchden hem om tgone</l>
+<lb n="32" xml:id="Gf142rb.32"/><l n="G_sample4_23151"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> riepen ihesus dauids zone</l>
+<lb n="33" xml:id="Gf142rb.33"/><l n="G_sample4_23152">ontfarme onzer. doe hi thuus <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="34" xml:id="Gf142rb.34"/><l n="G_sample4_23153">te nazareth. alsict vernam</l>
+<lb n="35" xml:id="Gf142rb.35"/><l n="G_sample4_23154">taste hi huer oghen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi <choice><abbr>ondade<g ref="#bar"/></abbr><expan>ondade<ex>n</ex></expan></choice></l>
+<lb n="36" xml:id="Gf142rb.36"/><l n="G_sample4_23155">mer allene heeft hise gheladen</l>
+<lb n="37" xml:id="Gf142rb.37"/><l n="G_sample4_23156">dat het niement en worde becant</l>
+<lb n="38" xml:id="Gf142rb.38"/><l n="G_sample4_23157">nochtan zeident al dor tlant</l>
+<lb n="39" xml:id="Gf142rb.39"/><l n="G_sample4_23158">doe zi ghesceiden waren dane</l>
+<lb n="40" xml:id="Gf142rb.40"/><l n="G_sample4_23159">als ons matheus doet te uerstane</l>
+<lb n="41" xml:id="Gf142rb.41"/><l n="G_sample4_23159a"><hi rend="capitalsize2">B</hi>eide. <hi rend="capitalsize1">D</hi>ie derde <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>ach</ex></expan></choice> <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> den <choice><abbr>vaste<g ref="#bar"/>.</abbr><expan>vaste<ex>n</ex>.</expan></choice></l>
+<lb n="42" xml:id="Gf142rb.42"/><l n="G_sample4_23160">lucas <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> marcus g<add>h</add>ewag<add>h</add>en das</l>
+<lb n="43" xml:id="Gf142rb.43"/><l n="G_sample4_23161">dat ene beseten was</l>
+<lb n="44" xml:id="Gf142rb.44"/><l n="G_sample4_23162">metten viant diemen hem brochte</l>
+<lb n="45" xml:id="Gf142rb.45"/><l n="G_sample4_23163">die oec niet spreken en mochte</l>
+<lb n="46" xml:id="Gf142rb.46"/><l n="G_sample4_23164">onze here dreef vut den viant</l>
+<lb n="47" xml:id="Gf142rb.47"/><l n="G_sample4_23165">entie stomme sprac althant</l>
+<lb n="48" xml:id="Gf142rb.48"/><l n="G_sample4_23166">doe prijsden daer menich een</l>
+
+
+<pb xml:id="G.f142va" n="142va"/>
+<lb n="1" xml:id="Gf142va.1"/><l n="G_sample4_23167">mer die quade phariseen</l>
+<lb n="2" xml:id="Gf142va.2"/><l n="G_sample4_23168">zeide ouer een tesamen</l>
+<lb n="3" xml:id="Gf142va.3"/><l n="G_sample4_23169">dat hi in belzebubs namen</l>
+<lb n="4" xml:id="Gf142va.4"/><l n="G_sample4_23170">die prince van den <choice><abbr>duuele<g ref="#bar"/></abbr><expan>duuele<ex>n</ex></expan></choice> ware</l>
+<lb n="5" xml:id="Gf142va.5"/><l n="G_sample4_23171">die viande vut <choice><abbr>driue<g ref="#bar"/></abbr><expan>driue<ex>n</ex></expan></choice> van vare</l>
+<lb n="6" xml:id="Gf142va.6"/><l n="G_sample4_23172"><choice><abbr><hi rend="capitalsize1">J</hi>h<g ref="#apomod"/>s</abbr><expan><hi rend="capitalsize1">J</hi>h<ex>esu</ex>s</expan></choice> andworde daer ter stede</l>
+<lb n="7" xml:id="Gf142va.7"/><l n="G_sample4_23173">of ic bi belzebub<add>s</add> moghenthede</l>
+<lb n="8" xml:id="Gf142va.8"/><l n="G_sample4_23174">den viant verdriuen can</l>
+<lb n="9" xml:id="Gf142va.9"/><l n="G_sample4_23175">bi wes crachte doent v <choice><abbr>kind<g ref="#apomod"/></abbr><expan>kind<ex>er</ex></expan></choice> dan</l>
+<lb n="10" xml:id="Gf142va.10"/><l n="G_sample4_23176">want die joden dat wel wisten</l>
+<lb n="11" xml:id="Gf142va.11"/><l n="G_sample4_23177">dat onder hem <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> exorcisten</l>
+<lb n="12" xml:id="Gf142va.12"/><l n="G_sample4_23178">dat luut <choice><abbr>beswere<g ref="#bar"/></abbr><expan>beswere<ex>n</ex></expan></choice> in onze tale</l>
+<lb n="13" xml:id="Gf142va.13"/><l n="G_sample4_23179">die de duuelen consten wale</l>
+<lb n="14" xml:id="Gf142va.14"/><l n="G_sample4_23180">vten menschen varen doen</l>
+<lb n="15" xml:id="Gf142va.15"/><l n="G_sample4_23181">endie woorde van salomoen</l>
+<lb n="16" xml:id="Gf142va.16"/><l n="G_sample4_23182"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat zeiden zi openbare</l>
+<lb n="17" xml:id="Gf142va.17"/><l n="G_sample4_23183">dat van gods haluen ware</l>
+<lb n="18" xml:id="Gf142va.18"/><l n="G_sample4_23184">mer die miracle ons heren</l>
+<lb n="19" xml:id="Gf142va.19"/><l n="G_sample4_23185">wilden zi ten quaetsten keren.</l>
+<lb n="20" xml:id="Gf142va.20"/><l n="G_sample4_23185a">lucas</l>
+<lb n="21" xml:id="Gf142va.21"/><l n="G_sample4_23186"><hi rend="capitalsize3">H</hi>Jerna scriuet lucas dat</l>
+<lb n="22" xml:id="Gf142va.22"/><l n="G_sample4_23187">dat <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> quam in ene stat</l>
+<lb n="23" xml:id="Gf142va.23"/><l n="G_sample4_23188">daer hem een phariseus bat</l>
+<lb n="24" xml:id="Gf142va.24"/><l n="G_sample4_23189">also dat hi met hem at</l>
+<lb n="25" xml:id="Gf142va.25"/><l n="G_sample4_23190">al daer quam met groten wene</l>
+<lb n="26" xml:id="Gf142va.26"/><l n="G_sample4_23191">die bezondichde magdalene</l>
+<lb n="27" xml:id="Gf142va.27"/><l n="G_sample4_23192"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dwoech met <choice><abbr>trane<g ref="#bar"/></abbr><expan>trane<ex>n</ex></expan></choice> zine voete</l>
+<lb n="28" xml:id="Gf142va.28"/><l n="G_sample4_23193">met horen hare wreef zi ze zoete</l>
+<lb n="29" xml:id="Gf142va.29"/><l n="G_sample4_23194"><hi rend="capitalsize1">G</hi>hene phariseus hiet symoen</l>
+<lb n="30" xml:id="Gf142va.30"/><l n="G_sample4_23195"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> peinsde in zijn doen</l>
+<lb n="31" xml:id="Gf142va.31"/><l n="G_sample4_23196">waert dat dese prophete ware</l>
+<lb n="32" xml:id="Gf142va.32"/><l n="G_sample4_23197">hi zoudet weten openbare</l>
+
+<note n="G_sample4_23198">Line_number 23198 is missing</note>
+
+<note n="G_sample4_23199">Line_number 23199 is missing</note>
+
+<note n="G_sample4_23200">Line_number 23200 is missing</note>
+
+<note n="G_sample4_23201">Line_number 23201 is missing</note>
+<lb n="33" xml:id="Gf142va.33"/><l n="G_sample4_23202"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zeide huer waer vele <choice><abbr>verlate<g ref="#bar"/></abbr><expan>verlate<ex>n</ex></expan></choice></l>
+<lb n="34" xml:id="Gf142va.34"/><l n="G_sample4_23203">wantsi minden vtermaten</l>
+<lb n="35" xml:id="Gf142va.35"/><l n="G_sample4_23204">aldaer ter zeluer stonden</l>
+<lb n="36" xml:id="Gf142va.36"/><l n="G_sample4_23205">vergaf huer god hore zonden</l>
+<lb n="37" xml:id="Gf142va.37"/><l n="G_sample4_23206"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zi uolchde hem na</l>
+<lb n="38" xml:id="Gf142va.38"/><l n="G_sample4_23207">onze here ghinc in judea</l>
+<lb n="39" xml:id="Gf142va.39"/><l n="G_sample4_23208">jn enen casteel quam hi ghegaen</l>
+<lb n="40" xml:id="Gf142va.40"/><l n="G_sample4_23209">daer heeften martha ontfaen</l>
+<lb n="41" xml:id="Gf142va.41"/><l n="G_sample4_23210">jn hur huus die zuster marien</l>
+<lb n="42" xml:id="Gf142va.42"/><l n="G_sample4_23211"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> diende hem <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zire partien</l>
+<lb n="43" xml:id="Gf142va.43"/><l n="G_sample4_23212">maria zat bi zinen voeten</l>
+<lb n="44" xml:id="Gf142va.44"/><l n="G_sample4_23213"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoerde spreken <choice><abbr>ih<g ref="#apomod"/>s</abbr><expan>ih<ex>esu</ex>s</expan></choice> den zoeten</l>
+<lb n="45" xml:id="Gf142va.45"/><l n="G_sample4_23214">martha claghede dat magdalene</l>
+<lb n="46" xml:id="Gf142va.46"/><l n="G_sample4_23215">huer liet dienen allene</l>
+<lb n="47" xml:id="Gf142va.47"/><l n="G_sample4_23216">daer prijsde god marien zere</l>
+<lb n="48" xml:id="Gf142va.48"/><l n="G_sample4_23217">zo wijslike in zulken kere</l>
+
+
+<pb xml:id="G.f142vb" n="142vb"/>
+<lb n="1" xml:id="Gf142vb.1"/><l n="G_sample4_23218">dat hi altoes in gheenre wijs</l>
+<lb n="2" xml:id="Gf142vb.2"/><l n="G_sample4_23219">marthen niet en sprac misprijs</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Josephus_sample5" xml:id="sample5">
+<body>
+<p>
+
+<pb xml:id="G.f184rb" n="184rb"/>
+<lb n="1" xml:id="Gf184rb.1"/><l n="G_sample5_33296">die morderen die den tempel helden</l>
+<lb n="2" xml:id="Gf184rb.2"/><l n="G_sample5_33297">rustten in der w<add>a</add>ere oec zelden</l>
+<lb n="3" xml:id="Gf184rb.3"/><l n="G_sample5_33298">doch visierden zi dese moort</l>
+<lb n="4" xml:id="Gf184rb.4"/><l n="G_sample5_33299">an die wetside hoort</l>
+<lb n="5" xml:id="Gf184rb.5"/><l n="G_sample5_33300">stont een portael goet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> diere</l>
+<lb n="6" xml:id="Gf184rb.6"/><l n="G_sample5_33301">daer droeghen zi hout sciere</l>
+
+
+<pb xml:id="G.f184va" n="184va"/>
+<lb n="1" xml:id="Gf184va.1"/><l n="G_sample5_33302">butimen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sulphur oec mede</l>
+<lb n="2" xml:id="Gf184va.2"/><l n="G_sample5_33303"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weken danen vander stede</l>
+<lb n="3" xml:id="Gf184va.3"/><l n="G_sample5_33304">ghelijc of zi ghelouich waren</l>
+<lb n="4" xml:id="Gf184va.4"/><l n="G_sample5_33305">vele riese vander scaren</l>
+<lb n="5" xml:id="Gf184va.5"/><l n="G_sample5_33306">volchden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> clommen naer</l>
+<lb n="6" xml:id="Gf184va.6"/><l n="G_sample5_33307">met ledren opt portael daer</l>
+<lb n="7" xml:id="Gf184va.7"/><l n="G_sample5_33308">dat dochte den <choice><abbr>iode<g ref="#bar"/></abbr><expan>iode<ex>n</ex></expan></choice> zijn quaet</l>
+<lb n="8" xml:id="Gf184va.8"/><l n="G_sample5_33309">als dat joedsche uolc verstaet</l>
+<lb n="9" xml:id="Gf184va.9"/><l n="G_sample5_33310">dat tportael vol was tehant</l>
+<lb n="10" xml:id="Gf184va.10"/><l n="G_sample5_33311">staken zi ghinder in den brant</l>
+<lb n="11" xml:id="Gf184va.11"/><l n="G_sample5_33312">die wart altehant ontsteken</l>
+<lb n="12" xml:id="Gf184va.12"/><l n="G_sample5_33313">die romeyne met horen treken</l>
+<lb n="13" xml:id="Gf184va.13"/><l n="G_sample5_33314"><choice><abbr>worde<g ref="#bar"/></abbr><expan>worde<ex>n</ex></expan></choice> begaen daerne was gheen vlien</l>
+<lb n="14" xml:id="Gf184va.14"/><l n="G_sample5_33315">tytus die dit heeft verzien</l>
+<lb n="15" xml:id="Gf184va.15"/><l n="G_sample5_33316">was droeue hine const <choice><abbr>ghewreke<g ref="#bar"/></abbr><expan>ghewreke<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Gf184va.16"/><l n="G_sample5_33317">met aldusghedanen treken</l>
+<lb n="17" xml:id="Gf184va.17"/><l n="G_sample5_33318">storuen zi wel na altemale</l>
+<lb n="18" xml:id="Gf184va.18"/><l n="G_sample5_33319">die daer waren opten portale</l>
+<lb n="19" xml:id="Gf184va.19"/><l n="G_sample5_33320">daerna brakent die ioden al</l>
+<lb n="20" xml:id="Gf184va.20"/><l n="G_sample5_33321">mer dusghedane misual</l>
+<lb n="21" xml:id="Gf184va.21"/><l n="G_sample5_33322">maecte die romeyne vroet</l>
+<lb n="22" xml:id="Gf184va.22"/><l n="G_sample5_33323">elc heeft hem tenauwer behoet</l>
+<lb n="23" xml:id="Gf184va.23"/><l n="G_sample5_33324">ten naesten daghe zo onstaken</l>
+<lb n="24" xml:id="Gf184va.24"/><l n="G_sample5_33325">die romeyne om dese zaken</l>
+<lb n="25" xml:id="Gf184va.25"/><l n="G_sample5_33326">dat portael aen die noortside</l>
+<lb n="26" xml:id="Gf184va.26"/><l n="G_sample5_33327">al omme den tempel tien tide</l>
+<lb n="27" xml:id="Gf184va.27"/><l n="G_sample5_33328">dat was aldusghedane moort</l>
+<lb n="28" xml:id="Gf184va.28"/><l n="G_sample5_33329">nu hoert een deel van der poort</l>
+<lb n="29" xml:id="Gf184va.29"/><l n="G_sample5_33330">wies die hongher zo groet</l>
+<lb n="30" xml:id="Gf184va.30"/><l n="G_sample5_33331">noyt man hoerde dies ghenoet</l>
+<lb n="31" xml:id="Gf184va.31"/><l n="G_sample5_33332">om spise vechten zo <choice><abbr>menig<add>h</add>e<g ref="#bar"/></abbr><expan>menig<add>h</add>e<ex>n</ex></expan></choice> wijch</l>
+<lb n="32" xml:id="Gf184va.32"/><l n="G_sample5_33333">daer omme was al die crijch</l>
+<lb n="33" xml:id="Gf184va.33"/><l n="G_sample5_33334">ja dieue ondecten mede</l>
+<lb n="34" xml:id="Gf184va.34"/><l n="G_sample5_33335">die dode lude vander stede</l>
+<lb n="35" xml:id="Gf184va.35"/><l n="G_sample5_33336"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onderzochten die te eten</l>
+<lb n="36" xml:id="Gf184va.36"/><l n="G_sample5_33337">riemen scoen wil dijt weten</l>
+<lb n="37" xml:id="Gf184va.37"/><l n="G_sample5_33338">aten zi daer zi dlijf mede hilden</l>
+<lb n="38" xml:id="Gf184va.38"/><l n="G_sample5_33339"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat leder van den scilden</l>
+<lb n="39" xml:id="Gf184va.39"/><l n="G_sample5_33340">ja wat zal nu des meer</l>
+<lb n="40" xml:id="Gf184va.40"/><l n="G_sample5_33341">hoert hier iamer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groet zeer</l>
+<lb n="41" xml:id="Gf184va.41"/><l n="G_sample5_33342"><hi rend="capitalsize2">E</hi>en wijf van ouer die iordane</l>
+<lb n="42" xml:id="Gf184va.42"/><l n="G_sample5_33343">die wilen rike was ic wane</l>
+<lb n="43" xml:id="Gf184va.43"/><l n="G_sample5_33344">marie hietsi bi namen</l>
+<lb n="44" xml:id="Gf184va.44"/><l n="G_sample5_33345">doe dander lude in iherusalem <choice><abbr>q<hi rend="superscript">a</hi>me<g ref="#bar"/></abbr><expan>q<ex>ua</ex>me<ex>n</ex></expan></choice></l>
+<lb n="45" xml:id="Gf184va.45"/><l n="G_sample5_33346">quam zire in <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wart beseten</l>
+<lb n="46" xml:id="Gf184va.46"/><l n="G_sample5_33347">metten andren als wi weten</l>
+<lb n="47" xml:id="Gf184va.47"/><l n="G_sample5_33348">watsi met hore hadde brocht</l>
+<lb n="48" xml:id="Gf184va.48"/><l n="G_sample5_33349">van ouer dwater bezocht</l>
+
+
+<pb xml:id="G.f184vb" n="184vb"/>
+<lb n="1" xml:id="Gf184vb.1"/><l n="G_sample5_33350">was van rouers huer ghenomen</l>
+<lb n="2" xml:id="Gf184vb.2"/><l n="G_sample5_33351">daertoe zach zi altoes comen</l>
+<lb n="3" xml:id="Gf184vb.3"/><l n="G_sample5_33352">die rouers die huer namen deten</l>
+<lb n="4" xml:id="Gf184vb.4"/><l n="G_sample5_33353">als zire yet hadde vergheten</l>
+<lb n="5" xml:id="Gf184vb.5"/><l n="G_sample5_33354">die vrouwe dat zwaer verdroech</l>
+<lb n="6" xml:id="Gf184vb.6"/><l n="G_sample5_33355"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vloecte die dieue ghenoech</l>
+<lb n="7" xml:id="Gf184vb.7"/><l n="G_sample5_33356">om datsi gherne hadde verdient</l>
+<lb n="8" xml:id="Gf184vb.8"/><l n="G_sample5_33357">dat enich viant ofte vrient</l>
+<lb n="9" xml:id="Gf184vb.9"/><l n="G_sample5_33358">huer dlijf hadde ghenomen</l>
+<lb n="10" xml:id="Gf184vb.10"/><l n="G_sample5_33359">mer daertoe en mocht niet comen</l>
+<lb n="11" xml:id="Gf184vb.11"/><l n="G_sample5_33360"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> datmen huer nam zo rene</l>
+<lb n="12" xml:id="Gf184vb.12"/><l n="G_sample5_33361">dat huer en bleef grote no clene</l>
+<lb n="13" xml:id="Gf184vb.13"/><l n="G_sample5_33362">en tie hongher ghinc huer an zere</l>
+<lb n="14" xml:id="Gf184vb.14"/><l n="G_sample5_33363">daertoe verwoedde gramscap mere</l>
+<lb n="15" xml:id="Gf184vb.15"/><l n="G_sample5_33364">dies wartsi van fellen moede</l>
+<lb n="16" xml:id="Gf184vb.16"/><l n="G_sample5_33365"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van brekenisse van goede</l>
+<lb n="17" xml:id="Gf184vb.17"/><l n="G_sample5_33366">teghen hore nature gram</l>
+<lb n="18" xml:id="Gf184vb.18"/><l n="G_sample5_33367">huer zughende kint datsi nam</l>
+<lb n="19" xml:id="Gf184vb.19"/><l n="G_sample5_33368">verdoemt kijnt zeide zi van desen</l>
+<lb n="20" xml:id="Gf184vb.20"/><l n="G_sample5_33369">jamerlike zalt metti wesen</l>
+<lb n="21" xml:id="Gf184vb.21"/><l n="G_sample5_33370">te wies behoef zal ic di voeden</l>
+<lb n="22" xml:id="Gf184vb.22"/><l n="G_sample5_33371">den <choice><abbr>romeyne<g ref="#bar"/></abbr><expan>romeyne<ex>n</ex></expan></choice> wiltuut vroeden</l>
+<lb n="23" xml:id="Gf184vb.23"/><l n="G_sample5_33372">du wordst aerm behoudstu dlijf</l>
+<lb n="24" xml:id="Gf184vb.24"/><l n="G_sample5_33373">mer die hongher aerm keitijf</l>
+<lb n="25" xml:id="Gf184vb.25"/><l n="G_sample5_33374">zal di verteren eer dit ghesciet</l>
+<lb n="26" xml:id="Gf184vb.26"/><l n="G_sample5_33375">nochtan is dit mordadighe dit</l>
+<lb n="27" xml:id="Gf184vb.27"/><l n="G_sample5_33376">argher dan zijn zi twee</l>
+<lb n="28" xml:id="Gf184vb.28"/><l n="G_sample5_33377">wes mine spise voertmee</l>
+<lb n="29" xml:id="Gf184vb.29"/><l n="G_sample5_33378">die dieue zelen werden erre</l>
+<lb n="30" xml:id="Gf184vb.30"/><l n="G_sample5_33379">men zal dese dinc tellen verre</l>
+
+<note n="G_sample5_33380">Line_number 33380 is missing</note>
+
+<note n="G_sample5_33381">Line_number 33381 is missing</note>
+<lb n="31" xml:id="Gf184vb.31"/><l n="G_sample5_33382">dit spracsi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sloech hur kint doet</l>
+<lb n="32" xml:id="Gf184vb.32"/><l n="G_sample5_33383">zom briet zijt ofte zoet</l>
+<lb n="33" xml:id="Gf184vb.33"/><l n="G_sample5_33384"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dander decte zi en helt</l>
+<lb n="34" xml:id="Gf184vb.34"/><l n="G_sample5_33385">nu <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> die rouers met ghewelt</l>
+<lb n="35" xml:id="Gf184vb.35"/><l n="G_sample5_33386"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hebben dat verroken zaen</l>
+<lb n="36" xml:id="Gf184vb.36"/><l n="G_sample5_33387">zi dreigheden ze doet te slaen</l>
+<lb n="37" xml:id="Gf184vb.37"/><l n="G_sample5_33388">en ware datsi die spise gaue</l>
+<lb n="38" xml:id="Gf184vb.38"/><l n="G_sample5_33389">zi zeide een goet deel daer aue</l>
+<lb n="39" xml:id="Gf184vb.39"/><l n="G_sample5_33390">hebbic ghehouden tuwen behoef</l>
+<lb n="40" xml:id="Gf184vb.40"/><l n="G_sample5_33391">mettien datsi dat decsel op hoef</l>
+<lb n="41" xml:id="Gf184vb.41"/><l n="G_sample5_33392"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> toghede hem hurs kinds relijf</l>
+<lb n="42" xml:id="Gf184vb.42"/><l n="G_sample5_33393">daerne was gheen zo coene keitijf</l>
+<lb n="43" xml:id="Gf184vb.43"/><l n="G_sample5_33394">hem en eysde daer hijt zach toe</l>
+<lb n="44" xml:id="Gf184vb.44"/><l n="G_sample5_33395">doe zeide dwijf hoe vaerdi hoe</l>
+<lb n="45" xml:id="Gf184vb.45"/><l n="G_sample5_33396">dits mijn kijnt wildijt weten</l>
+<lb n="46" xml:id="Gf184vb.46"/><l n="G_sample5_33397"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic hebber voren af gheten</l>
+<lb n="47" xml:id="Gf184vb.47"/><l n="G_sample5_33398">en wille niet dat ghi zekerre zijt</l>
+<lb n="48" xml:id="Gf184vb.48"/><l n="G_sample5_33399">dan een wijf hens ghene tijt</l>
+
+
+<pb xml:id="G.f185ra" n="185ra"/>
+<lb n="1" xml:id="Gf185ra.1"/><l n="G_sample5_33400"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ontfarmigher dan die moeder</l>
+<lb n="2" xml:id="Gf185ra.2"/><l n="G_sample5_33401">al eest dat ghi zijt vroeder.</l>
+
+<note n="G_sample5_33402">Line_number 33402 is missing</note>
+
+<note n="G_sample5_33403">Line_number 33403 is missing</note>
+<lb n="3" xml:id="Gf185ra.3"/><l n="G_sample5_33404"><hi rend="capitalsize2">A</hi>l beuende <choice><abbr>ghinghe<g ref="#bar"/></abbr><expan>ghinghe<ex>n</ex></expan></choice> zi dane</l>
+<lb n="4" xml:id="Gf185ra.4"/><l n="G_sample5_33405"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> cume lieten zi als ic wane</l>
+<lb n="5" xml:id="Gf185ra.5"/><l n="G_sample5_33406">der moeder allene hebben dat</l>
+<lb n="6" xml:id="Gf185ra.6"/><l n="G_sample5_33407">hier af wart vol al die stat</l>
+<lb n="7" xml:id="Gf185ra.7"/><l n="G_sample5_33408">onder there quam oec die mare</l>
+<lb n="8" xml:id="Gf185ra.8"/><l n="G_sample5_33409">zelc waende dat boerde ware</l>
+<lb n="9" xml:id="Gf185ra.9"/><l n="G_sample5_33410">zelc ontfaermets. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zelc mede</l>
+<lb n="10" xml:id="Gf185ra.10"/><l n="G_sample5_33411">haetter omme alle die stede</l>
+<lb n="11" xml:id="Gf185ra.11"/><l n="G_sample5_33412"><hi rend="capitalsize1">T</hi>ytus claghets onzen here</l>
+<lb n="12" xml:id="Gf185ra.12"/><l n="G_sample5_33413"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> toghede dat hi hem ere</l>
+<lb n="13" xml:id="Gf185ra.13"/><l n="G_sample5_33414">pays boet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vergheuen woude</l>
+<lb n="14" xml:id="Gf185ra.14"/><l n="G_sample5_33415">alle misdaet met hore scoude</l>
+<lb n="15" xml:id="Gf185ra.15"/><l n="G_sample5_33416">mer zi coren strijt vor vrede</l>
+<lb n="16" xml:id="Gf185ra.16"/><l n="G_sample5_33417"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hongher vor weelde mede</l>
+<lb n="17" xml:id="Gf185ra.17"/><l n="G_sample5_33418"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> om datsi te haren scanden</l>
+<lb n="18" xml:id="Gf185ra.18"/><l n="G_sample5_33419">onstaken met horen handen</l>
+<lb n="19" xml:id="Gf185ra.19"/><l n="G_sample5_33420">waren zi wert van zulker spise</l>
+<lb n="20" xml:id="Gf185ra.20"/><l n="G_sample5_33421">mer hi zout wreken in derre wise</l>
+<lb n="21" xml:id="Gf185ra.21"/><l n="G_sample5_33422">dat hi tlant zoude destrueren</l>
+<lb n="22" xml:id="Gf185ra.22"/><l n="G_sample5_33423">entie porte alzo verteren</l>
+<lb n="23" xml:id="Gf185ra.23"/><l n="G_sample5_33424">dat nemmeer man en zag<add>h</add>e die stede</l>
+<lb n="24" xml:id="Gf185ra.24"/><l n="G_sample5_33425">daer dwijf huer kint dus verdede</l>
+<lb n="25" xml:id="Gf185ra.25"/><l n="G_sample5_33426">aldus maecte hi zijn gheclach</l>
+<lb n="26" xml:id="Gf185ra.26"/><l n="G_sample5_33427">jn den oechst opten <num type="roman">.xiij.</num> dach</l>
+<lb n="27" xml:id="Gf185ra.27"/><l n="G_sample5_33428">zo waert voldraghen die dracht</l>
+<lb n="28" xml:id="Gf185ra.28"/><l n="G_sample5_33429">west an den tempel met <choice><abbr>grot<g ref="#apomod"/></abbr><expan>grot<ex>er</ex></expan></choice> cracht</l>
+<lb n="29" xml:id="Gf185ra.29"/><l n="G_sample5_33430">dus <choice><abbr>brachtme<g ref="#bar"/></abbr><expan>brachtme<ex>n</ex></expan></choice> doe den <choice><abbr>starke<g ref="#bar"/></abbr><expan>starke<ex>n</ex></expan></choice> ram</l>
+<lb n="30" xml:id="Gf185ra.30"/><l n="G_sample5_33431"><num type="roman">.viij.</num> daghe staec zi alsic vernam</l>
+<lb n="31" xml:id="Gf185ra.31"/><l n="G_sample5_33432">datsi <choice><abbr>wonne<g ref="#bar"/></abbr><expan>wonne<ex>n</ex></expan></choice> niet een haer</l>
+<lb n="32" xml:id="Gf185ra.32"/><l n="G_sample5_33433">zo groet was tgewerke daer</l>
+<lb n="33" xml:id="Gf185ra.33"/><l n="G_sample5_33434">die poorte ondergroeuen zi zome</l>
+<lb n="34" xml:id="Gf185ra.34"/><l n="G_sample5_33435">mer daer af <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> hem g<add>h</add>ene vrome</l>
+<lb n="35" xml:id="Gf185ra.35"/><l n="G_sample5_33436">en diedde niet dat zire an daden</l>
+<lb n="36" xml:id="Gf185ra.36"/><l n="G_sample5_33437">zo datsi worden beraden</l>
+<lb n="37" xml:id="Gf185ra.37"/><l n="G_sample5_33438">datsi ledren toe droeghen</l>
+<lb n="38" xml:id="Gf185ra.38"/><l n="G_sample5_33439">mer die ioden versloeghen</l>
+<lb n="39" xml:id="Gf185ra.39"/><l n="G_sample5_33440">der romeyne zo uele</l>
+<lb n="40" xml:id="Gf185ra.40"/><l n="G_sample5_33441">dat hem ghinc uten spele</l>
+<lb n="41" xml:id="Gf185ra.41"/><l n="G_sample5_33442">hier om wart tytus tonghemake</l>
+<lb n="42" xml:id="Gf185ra.42"/><l n="G_sample5_33443"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet <choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> die porte onstake</l>
+<lb n="43" xml:id="Gf185ra.43"/><l n="G_sample5_33444">doe <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> die twee felste gheuloen</l>
+<lb n="44" xml:id="Gf185ra.44"/><l n="G_sample5_33445">die onder hem hadde symoen</l>
+<lb n="45" xml:id="Gf185ra.45"/><l n="G_sample5_33446">tote tytus om ghenaden</l>
+<lb n="46" xml:id="Gf185ra.46"/><l n="G_sample5_33447">hi was dies harde wel beraden</l>
+<lb n="47" xml:id="Gf185ra.47"/><l n="G_sample5_33448">dat hise hadde doen ontliuen</l>
+<lb n="48" xml:id="Gf185ra.48"/><l n="G_sample5_33449"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>er</ex></expan></choice> hi ne wilde niet meinedich <choice><abbr>bliue<g ref="#bar"/></abbr><expan>bliue<ex>n</ex></expan></choice></l>
+
+
+<pb xml:id="G.f185rb" n="185rb"/>
+<lb n="1" xml:id="Gf185rb.1"/><l n="G_sample5_33450">wantsi mordadich waren</l>
+<lb n="2" xml:id="Gf185rb.2"/><l n="G_sample5_33451">die riddre droeghen vier <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>er</ex></expan></choice> <choice><abbr>spare<g ref="#bar"/></abbr><expan>spare<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Gf185rb.3"/><l n="G_sample5_33452"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghinghen die porte onsteken</l>
+<lb n="4" xml:id="Gf185rb.4"/><l n="G_sample5_33453">die ioden en constent niet <choice><abbr>ghewreke<g ref="#bar"/></abbr><expan>ghewreke<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Gf185rb.5"/><l n="G_sample5_33454">dat ziluer smalt tehant daer <choice><abbr>teghe<g ref="#bar"/></abbr><expan>teghe<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Gf185rb.6"/><l n="G_sample5_33455">daer thout mede was besleghen</l>
+<lb n="7" xml:id="Gf185rb.7"/><l n="G_sample5_33456"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> thout onstac altehant</l>
+<lb n="8" xml:id="Gf185rb.8"/><l n="G_sample5_33457">als die ioden zaghen den brant</l>
+<lb n="9" xml:id="Gf185rb.9"/><l n="G_sample5_33458">ontsanc hem herte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> moet</l>
+<lb n="10" xml:id="Gf185rb.10"/><l n="G_sample5_33459">want ghene hulpe daer <choice><abbr>teghe<g ref="#bar"/></abbr><expan>teghe<ex>n</ex></expan></choice> stoet</l>
+<lb n="11" xml:id="Gf185rb.11"/><l n="G_sample5_33460">nochtan en gauen zire omme niet</l>
+<lb n="12" xml:id="Gf185rb.12"/><l n="G_sample5_33461">zo uele doch datter een toe riet</l>
+<lb n="13" xml:id="Gf185rb.13"/><l n="G_sample5_33462">datmens <choice><abbr>behoude<g ref="#bar"/></abbr><expan>behoude<ex>n</ex></expan></choice> zoude doch</l>
+<lb n="14" xml:id="Gf185rb.14"/><l n="G_sample5_33463">dat zelue datter stonde noch</l>
+<lb n="15" xml:id="Gf185rb.15"/><l n="G_sample5_33464">daghes ende nachts wies</l>
+<lb n="16" xml:id="Gf185rb.16"/><l n="G_sample5_33465">die starke brant zijt zeker dies</l>
+<lb n="17" xml:id="Gf185rb.17"/><l n="G_sample5_33466"><hi rend="capitalsize2">T</hi>en naesten daghe tytus gheboet</l>
+<lb n="18" xml:id="Gf185rb.18"/><l n="G_sample5_33467"><choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> lesschede den brant groet</l>
+<lb n="19" xml:id="Gf185rb.19"/><l n="G_sample5_33468">om wech te makene den here</l>
+<lb n="20" xml:id="Gf185rb.20"/><l n="G_sample5_33469">hi nam raet na zinen ghere</l>
+<lb n="21" xml:id="Gf185rb.21"/><l n="G_sample5_33470">metten vorsten van <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> rade</l>
+<lb n="22" xml:id="Gf185rb.22"/><l n="G_sample5_33471">wat hi best metten tempel dade</l>
+<lb n="23" xml:id="Gf185rb.23"/><l n="G_sample5_33472">zelc zeide het ware best te broken</l>
+<lb n="24" xml:id="Gf185rb.24"/><l n="G_sample5_33473">die ioden <choice><abbr>zoude<g ref="#bar"/></abbr><expan>zoude<ex>n</ex></expan></choice> weder stoken</l>
+<lb n="25" xml:id="Gf185rb.25"/><l n="G_sample5_33474">nuwe orloghe lietmenne staen</l>
+<lb n="26" xml:id="Gf185rb.26"/><l n="G_sample5_33475">want al waren zi dan gheuaen</l>
+<lb n="27" xml:id="Gf185rb.27"/><l n="G_sample5_33476">zi <choice><abbr>zoude<g ref="#bar"/></abbr><expan>zoude<ex>n</ex></expan></choice> omlanc alle keren</l>
+<lb n="28" xml:id="Gf185rb.28"/><l n="G_sample5_33477">daer ten temple met eren</l>
+<lb n="29" xml:id="Gf185rb.29"/><l n="G_sample5_33478">hem sceen best wesen een casteel</l>
+<lb n="30" xml:id="Gf185rb.30"/><l n="G_sample5_33479">dus waert gheuelt best al gheheel</l>
+<lb n="31" xml:id="Gf185rb.31"/><l n="G_sample5_33480"><hi rend="capitalsize1">T</hi>ytus andworde zulc werc</l>
+<lb n="32" xml:id="Gf185rb.32"/><l n="G_sample5_33481">zo scone zo dure <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zo sterc</l>
+<lb n="33" xml:id="Gf185rb.33"/><l n="G_sample5_33482">dat en brake hi nemmermere</l>
+<lb n="34" xml:id="Gf185rb.34"/><l n="G_sample5_33483">het ware den <choice><abbr>romeyne<g ref="#bar"/></abbr><expan>romeyne<ex>n</ex></expan></choice> groet ere</l>
+<lb n="35" xml:id="Gf185rb.35"/><l n="G_sample5_33484">datter zulc werc in stonde</l>
+<lb n="36" xml:id="Gf185rb.36"/><l n="G_sample5_33485">men maecte die <choice><abbr>strate<g ref="#bar"/></abbr><expan>strate<ex>n</ex></expan></choice> in <choice><abbr>cort<g ref="#apomod"/></abbr><expan>cort<ex>er</ex></expan></choice> stonde</l>
+<lb n="37" xml:id="Gf185rb.37"/><l n="G_sample5_33486">die ioden van vare <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van onwille</l>
+<lb n="38" xml:id="Gf185rb.38"/><l n="G_sample5_33487">lieten ze maken <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> laghen stille</l>
+<lb n="39" xml:id="Gf185rb.39"/><l n="G_sample5_33488">des nachts <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> zi vut ghelopen</l>
+<lb n="40" xml:id="Gf185rb.40"/><l n="G_sample5_33489">ter poorten die stont open</l>
+<lb n="41" xml:id="Gf185rb.41"/><l n="G_sample5_33490"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hebben die romeyne bestaen</l>
+<lb n="42" xml:id="Gf185rb.42"/><l n="G_sample5_33491">diese wel bitterlike ontfaen</l>
+<lb n="43" xml:id="Gf185rb.43"/><l n="G_sample5_33492">dit verzach zaen daer na</l>
+<lb n="44" xml:id="Gf185rb.44"/><l n="G_sample5_33493"><hi rend="capitalsize1">T</hi>ytus van antonia</l>
+<lb n="45" xml:id="Gf185rb.45"/><l n="G_sample5_33494"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> quam met ere scare ten stride</l>
+<lb n="46" xml:id="Gf185rb.46"/><l n="G_sample5_33495">doe weken die joden ouer zide</l>
+<lb n="47" xml:id="Gf185rb.47"/><l n="G_sample5_33496">jn dinderste porte ouer noet</l>
+<lb n="48" xml:id="Gf185rb.48"/><l n="G_sample5_33497">hore lude zijn vele doet</l>
+
+
+<pb xml:id="G.f185va" n="185va"/>
+<lb n="1" xml:id="Gf185va.1"/><l n="G_sample5_33498"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tytus keerde in antonia</l>
+<lb n="2" xml:id="Gf185va.2"/><l n="G_sample5_33499">hi zette tsandersdaghes daerna</l>
+<lb n="3" xml:id="Gf185va.3"/><l n="G_sample5_33500">den tempel <choice><abbr>tebesitte<g ref="#bar"/></abbr><expan>tebesitte<ex>n</ex></expan></choice> al omme</l>
+<lb n="4" xml:id="Gf185va.4"/><l n="G_sample5_33501">met al den here tere somme</l>
+<lb n="5" xml:id="Gf185va.5"/><l n="G_sample5_33502">mer die sentencie van onzen here</l>
+<lb n="6" xml:id="Gf185va.6"/><l n="G_sample5_33503">had <choice><abbr>v<g ref="#apomod"/>doemt</abbr><expan>v<ex>er</ex>doemt</expan></choice> den tempel zo zere</l>
+<lb n="7" xml:id="Gf185va.7"/><l n="G_sample5_33504"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verberndene met viere</l>
+<lb n="8" xml:id="Gf185va.8"/><l n="G_sample5_33505">als ghi zult vernemen sciere</l>
+<lb n="9" xml:id="Gf185va.9"/><l n="G_sample5_33506"><hi rend="capitalsize2">Z</hi>o uerre quaemt alsic verzach</l>
+<lb n="10" xml:id="Gf185va.10"/><l n="G_sample5_33507"><hi rend="capitalsize1">J</hi>n den oechst opten <num type="roman">.xj.</num> dach</l>
+<lb n="11" xml:id="Gf185va.11"/><l n="G_sample5_33508">dat was die stat die te uoren</l>
+<lb n="12" xml:id="Gf185va.12"/><l n="G_sample5_33509"><choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> nabugodonosor als wi horen</l>
+<lb n="13" xml:id="Gf185va.13"/><l n="G_sample5_33510">verbernt was entie tempel mede</l>
+<lb n="14" xml:id="Gf185va.14"/><l n="G_sample5_33511">die salomon eerst maken dede</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

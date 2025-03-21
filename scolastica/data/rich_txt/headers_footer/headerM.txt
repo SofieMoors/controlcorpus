@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000000451 and Meuwese, M.L. (2001). Beeldend vertellen. De verluchte handschriften van Jacob van Maerlants Rijmbijbel en Spiegel Historiael, Diss. Leiden, pp. 79-117; 291-300.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>The Hague</settlement>
+            <institution>Museum Meermanno-Westreenianum</institution>
+            <idno>10 B 21</idno>
+            <msName>M</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="194"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="4"/>
+                           <num type="book-block" value="194"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="345"/>
+                              <width unit="mm" quantity="235"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>I-1(f.1);1II(f.ii-iv en f.1);2-24IV(185);25V-1(194)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="247"/>
+                              <width unit="mm" quantity="168"/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="2">
+                     <handNote script="littera textualis">the Rhymed Bible is written in littera textualis by different hands</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>64 miniatures by <name>Michiel van der Borch</name>; historiated initials; lombardic capitals</decoNote></decoDesc>
+                  <additions><p></p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>Around 1330</origDate>
+<origPlace>Utrecht</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group>

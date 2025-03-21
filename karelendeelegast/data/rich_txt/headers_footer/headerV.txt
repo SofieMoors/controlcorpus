@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on Langeslag, P. S. (2015). The Vercelli Fragment of Karel ende Elegast and Dat Boec van den Houte. Bollettino Storico Vercellese, 85, 5–37.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Vercelli</settlement>
+            <institution>Archivio do Stato</institution>
+            <idno>Prefettura, Giudiziarro, Fondo Antico, mazzo 41</idno>
+            <msName>V</msName>
+          </msIdentifier>
+              <msContents>
+<msItem>
+<locus from="30v" to="38r"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript" >
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="42?"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="257"/>
+                              <width unit="mm" quantity="185"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in ink in Roman numerals (xxxviij and xxxix) and foliation in pencil in Arabic numbers (1r-2v)</foliation>
+                     <collation>cannot be reconstructed</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="46" ruledLines="46">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+         <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+         <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera gothica textualis">the manuscript is written in a littera gothica textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote> lombardic capital letters (2 lines, red); colour-stroking first letters (red); initial at the start of following text (3 lines, red); title of following text (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only 1 bifolium (f. 38-39?) remains. The bifolium contains the last 20 lines of Karel ende Elegast and the 343 lines of 'Van den drien gherden' (Dat boec vanden houte)</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="1325" notAfter="">1375</origDate>
+<origPlace>Brabant</origPlace>
+</origin>
+</history>
+ </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

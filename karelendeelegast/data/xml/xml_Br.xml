@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink. Manuscript description based on Duinhoven, A. M. (1975). Bijdragen tot reconstructie van de Karel ende Elegast (Deel 1). Van Gorcum &amp; Comp. B.V.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution>Archives of the City of Brussels</institution>
+            <idno>hs. 1645</idno>
+            <msName>Br</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1r" to="21v"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript" >
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="22"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="200"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>a-b8 c6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="34" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="158"/>
+                              <width unit="mm" quantity="70"/>
+                           </dimensions>
+         <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+         <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the manuscript is written in a littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic capital letters (2 lines, red); colour-stroking first letters (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only part of one bifolium remains (f.2.7)</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="" notAfter="">1375-1425</origDate>
+<origPlace>Southeast-Limburg</origPlace>
+</origin>
+</history>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group><text n="Karel ende Elegast" xml:id="KE">
+<body>
+<p>
+
+<pb xml:id="Br.f2r" n="2r"/>
+<lb n="1" xml:id="Brf2r.1"/><l n="Br_KE_0068">als den keiser toe behoert</l>
+<lb n="2" xml:id="Brf2r.2"/><l n="Br_KE_0069"><hi rend="capitalsize1">I</hi>ch ben here <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mijn wijf vr<damage><gap></gap></damage></l>
+<lb n="3" xml:id="Brf2r.3"/><l n="Br_KE_0070"><hi rend="capitalsize1">O</hi>est toter wilder denouwe</l>
+<lb n="4" xml:id="Brf2r.4"/><l n="Br_KE_0071"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> west toter wilder zee</l>
+<lb n="5" xml:id="Brf2r.5"/><l n="Br_KE_0072"><hi rend="capitalsize1">N</hi>ochtan hebbich goeds mee</l>
+<lb n="6" xml:id="Brf2r.6"/><l n="Br_KE_0073">galissien en spaengen lant</l>
+<lb n="7" xml:id="Brf2r.7"/><l n="Br_KE_0074">dat ich wan mit mijnre han<damage><gap></gap></damage></l>
+<lb n="8" xml:id="Brf2r.8"/><l n="Br_KE_0075"><hi rend="capitalsize1">E</hi>ntie heidene verdreef</l>
+<lb n="9" xml:id="Brf2r.9"/><l n="Br_KE_0076"><hi rend="capitalsize1">S</hi>oe dat mich tlant <choice><abbr>algad<g ref="#apomod"/></abbr><expan>algad<ex>er</ex></expan></choice> ble<damage><gap></gap></damage></l>
+<lb n="10" xml:id="Brf2r.10"/><l n="Br_KE_0077">wat node soude mi wesen da<damage><gap></gap></damage></l>
+<lb n="11" xml:id="Brf2r.11"/><l n="Br_KE_0078"><hi rend="capitalsize1">T</hi>e varen stelen ellendich ma<damage><gap></gap></damage></l>
+<lb n="12" xml:id="Brf2r.12"/><l n="Br_KE_0079"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> war om ontbiet mich di<damage><gap></gap></damage></l>
+<lb n="13" xml:id="Brf2r.13"/><l n="Br_KE_0080"><hi rend="capitalsize1">N</hi>ode breke ich sijn gebot</l>
+<lb n="14" xml:id="Brf2r.14"/><l n="Br_KE_0081">wistic dat hijt mich ontbod<damage><gap></gap></damage></l>
+<lb n="15" xml:id="Brf2r.15"/><l n="Br_KE_0082"><hi rend="capitalsize1">E</hi>nde dorst niet gelaten ode</l>
+<lb n="16" xml:id="Brf2r.16"/><l n="Br_KE_0083">dat mich god den laster on<damage><gap></gap></damage></l>
+<lb n="17" xml:id="Brf2r.17"/><l n="Br_KE_0084">dat ich te stelen begonste</l>
+<lb n="18" xml:id="Brf2r.18"/><l n="Br_KE_0085"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> hi lach in dit gepeins</l>
+<lb n="19" xml:id="Brf2r.19"/><l n="Br_KE_0086">hare ende tare <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gein<damage><gap></gap></damage></l>
+<lb n="20" xml:id="Brf2r.20"/><l n="Br_KE_0087">vaecte hem een luttelkijn</l>
+<lb n="21" xml:id="Brf2r.21"/><l n="Br_KE_0088"><hi rend="capitalsize1">S</hi>oe dat hi loech die ogen s<damage><gap></gap></damage></l>
+<lb n="22" xml:id="Brf2r.22"/><l n="Br_KE_0089">doe seide dingel vanteuo<damage><gap></gap></damage></l>
+<lb n="23" xml:id="Brf2r.23"/><l n="Br_KE_0090">wildi gods gebot verhoren</l>
+<lb n="24" xml:id="Brf2r.24"/><l n="Br_KE_0091"><choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>er</ex></expan></choice> coninc soe sidi ontgoen</l>
+<lb n="25" xml:id="Brf2r.25"/><l n="Br_KE_0092">het sal uch aen vre leuen <damage><gap></gap></damage></l>
+<lb n="26" xml:id="Brf2r.26"/><l n="Br_KE_0093">dingel vanden paradise</l>
+<lb n="27" xml:id="Brf2r.27"/><l n="Br_KE_0094"><hi rend="capitalsize1">S</hi>prach coninc doet alse d<damage><gap></gap></damage></l>
+<lb n="28" xml:id="Brf2r.28"/><l n="Br_KE_0095">vart stelen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wert dief</l>
+
+<note n="Br_KE_0096">Line_number 0096 is missing</note>
+<lb n="29" xml:id="Brf2r.29"/><l n="Br_KE_0097"><hi rend="capitalsize1">S</hi>idi meer dan gode es lief</l>
+<lb n="30" xml:id="Brf2r.30"/><l n="Br_KE_0098"><hi rend="capitalsize2">M</hi>et deser talen voer dinge<damage><gap></gap></damage></l>
+<lb n="31" xml:id="Brf2r.31"/><l n="Br_KE_0099"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> kaerle hem segenen <damage><gap></gap></damage></l>
+<lb n="32" xml:id="Brf2r.32"/><l n="Br_KE_0100">vanden wonder datti hor<damage><gap></gap></damage></l>
+
+
+<pb xml:id="Br.f2v" n="2v"/>
+<lb n="1" xml:id="Brf2v.1"/><l n="Br_KE_0102"><damage><gap></gap></damage> llich niet laten achter</l>
+<lb n="2" xml:id="Brf2v.2"/><l n="Br_KE_0103"><damage><gap></gap></damage>l sijn dief al eist lachter</l>
+<lb n="3" xml:id="Brf2v.3"/><l n="Br_KE_0104"><damage><gap></gap></damage>de men mich hangen <choice><abbr>bid<g ref="#apomod"/></abbr><expan>bid<ex>er</ex></expan></choice> kele</l>
+<lb n="4" xml:id="Brf2v.4"/><l n="Br_KE_0105"><damage><gap></gap></damage> an haddich lieuer vele</l>
+<lb n="5" xml:id="Brf2v.5"/><l n="Br_KE_0106"><damage><gap></gap></damage>ich god name gemeen</l>
+<lb n="6" xml:id="Brf2v.6"/><l n="Br_KE_0107"><damage><gap></gap></damage>h van hem houde te lene</l>
+<lb n="7" xml:id="Brf2v.7"/><l n="Br_KE_0108"><damage><gap></gap></damage> borge <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="8" xml:id="Brf2v.8"/><l n="Br_KE_0109"><damage><gap></gap></damage>er mijns ridders gewant</l>
+<lb n="9" xml:id="Brf2v.9"/><l n="Br_KE_0110"><damage><gap></gap></damage>h mich moeste varen generen</l>
+<lb n="10" xml:id="Brf2v.10"/><l n="Br_KE_0111"><damage><gap></gap></damage> scilde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> metten speren</l>
+<lb n="11" xml:id="Brf2v.11"/><l n="Br_KE_0112"><damage><gap></gap></damage> enen die niet en heeft</l>
+<lb n="12" xml:id="Brf2v.12"/><l n="Br_KE_0113"><damage><gap></gap></damage> die auenture leeft</l>
+<lb n="13" xml:id="Brf2v.13"/><l n="Br_KE_0114"><damage><gap></gap></damage>are mine wille uele bet</l>
+<lb n="14" xml:id="Brf2v.14"/><l n="Br_KE_0115"><damage><gap></gap></damage>h geuangen bleue int net</l>
+<lb n="15" xml:id="Brf2v.15"/><l n="Br_KE_0116"><damage><gap></gap></damage>ch moeste stelen varen</l>
+<lb n="16" xml:id="Brf2v.16"/><l n="Br_KE_0117"><damage><gap></gap></damage> enich langer sparen</l>
+<lb n="17" xml:id="Brf2v.17"/><l n="Br_KE_0118"><damage><gap></gap></damage>telen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gode <choice><abbr>v<g ref="#apomod"/>w<g ref="#apomod"/>ke<g ref="#bar"/></abbr><expan>v<ex>er</ex>w<ex>er</ex>ke<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Brf2v.18"/><l n="Br_KE_0119"><damage><gap></gap></damage>moeti mi gesterken</l>
+<lb n="19" xml:id="Brf2v.19"/><l n="Br_KE_0120"><damage><gap></gap></damage>llic war buten der zale</l>
+<lb n="20" xml:id="Brf2v.20"/><l n="Br_KE_0121"><damage><gap></gap></damage>nuwe mare <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tale</l>
+<lb n="21" xml:id="Brf2v.21"/><l n="Br_KE_0122"><damage><gap></gap></damage>i gecost war op den rijn</l>
+<lb n="22" xml:id="Brf2v.22"/><l n="Br_KE_0123"><damage><gap></gap></damage> borge steinijn</l>
+<lb n="23" xml:id="Brf2v.23"/><l n="Br_KE_0124"><damage><gap></gap></damage>l ich seggen van onneren</l>
+<lb n="24" xml:id="Brf2v.24"/><l n="Br_KE_0125"><damage><gap></gap></damage>dderen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ten groten <choice><abbr>here<g ref="#bar"/></abbr><expan>here<ex>n</ex></expan></choice></l>
+<lb n="25" xml:id="Brf2v.25"/><l n="Br_KE_0126"><damage><gap></gap></damage>er liggen in die zale</l>
+<lb n="26" xml:id="Brf2v.26"/><l n="Br_KE_0127"><damage><gap></gap></damage>at sal wesen mine tale</l>
+<lb n="27" xml:id="Brf2v.27"/><l n="Br_KE_0128"><damage><gap></gap></damage>h in deser nacht</l>
+<lb n="28" xml:id="Brf2v.28"/><l n="Br_KE_0129"><choice><abbr><damage><gap></gap></damage>sond<g ref="#apomod"/></abbr><expan><damage><gap></gap></damage>sond<ex>er</ex></expan></choice> ander cracht</l>
+<lb n="29" xml:id="Brf2v.29"/><l n="Br_KE_0130"><damage><gap></gap></damage>aren in een lant</l>
+<lb n="30" xml:id="Brf2v.30"/><l n="Br_KE_0131"><damage><gap></gap></damage>en vremde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> onbecant</l>
+<lb n="31" xml:id="Brf2v.31"/><l n="Br_KE_0132"><damage><gap></gap></damage>ser talen ghinc hem gereiden</l>
+<lb n="32" xml:id="Brf2v.32"/><l n="Br_KE_0133"><choice><abbr><damage><gap></gap></damage>o<g ref="#bar"/></abbr><expan><damage><gap></gap></damage>o<ex>ninc</ex></expan></choice> karle ende deden</l>
+
+
+<pb xml:id="Br.f7r" n="7r"/>
+<lb n="1" xml:id="Brf7r.1"/><l n="Br_KE_0411">d en dranc dor dat roede bloc</l>
+<lb n="2" xml:id="Brf7r.2"/><l n="Br_KE_0412">doer die malien wter huut</l>
+<lb n="3" xml:id="Brf7r.3"/><l n="Br_KE_0413"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> was van slagen groet gelu<damage><gap></gap></damage></l>
+<lb n="4" xml:id="Brf7r.4"/><l n="Br_KE_0414">die spaenre vanden scilde ul<damage><gap></gap></damage></l>
+<lb n="5" xml:id="Brf7r.5"/><l n="Br_KE_0415">die helm op <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> hoeft bouen</l>
+<lb n="6" xml:id="Brf7r.6"/><l n="Br_KE_0416"><hi rend="capitalsize1">O</hi>ntfincgen scarden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vlegg<damage><gap></gap></damage></l>
+<lb n="7" xml:id="Brf7r.7"/><l n="Br_KE_0417"><hi rend="capitalsize1">S</hi>oe scarp <choice><abbr>w<g ref="#apomod"/>ren</abbr><expan>w<ex>ar</ex>ren</expan></choice> dies swerts e<damage><gap></gap></damage></l>
+<lb n="8" xml:id="Brf7r.8"/><l n="Br_KE_0418"><hi rend="capitalsize2">D</hi>oe peinsde die <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> in <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> m<damage><gap></gap></damage></l>
+<lb n="9" xml:id="Brf7r.9"/><l n="Br_KE_0419">dese man es <choice><abbr>ridd<g ref="#apomod"/></abbr><expan>ridd<ex>er</ex></expan></choice> gueet</l>
+<lb n="10" xml:id="Brf7r.10"/><l n="Br_KE_0420">hi brinct mich in soe groter <damage><gap></gap></damage></l>
+<lb n="11" xml:id="Brf7r.11"/><l n="Br_KE_0421"><hi rend="capitalsize1">M</hi>ich en helpe god ich bliue d<damage><gap></gap></damage></l>
+<lb n="12" xml:id="Brf7r.12"/><l n="Br_KE_0422"><hi rend="capitalsize1">S</hi>alich lien minen name<damage><gap></gap></damage></l>
+<lb n="13" xml:id="Brf7r.13"/><l n="Br_KE_0423"><hi rend="capitalsize1">S</hi>oe magic mich al mijn le<damage><gap></gap></damage></l>
+<lb n="14" xml:id="Brf7r.14"/><l n="Br_KE_0424"><hi rend="capitalsize1">N</hi>emmermeer gecrigic eer</l>
+<lb n="15" xml:id="Brf7r.15"/><l n="Br_KE_0425">doe sloech hi enen slach soe se<damage><gap></gap></damage></l>
+<lb n="16" xml:id="Brf7r.16"/><l n="Br_KE_0426"><hi rend="capitalsize1">O</hi>pten swerten die voer hem <damage><gap></gap></damage></l>
+<lb n="17" xml:id="Brf7r.17"/><l n="Br_KE_0427">dattine nalix hadde geuelt</l>
+<lb n="18" xml:id="Brf7r.18"/><l n="Br_KE_0428"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vanden orsse tumelen d<damage><gap></gap></damage></l>
+<lb n="19" xml:id="Brf7r.19"/><l n="Br_KE_0429"><hi rend="capitalsize1">T</hi>usschen hem tween was c<damage><gap></gap></damage></l>
+<lb n="20" xml:id="Brf7r.20"/><l n="Br_KE_0430">want die swert gout den he<damage><gap></gap></damage></l>
+<lb n="21" xml:id="Brf7r.21"/><l n="Br_KE_0431"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloech <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> slach soe seer</l>
+<lb n="22" xml:id="Brf7r.22"/><l n="Br_KE_0432"><hi rend="capitalsize1">O</hi>p sinen helm datti boech</l>
+<lb n="23" xml:id="Brf7r.23"/><l n="Br_KE_0433"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sijn swert in stucken vlo<damage><gap></gap></damage></l>
+<lb n="24" xml:id="Brf7r.24"/><l n="Br_KE_0434"><hi rend="capitalsize1">S</hi>oe anxtelijch was die slach</l>
+<lb n="25" xml:id="Brf7r.25"/><l n="Br_KE_0435"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> als dit die swerte sach</l>
+<lb n="26" xml:id="Brf7r.26"/><l n="Br_KE_0436">datti sijn swert hadde verloren</l>
+<lb n="27" xml:id="Brf7r.27"/><l n="Br_KE_0437"><hi rend="capitalsize1">T</hi>wi was ich arm ie gebore<damage><gap></gap></damage></l>
+
+<note n="Br_KE_0438">Line_number 0438 is missing</note>
+
+<note n="Br_KE_0439">Line_number 0439 is missing</note>
+<lb n="28" xml:id="Brf7r.28"/><l n="Br_KE_0440"><hi rend="capitalsize1">I</hi>n hadde noyt geual</l>
+<lb n="29" xml:id="Brf7r.29"/><l n="Br_KE_0441"><hi rend="capitalsize1">N</hi>och <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> doen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sa<damage><gap></gap></damage></l>
+<lb n="30" xml:id="Brf7r.30"/><l n="Br_KE_0442">waer met sal ich mich <choice><abbr>v<g ref="#apomod"/>were<damage><gap></gap></damage></abbr><expan>v<ex>er</ex>were<damage><gap></gap></damage></expan></choice></l>
+<lb n="31" xml:id="Brf7r.31"/><l n="Br_KE_0443"><hi rend="capitalsize1">I</hi>n prise mijn lijf <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> <num type="roman">ij.</num> pere<damage><gap></gap></damage></l>
+<lb n="32" xml:id="Brf7r.32"/><l n="Br_KE_0444">want ich ben al idelre hande</l>
+<lb n="33" xml:id="Brf7r.33"/><l n="Br_KE_0445">doe docht den <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> scande</l>
+
+
+<pb xml:id="Br.f7v" n="7v"/>
+<lb n="1" xml:id="Brf7v.1"/><l n="Br_KE_0447"><damage><gap></gap></damage> sach liggen op uelt</l>
+<lb n="2" xml:id="Brf7v.2"/><l n="Br_KE_0448"><damage><gap></gap></damage> in tween stucken te broken</l>
+<lb n="3" xml:id="Brf7v.3"/><l n="Br_KE_0449"><damage><gap></gap></damage>i en es niet gewroken</l>
+<lb n="4" xml:id="Brf7v.4"/><l n="Br_KE_0450"><damage><gap></gap></damage> en wil slaen ofte deren</l>
+<lb n="5" xml:id="Brf7v.5"/><l n="Br_KE_0451"><damage><gap></gap></damage>m niet en can <choice><abbr>v<g ref="#apomod"/>weren</abbr><expan>v<ex>er</ex>weren</expan></choice></l>
+<lb n="6" xml:id="Brf7v.6"/><l n="Br_KE_0452"><damage><gap></gap></damage> hilden si beide stille</l>
+<lb n="7" xml:id="Brf7v.7"/><l n="Br_KE_0453"><damage><gap></gap></damage>epeins was menichfout</l>
+<lb n="8" xml:id="Brf7v.8"/><l n="Br_KE_0454"><damage><gap></gap></damage>wie dander wesen mocht</l>
+<lb n="9" xml:id="Brf7v.9"/><l n="Br_KE_0455"><damage><gap></gap></damage> <choice><abbr>he<g ref="#apomod"/></abbr><expan>he<ex>er</ex></expan></choice> die mich gewrocht</l>
+<lb n="10" xml:id="Brf7v.10"/><l n="Br_KE_0456"><damage><gap></gap></damage>ach kaerl die coninc</l>
+<lb n="11" xml:id="Brf7v.11"/><l n="Br_KE_0457"><damage><gap></gap></damage>e bericht mich ene dinc</l>
+<lb n="12" xml:id="Brf7v.12"/><l n="Br_KE_0458"><damage><gap></gap></damage>der dies ich uch vrage</l>
+<lb n="13" xml:id="Brf7v.13"/><l n="Br_KE_0459"><damage><gap></gap></damage>hebt geleeft ur dage</l>
+<lb n="14" xml:id="Brf7v.14"/><l n="Br_KE_0460"><damage><gap></gap></damage> ghi heet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wie ghi sijt</l>
+<lb n="15" xml:id="Brf7v.15"/><l n="Br_KE_0461"><damage><gap></gap></damage>aet ons corten desen strijt</l>
+<lb n="16" xml:id="Brf7v.16"/><l n="Br_KE_0462"><damage><gap></gap></damage>ich met eren liden</l>
+<lb n="17" xml:id="Brf7v.17"/><l n="Br_KE_0463"><damage><gap></gap></damage>al uch henen laten riden</l>
+<lb n="18" xml:id="Brf7v.18"/><l n="Br_KE_0464"><damage><gap></gap></damage>h uwen name weet</l>
+<lb n="19" xml:id="Brf7v.19"/><l n="Br_KE_0465"><choice><abbr><damage><gap></gap></damage>w<g ref="#apomod"/>t</abbr><expan><damage><gap></gap></damage>w<ex>er</ex>t</expan></choice> sprach ich bens gereet</l>
+<lb n="20" xml:id="Brf7v.20"/><l n="Br_KE_0466"><damage><gap></gap></damage>en dat ghi maket vroet</l>
+<lb n="21" xml:id="Brf7v.21"/><l n="Br_KE_0467"><damage><gap></gap></damage>node dat uch doet</l>
+<lb n="22" xml:id="Brf7v.22"/><l n="Br_KE_0468"><damage><gap></gap></damage>ghi hier quamt te nacht</l>
+<lb n="23" xml:id="Brf7v.23"/><l n="Br_KE_0469"><damage><gap></gap></damage>mi toren dat ghi wacht</l>
+<lb n="24" xml:id="Brf7v.24"/><l n="Br_KE_0470"><damage><gap></gap></damage> seide kaerl die edel man</l>
+<lb n="25" xml:id="Brf7v.25"/><l n="Br_KE_0471"><damage><gap></gap></damage>icht mich eirst ich seg uch dan</l>
+<lb n="26" xml:id="Brf7v.26"/><l n="Br_KE_0472"><damage><gap></gap></damage>ich sueke <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> iage</l>
+<lb n="27" xml:id="Brf7v.27"/><l n="Br_KE_0473"><damage><gap></gap></damage>mach niet wel riden bi dage</l>
+<lb n="28" xml:id="Brf7v.28"/><l n="Br_KE_0474"><damage><gap></gap></damage>s sonder noet saken niet</l>
+<lb n="29" xml:id="Brf7v.29"/><l n="Br_KE_0475"><damage><gap></gap></damage> ghi mi dus gewapent siet</l>
+<lb n="30" xml:id="Brf7v.30"/><l n="Br_KE_0476"><damage><gap></gap></damage>sal uch seggen hoet comt</l>
+<lb n="31" xml:id="Brf7v.31"/><l n="Br_KE_0477"><damage><gap></gap></damage>ghi mich uwen name noemt</l>
+
+<note n="Br_KE_0478">Line_number 0478 is missing</note>
+
+<note n="Br_KE_0479">Line_number 0479 is missing</note>
+<lb n="32" xml:id="Brf7v.32"/><l n="Br_KE_0480"><damage><gap></gap></damage>ijt seker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vast</l>
+<lb n="33" xml:id="Brf7v.33"/><l n="Br_KE_0481"><damage><gap></gap></damage>e ich hete elegast</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

@@ -1,0 +1,146 @@
+
+N_KE_0133 Die coninc karle en̄ cleyden
+N_KE_0134 Met sinen dieren ghewaden
+N_KE_0135 Als die te stelene was beraden
+N_KE_0136 Het was altoes sine sede
+N_KE_0137 Dat mē sine wapenē dede
+N_KE_0138 Ten bedde daer hi lach
+N_KE_0139 Het warē die scoēste die noyt mā sach
+N_KE_0140 lse hi doen ghewapent was
+N_KE_0141 Ghinc hi dore dat palas
+N_KE_0142 Daer en was slot ghen soe goet
+N_KE_0143 Noch dore diene weder stout
+N_KE_0144 Sine warē alle ieghen hē onttaen
+N_KE_0145 Daer hi wilde mocht hi gaen
+N_KE_0146 Daer en was niemā diene sach
+N_KE_0147 Wāt dat volc al gader lach
+N_KE_0148 In doeden slape alst god woude
+N_KE_0149 Dit dede hi al doers coninx houde
+N_KE_0150 Sine hulpe was hem ghereet
+N_KE_0151 Als hi die borch brugghe leet
+N_KE_0152 Ghinc hi doen met liste
+N_KE_0153 Ten stalle daer hi in viste
+N_KE_0154 Sijn ors en̄ sijn ghesmide
+N_KE_0155 Sonder enich langher beyden
+N_KE_0156 Hi sadelet en̄ satter bouen
+N_KE_0157 Opt ors datmē mochte louen
+N_KE_0158 Doen hi ter porten ghereden quā
+N_KE_0159 Sach hi daer en̄ vernam
+N_KE_0160 Den wachteʼ en̄ den portenare
+N_KE_0161 Die luttel wisten dat haer here
+N_KE_0162 Soe na hen was met sinen scilde
+N_KE_0163 Si sliepē vaste alst god wilde
+N_KE_0164 Die .cō. beette en̄ onttoet
+N_KE_0165 Die dore die besloten stoet
+
+
+
+N_KE_0166 En̄ leider sijn ors wt
+N_KE_0167 Sonder niemare en̄ gheluut
+N_KE_0168 Doe sat hi op sijn ors ghereide
+N_KE_0169 Die cō karle en̄ seyde
+N_KE_0170 God alsoe ghewaerlike
+N_KE_0171 Als ghi quaemt in ertrike
+N_KE_0172 En̄ vort sone en̄ vader
+N_KE_0173 Om ons te vʼloessen al gader
+N_KE_0174 Dat adaem hadde verloren
+N_KE_0175 En̄ dat na hem was geboren
+N_KE_0176 Ghi liet v aen den cruce slaen
+N_KE_0177 Doen v die ioden hadden gheuaen
+N_KE_0178 En̄ staken v met enen spere
+N_KE_0179 Si sloeghen v dies hadden si ghere
+N_KE_0180 Dese betterlike doet
+N_KE_0181 Ontfincdi hʼe doer onse noet
+N_KE_0182 En̄ braect die helle daer naer
+N_KE_0183 Also waerlike als dit was waer
+N_KE_0184 En̄ ghi here laseruse
+N_KE_0185 Die lach in sine cluse
+N_KE_0186 Verwecket here vāder doet
+N_KE_0187 En̄ vanden stene maket broet
+N_KE_0188 En̄ vanden watere wijn
+N_KE_0189 Soe moeti in miere gheleide sijn
+N_KE_0190 Aen deser deemster nacht
+N_KE_0191 En̄ vʼbaert aen mi uwe cracht
+N_KE_0192 Oetmoedich god gheweldich vader
+N_KE_0193 Aen v soe keric mi al gader
+N_KE_0194 Hi was in menegherāde gedochte
+N_KE_0195 Waer hi beest riden mochte
+N_KE_0196 Daer hi stelens mochte beghīnē
+N_KE_0197 Doen quā hi in een wout bīnē
+N_KE_0198 .Cō. karle die edel man
+
+
+
+N_KE_0947 hi peinsde hi soude bringē voert
+N_KE_0948 die ondaet entie moert
+N_KE_0949 Alse dit die vrouwe hoerde
+N_KE_0950 Siantworde na den worde
+N_KE_0951 En̄ seide mi ware lieuʼ vele
+N_KE_0952 dat men v hinghe bidʼ kelē
+N_KE_0953 dan ic dꝫ ghedogē soude
+
+Line_number 0954 is missing
+
+Line_number 0955 is missing
+N_KE_0956 Eggʼ sloech also houde
+N_KE_0957 die vrouwe vor nese en̄ mont
+N_KE_0958 dat haer tbloet tʼ seluʼ stont
+N_KE_0959 Ter nese enten monde wt brac
+N_KE_0960 Si richte haer op en̄ stac
+N_KE_0961 haer anscijn ouʼ tbedde boem
+N_KE_0962 Elegast hi naems goem
+N_KE_0963 En̄ croper liseliken toe
+N_KE_0964 In sinen rechtē hanscoen
+N_KE_0965 Ontfinc hi dbloet vandʼ vrouwē
+
+Line_number 0966 is missing
+N_KE_0967 Omdat hijt wilde latē scouwen
+N_KE_0968 diet den coninc te vorē brochte
+N_KE_0969 dat hijs hem vʼwachtē mochte
+N_KE_0970 doe seide elegast ene bede
+N_KE_0971 daer hi mede slapen dede
+N_KE_0972 Eggʼ en̄ die vrouwe
+N_KE_0973 hi [...] sine woert mꝫ trouwē
+N_KE_0974 [...] si sliepen herde vast
+N_KE_0975 doē so stal hem elegast
+N_KE_0976 [...]ijnē sadel en̄ sijn swʼt
+N_KE_0977 datti lief hadde en̄ wʼt
+N_KE_0978 En̄ maecten sire verde
+N_KE_0979 [...]uten houe te sinē ꝑde
+N_KE_0980 [...]otten cō die sʼe vʼdochte
+
+
+
+N_KE_0981 Om al tgoet dat elegast brochte
+N_KE_0982 haddi dʼ niet gestaen
+N_KE_0983 [...]adt na sinen wille mogē gaen
+N_KE_0984 So sere was hi vʼuert
+N_KE_0985 hi vragede wʼ hi hadde gemeert
+N_KE_0986 Elegast seide hi en mochs niet
+N_KE_0987 Bial dat god ie leueʼ liet
+N_KE_0988 hets wonder dꝫ mij̄ hʼte niene brect
+N_KE_0989 vanden rouwe diere in stect
+N_KE_0990 Sone brect si nēmermeer
+N_KE_0991 No doer rouwe no dor zeer
+N_KE_0992 des benic sekerte vorē
+N_KE_0993 Si heuet nv so grotē torē
+N_KE_0994 Gheselle seit hi dits gereide
+N_KE_0995 dʼ ic heden eer af seide
+N_KE_0996 En so goet en̄ so scoene
+N_KE_0997 ondʼ gode vandē troene
+N_KE_0998 dit hout en̄ ic sal wedʼ gaē
+N_KE_0999 Eggʼ sijn hoef af slaen
+N_KE_1000 of doet steken mꝫ enē kniue
+N_KE_1001 dʼ hi leet bi sinē wiue
+N_KE_1002 dan lietic nꝫ om al tgoet
+N_KE_1003 dat die werelt binnen hout
+N_KE_1004 En̄ ic sal wedʼ kerē sciʼe
+N_KE_1005 doē bemaendē dē cō dieʼ
+N_KE_1006 datti hem seide dor welke sake
+N_KE_1007 hi so seʼ ware tongemake
+N_KE_1008 Ia en sidi gans en̄ gesōt
+N_KE_1009 En̄ hebt wel .x.c. pōt
+N_KE_1010 Ent tghereide dʼ ghi om ginct
+N_KE_1011 ay hʼe hets al andʼ dinc
+N_KE_1012 dꝫ mire hʼtē sere deert
+

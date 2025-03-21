@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink. Manuscript description based on Duinhoven, A. M. (1975). Bijdragen tot reconstructie van de Karel ende Elegast (Deel 1). Van Gorcum &amp; Comp. B.V.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Berlin</settlement>
+            <institution>Staatsbibliothek Preussischer Kulturbesitz</institution>
+            <idno>8° Inc 4812</idno>
+            <msName>B</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1r" to="25r"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="2"/>
+                           <num type="book-block" value="26"/>
+                           <num type="end-flyleaf" value="2"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="186"/>
+                              <width unit="mm" quantity="138"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in ink</foliation>
+                     <collation>a-d6/4 e6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="30" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="148"/>
+                              <width unit="mm" quantity="87"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>the first and third bifolia are marked: aiij, b, c, c3, d, e, e3</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>99 G</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>space left for 26 lombards (2 lines), all but r. 69 and r. 945 have printed guide letters, none have been filled. Space for a 5-line initial on f. 2r, with a guide letter, not filled </decoNote>
+                   <decoNote><watermark>WM I 55089-55092</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, f. 26 missing. Prose text on life of Charlemagne on f. 25</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1493" notAfter="">1493-</origDate>
+<origPlace>Antwerp</origPlace>
+<p>printed by <name>Govaert Bac</name></p>
+</origin></history>
+        </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

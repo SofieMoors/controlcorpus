@@ -1,0 +1,639 @@
+
+
+
+
+A_A,01_0001 Hier beghint de boec van catone
+A_A,01_0002 Die machtech was van grotē doene
+A_A,01_0003 Tote roeme indie port
+A_A,01_0004 Dar hi sinen kinde gaf voert
+A_A,01_0005 Ende leerde hem mꝫ sinne sere
+A_A,01_0006 Vroscap wetentheet ende eere
+
+
+A_prologue_0001 Verstaet. die in haren sine
+A_prologue_0002 Draghen wareleke minne
+A_prologue_0003 Si makenre af rime ende liet
+A_prologue_0004 Diere minnen ne garic niet
+A_prologue_0005 Want het es mi al vergaen
+A_prologue_0006 Datter minnen mach bestaan
+A_prologue_0011 Ende kere minen moet
+A_prologue_0012 An de ghene die sijn vroet
+A_prologue_0007 Wilen doe ic minne droech
+A_prologue_0008 Doe hic de minne sach hic loech
+A_prologue_0009 Nv hatixse alle in minē sinne
+A_prologue_0010 Die minne draghen entie minnen
+A_prologue_0013 Er dit was seide mi mijn vrient
+A_prologue_0014 Gheselle die der vroetheet dient
+A_prologue_0015 Dat hijs betren loen ontfaet
+A_prologue_0016 Dan die ter minnē dienste staet
+A_prologue_0017 Hier ombe hebbic dies beghōnen
+A_prologue_0018 Si hebben onrecht dies mi vʼionnen
+
+
+A_A,02_0001 Om dat hic gaerne helpen soude
+A_A,02_0002 Elken nv ter duegt waert houde
+A_A,02_0003 So dat hire an mochte leren
+
+
+
+A_A,02_0004 Vroescap ende comen ter eren
+
+
+A_prologue_0019 Lieue kinder nv bidt ghode
+A_prologue_0020 Dat hi mi sende sinen bode
+A_prologue_0021 Ende hi mi wise ende lere
+A_prologue_0022 Hoe hic minen sin tʼ wijsheit kere
+A_prologue_0023 Alle die vroet willen wesen
+A_prologue_0024 Der clerken boec moetē si lesen
+
+
+A_A,03_0001 Of in dietsch of in latin[...]
+A_A,03_0002 Alzo hicke [...]
+
+
+A_prologue_0025 Alzi terst [...]
+A_prologue_0026 Die hem wijsh[...]
+A_prologue_0027 Vele meer dan en [...]
+A_prologue_0028 Hie ombe pensic in [...]
+A_prologue_0029 Dat icker v bi wille leren
+A_prologue_0030 Hoe ghi v herte nu moegt keren
+A_prologue_0031 Ter wisseit waert nu merket dan
+A_prologue_0032 Wat wilen seide en vroet man
+
+
+A_A,04_0001 Ende penst om dese woert
+A_A,04_0002 Die hic v hier sal secghen voert
+A_A,04_0003 Het woende wilen en rike man
+A_A,04_0004 Daer hic af wel spreken can
+
+
+A_prologue_0033 Tote roeme ioe wilen eer
+A_prologue_0034 Die wijsdoems wiste vele meer
+A_prologue_0035 Dan enech doet die leuet nv
+A_prologue_0036 Hi hiet catoen dat secghic v
+A_prologue_0037 Hi hadde en kint en̄ hiet alzo
+A_prologue_0038 Alse hi dede dies wassi vwo
+A_prologue_0039 Alst der kintscap was ontgaen
+A_prologue_0040 Dat mochte onthouden en̄ verstaen
+A_prologue_0041 Hi riept voert ende sprac te hem
+A_prologue_0042 Sone men segt nv dat hic bem
+A_prologue_0043 Vroet ende wijs nv merke dan
+A_prologue_0044 Ic wildi leeren dat hic can.
+
+
+
+A_prologue_0045 Doe seidi ende beghonste aldus
+A_prologue_0046 Si deus est animus
+
+
+A_I,01_0001 Sone maerc wat hic di bediede
+A_I,01_0002 Ende oec mede di ghebiede
+A_I,01_0003 Dats dattu di daertoe sals keren
+A_I,01_0004 Te ghode altoes so saltu leren
+
+
+A_I,02_0001 Ende smarghens vroe op staen
+A_I,02_0002 Ende ombe dine bederue gaen
+A_I,02_0003 Hic secgdi die te langhe slapt
+A_I,02_0004 Dattene de slaep onduchtech maect
+
+
+A_I,03_0001 Wachti dat mens niet ne segt
+A_I,03_0002 Dat vele talen andi leegt
+A_I,03_0003 Men segt mengherande tale
+A_I,03_0004 Ne sittet niemen ghoeder wale
+
+
+A_I,04_0001 Doe alzo alse de vroede doet
+A_I,04_0002 Die in hem heeft ghestaden moet
+A_I,04_0003 Men lachtert dat en hier segt
+A_I,04_0004 Dies hi ghinder niet ne plegt
+
+
+A_I,05_0001 Ende ne merke niemens qᵃde daet
+A_I,05_0002 Dat vele merken dat es quaet
+A_I,05_0003 Bedie hen es man no wijf
+A_I,05_0004 Die sonder sonde leeden lijf
+
+
+A_I,06_0001 Hoerstud sone dat iemene deert
+A_I,06_0002 Doet van di hijs sot diet gheert
+A_I,06_0003 Want het lettel vromen mach
+A_I,06_0004 Den lieden te doene quaet ghelach
+
+
+A_I,07_0001 Si altoes enradech ende sochte
+A_I,07_0002 So saltu sijn in dine ghedochte
+A_I,07_0003 Hijs sot die al sijn ghepens
+A_I,07_0004 Den lieden segt haer ende ghens
+
+
+A_I,08_0001 Ne scheldese niet als dijn wijf tonrecte
+A_I,08_0002 Claghet ouer dine cnechte
+A_I,08_0003 Want der quader wijf sijn genoech
+
+
+
+A_I,08_0004 Die mannes vrient sijn int gheuoech
+
+
+A_I,09_0001 Alse du manes dinen vrient
+A_I,09_0002 Of tyen dien du heefs ghedient
+A_I,09_0003 Al sprect hiere weder hiet
+A_I,09_0004 Daer ombe ne saltus laten niet
+
+
+A_I,10_0001 Dvne salt mꝫ talen no met spraken
+A_I,10_0002 Ghescelt ieghen den quadē maken
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+A_I,11_0001 Minne de ghene die di minnen
+A_I,11_0002 Dien du doest ghoet laet hem bekīnen
+A_I,11_0003 Hijs sot die daer te dienste staet
+A_I,11_0004 Daert hem der na te quade vergaet
+
+
+A_I,12_0001 Niemaren ende achterspraken
+A_I,12_0002 Die de lieden te scanden maken
+A_I,12_0003 Die saltu scuwen ende laten
+A_I,12_0004 Want dies pleght hi wert vʼwaten
+
+
+A_I,13_0001 Zone dat men di beheten heeft
+A_I,13_0002 Erc cōmet dat ment di gheeft
+A_I,13_0003 Ne saltut niet beheten voert
+A_I,13_0004 Want men lieghet vele woert
+
+
+A_I,14_0001 Als di hyemen gheuet lof
+A_I,14_0002 Ne sire niet te blider of
+A_I,14_0003 Die vroede merct ende verstaet
+A_I,14_0004 Er hi van iemene lof ontfaet
+
+
+A_I,15_0001 Ende als en ander man doet wel
+A_I,15_0002 Dat onthout wel ende vertel
+A_I,15_0003 Als du wel does so swigher of
+A_I,15_0004 Dus saltu hebben ghoden lof
+
+
+A_I,16_0001 Die wile dattu best ionghelinc
+A_I,16_0002 So doe so meneghe ghode dinc
+A_I,16_0003 Alse di dan naken dine daghe
+A_I,16_0004 Dat men dijns in ghode ghewaghe
+
+
+A_I,17_0001 Ne roeke oec niet wat enech man
+A_I,17_0002 Stillekine gherunen can
+
+
+
+A_I,17_0003 Want de quade want altoes des
+A_I,17_0004 Al dat men runt dat van hem es
+
+
+A_I,18_0001 Al comtet dattu heefs ghenoch
+A_I,18_0002 Hauen nochtanne houti intgheuoech
+A_I,18_0003 Want heden es de man rike
+A_I,18_0004 Ende maerghē staet hem armelike
+
+
+A_A,05_0001 Want fortune es wel groet
+A_A,05_0002 Den meenghen vor sine doet
+A_A,05_0003 Elc soudem wachten en̄ so spreken
+A_A,05_0004 Dat hem hier niet mochte gebreken
+A_A,05_0005 Die dit dade hi ware vroet
+A_A,05_0006 Ende sijn dinc soude werden ghoet
+
+
+A_I,20_0001 Zone alse di dijn aerme vrient
+A_I,20_0002 Met ere cranker ghichtē dient
+A_I,20_0003 Wes blider dan di es te moede
+A_I,20_0004 Ende loenet hem in allen ghoede
+
+
+A_I,21_0001 Al bestu arem nv van hauen
+A_I,21_0002 En̄ van richeden sere bescauen
+A_I,21_0003 Bepens di dattu hier te voeren
+A_I,21_0004 Naect ende arem waers gheboren
+
+
+A_I,22_0001 Dvne sals keren niet in dien
+A_I,22_0002 Dattu de doet sals hiet onsien
+A_I,22_0003 Deghene die de doet ontsiet
+A_I,22_0004 Hem ne helpt sijn leuen niet
+
+
+A_I,19_0001 Hijs sotter dan en kuekenoet
+A_I,19_0002 Die hoept op anders mānes doet
+A_I,19_0003 Want alle de liede ionc ende out
+A_I,19_0004 Sijn haers leuens euē ghewout
+
+
+A_I,36_0001 Metten ghenen die di minnen
+A_I,36_0002 Ne saltu sceldens niet beghinnen
+A_I,36_0003 Want van ghescelde es hier te voeren
+A_I,36_0004 Vernoi groet comen ende toren
+
+
+A_I,37_0001 Alse di hebben dine knechte
+
+
+
+A_I,37_0002 Gram ghedaen met onrechte
+A_I,37_0003 Laet sinken dan dinen moet
+A_I,37_0004 Het es ti erlijc ende ghoet
+
+
+A_I,38_0001 Al moegstu iemene verwinnen saen
+A_I,38_0002 Laet altoes in versten staen
+A_I,38_0003 Hic segghe di dat ghestadechhede
+A_I,38_0004 Heuet meenghen ghoeden zede
+
+
+A_I,39_0001 Dattu met pinen beijaghet heefs
+A_I,39_0002 En tat sotteleke woch gheefs
+A_I,39_0003 Laet dat sone oftu best vroet
+A_I,39_0004 Ende kere dar af dinen moet
+
+
+A_I,40_0001 Bedienens gheuen ende nemen
+A_I,40_0002 Dat es haer sede die nv leuen
+A_I,40_0003 Met eren sone doe dit alsoe
+A_I,40_0004 So machtu sijn blide ende vroe
+
+
+A_II,Pa_0001 Wiltu di sone daer toe keren
+A_II,Pa_0002 Dattu dorpers sede wils leren
+A_II,Pa_0003 Virgilius heuet al bescreuen
+A_II,Pa_0004 Hoe dane wijs die dorpren leuen
+
+
+A_II,Pb_0001 Wiltu oec leren medicine
+A_II,Pb_0002 Of aersatre mede te sine
+A_II,Pb_0003 Maers heuet bescreuen al
+A_II,Pb_0004 Wat men daer toe segghen sal
+
+
+A_II,Pc_0001 Wiltu des di onderwijnden
+A_II,Pc_0002 Dattu gheuecht wils beghinnen
+A_II,Pc_0003 Doe minen raet ende les lucane
+A_II,Pc_0004 Hi sal di wel bringhen drane
+
+
+A_II,Pe_0001 Sone wiltu oec wesen vroet
+A_II,Pe_0002 En̄ wijsdoem doen in dinen moet
+A_II,Pe_0003 Lere so vele in dine ionghe iuegt
+A_II,Pe_0004 Als du best out dattu heefs duegt
+
+
+A_A,06_0001 Men segt dat die ionghe vseert
+A_A,06_0002 Als hi oudt dat hiere gᵃrne hem toe kert
+
+
+
+
+
+A_III,01bis_0001 Den ghelucke wes onderdaen
+A_III,01bis_0002 Alst ti te dienste heeft ghestaen
+A_III,01bis_0003 Ende dankes ghode ember mede
+A_III,01bis_0004 Daer du best in elker stede
+
+
+A_II,01_0001 Den ghenen die di toe gaen
+A_II,01_0002 Hem allen saltu te dienste staen
+A_II,01_0003 Ofti dijn viant wille deren
+A_II,01_0004 Dat sine di doch helpen weren
+
+
+A_II,02_0001 Dvne salt niet vraghen des
+A_II,02_0002 Welc si die hemel en̄ wat hi es
+A_II,02_0003 Want du best sterfleec ende bedi
+A_II,02_0004 Onderwint di wat steruen si
+
+
+A_II,04_0001 Alse du best gram ende onghemoet
+A_II,04_0002 Bedincstu di dan so bestu vroet
+A_II,04_0003 Want gramscep belet den man
+A_II,04_0004 Dat hi hem bedinken niet ne can
+
+
+A_II,22_0001 Kies enen vrient dien du macht maken
+A_II,22_0002 Condech dine verhoelne saken
+A_II,22_0003 Bestu siec kies enen man
+A_II,22_0004 Die wel van ersatrien can
+
+
+A_II,23_0001 Al ghesciet ti oec hiet yewet el
+A_II,23_0002 Dan dijn wille verdraegt wel
+A_II,23_0003 Het comt dicken dat de ghoede
+A_II,23_0004 Heeft dat hem es wel onghemoede
+
+
+A_II,24_0001 Maerc altoes watti mach deren
+A_II,24_0002 Ende bewert moghstut beweren
+A_II,24_0003 Want hi es dul die comen siet
+A_II,24_0004 Dongheval ends niet ne vliet
+
+
+A_II,25_0001 Al heefstu iet dat di quaet doet1
+A_II,25_0002 Nekeere daer an niet dinen moet
+A_II,25_0003 Ember so hebbe ghoeden waen
+A_II,25_0004 Datti ten besten sal vergaen
+
+
+A_II,26_0001 Die dat heeft dat hem becomt
+
+Line_number 0002 is missing
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+
+Line_number 0003 is missing
+A_II,12_0004 [...]aer hi di ghesciep en̄ wesen hiet
+
+
+A_II,13_0001 [...]ic verbieddi onduchtechede
+A_II,13_0002 [...]ant so heuet wel quaden zede
+A_II,13_0003 [...]o wie sose draeght ghodeweet
+A_II,13_0004 [...]i heefter af dat hem es leet
+
+
+A_II,14_0001 [...]v sals hebben ghestaden moet
+A_II,14_0002 [...]aeneer somen di belghen doet
+A_II,14_0003 [...]et staet wel elken ghoeden man
+A_II,14_0004 [...]at hi al soe dat wel doen can
+
+
+A_II,19_0001 Hoerdoem es en quaet sede
+A_II,19_0002 Ende vrec te sine oec der mede
+A_II,19_0003 [...]one dat saltu ember scuwen
+A_II,19_0004 [...]ant si vele sonden bruwen
+
+
+A_II,20_0001 [...]ie hem gheloeft hijs sonder raet
+A_II,20_0002 [...]ie hier ghoet sprect en̄ gindʼ quaet
+A_II,20_0003 [...]one sowat so dins ghesciet
+A_II,20_0004 [...]ies ne onderwint di niet
+
+
+A_II,21_0001 [...]ntat ti in dronkenscep ghesciet
+A_II,21_0002 [...]at ne laet onghebetert niet
+A_II,21_0003 [...]ant daer af hier te voren
+A_II,21_0004 [...]s comen vernoi ende toren
+
+
+A_III,20_0001 [...]one als dijn wijf verbolghen es
+A_III,20_0002 [...]vne salt niet maerken des
+A_III,20_0003 [...]o wat so soe seght in hare woert
+A_III,20_0004 [...]at draegt de wint al vter port
+
+
+A_III,21_0001 [...]one oftu vroet wils sijn
+A_III,21_0002 [...]o there in ghoeder maeten tijn
+A_III,21_0003 [...]ijs sot die sijn ghoet tōmatē teert
+A_III,21_0004 [...]n̄ hem anden vremden gereert
+
+
+A_III,21bis_0001 [...]ieue sone nv wachti dies
+A_III,21bis_0002 [...]attu biddens niet ne plies
+A_III,21bis_0003 [...]enser ombe altoes tervaert
+A_III,21bis_0004 [...]ie vele bidt hi wert onwaert
+
+
+
+
+
+A_IV,12_0001 Ende vele sceelt die es wreet
+A_IV,12_0002 Ente vechtene saen ghereet
+A_IV,12_0003 Wachti des ende si vroet
+A_IV,12_0004 So sal dijn dinc al werden ghod
+
+
+A_III,22_0001 De doet ne saltu haten niet
+A_III,22_0002 Dor ene dinc dio̶e soe pliet
+A_III,22_0003 Dats dat soe regt ouer de quade
+A_III,22_0004 Al comt soe somen dicken te spade
+
+
+A_III,23_0001 Es dijn wijf van rade vroet
+A_III,23_0002 Houter di an het es di ghoet
+A_III,23_0003 Hets menech wijf die meer can
+A_III,23_0004 Van ghoeden rade dan sulc man
+
+
+A_III,24_0001 Mettinen sinne saltu algader
+A_III,24_0002 Eren moeder ende vader
+A_III,24_0003 Ghod seide diese belghen doet
+A_III,24_0004 Dat hem te pinen werden moet
+
+
+A_A,07_0001 Diese oec ert eist man eist wijf
+A_A,07_0002 Hi leed sekerleke ghod lijf
+A_A,07_0003 Ende sal te vriende hebben ghode
+A_A,07_0004 Hout hi wel mede sine ghebode
+
+
+A_IV,P1_0001 Sone doe dat hic di ghebiede
+A_IV,P1_0002 En̄ merke wat hic di vʼbiede
+A_IV,P1_0003 Di sal ghod eren ende alle liede
+A_IV,P1_0004 Dit salre af wesen dine miede
+
+
+A_IV,01_0001 Sone rike te sine te ommaten
+A_IV,01_0002 Dat saltu scuwen ende laten
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+A_IV,P2_0001 Ne laetstus niet ghod saldi haten
+A_IV,P2_0002 En̄ haet di ghod du best verwaten
+A_IV,P2_0003 Wiltu werden dan liefghetal
+A_IV,P2_0004 So werd omoedech al ouer al
+
+
+A_IV,02_0001 Zone doe dat hic di wise
+A_IV,02_0002 Ende houti an die selue spise
+A_IV,02_0003 Dar du mede best gheuoedt
+
+
+
+A_IV,02_0004 So heeftstu di hier wel behoedt
+
+
+A_IV,03_0001 Al eist dat sake datti hiet
+A_IV,03_0002 In engher slachte wijs messchiet
+A_IV,03_0003 Dvne salt gheluc blent scelden niet
+A_IV,03_0004 Dat op sinen vrient wel siet
+
+
+A_IV,04_0001 Dv macht den penninc minnen wel
+A_IV,04_0002 Om nutscep ende om niewet el
+A_IV,04_0003 Men segt dat noit helech man
+A_IV,04_0004 Ne leide sinen sin daer an
+
+
+A_III,09_0001 Als du out best ende rike
+A_III,09_0002 Dan saltu gheuen mildelike
+A_III,09_0003 So dat men mach secghen van di
+A_III,09_0004 Ay dese oude man hoe ghoet was hi
+
+
+A_III,16_0001 Als du macht merken in dinen moet
+A_III,16_0002 Dat men di yeweren onrecht doet
+A_III,16_0003 So bidt den rechtre dat hi si
+A_III,16_0004 Dor dinen dienst in hulpen di
+
+
+A_A,08_0005 Want recht heeft dicken hulpē noet
+A_A,08_0006 Dat nembʼ de man ne si so groet
+
+
+A_III,17_0001 Ende daer di te rechte af messciet
+A_III,17_0002 Verdraeght dat mens marke niet
+A_III,17_0003 En̄ waneer so du sculdech sijs
+A_III,17_0004 Vermane dijns selues dat es prijs
+
+
+A_IV,09+III,18_0001 Daer du af twifels dat saltu lesen
+A_IV,09+III,18_0002 So langhe dattuus vroet mogs wesen
+A_IV,09+III,18_0003 Die leest dat hi niet verstaet
+A_IV,09+III,18_0004 Ens niet versteet dat es hem quaet
+
+
+A_III,21ter_0001 Zone dat di dine vriende raden
+A_III,21ter_0002 Dat saltu in dinen sijn bestaden
+A_III,21ter_0003 Hier naer als duus te doene heefs
+A_III,21ter_0004 Dattu di seluen raet dan gheefs
+
+
+A_IV,42_0001 Hic segdi sone wat hic di rade
+A_IV,42_0002 Laetstut het sal comen di te quade
+A_IV,42_0003 Dv sals wesen altoes onderdaen
+
+
+
+A_IV,42_0004 Den gheden ente sinen dienste staen
+
+
+A_III,19_0001 Alse du oec eets so wachti dies
+A_III,19_0002 Dat tu te vele niet ne plies
+A_III,19_0003 Dan te sprekene diet heeft in seden
+A_III,19_0004 Men merket sere in dorparheden
+
+
+A_IV,18_0001 Dune saels sone metten ouden
+A_IV,18_0002 Sceren no dijn scop niet houden
+A_IV,18_0003 Want so die ouder langher leeft
+A_IV,18_0004 So hi wijs doems emmʼ men heeft
+
+
+A_IV,30_0001 Dronken te sine dicken van wine
+A_IV,30_0002 Ende in hoerdome mede te sine
+A_IV,30_0003 Daer ne comt af ander recht
+A_IV,30_0004 Danne ghescelt ende gheuecht
+
+
+A_A,09_0001 Nv wachti des ende si oec vroet
+A_A,09_0002 Ende hout di emmʼ in ghoet ghemoet
+A_A,09_0003 So saltu werden ghoet ghetal
+A_A,09_0004 Ende ghemint al ouer al
+
+
+A_IV,31_0001 De ghene die singhen en̄ lettel sprekē
+A_IV,31_0002 Die conen mengherhande treken
+A_IV,31_0003 Men seght de vloet die stille staet
+A_IV,31_0004 Es dieper dan die ghaet
+
+
+A_IV,32_0001 Als dijn gheluc di gheuet men
+A_IV,32_0002 Dan du beghaers in dinen sen
+A_IV,32_0003 Mercstu dan du best onvroet
+A_IV,32_0004 Eens anders haue ende sijn ghoet
+
+
+A_IV,33+Bouc van seden_0001 Dattu doen macht doe al dat
+A_IV,33+Bouc van seden_0002 Wiltu meer doen du werdts mat
+A_IV,33+Bouc van seden_0003 Hijs sot die hem vordʼ wille strecken
+A_IV,33+Bouc van seden_0004 Dan hi sine cleder mach gherecken
+
+
+A_IV,34_0001 Dats ene dinc dat men garne wrect
+A_IV,34_0002 Dat men sinen vrient verspreect
+A_IV,34_0003 Scieghen den ghoeden enten rechten
+A_IV,34_0004 Ne saltu niet met talen vechten
+
+
+A_IV,35_0001 Albestu arem ende sonde haue
+
+
+
+A_IV,35_0002 Ne wes te drouer niet der aue
+A_IV,35_0003 De vroede maert ende verstaet
+A_IV,35_0004 Dat haue commet ende gaet
+
+
+A_IV,36_0001 Dat es vernoi ende oec toren
+A_IV,36_0002 Alse een man langhe te voeren
+A_IV,36_0003 Heeft ghewonnen en̄ hem en ongeual
+A_IV,36_0004 Doet dat ghewin verliesen al
+
+
+A_A,10_0001 Sone castidi wel daer of
+A_A,10_0002 So saltu meerren dinen lof
+
+
+A_IV,37_0001 Ne beheet oec di seluen niet
+A_IV,37_0002 Langhe te leuene want men siet
+A_IV,37_0003 Den man wandelen ende gaen
+A_IV,37_0004 Heden. ende marghen eist ghedaen
+
+
+A_IV,38_0001 Dv salt ofren gherne ghode
+A_IV,38_0002 Ende houden wel sine ghebode
+A_IV,38_0003 Doestu dit te ghoeder trowen
+A_IV,38_0004 Dies ne sal di niet berouwen
+
+
+A_A,11_0001 Die dor ghode gherne gheeft
+A_A,11_0002 Ghod lonet alse hijs te doene heeft
+
+
+A_IV,39+II,10_0001 Daer du waens hebben achter
+A_IV,39+II,10_0002 Stridstu du saels hebben lachter
+A_IV,39+II,10_0003 Beter es wel woch ghegaen
+A_IV,39+II,10_0004 Dan qualeke ten stride ghestaen
+
+
+A_IV,48_0001 Wiltu vele verstaen ende leren
+A_IV,48_0002 So saltu di na minen raet keren
+A_IV,48_0003 En̄ werken na mine lere
+A_IV,48_0004 So saltu comen te groeter ere
+
+
+A_independent stanza_0001 Zone dat es de beste scat
+A_independent stanza_0002 Die hic hebbe ende omme dat
+A_independent stanza_0003 So biddic di dor onsen here
+A_independent stanza_0004 Werc hier naer ende pens om ere
+
+
+A_epilogue_0001 Sote lieden oec penstrum mede
+A_epilogue_0002 En̄ doet te ghode vwe ghebede
+A_epilogue_0003 Omoedelike tote onsen here
+

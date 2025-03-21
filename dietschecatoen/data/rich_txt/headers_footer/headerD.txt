@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>The Hague</settlement>
+            <institution>National Library of the Netherlands</institution>
+            <idno>229 G 16</idno>
+            <msName>D</msName>
+          </msIdentifier>
+
+               <msContents>
+<msItem>
+<locus from="1r" to="8v"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="2"/> #2 modern
+                           <num type="book-block" value="8"/>
+                           <num type="end-flyleaf" value="2"/>  #2 modern
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="128"/>
+                              <width unit="mm" quantity="95"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1IV(8)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="20" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="103"/>
+                              <width unit="mm" quantity="65"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="5" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>aij (f.3)</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>98G, M75</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>capital letter (black) (ajv); lombardic letter (black) (avijv) </decoNote>
+                   <decoNote><watermark>WM I 51685 letter p, quatrefoil, to right (a1v-a4r)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>Henrick Eckert van Homberch</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1500</origDate>
+<origPlace>Antwerp</origPlace>
+<p>printed by <name>Henrick Eckert van Homberch</name></p>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

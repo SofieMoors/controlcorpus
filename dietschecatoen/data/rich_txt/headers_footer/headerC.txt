@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart, Württembergische Landesbibliothek, Cod. poet. et phil. 2° 22. Band I-II. Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Stuttgart</settlement>
+            <institution>Württemberg State Library</institution>
+            <idno>Cod. Poet. Et phil. 2° 22</idno>
+            <msName>Comburg manuscript, C</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="110rb" to="112rb"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="44"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="265"/>
+                              <width unit="mm" quantity="192"/>
+                           </dimensions>
+                        </support>
+                     <foliation>16th century foliation in black ink in Arabic numbers (87-130)</foliation>
+                     <collation>1-5IV(40);6II(44)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="36" ruledLines="36">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="218"/>
+                              <width unit="mm" quantity="146"/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures>only one remains (eiiij)(f.122r)</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand B</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote> initial (red); lombardic capital letters (red), colour-stroking (red) first letters</decoNote></decoDesc>
+                  <additions><p>convolute of 6 manuscripts; 346 leafs</p><p>[i+] 1-10IV(80);11III(86);12-16IV(126);17II(130);18-23IV(178);24-30IV(234);31-33IV(258);34IV-1(265);35-36IV(281);37IV-1(288);38-43IV(336);44V(347)</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1380-1400</origDate>
+<origPlace>Flanders</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

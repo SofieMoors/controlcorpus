@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. m-Manuscript description based on: Kienhorst, H. (2005). Lering en stichting op klein formaat. Middelnederlandse rijmteksten in eenkolomsboekjes van perkament. II Handschriften. Leuven: Peeters, pp. 181-186</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Leiden</settlement>
+            <institution>University Library</institution>
+            <idno>LTK 221</idno>
+            <msName>L</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1r" to="6v"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="single-quire manuscript">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="6"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf fragmented">
+                              <height unit="mm" quantity="135"/>
+                              <width unit="mm" quantity="90"/>
+                           </dimensions>
+    			<dimensions type="leaf reconstructed">
+                              <height unit="mm" quantity="140"/>
+                              <width unit="mm" quantity="105"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1III(6)</collation> 
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="18" ruledLines="18">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="91"/>
+                              <width unit="mm" quantity="75"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="5,0" max="5,1"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic letters (red) as strophic separation; colour-stroking (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.3/4 remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>After 1350 or 1400-1450</origDate>
+<origPlace>South Holland</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="L.f1r" n="1r"/>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,08">
+<lb n="1" xml:id="Lf1r.1"/><l n="L_I,08_0004"><hi rend="capitalsize1">D</hi>ies mans vrient sijn tongheuoech</l>
+</lg>
+<lg type="disticha" n="I,27">
+<lb n="2" xml:id="Lf1r.2"/><l n="L_I,27_0001"><hi rend="capitalsize1">S</hi>one wachtu voir die ghebare</l>
+<lb n="3" xml:id="Lf1r.3"/><l n="L_I,27_0002"><hi rend="capitalsize1">M</hi>ynlic als die voghelare</l>
+<lb n="4" xml:id="Lf1r.4"/><l n="L_I,27_0003"><hi rend="capitalsize1">D</hi>ie scone pijpen ende blasen</l>
+<lb n="5" xml:id="Lf1r.5"/><l n="L_I,27_0004"><hi rend="capitalsize1">A</hi>ls sy die vogelkijns verdwasen</l>
+</lg>
+<lg type="disticha" n="I,12">
+<lb n="6" xml:id="Lf1r.6"/><l n="L_I,12_0001"><hi rend="capitalsize1">N</hi>yeumare ende achtersprake</l>
+<lb n="7" xml:id="Lf1r.7"/><l n="L_I,12_0002"><hi rend="capitalsize1">D</hi>ie de liede te scande maken</l>
+<lb n="8" xml:id="Lf1r.8"/><l n="L_I,12_0003"><hi rend="capitalsize1">S</hi>altu scuwen ende haten</l>
+<lb n="9" xml:id="Lf1r.9"/><l n="L_I,12_0004"><hi rend="capitalsize1">B</hi>eyde in wegen ende in straten</l>
+</lg>
+<lg type="disticha" n="I,14">
+<lb n="10" xml:id="Lf1r.10"/><l n="L_I,14_0001"><hi rend="capitalsize1">A</hi>lsti yemant geuet lof</l>
+<lb n="11" xml:id="Lf1r.11"/><l n="L_I,14_0002"><hi rend="capitalsize1">E</hi>n weest te blider niet dair of</l>
+<lb n="12" xml:id="Lf1r.12"/><l n="L_I,14_0003"><hi rend="capitalsize1">D</hi>ie vroede mercket ende verstaet</l>
+<lb n="13" xml:id="Lf1r.13"/><l n="L_I,14_0004"><hi rend="capitalsize1">E</hi>er hy van yemant lof ontfaet</l>
+</lg>
+<lg type="disticha" n="I,15">
+<lb n="14" xml:id="Lf1r.14"/><l n="L_I,15_0001"><hi rend="capitalsize1">A</hi>ls een ander man doet wel</l>
+<lb n="15" xml:id="Lf1r.15"/><l n="L_I,15_0002"><hi rend="capitalsize1">D</hi>at onthout ende vertel</l>
+<lb n="16" xml:id="Lf1r.16"/><l n="L_I,15_0003"><hi rend="capitalsize1">D</hi>oetstu wel zwyget dair of</l>
+<lb n="17" xml:id="Lf1r.17"/><l n="L_I,15_0004">so salstu hebben gueden lof</l>
+</lg>
+<lg type="disticha" n="I,18">
+<lb n="18" xml:id="Lf1r.18"/><l n="L_I,18_0001"><hi rend="capitalsize1">A</hi>lst coemt dattu heues ghenoech</l>
+
+
+<pb xml:id="L.f1v" n="1v"/>
+<lb n="1" xml:id="Lf1v.1"/><l n="L_I,18_0002"><hi rend="capitalsize1">V</hi>an hauen hout di int gheuoech</l>
+<lb n="2" xml:id="Lf1v.2"/><l n="L_I,18_0003"><hi rend="capitalsize1">W</hi>ant huden is die man rijck</l>
+<lb n="3" xml:id="Lf1v.3"/><l n="L_I,18_0004">morgen staet hem commerlijck</l>
+</lg>
+<lg type="disticha" n="I,21">
+<lb n="4" xml:id="Lf1v.4"/><l n="L_I,21_0001"><hi rend="capitalsize1">A</hi>lstu biste arm van hauen</l>
+<lb n="5" xml:id="Lf1v.5"/><l n="L_I,21_0002"><hi rend="capitalsize1">E</hi>nde van rijchede bescauen</l>
+<lb n="6" xml:id="Lf1v.6"/><l n="L_I,21_0003"><hi rend="capitalsize1">P</hi>eynst dattu hier te voren</l>
+<lb n="7" xml:id="Lf1v.7"/><l n="L_I,21_0004"><hi rend="capitalsize1">A</hi>rm ende naect waertste gheboren</l>
+</lg>
+<lg type="disticha" n="I,29">
+<lb n="8" xml:id="Lf1v.8"/><l n="L_I,29_0001"><hi rend="capitalsize1">D</hi>attu minnes en seltu niet</l>
+<lb n="9" xml:id="Lf1v.9"/><l n="L_I,29_0002">te zeer mynnen wats gesciet</l>
+<lb n="10" xml:id="Lf1v.10"/><l n="L_I,29_0003"><hi rend="capitalsize1">D</hi>attu hates salstu haten</l>
+<lb n="11" xml:id="Lf1v.11"/><l n="L_I,29_0004">niet te zeer mair te maten</l>
+</lg>
+<lg type="disticha" n="I,22">
+<lb n="12" xml:id="Lf1v.12"/><l n="L_I,22_0001"><hi rend="capitalsize1">D</hi>u en selste dy niet keeren in dien</l>
+<lb n="13" xml:id="Lf1v.13"/><l n="L_I,22_0002"><hi rend="capitalsize1">D</hi>attu den doot selste ontsien</l>
+<lb n="14" xml:id="Lf1v.14"/><l n="L_I,22_0003"><hi rend="capitalsize1">W</hi>ant wie den doot ontsiet</l>
+<lb n="15" xml:id="Lf1v.15"/><l n="L_I,22_0004"><hi rend="capitalsize1">H</hi>em en helpt sijn leuen niet</l>
+</lg>
+<lg type="disticha" n="I,19">
+<lb n="16" xml:id="Lf1v.16"/><l n="L_I,19_0001"><hi rend="capitalsize1">H</hi>y is sotter dan een queken hoet</l>
+<lb n="17" xml:id="Lf1v.17"/><l n="L_I,19_0002">die hoept op ander luden doot</l>
+<lb n="18" xml:id="Lf1v.18"/><l n="L_I,19_0003"><hi rend="capitalsize1">W</hi>ant alle luden ionck ende out</l>
+
+
+<pb xml:id="L.f210r" n="210r"/>
+<lb n="1" xml:id="Lf210r.1"/><l n="L_I,19_0004"><hi rend="capitalsize1">S</hi>ijn huers leuens onghewout</l>
+</lg>
+<lg type="disticha" n="I,23">
+<lb n="2" xml:id="Lf210r.2"/><l n="L_I,23_0001"><hi rend="capitalsize1">A</hi>lstu heues dat verdient</l>
+<lb n="3" xml:id="Lf210r.3"/><l n="L_I,23_0002"><hi rend="capitalsize1">D</hi>attu en heues ghenen vrient</l>
+<lb n="4" xml:id="Lf210r.4"/><l n="L_I,23_0003"><hi rend="capitalsize1">D</hi>at en wite gode niet</l>
+<lb n="5" xml:id="Lf210r.5"/><l n="L_I,23_0004"><hi rend="capitalsize1">W</hi>ant hem is leet datti misschiet</l>
+</lg>
+<lg type="disticha" n="I,28">
+<lb n="6" xml:id="Lf210r.6"/><l n="L_I,28_0001"><hi rend="capitalsize1">H</hi>euestu kinder sonder goet</l>
+<lb n="7" xml:id="Lf210r.7"/><l n="L_I,28_0002"><hi rend="capitalsize1">S</hi>oe doch als die vroede doet</l>
+<lb n="8" xml:id="Lf210r.8"/><l n="L_I,28_0003"><hi rend="capitalsize1">D</hi>ie sijne kinderen ambocht leeren</l>
+<lb n="9" xml:id="Lf210r.9"/><l n="L_I,28_0004"><hi rend="capitalsize1">A</hi>lst noot heeft datter hem toe keere</l>
+</lg>
+<lg type="disticha" n="I,37">
+<lb n="10" xml:id="Lf210r.10"/><l n="L_I,37_0001"><hi rend="capitalsize1">A</hi>ls dy hebben dijne knechten</l>
+<lb n="11" xml:id="Lf210r.11"/><l n="L_I,37_0002"><hi rend="capitalsize1">G</hi>ram gemaect mit onrechten</l>
+<lb n="12" xml:id="Lf210r.12"/><l n="L_I,37_0003"><hi rend="capitalsize1">L</hi>aet sincken dijnen euelen moet</l>
+<lb n="13" xml:id="Lf210r.13"/><l n="L_I,37_0004"><hi rend="capitalsize1">D</hi>at is dy eerlic ende goet</l>
+</lg>
+<lg type="disticha" n="I,38">
+<lb n="14" xml:id="Lf210r.14"/><l n="L_I,38_0001"><hi rend="capitalsize1">A</hi>l moechstu oec verwinnen saen</l>
+<lb n="15" xml:id="Lf210r.15"/><l n="L_I,38_0002"><hi rend="capitalsize1">E</hi>mmer laet in vreden staen</l>
+<lb n="16" xml:id="Lf210r.16"/><l n="L_I,38_0003"><hi rend="capitalsize1">I</hi>ck segge dy dat ghestadichede</l>
+<lb n="17" xml:id="Lf210r.17"/><l n="L_I,38_0004"><hi rend="capitalsize1">H</hi>euet menige guede sede</l>
+</lg>
+<lg type="disticha" n="I,33">
+<lb n="18" xml:id="Lf210r.18"/><l n="L_I,33_0001"><hi rend="capitalsize1">N</hi>A datti dine tijde naken</l>
+
+
+<pb xml:id="L.f210v" n="210v"/>
+<lb n="1" xml:id="Lf210v.1"/><l n="L_I,33_0002"><hi rend="capitalsize1">S</hi>altu dijne tere maken</l>
+<lb n="2" xml:id="Lf210v.2"/><l n="L_I,33_0003"><hi rend="capitalsize1">E</hi>nde dijnen cost meer noch min</l>
+<lb n="3" xml:id="Lf210v.3"/><l n="L_I,33_0004"><hi rend="capitalsize1">N</hi>a dien dattu heues gewin</l>
+</lg>
+<lg type="disticha" n="II,08">
+<lb n="4" xml:id="Lf210v.4"/><l n="L_II,08_0001"><hi rend="capitalsize1">S</hi>one en mercket die sonden niet</l>
+<lb n="5" xml:id="Lf210v.5"/><l n="L_II,08_0002">diemen den quade doen siet</l>
+<lb n="6" xml:id="Lf210v.6"/><l n="L_II,08_0003"><hi rend="capitalsize1">W</hi>ant die tijt sal comen saen</l>
+<lb n="7" xml:id="Lf210v.7"/><l n="L_II,08_0004"><hi rend="capitalsize1">D</hi>at hijer loen af sal ontfaen</l>
+</lg>
+<lg type="disticha" n="IV,04+I,35">
+<lb n="8" xml:id="Lf210v.8"/><l n="L_IV,04+I,35_0001"><hi rend="capitalsize1">D</hi>u moghes <unclear>...</unclear>nen wel</l>
+<lb n="9" xml:id="Lf210v.9"/><l n="L_IV,04+I,35_0002"><hi rend="capitalsize1">D</hi>an nutscap ende niet el</l>
+<lb n="10" xml:id="Lf210v.10"/><l n="L_IV,04+I,35_0003"><hi rend="capitalsize1">M</hi>en seit dat noyt heylich man</l>
+<lb n="11" xml:id="Lf210v.11"/><l n="L_IV,04+I,35_0004"><hi rend="capitalsize1">E</hi>n leyde sijnen sin dairan</l>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="12" xml:id="Lf210v.12"/><l n="L_I,40_0001"><hi rend="capitalsize1">B</hi>eyde nemen ende gheuen</l>
+<lb n="13" xml:id="Lf210v.13"/><l n="L_I,40_0002"><hi rend="capitalsize1">S</hi>ijn hair sede die nv leuen</l>
+<lb n="14" xml:id="Lf210v.14"/><l n="L_I,40_0003"><hi rend="capitalsize1">M</hi>it eren sone doet alsoe</l>
+<lb n="15" xml:id="Lf210v.15"/><l n="L_I,40_0004"><hi rend="capitalsize1">S</hi>o mogestu blide sijn ende vro</l>
+</lg>
+<lg type="disticha" n="II,06">
+<lb n="16" xml:id="Lf210v.16"/><l n="L_II,06_0001"><hi rend="capitalsize1">S</hi>one du selste onmate vlyen</l>
+<lb n="17" xml:id="Lf210v.17"/><l n="L_II,06_0002"><hi rend="capitalsize1">M</hi>en seyt dats die vroede plyen</l>
+<lb n="18" xml:id="Lf210v.18"/><l n="L_II,06_0003"><hi rend="capitalsize1">H</hi>out maet ende volghet hair</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

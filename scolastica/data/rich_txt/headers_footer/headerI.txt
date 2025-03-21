@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000003616; https://opac.kbr.be/LIBRARY/doc/SYRACUSE/18443956 and Hutter, M. (2023). Inventaris van de Rijmbijbel-handschriften. In B. Caers and J. Pauwels (Eds). De Rijmbijbel van Jacob van Maerlant. Het oudste geïllustreerde handschrift in het Nederlands. Amsterdam: Amsterdam University Press, pp. 13-16.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution> Royal Library of Belgium</institution>
+            <idno>720-722</idno>
+            <msName>I</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="44r" to="170r"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/>
+                           <num type="book-block" value="126"/>
+                           <num type="end-flyleaf" value=""/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="289"/>
+                              <width unit="mm" quantity="213"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Rhymed Bible is written in littera textualis by a single hand </handNote>
+                  </handDesc>
+                  <decoDesc><decoNote></decoNote></decoDesc>
+                  <additions><p>convolute consisting of two sections, I (f. 1-43; Reise van Jean van Mandeville) from the second quarter of the 15th century, and II (f. 44-170) from the mid-15th century</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>Around 1434</origDate>
+<origPlace>Southern Low Countries</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group>

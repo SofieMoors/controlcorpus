@@ -1,0 +1,122 @@
+
+
+
+
+L_I,08_0004 Dies mans vrient sijn tongheuoech
+
+
+L_I,27_0001 Sone wachtu voir die ghebare
+L_I,27_0002 Mynlic als die voghelare
+L_I,27_0003 Die scone pijpen ende blasen
+L_I,27_0004 Als sy die vogelkijns verdwasen
+
+
+L_I,12_0001 Nyeumare ende achtersprake
+L_I,12_0002 Die de liede te scande maken
+L_I,12_0003 Saltu scuwen ende haten
+L_I,12_0004 Beyde in wegen ende in straten
+
+
+L_I,14_0001 Alsti yemant geuet lof
+L_I,14_0002 En weest te blider niet dair of
+L_I,14_0003 Die vroede mercket ende verstaet
+L_I,14_0004 Eer hy van yemant lof ontfaet
+
+
+L_I,15_0001 Als een ander man doet wel
+L_I,15_0002 Dat onthout ende vertel
+L_I,15_0003 Doetstu wel zwyget dair of
+L_I,15_0004 so salstu hebben gueden lof
+
+
+L_I,18_0001 Alst coemt dattu heues ghenoech
+
+
+
+L_I,18_0002 Van hauen hout di int gheuoech
+L_I,18_0003 Want huden is die man rijck
+L_I,18_0004 morgen staet hem commerlijck
+
+
+L_I,21_0001 Alstu biste arm van hauen
+L_I,21_0002 Ende van rijchede bescauen
+L_I,21_0003 Peynst dattu hier te voren
+L_I,21_0004 Arm ende naect waertste gheboren
+
+
+L_I,29_0001 Dattu minnes en seltu niet
+L_I,29_0002 te zeer mynnen wats gesciet
+L_I,29_0003 Dattu hates salstu haten
+L_I,29_0004 niet te zeer mair te maten
+
+
+L_I,22_0001 Du en selste dy niet keeren in dien
+L_I,22_0002 Dattu den doot selste ontsien
+L_I,22_0003 Want wie den doot ontsiet
+L_I,22_0004 Hem en helpt sijn leuen niet
+
+
+L_I,19_0001 Hy is sotter dan een queken hoet
+L_I,19_0002 die hoept op ander luden doot
+L_I,19_0003 Want alle luden ionck ende out
+
+
+
+L_I,19_0004 Sijn huers leuens onghewout
+
+
+L_I,23_0001 Alstu heues dat verdient
+L_I,23_0002 Dattu en heues ghenen vrient
+L_I,23_0003 Dat en wite gode niet
+L_I,23_0004 Want hem is leet datti misschiet
+
+
+L_I,28_0001 Heuestu kinder sonder goet
+L_I,28_0002 Soe doch als die vroede doet
+L_I,28_0003 Die sijne kinderen ambocht leeren
+L_I,28_0004 Alst noot heeft datter hem toe keere
+
+
+L_I,37_0001 Als dy hebben dijne knechten
+L_I,37_0002 Gram gemaect mit onrechten
+L_I,37_0003 Laet sincken dijnen euelen moet
+L_I,37_0004 Dat is dy eerlic ende goet
+
+
+L_I,38_0001 Al moechstu oec verwinnen saen
+L_I,38_0002 Emmer laet in vreden staen
+L_I,38_0003 Ick segge dy dat ghestadichede
+L_I,38_0004 Heuet menige guede sede
+
+
+L_I,33_0001 NA datti dine tijde naken
+
+
+
+L_I,33_0002 Saltu dijne tere maken
+L_I,33_0003 Ende dijnen cost meer noch min
+L_I,33_0004 Na dien dattu heues gewin
+
+
+L_II,08_0001 Sone en mercket die sonden niet
+L_II,08_0002 diemen den quade doen siet
+L_II,08_0003 Want die tijt sal comen saen
+L_II,08_0004 Dat hijer loen af sal ontfaen
+
+
+L_IV,04+I,35_0001 Du moghes ...nen wel
+L_IV,04+I,35_0002 Dan nutscap ende niet el
+L_IV,04+I,35_0003 Men seit dat noyt heylich man
+L_IV,04+I,35_0004 En leyde sijnen sin dairan
+
+
+L_I,40_0001 Beyde nemen ende gheuen
+L_I,40_0002 Sijn hair sede die nv leuen
+L_I,40_0003 Mit eren sone doet alsoe
+L_I,40_0004 So mogestu blide sijn ende vro
+
+
+L_II,06_0001 Sone du selste onmate vlyen
+L_II,06_0002 Men seyt dats die vroede plyen
+L_II,06_0003 Hout maet ende volghet hair
+

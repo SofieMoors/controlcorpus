@@ -1,0 +1,264 @@
+
+M_KE_0001 VRaye ystorie en̄ al waer
+M_KE_0002 Magic v tellen horter naer
+M_KE_0003 Het was op ene auōstonde
+M_KE_0004 Dat karel slapēde begonde
+M_KE_0005 Tinglem op den rijn
+M_KE_0006 Dlant was al gader sijn
+M_KE_0007 Hi was keyser en̄ cō mede
+M_KE_0008 Hoort hier wondʼ en̄ wʼhede
+M_KE_0009 Wat den cō daer gheuel
+M_KE_0010 Dat wetē noch die menege wel
+M_KE_0011 Tinglem al daer hi lach
+M_KE_0012 En̄ waende opten andrē dach
+M_KE_0013 Crone dragē en̄ houdē hof
+M_KE_0014 Ōme te meerne sinen lof
+M_KE_0015 Dʼ die cō lach en̄ en sliep
+M_KE_0016 Een heylich ingel aen hē riep
+M_KE_0017 Soe dat die cō ontbrac
+M_KE_0018 Bidē woorde die dingel sprac
+M_KE_0019 Hi seide staet op edel man
+M_KE_0020 Doet haestelikē v cleder an
+M_KE_0021 wapent v en̄ vart stelen
+M_KE_0022 God hiet mi v beuelen
+M_KE_0023 Die in hemelrike es here
+M_KE_0024 Oft ghi verliest lijf ende ere
+M_KE_0025 En steeldi in deser nacht niet
+M_KE_0026 Soe es v euel ghesciet
+M_KE_0027 Ghi selter ōme steruen
+M_KE_0028 En̄ uwes liues deruen
+M_KE_0029 Eer ēmer sceedt dit hof
+M_KE_0030 Nv vʼwacht v daer of
+M_KE_0031 En̄ vart stelen oft ghi wilt
+M_KE_0032 Nemt uwē spere en̄ uwē scilt
+M_KE_0033 wapent v en̄ sit op v part
+M_KE_0034 Haestelikē en̄ niet en spaert
+M_KE_0035 Dit verhoorde die .coninc.
+M_KE_0036 Het dochte hē zʼ vremde dinc
+M_KE_0037 want hi dʼ niemē en sach
+M_KE_0038 wat dat roepē bedieden mach
+
+Line_number 0039 is missing
+
+Line_number 0040 is missing
+M_KE_0041 Hi was in menegē ghedochte
+M_KE_0042 wie d̄ die boetscap brochte
+M_KE_0043 Dingel die vā gode quam
+
+
+
+M_KE_0044 Sprac ten cō als die was g[...]
+M_KE_0045 Staet op ka[...]l en̄ vart s[...]
+M_KE_0046 God hiet mi v beuelen
+M_KE_0047 En̄ ontbiedet v te voren
+M_KE_0048 Oft anders hebdi v lijf v[...]
+M_KE_0049 MEttien woorde sweech [...]
+M_KE_0050 Entie cō riep ay mi
+M_KE_0051 Als die sere was vereen[...]
+M_KE_0052 wat es dat dit wondʼ mee[...]
+M_KE_0053 Eest alfs ghedrochte dat [...]
+M_KE_0054 Ende dit grote wondʼ telt
+M_KE_0055 Ay hemelsche drochtij[...]
+M_KE_0056 wat node soude mi sijn
+M_KE_0057 Te stelene ic ben soe rik[...]
+M_KE_0058 En es mā in erterike
+M_KE_0059 wedʼ cō no graue
+M_KE_0060 Die soe rijc sijn vā hauē
+M_KE_0061 Sine moetē mi sijn ondʼ[...]
+M_KE_0062 En̄ te minē dienste stae[...]
+M_KE_0063 Mijns selfs lant es soe g[...]
+M_KE_0064 Men vint n[...]s s[...]
+M_KE_0065 Dlant es al ga[...] m[...]
+M_KE_0066 Tote coelne op[...]
+M_KE_0067 En̄ tote rome al[...]
+M_KE_0068 Als den keyser toe b[...]
+M_KE_0069 IC ben hʼe mine [...]ijf[...]
+M_KE_0070 Oest toter wi[...] dyno
+M_KE_0071 En̄ wes totʼ wilder see
+M_KE_0072 Nochtan hebbic goets [...]
+M_KE_0073 Ga[...]issiē en̄ spaendiē la[...]
+M_KE_0074 Dat ic wan met mier[...]
+M_KE_0075 En̄ ic die heidene vʼdre[...]
+M_KE_0076 Soe dat mi dlant alle[...]
+M_KE_0077 wat node soude mi wes[...]
+M_KE_0078 Te varne stelen ellen[...]
+M_KE_0079 En̄ wʼ om̄e ontbiedet [...]
+M_KE_0080 Node brekic sijn gebo[...]
+M_KE_0081 wistic dat hijt mi ont[...]
+M_KE_0082 En mochts niet gelo[...]
+M_KE_0083 Dat mi god den lacht[...]
+M_KE_0084 Dat ic te stelen bego[...]
+M_KE_0085 Dʼ hi lach in dit ghepe[...]
+M_KE_0086 Harē tare weder en̄[...]
+M_KE_0087 Vakede hem alluttel[...]
+
+
+
+M_KE_0088 [...]oedatti loec do[...]en sijn
+M_KE_0089 [...]en seide d[...]ngel vā te vorē
+M_KE_0090 [...]ldi gods gebot vʼhoren
+M_KE_0091 [...]oninc soe sidi ontdaen
+M_KE_0092 [...]et sal v aen v leuen gaen
+M_KE_0093 [...]ngel vanden pʼadise
+M_KE_0094 [...]prac cō doet als die wise
+M_KE_0095 [...]ert stelen en̄ waert dief
+
+Line_number 0096 is missing
+M_KE_0097 [...]idi meer dats gode lief
+M_KE_0098 [...]Et deser talen voer dingel dā
+M_KE_0099 Ende kl' hem te seinen began
+M_KE_0100 [...]andē wondʼ datti hoorde
+M_KE_0101 [...]seide gods gebot en̄ sine w[...]de
+M_KE_0102 [...]willic niet laten achter
+M_KE_0103 [...]c sal dief sijn al eest lachter
+M_KE_0104 [...]soudic hanghen bider kelē
+M_KE_0105 [...]ochtan haddic lieuer vele
+M_KE_0106 [...]at mi god name altgeene
+M_KE_0107 [...]at ic van hē houde teleene
+M_KE_0108 [...]eide [...] ende lant
+M_KE_0109 [...]s ridders gewant
+M_KE_0110 [...]oeste generen
+M_KE_0111 scilde en̄ mettē spere
+M_KE_0112 [...]e niet en heeft
+M_KE_0113 [...]die auontuere leeft
+M_KE_0114 [...]at wa[...] mijn wille bet
+M_KE_0115 [...]n ic gh[...]anghē ben int net
+M_KE_0116 [...] ic nv moete stele vaerē
+M_KE_0117 [...]ndʼ enich langer sparen
+M_KE_0118 [...]arē stelen oft gode [...]werkē
+M_KE_0119 [...]soe moetti mi ges[...]erken
+M_KE_0120 [...]C woudic ware butē dʼ sale
+M_KE_0121 Sonder niemare ende tale
+M_KE_0122 [...]mi wʼ ghe[...]ost opten rijn
+M_KE_0123 [...]j. borghen [...]ijn
+M_KE_0124 [...]at maghic seggē vā ōnerē
+M_KE_0125 [...]en rid[...] enden hogē herē
+M_KE_0126 [...]e hier liggen ind̄ salen
+M_KE_0127 [...]n̄ wat sal wesen mine tale
+M_KE_0128 [...]at ic aen deser nacht
+M_KE_0129 [...]leene sondʼ andʼmans cracht
+M_KE_0130 [...]ete varen in een lant
+M_KE_0131 [...]t mi vremde es enʼ ombecāt
+M_KE_0132 [...]et deser talen ghinc hē gereidē
+
+
+
+M_KE_0133 Die cō karel ende cleiden
+M_KE_0134 Met sinen dieren ghewaden
+M_KE_0135 Als die te stelene was beradē
+M_KE_0136 Het was altoes sinen sede
+M_KE_0137 Dat mē sine wapen dede
+M_KE_0138 Ten bedde daer hi lach
+M_KE_0139 Het warē die scoenste die niemē sach
+M_KE_0140 En̄ als hi gewapent was
+M_KE_0141 Ghinc hi dor dat palas
+M_KE_0142 Dʼ en was sloot soe goet
+M_KE_0143 No dore diene weder stoet
+M_KE_0144 Sine waren iegē hē ontdaē
+M_KE_0145 Dʼ hi wilde mocht hi gaen
+M_KE_0146 Dʼ en was niemē diene sach
+M_KE_0147 want dat volc al gader lach
+M_KE_0148 In vasten slape alst god woude
+M_KE_0149 Dit dede hi dor scōx houde
+M_KE_0150 Sine hulpe was hem gereet
+M_KE_0151 Als hi die borch brugge leet
+M_KE_0152 Ghinc die cō met liste
+M_KE_0153 Ten stalle daer hi wiste
+M_KE_0154 Sijn ors en̄ sijn gesmide
+M_KE_0155 Dʼ en was gheen lanḡ biden
+M_KE_0156 Hi sadelet en̄ satter bouen
+M_KE_0157 Op dors datmē mochte louen
+M_KE_0158 DOen hi ter portē gheuarē quā
+M_KE_0159 Sach hi dʼ ende vernam
+M_KE_0160 Den wechter endē portenere
+M_KE_0161 Die luttel wiste dat hʼ here
+M_KE_0162 Soe na hē was mettē scilde
+M_KE_0163 Si sliepen vaste alst god wilde
+M_KE_0164 Die cō beete ende ontdoet
+M_KE_0165 Die poorte die besloten stoet
+M_KE_0166 En̄ leider sijn ors wt
+M_KE_0167 Sondʼ niemare en̄ geluut
+M_KE_0168 Doen sat hi op in sijn gereide
+M_KE_0169 Sondʼ enich langer beiden
+M_KE_0170 God alsoe ghewʼlike
+M_KE_0171 Als ghi quaemt in erterike
+M_KE_0172 En̄ woort sone en̄ vader
+M_KE_0173 Ōme ons te vʼlossen al gader
+M_KE_0174 Dat adaem hadde vʼloren
+M_KE_0175 En̄ dat na hē wʼt geboren
+M_KE_0176 Ghi liet v andē cruce slaen
+
+
+
+M_KE_1306 Die u wilt [...]
+M_KE_1307 Die cō ant[...]
+M_KE_1308 Bi miere w[...]
+M_KE_1309 Soudickē v[...]
+M_KE_1310 Ic daden s[...]
+M_KE_1311 Oft hanghē [...]
+M_KE_1312 Doē ghinct m[...]
+M_KE_1313 En̄ peinsde [...]
+M_KE_1314 Na dat hē ge[...]
+M_KE_1315 Beter waer [...]
+M_KE_1316 Int hof en w[...]
+M_KE_1317 Die sprekē do[...]
+M_KE_1318 Dus wʼ dʼ di[...]
+M_KE_1319 Een luttel vo[...]
+M_KE_1320 Die cō ontbo[...]
+M_KE_1321 Dat si ghewa[...]
+M_KE_1322 Hine wildets[...]
+M_KE_1323 Hi hiet den ca[...]
+M_KE_1324 En̄ bat gode[...]
+M_KE_1325 Den campe e[...]
+M_KE_1326 Na redene en̄[...]
+M_KE_1327 Die cō troes[...]
+M_KE_1328 En̄ seide vʼg[...]
+M_KE_1329 En̄ hi [...]hi[...]
+M_KE_1330 Hi soude hē[...]
+M_KE_1331 Die eggʼ ha[...]
+M_KE_1332 Die sine doet[...]
+M_KE_1333 MEn slo[...]ch[...]
+M_KE_1334 Dʼ niemen[...]
+M_KE_1335 Een luttel w[...]
+M_KE_1336 Elegast quā[...]
+M_KE_1337 Ōme dat hi a[...]
+M_KE_1338 Hi beete nedʼ [...]
+M_KE_1339 En̄ viel in k[...]
+M_KE_1340 En̄ seide god d[...]
+M_KE_1341 Ic come v hed[...]
+M_KE_1342 Vā allē mine[...]
+M_KE_1343 Die mi ter w[...]
+M_KE_1344 Ic kīne mine[...]
+M_KE_1345 Oetmoedech g[...]
+M_KE_1346 En wrect niet[...]
+M_KE_1347 Ane mi mine [...]
+M_KE_1348 Dor v heilege [...]
+M_KE_1349 Die ghi ontfi[...]
+
+
+
+M_KE_1450 [...]legaste dede
+M_KE_1451 [...] roeuede
+M_KE_1452 [...]elt vādē houede
+M_KE_1453 [...]oot vtē gereide
+M_KE_1454 [...]cō ende seide
+M_KE_1455 [...]god ghi sijt dʼbouē
+M_KE_1456 [...]aghic v louen
+M_KE_1457 [...]eneghe eʼe doet
+M_KE_1458 [...]die sijn vroet
+M_KE_1459 [...]halpē en̄ beradē
+M_KE_1460 [...]ekē genade
+M_KE_1461 [...]cortē dese dinc
+M_KE_1462 [...]pte eggʼ en̄ hinc
+M_KE_1463 [...]vʼraders mede
+M_KE_1464 [...]at no bede
+M_KE_1465 [...]de ere
+M_KE_1466 [...]gode onsē hʼe
+M_KE_1467 [...]hē eggʼs wijf
+M_KE_1468 [...]gader hʼ lijf
+M_KE_1469 [...]god onse sake
+M_KE_1470 [...]ot te goede makē
+M_KE_1471 [...]s die hemelsche vadʼ
+M_KE_1472 [...]alle gader
+M_KE_1473 [...]amen.
+

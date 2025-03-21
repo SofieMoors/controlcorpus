@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: Kienhorst, H. (2005). Lering en stichting op klein formaat. Middelnederlandse rijmteksten in eenkolomsboekjes van perkament. II Handschriften. Leuven: Peeters, pp. 181-182; Van Buuren (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren, p. 178; Kronenberg, M.E. (1932). Een onbekende Nederlandsche Cato-tekst, begin 16e eeuw. Tijdschrift voor Nederlandsche taal-en letterkunde, 51, 196-200 and Kronenberg, M.E. (1932-1933).‘Een onbekende Nederlandsche Cato-uitgave op perkament (begin 16e E.)’. Het boek, nieuwe reeks, 21, pp. 39-43.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Rijsel (Lille)</settlement>
+            <institution>University Library</institution>
+            <idno>unknown</idno>
+            <msName>R</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="6"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="printed book">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="6"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1III(6)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="18" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>aij</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script=""></handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>lombardic letters (red) as strophic separation; colour-stroking (red)</decoNote><decoNote><watermark></watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only f.2/5 remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1502-1524</origDate>
+<origPlace>Leiden</origPlace>
+<p>printed by <name>Jan Seversz.</name></p>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="R.f2r" n="2r"/>
+
+
+<text n="prologue" xml:id="prologue">
+<body>
+<p><lg type="disticha" n="prologue">
+<lb n="1" xml:id="Rf2r.1"/><l n="R_prologue_0034"><hi rend="capitalsize1">D</hi>ie des wijsdoms wist meer</l>
+<lb n="2" xml:id="Rf2r.2"/><l n="R_prologue_0035"><hi rend="capitalsize1">D</hi>an enich man die leuet nu.</l>
+<lb n="3" xml:id="Rf2r.3"/><l n="R_prologue_0036"><hi rend="capitalsize1">H</hi>i hiet <hi rend="capitalsize1">C</hi>atho dat segghe ic v</l>
+<lb n="4" xml:id="Rf2r.4"/><l n="R_prologue_0037"><hi rend="capitalsize1">H</hi>i hadde een kint dat hiet also.</l>
+<lb n="5" xml:id="Rf2r.5"/><l n="R_prologue_0038"><hi rend="capitalsize1">A</hi>ls hijt <choice><abbr>noe<g ref="#bar"/>de</abbr><expan>noe<ex>m</ex>de</expan></choice> dies was hi vro</l>
+<lb n="6" xml:id="Rf2r.6"/><l n="R_prologue_0039"><hi rend="capitalsize1">A</hi>lst mitten kinde vvas <choice><abbr>vergae<g ref="#bar"/>.</abbr><expan>vergae<ex>n</ex>.</expan></choice></l>
+<lb n="7" xml:id="Rf2r.7"/><l n="R_prologue_0040"><hi rend="capitalsize1">D</hi>at mocht <choice><abbr>onthoude<g ref="#bar"/></abbr><expan>onthoude<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>verstae<g ref="#bar"/>.</abbr><expan>verstae<ex>n</ex>.</expan></choice></l>
+<lb n="8" xml:id="Rf2r.8"/><l n="R_prologue_0041"><hi rend="capitalsize1">R</hi>iep hi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sprac te hem</l>
+<lb n="9" xml:id="Rf2r.9"/><l n="R_prologue_0042"><hi rend="capitalsize1">M</hi>en seyt sone dat ic ben</l>
+<lb n="10" xml:id="Rf2r.10"/><l n="R_prologue_0043"><hi rend="capitalsize1">W</hi>ijs <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vroet nv mercket an</l>
+<lb n="11" xml:id="Rf2r.11"/><l n="R_prologue_0044"><hi rend="capitalsize1">I</hi>e sal v leren dat ic can</l>
+<lb n="12" xml:id="Rf2r.12"/><l n="R_prologue_0045">doen seyde hi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> began aldus</l>
+<lb n="13" xml:id="Rf2r.13"/><l n="R_prologue_0046"><hi rend="capitalsize1">S</hi>i deus est animus.</l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,01">
+<lb n="14" xml:id="Rf2r.14"/><l n="R_I,01_0001"><hi rend="capitalsize1">N</hi>u mercket <choice><abbr>soe<g ref="#bar"/></abbr><expan>soe<ex>n</ex></expan></choice> wat ic v gebiede</l>
+<lb n="15" xml:id="Rf2r.15"/><l n="R_I,01_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vvat dat is dat ic v bediede.</l>
+<lb n="16" xml:id="Rf2r.16"/><l n="R_I,01_0003"><hi rend="capitalsize1">D</hi>ats dattu di daer an sult keren</l>
+<lb n="17" xml:id="Rf2r.17"/><l n="R_I,01_0004">dattu gode immer sult eeren</l>
+</lg>
+<lg type="disticha" n="I,02">
+<lb n="18" xml:id="Rf2r.18"/><l n="R_I,02_0001"><hi rend="capitalsize1">D</hi>u sult morgens vroech op <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
+
+
+<pb xml:id="R.f2v" n="2v"/>
+<lb n="1" xml:id="Rf2v.1"/><l n="R_I,02_0002"><hi rend="capitalsize1">E</hi>nde om dijn bederue gaen.</l>
+<lb n="2" xml:id="Rf2v.2"/><l n="R_I,02_0003"><hi rend="capitalsize1">M</hi>en seyt wie te langhe slaept</l>
+<lb n="3" xml:id="Rf2v.3"/><l n="R_I,02_0004"><hi rend="capitalsize1">D</hi>at <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> die slaep <choice><abbr>o<g ref="#bar"/>duchtich</abbr><expan>o<ex>n</ex>duchtich</expan></choice> maect</l>
+</lg>
+<lg type="disticha" n="I,03">
+<lb n="4" xml:id="Rf2v.4"/><l n="R_I,03_0001"><hi rend="capitalsize1">V</hi>vachti datmen niet en seyt.</l>
+<lb n="5" xml:id="Rf2v.5"/><l n="R_I,03_0002"><hi rend="capitalsize1">D</hi>at vele talen an di leyt</l>
+<lb n="6" xml:id="Rf2v.6"/><l n="R_I,03_0003">want menigerhande tale</l>
+<lb n="7" xml:id="Rf2v.7"/><l n="R_I,03_0004"><hi rend="capitalsize1">E</hi>n voucht <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> goeders wale</l>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="8" xml:id="Rf2v.8"/><l n="R_I,04_0001"><hi rend="capitalsize1">S</hi>one doet als die vroede doet</l>
+<lb n="9" xml:id="Rf2v.9"/><l n="R_I,04_0002"><hi rend="capitalsize1">D</hi>ie heuet ghestadighen moet</l>
+<lb n="10" xml:id="Rf2v.10"/><l n="R_I,04_0003"><hi rend="capitalsize1">H</hi>et is lachter dat een hier seghet</l>
+<lb n="11" xml:id="Rf2v.11"/><l n="R_I,04_0004"><hi rend="capitalsize1">D</hi>at hi ghinder niet en pleghet</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="12" xml:id="Rf2v.12"/><l n="R_I,05_0001"><hi rend="capitalsize1">A</hi>nmercket <choice><abbr>nieme<g ref="#bar"/>s</abbr><expan>nieme<ex>n</ex>s</expan></choice> quade daet</l>
+<lb n="13" xml:id="Rf2v.13"/><l n="R_I,05_0002">want vele merkens is quaet</l>
+<lb n="14" xml:id="Rf2v.14"/><l n="R_I,05_0003"><hi rend="capitalsize1">B</hi>eide so en is man of wijf.</l>
+<lb n="15" xml:id="Rf2v.15"/><l n="R_I,05_0004"><hi rend="capitalsize1">D</hi>ie sonder sonde leet sijn lijf.</l>
+</lg>
+<lg type="disticha" n="I,08">
+<lb n="16" xml:id="Rf2v.16"/><l n="R_I,08_0001"><hi rend="capitalsize1">G</hi>eloeft niet als dijn wijf <choice><abbr>to<g ref="#bar"/>recht</abbr><expan>to<ex>n</ex>recht</expan></choice></l>
+<lb n="17" xml:id="Rf2v.17"/><l n="R_I,08_0002"><hi rend="capitalsize1">C</hi>laghet ouer dinen knecht</l>
+<lb n="18" xml:id="Rf2v.18"/><l n="R_I,08_0003">want quade wiuen sijn ghenoech</l>
+
+<note n="R_I,08_0004">Line_number 0004 is missing</note>
+
+
+<pb xml:id="R.f5r" n="5r"/>
+</lg>
+<lg type="disticha" n="III,16">
+
+<note n="R_III,16_0001">Line_number 0001 is missing</note>
+<lb n="1" xml:id="Rf5r.1"/><l n="R_III,16_0002"><hi rend="capitalsize1">W</hi>anneermen di onrecht doet</l>
+<lb n="2" xml:id="Rf5r.2"/><l n="R_III,16_0003"><hi rend="capitalsize1">S</hi>o bidt den rechter dat hi di</l>
+<lb n="3" xml:id="Rf5r.3"/><l n="R_III,16_0004"><hi rend="capitalsize1">D</hi>oer binen dienste behulpich si</l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="4" xml:id="Rf5r.4"/><l n="R_II,21_0001"><hi rend="capitalsize1">D</hi>at di in dronckenscap geschiet</l>
+<lb n="5" xml:id="Rf5r.5"/><l n="R_II,21_0002"><hi rend="capitalsize1">D</hi>at en latet ongebetert niet</l>
+<lb n="6" xml:id="Rf5r.6"/><l n="R_II,21_0003">want daer of hier te voren.</l>
+<lb n="7" xml:id="Rf5r.7"/><l n="R_II,21_0004"><hi rend="capitalsize1">V</hi>ernoy is comen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> toren</l>
+</lg>
+<lg type="disticha" n="II,17">
+<lb n="8" xml:id="Rf5r.8"/><l n="R_II,17_0001"><hi rend="capitalsize1">A</hi>ls du hebst den cost meer</l>
+<lb n="9" xml:id="Rf5r.9"/><l n="R_II,17_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> terens dan du hads eer</l>
+<lb n="10" xml:id="Rf5r.10"/><l n="R_II,17_0003"><hi rend="capitalsize1">S</hi>o spaer want zaen glidet</l>
+<lb n="11" xml:id="Rf5r.11"/><l n="R_II,17_0004"><hi rend="capitalsize1">H</hi>auen diemen niet en midet.</l>
+</lg>
+<lg type="disticha" n="II,24">
+<lb n="12" xml:id="Rf5r.12"/><l n="R_II,24_0001"><hi rend="capitalsize1">M</hi>erck ewel dat di mach deeren</l>
+<lb n="13" xml:id="Rf5r.13"/><l n="R_II,24_0002"><hi rend="capitalsize1">B</hi>ewaert dat oftu moges <choice><abbr>bewere<g ref="#bar"/></abbr><expan>bewere<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Rf5r.14"/><l n="R_II,24_0003"><hi rend="capitalsize1">H</hi>ij is sot die comen sijt</l>
+<lb n="15" xml:id="Rf5r.15"/><l n="R_II,24_0004"><hi rend="capitalsize1">D</hi>at ongheual <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet en vliet.</l>
+</lg>
+<lg type="disticha" n="II,26">
+<lb n="16" xml:id="Rf5r.16"/><l n="R_II,26_0001"><hi rend="capitalsize1">D</hi>ie vvat heuet dat hem <choice><abbr>becoe<g ref="#bar"/>t</abbr><expan>becoe<ex>m</ex>t</expan></choice></l>
+<lb n="17" xml:id="Rf5r.17"/><l n="R_II,26_0002"><hi rend="capitalsize1">H</hi>out hijt vvel ic vvaent <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>vroe<g ref="#bar"/>t</abbr><expan>vroe<ex>m</ex>t</expan></choice></l>
+<lb n="18" xml:id="Rf5r.18"/><l n="R_II,26_0003"><hi rend="capitalsize1">H</hi>ij is sot die in sijn <choice><abbr>ha<g ref="#bar"/>t</abbr><expan>ha<ex>n</ex>t</expan></choice> heeft goet</l>
+
+
+<pb xml:id="R.f5v" n="5v"/>
+<lb n="1" xml:id="Rf5v.1"/><l n="R_II,26_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> leyt dat onder sinen voet</l>
+</lg>
+<lg type="disticha" n="II,28">
+<lb n="2" xml:id="Rf5v.2"/><l n="R_II,28_0001"><hi rend="capitalsize1">S</hi>om wilen sulstu dijn goet</l>
+<lb n="3" xml:id="Rf5v.3"/><l n="R_II,28_0002"><hi rend="capitalsize1">S</hi>paren als die vroede doet</l>
+<lb n="4" xml:id="Rf5v.4"/><l n="R_II,28_0003"><hi rend="capitalsize1">D</hi>ie soucket altoos sulck ghelach</l>
+<lb n="5" xml:id="Rf5v.5"/><l n="R_II,28_0004">hoe hi mit eren leuen mach.</l>
+</lg>
+<lg type="disticha" n="II,29">
+<lb n="6" xml:id="Rf5v.6"/><l n="R_II,29_0001"><hi rend="capitalsize1">D</hi>u en sulst alleen niet ontslaen.</l>
+<lb n="7" xml:id="Rf5v.7"/><l n="R_II,29_0002"><hi rend="capitalsize1">T</hi>recht dat langhe heeft ghestaen</l>
+<lb n="8" xml:id="Rf5v.8"/><l n="R_II,29_0003">die verwerket sijn ghebuere</l>
+<lb n="9" xml:id="Rf5v.9"/><l n="R_II,29_0004">het wort hem dickent te zuere</l>
+</lg>
+<lg type="disticha" n="III,01">
+<lb n="10" xml:id="Rf5v.10"/><l n="R_III,01_0001"><hi rend="capitalsize1">S</hi>one lere so in dinen sin</l>
+<lb n="11" xml:id="Rf5v.11"/><l n="R_III,01_0002">dat daer vvone vvijsheit in<unclear>.</unclear></l>
+<lb n="12" xml:id="Rf5v.12"/><l n="R_III,01_0003">die mit <choice><abbr>sonde<g ref="#bar"/></abbr><expan>sonde<ex>n</ex></expan></choice> leet sijn leuen.</l>
+<lb n="13" xml:id="Rf5v.13"/><l n="R_III,01_0004">het is qualiken mit hem becleuen</l>
+</lg>
+<lg type="disticha" n="III,21">
+<lb n="14" xml:id="Rf5v.14"/><l n="R_III,21_0001"><hi rend="capitalsize1">S</hi>one oftu vroet vviltste sijn</l>
+<lb n="15" xml:id="Rf5v.15"/><l n="R_III,21_0002"><hi rend="capitalsize1">S</hi>o there in goeder maten dijn.</l>
+<lb n="16" xml:id="Rf5v.16"/><l n="R_III,21_0003">hi is sot die tsijne verteert</l>
+<lb n="17" xml:id="Rf5v.17"/><l n="R_III,21_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>ande<g ref="#bar"/></abbr><expan>ande<ex>n</ex></expan></choice> <choice><abbr>vreemde<g ref="#bar"/></abbr><expan>vreemde<ex>n</ex></expan></choice> hem gheneert.</l>
+</lg>
+<lg type="disticha" n="III,21bis">
+<lb n="18" xml:id="Rf5v.18"/><l n="R_III,21bis_0001"><hi rend="capitalsize1">L</hi>ieue sone vvacht <hi rend="capitalsize1">V</hi> dies.</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

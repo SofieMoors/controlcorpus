@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink. Manuscript description based on Duinhoven, A. M. (1975). Bijdragen tot reconstructie van de Karel ende Elegast (Deel 1). Van Gorcum &amp; Comp. B.V.
+</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>The Hague</settlement>
+            <institution>National Library of the Netherlands</institution>
+            <idno>169 G 63</idno>
+            <msName>A</msName>
+          </msIdentifier>
+
+<msContents>
+<msItem>
+<locus from="1r" to="26v"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="26?"/>
+                           <num type="end-flyleaf" value="?"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="185"/>
+                              <width unit="mm" quantity="130"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in ink</foliation>
+                     <collation>a8, b-d6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="28" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="145"/>
+                              <width unit="mm" quantity="93"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>quires are marked a, b, c, d; the first 4(a) or 3(b-d) leafs are marked i, ii, iii, (iiii); signatures are only partially visible due to trimming of the pages</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>104 G</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>space left for 26 lombards (2 lines) of which 15 have been filled (red). Manuscript initial 'F' on f.2r (5 lines, red)</decoNote>
+                   <decoNote><watermark>WM I 55084-55088</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, f. 26 torn, causing loss of text on 26r</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1486" notAfter="1488">29/11/1486 - 26/06/1488</origDate>
+<origPlace>Delft</origPlace>
+<p>printed by either <name>Jacob Jacobsz. van der Meer</name> or <name>Christiaen Snellaert</name></p>
+</origin></history>
+        </msDesc>
+            
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group><text n="Karel ende Elegast" xml:id="KE">
+<body>
+<p>
+
+<pb xml:id="A.f2r" n="2r"/>
+<lb n="1" xml:id="Af2r.1"/><l n="A_KE_0001"><hi rend="capitalsize5">F</hi>Raeye historie <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> al waer</l>
+<lb n="2" xml:id="Af2r.2"/><l n="A_KE_0002"><hi rend="capitalsize1">M</hi>ach ic v <choice><abbr>telle<g ref="#bar"/></abbr><expan>telle<ex>n</ex></expan></choice> hoort naer</l>
+<lb n="3" xml:id="Af2r.3"/><l n="A_KE_0003"><hi rend="capitalsize1">H</hi>et was op <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>auontsto<g ref="#bar"/>t</abbr><expan>auontsto<ex>n</ex>t</expan></choice></l>
+<lb n="4" xml:id="Af2r.4"/><l n="A_KE_0004"><hi rend="capitalsize1">D</hi>at karel <choice><abbr>slape<g ref="#bar"/></abbr><expan>slape<ex>n</ex></expan></choice> begonde</l>
+<lb n="5" xml:id="Af2r.5"/><l n="A_KE_0005"><hi rend="capitalsize1">T</hi>engelem op den rijn</l>
+<lb n="6" xml:id="Af2r.6"/><l n="A_KE_0006"><hi rend="capitalsize1">D</hi>lant was alle gader sijn.</l>
+<lb n="7" xml:id="Af2r.7"/><l n="A_KE_0007"><hi rend="capitalsize1">H</hi>i was keyser ende coninc mede.</l>
+<lb n="8" xml:id="Af2r.8"/><l n="A_KE_0008"><hi rend="capitalsize1">H</hi>oort hier wonder ende waerhede</l>
+<lb n="9" xml:id="Af2r.9"/><l n="A_KE_0009"><hi rend="capitalsize1">W</hi>at den coninc daer gheuel</l>
+<lb n="10" xml:id="Af2r.10"/><l n="A_KE_0010"><hi rend="capitalsize1">D</hi>at <choice><abbr>wete<g ref="#bar"/></abbr><expan>wete<ex>n</ex></expan></choice> noch die menige wel</l>
+<lb n="11" xml:id="Af2r.11"/><l n="A_KE_0011"><hi rend="capitalsize1">T</hi>enghelem al daer hi lach</l>
+<lb n="12" xml:id="Af2r.12"/><l n="A_KE_0012"><hi rend="capitalsize1">E</hi>nde waende op den <choice><abbr>andere<g ref="#bar"/></abbr><expan>andere<ex>n</ex></expan></choice> dach</l>
+<lb n="13" xml:id="Af2r.13"/><l n="A_KE_0013"><hi rend="capitalsize1">C</hi>rone draghen ende houden hof</l>
+<lb n="14" xml:id="Af2r.14"/><l n="A_KE_0014"><hi rend="capitalsize1">O</hi>m te meerderen sinen lof</l>
+<lb n="15" xml:id="Af2r.15"/><l n="A_KE_0015"><hi rend="capitalsize1">D</hi>aer die coninc lach ende sliep</l>
+<lb n="16" xml:id="Af2r.16"/><l n="A_KE_0016"><hi rend="capitalsize1">E</hi>en heilich engel aen <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> riep</l>
+<lb n="17" xml:id="Af2r.17"/><l n="A_KE_0017"><hi rend="capitalsize1">S</hi>o dat die coninc ontbrac</l>
+<lb n="18" xml:id="Af2r.18"/><l n="A_KE_0018"><hi rend="capitalsize1">B</hi>iden woerden die dengel sprac</l>
+<lb n="19" xml:id="Af2r.19"/><l n="A_KE_0019"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyde staet op edel man.</l>
+<lb n="20" xml:id="Af2r.20"/><l n="A_KE_0020"><hi rend="capitalsize1">D</hi>oet haestelic v cleeder an</l>
+<lb n="21" xml:id="Af2r.21"/><l n="A_KE_0021"><hi rend="capitalsize1">W</hi>apent v ende vaert stelen.</l>
+<lb n="22" xml:id="Af2r.22"/><l n="A_KE_0022"><hi rend="capitalsize1">G</hi>od die hiet mi v beuelen</l>
+<lb n="23" xml:id="Af2r.23"/><l n="A_KE_0023"><hi rend="capitalsize1">D</hi>ie in hemelrike is here</l>
+<lb n="24" xml:id="Af2r.24"/><l n="A_KE_0024"><hi rend="capitalsize1">O</hi>f ghi <choice><abbr>v<g ref="#apomod"/>liest</abbr><expan>v<ex>er</ex>liest</expan></choice> lijf <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> eere</l>
+<lb n="25" xml:id="Af2r.25"/><l n="A_KE_0025"><hi rend="capitalsize1">E</hi>n steeldi in deser nacht niet</l>
+<lb n="26" xml:id="Af2r.26"/><l n="A_KE_0026"><hi rend="capitalsize1">S</hi>o is v euel gheschiet.</l>
+<lb n="27" xml:id="Af2r.27"/><l n="A_KE_0027"><hi rend="capitalsize1">G</hi>hi sulter <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> steruen</l>
+<lb n="28" xml:id="Af2r.28"/><l n="A_KE_0028"><hi rend="capitalsize1">E</hi>nde uwes leuens deruen</l>
+
+
+<pb xml:id="A.f2v" n="2v"/>
+<lb n="1" xml:id="Af2v.1"/><l n="A_KE_0029"><hi rend="capitalsize1">E</hi>er emmermeer scheit dit hof.</l>
+<lb n="2" xml:id="Af2v.2"/><l n="A_KE_0030"><hi rend="capitalsize1">N</hi>v verwacht v daer of</l>
+<lb n="3" xml:id="Af2v.3"/><l n="A_KE_0031"><hi rend="capitalsize1">V</hi>aert stelen of ghi wilt.</l>
+<lb n="4" xml:id="Af2v.4"/><l n="A_KE_0032"><hi rend="capitalsize1">N</hi>eemt <choice><abbr>uwe<g ref="#bar"/></abbr><expan>uwe<ex>n</ex></expan></choice> speere ende uwen schilt</l>
+<lb n="5" xml:id="Af2v.5"/><l n="A_KE_0033"><choice><abbr><hi rend="capitalsize1">W</hi>ape<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>ape<ex>n</ex>t</expan></choice> v sit op v paert</l>
+<lb n="6" xml:id="Af2v.6"/><l n="A_KE_0034"><hi rend="capitalsize1">H</hi>aestelic ende niet en spaert</l>
+<lb n="7" xml:id="Af2v.7"/><l n="A_KE_0035"><hi rend="capitalsize2">D</hi>It <choice><abbr>v<g ref="#apomod"/>hoorde</abbr><expan>v<ex>er</ex>hoorde</expan></choice> die coninc</l>
+<lb n="8" xml:id="Af2v.8"/><l n="A_KE_0036"><hi rend="capitalsize1">H</hi>et docht <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> een vreemde dinc.</l>
+<lb n="9" xml:id="Af2v.9"/><l n="A_KE_0037"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> hi daer <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> en sach</l>
+<lb n="10" xml:id="Af2v.10"/><l n="A_KE_0038"><hi rend="capitalsize1">W</hi>at dat <choice><abbr>roepe<g ref="#bar"/></abbr><expan>roepe<ex>n</ex></expan></choice> bedieden mach</l>
+<lb n="11" xml:id="Af2v.11"/><l n="A_KE_0039"><hi rend="capitalsize1">H</hi>i <choice><abbr>wae<g ref="#bar"/>det</abbr><expan>wae<ex>n</ex>det</expan></choice> <choice><abbr>slape<g ref="#bar"/>de</abbr><expan>slape<ex>n</ex>de</expan></choice> <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> gehoort</l>
+<lb n="12" xml:id="Af2v.12"/><l n="A_KE_0040"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hilt hem niet an dat woert</l>
+
+<note n="A_KE_0041">Line_number 0041 is missing</note>
+
+<note n="A_KE_0042">Line_number 0042 is missing</note>
+<lb n="13" xml:id="Af2v.13"/><l n="A_KE_0043"><hi rend="capitalsize1">D</hi>engel die van gode quam.</l>
+<lb n="14" xml:id="Af2v.14"/><l n="A_KE_0044"><hi rend="capitalsize1">S</hi>prac den coninc als die was gram</l>
+<lb n="15" xml:id="Af2v.15"/><l n="A_KE_0045"><hi rend="capitalsize1">S</hi>taet op karel ende vaert <choice><abbr>stele<g ref="#bar"/></abbr><expan>stele<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Af2v.16"/><l n="A_KE_0046"><hi rend="capitalsize1">G</hi>od hiet my v beuelen</l>
+<lb n="17" xml:id="Af2v.17"/><l n="A_KE_0047"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>tbiedet</abbr><expan>o<ex>n</ex>tbiedet</expan></choice> v te <choice><abbr>vore<g ref="#bar"/></abbr><expan>vore<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Af2v.18"/><l n="A_KE_0048"><hi rend="capitalsize1">A</hi>nders hebdi v lijf <choice><abbr>v<g ref="#apomod"/>loren</abbr><expan>v<ex>er</ex>loren</expan></choice></l>
+<lb n="19" xml:id="Af2v.19"/><l n="A_KE_0049"><hi rend="capitalsize2">H</hi>Et <choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> woerde sweech hi</l>
+<lb n="20" xml:id="Af2v.20"/><l n="A_KE_0050"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die coninc riep ay mi</l>
+<lb n="21" xml:id="Af2v.21"/><l n="A_KE_0051"><hi rend="capitalsize1">A</hi>ls die seere was <choice><abbr>v<g ref="#apomod"/>eent</abbr><expan>v<ex>er</ex>eent</expan></choice></l>
+<lb n="22" xml:id="Af2v.22"/><l n="A_KE_0052"><hi rend="capitalsize1">W</hi>at ist dat dit <choice><abbr>wond<g ref="#apomod"/></abbr><expan>wond<ex>er</ex></expan></choice> meent</l>
+<lb n="23" xml:id="Af2v.23"/><l n="A_KE_0053"><hi rend="capitalsize1">I</hi>st alfs ghedroch dat mi quelt.</l>
+<lb n="24" xml:id="Af2v.24"/><l n="A_KE_0054"><hi rend="capitalsize1">E</hi>nde dit grote wonder telt</l>
+<lb n="25" xml:id="Af2v.25"/><l n="A_KE_0055"><hi rend="capitalsize1">A</hi>y hemelsche drochtijn</l>
+<lb n="26" xml:id="Af2v.26"/><l n="A_KE_0056"><hi rend="capitalsize1">W</hi>at node soude mij sijn</l>
+<lb n="27" xml:id="Af2v.27"/><l n="A_KE_0057"><hi rend="capitalsize1">T</hi>e stelen ic ben so rike</l>
+<lb n="28" xml:id="Af2v.28"/><l n="A_KE_0058"><hi rend="capitalsize1">E</hi>n is man in aertrijcke.</l>
+
+
+<pb xml:id="A.f3r" n="3r"/>
+<lb n="1" xml:id="Af3r.1"/><l n="A_KE_0059"><hi rend="capitalsize1">W</hi>eder coninc noch grauen:</l>
+<lb n="2" xml:id="Af3r.2"/><l n="A_KE_0060"><hi rend="capitalsize1">D</hi>ie so rijc sijn van hauen</l>
+<lb n="3" xml:id="Af3r.3"/><l n="A_KE_0061"><hi rend="capitalsize1">S</hi>i moeten mi sijn onderdaen</l>
+<lb n="4" xml:id="Af3r.4"/><l n="A_KE_0062"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> te minen diensten staen</l>
+<lb n="5" xml:id="Af3r.5"/><l n="A_KE_0063"><hi rend="capitalsize1">M</hi>ijn lant is so groot</l>
+<lb n="6" xml:id="Af3r.6"/><l n="A_KE_0064"><hi rend="capitalsize1">M</hi>en vint nyewers sijns ghenoot.</l>
+<lb n="7" xml:id="Af3r.7"/><l n="A_KE_0065"><hi rend="capitalsize1">D</hi>lant is algader mijn</l>
+<lb n="8" xml:id="Af3r.8"/><l n="A_KE_0066"><hi rend="capitalsize1">T</hi>ot colene opten rijn</l>
+<lb n="9" xml:id="Af3r.9"/><l n="A_KE_0067"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> tot romen voort</l>
+<lb n="10" xml:id="Af3r.10"/><l n="A_KE_0068"><hi rend="capitalsize1">A</hi>lst den keyser toe behoort</l>
+<lb n="11" xml:id="Af3r.11"/><l n="A_KE_0069"><hi rend="capitalsize1">C</hi> ben here mijn wijf is vrouwe</l>
+<lb n="12" xml:id="Af3r.12"/><l n="A_KE_0070"><hi rend="capitalsize1">O</hi>est totter wilder denouwe</l>
+<lb n="13" xml:id="Af3r.13"/><l n="A_KE_0071"><hi rend="capitalsize1">E</hi>nde west totter wilder see</l>
+<lb n="14" xml:id="Af3r.14"/><l n="A_KE_0072"><hi rend="capitalsize1">N</hi>ochtans heb ic goets veel meer</l>
+<lb n="15" xml:id="Af3r.15"/><l n="A_KE_0073"><hi rend="capitalsize1">G</hi>alissien ende <choice><abbr>spandie<g ref="#bar"/></abbr><expan>spandie<ex>n</ex></expan></choice> lant</l>
+<lb n="16" xml:id="Af3r.16"/><l n="A_KE_0074"><hi rend="capitalsize1">D</hi>at ic selue wan mitter hant</l>
+<lb n="17" xml:id="Af3r.17"/><l n="A_KE_0075"><hi rend="capitalsize1">E</hi>nde ic die heydene verdreef</l>
+<lb n="18" xml:id="Af3r.18"/><l n="A_KE_0076"><hi rend="capitalsize1">D</hi>at mi tlant alleene bleef</l>
+<lb n="19" xml:id="Af3r.19"/><l n="A_KE_0077"><hi rend="capitalsize1">W</hi>at node soude mi sijn dan</l>
+<lb n="20" xml:id="Af3r.20"/><l n="A_KE_0078"><hi rend="capitalsize1">T</hi>e stelen ellendich man</l>
+<lb n="21" xml:id="Af3r.21"/><l n="A_KE_0079"><hi rend="capitalsize1">W</hi>aer om <choice><abbr>o<g ref="#bar"/>tbiedet</abbr><expan>o<ex>n</ex>tbiedet</expan></choice> mi dit god</l>
+<lb n="22" xml:id="Af3r.22"/><l n="A_KE_0080"><hi rend="capitalsize1">N</hi>ode brekic sijn ghebot</l>
+<lb n="23" xml:id="Af3r.23"/><l n="A_KE_0081"><hi rend="capitalsize1">W</hi>istic dat hijt mi ontbode</l>
+<lb n="24" xml:id="Af3r.24"/><l n="A_KE_0082"><hi rend="capitalsize1">E</hi>n mochs niet ghelouen node</l>
+<lb n="25" xml:id="Af3r.25"/><l n="A_KE_0083"><hi rend="capitalsize1">D</hi>at mi god die lachter onste</l>
+<lb n="26" xml:id="Af3r.26"/><l n="A_KE_0084"><hi rend="capitalsize1">D</hi>at ic te stelen begonste:</l>
+<lb n="27" xml:id="Af3r.27"/><l n="A_KE_0085"><hi rend="capitalsize1">D</hi>aer hi lach in dit ghepeyns.</l>
+<lb n="28" xml:id="Af3r.28"/><l n="A_KE_0086"><hi rend="capitalsize1">H</hi>are tale weder ende gheyns</l>
+
+
+<pb xml:id="A.f3v" n="3v"/>
+<lb n="1" xml:id="Af3v.1"/><l n="A_KE_0087"><hi rend="capitalsize1">S</hi>o vaecte hi een luttelkijn</l>
+<lb n="2" xml:id="Af3v.2"/><l n="A_KE_0088"><hi rend="capitalsize1">S</hi>o datti looc die oghen sijn</l>
+<lb n="3" xml:id="Af3v.3"/><l n="A_KE_0089"><hi rend="capitalsize1">D</hi>oe seide dingel van te voren.</l>
+<lb n="4" xml:id="Af3v.4"/><l n="A_KE_0090"><hi rend="capitalsize1">W</hi>ildi gods ghebot <choice><abbr>v<g ref="#apomod"/>horen:</abbr><expan>v<ex>er</ex>horen:</expan></choice></l>
+<lb n="5" xml:id="Af3v.5"/><l n="A_KE_0091"><hi rend="capitalsize1">H</hi>eer coninc so sidi ontdaen</l>
+<lb n="6" xml:id="Af3v.6"/><l n="A_KE_0092"><hi rend="capitalsize1">H</hi>et sel v an u leuen gaen:</l>
+<lb n="7" xml:id="Af3v.7"/><l n="A_KE_0093"><hi rend="capitalsize1">D</hi>engel <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> paradise.</l>
+<lb n="8" xml:id="Af3v.8"/><l n="A_KE_0094"><hi rend="capitalsize1">S</hi>prac conincdoet als die wise</l>
+<lb n="9" xml:id="Af3v.9"/><l n="A_KE_0095"><hi rend="capitalsize1">V</hi>aert stelen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wert dief</l>
+<lb n="10" xml:id="Af3v.10"/><l n="A_KE_0096"><hi rend="capitalsize1">A</hi>l hebdijs nv groot ongerief</l>
+<lb n="11" xml:id="Af3v.11"/><l n="A_KE_0097"><hi rend="capitalsize1">H</hi>et sal u namaels wesen lief</l>
+<lb n="12" xml:id="Af3v.12"/><l n="A_KE_0098"><hi rend="capitalsize1">E</hi>t deser <choice><abbr>tale<g ref="#bar"/></abbr><expan>tale<ex>n</ex></expan></choice> voer dengel dan</l>
+<lb n="13" xml:id="Af3v.13"/><l n="A_KE_0099"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> karel <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>tseyne<g ref="#bar"/></abbr><expan>tseyne<ex>n</ex></expan></choice> began</l>
+<lb n="14" xml:id="Af3v.14"/><l n="A_KE_0100"><hi rend="capitalsize1">V</hi>anden wonder dat hi hoorde</l>
+<lb n="15" xml:id="Af3v.15"/><l n="A_KE_0101"><hi rend="capitalsize1">G</hi>ods ghebot sine woerde</l>
+<lb n="16" xml:id="Af3v.16"/><l n="A_KE_0102"><hi rend="capitalsize1">E</hi>n wil ic niet laten achter.</l>
+<lb n="17" xml:id="Af3v.17"/><l n="A_KE_0103"><hi rend="capitalsize1">I</hi>c sel dief wesen al ist lachter</l>
+<lb n="18" xml:id="Af3v.18"/><l n="A_KE_0104"><hi rend="capitalsize1">A</hi>l soudic hanghen bider kelen</l>
+<lb n="19" xml:id="Af3v.19"/><l n="A_KE_0105"><hi rend="capitalsize1">N</hi>ochtan haddic lieuer vele</l>
+<lb n="20" xml:id="Af3v.20"/><l n="A_KE_0106"><hi rend="capitalsize1">D</hi>at mi god name ghemeene</l>
+<lb n="21" xml:id="Af3v.21"/><l n="A_KE_0107"><hi rend="capitalsize1">D</hi>at ic van hem houde te leene</l>
+<lb n="22" xml:id="Af3v.22"/><l n="A_KE_0108"><hi rend="capitalsize1">B</hi>eyde borch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="23" xml:id="Af3v.23"/><l n="A_KE_0109"><hi rend="capitalsize1">S</hi>onder mijns ridders ghewant</l>
+<lb n="24" xml:id="Af3v.24"/><l n="A_KE_0110"><hi rend="capitalsize1">E</hi>nde ic mi moeste gheneeren</l>
+<lb n="25" xml:id="Af3v.25"/><l n="A_KE_0111"><hi rend="capitalsize1">M</hi>itten schilde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> metten speere</l>
+<lb n="26" xml:id="Af3v.26"/><l n="A_KE_0112"><hi rend="capitalsize1">A</hi>ls een die niet en heeft</l>
+<lb n="27" xml:id="Af3v.27"/><l n="A_KE_0113"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> op die auenture leeft:</l>
+<lb n="28" xml:id="Af3v.28"/><l n="A_KE_0114"><hi rend="capitalsize1">D</hi>at ware mijn wille bet</l>
+
+
+<pb xml:id="A.f4r" n="4r"/>
+<lb n="1" xml:id="Af4r.1"/><l n="A_KE_0115"><hi rend="capitalsize1">D</hi>an ic gheuanghen ben int net</l>
+<lb n="2" xml:id="Af4r.2"/><l n="A_KE_0116"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ic nv moet stelen varen:</l>
+<lb n="3" xml:id="Af4r.3"/><l n="A_KE_0117"><hi rend="capitalsize1">S</hi>onder eenich sparen</l>
+<lb n="4" xml:id="Af4r.4"/><l n="A_KE_0118"><choice><abbr><hi rend="capitalsize1">V</hi>are<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>are<ex>n</ex></expan></choice> <choice><abbr>stele<g ref="#bar"/></abbr><expan>stele<ex>n</ex></expan></choice> oft god <choice><abbr>v<g ref="#apomod"/>wercken</abbr><expan>v<ex>er</ex>wercken</expan></choice></l>
+<lb n="5" xml:id="Af4r.5"/><l n="A_KE_0119"><hi rend="capitalsize1">N</hi>v so moetti mi gestercken</l>
+<lb n="6" xml:id="Af4r.6"/><l n="A_KE_0120"><hi rend="capitalsize2">I</hi>C woude ic ware vuter sale</l>
+<lb n="7" xml:id="Af4r.7"/><l n="A_KE_0121"><hi rend="capitalsize1">S</hi>onder nieumare ende tale</l>
+<lb n="8" xml:id="Af4r.8"/><l n="A_KE_0122"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> mi waer ghecost opten rijn</l>
+<lb n="9" xml:id="Af4r.9"/><l n="A_KE_0123"><hi rend="capitalsize1">S</hi>euen borghen van steenen fijn</l>
+<lb n="10" xml:id="Af4r.10"/><l n="A_KE_0124"><hi rend="capitalsize1">W</hi>at sel ic segghen van oneeren</l>
+<lb n="11" xml:id="Af4r.11"/><l n="A_KE_0125"><hi rend="capitalsize1">D</hi>en ridderen ende den heeren.</l>
+<lb n="12" xml:id="Af4r.12"/><l n="A_KE_0126"><hi rend="capitalsize1">D</hi>ie hier liggen in die sale</l>
+<lb n="13" xml:id="Af4r.13"/><l n="A_KE_0127"><hi rend="capitalsize1">W</hi>at sal wesen mine tale</l>
+<lb n="14" xml:id="Af4r.14"/><l n="A_KE_0128"><hi rend="capitalsize1">D</hi>at ic in deser duyster nacht</l>
+<lb n="15" xml:id="Af4r.15"/><l n="A_KE_0129"><hi rend="capitalsize1">A</hi>lleene <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> yemants cracht</l>
+<lb n="16" xml:id="Af4r.16"/><l n="A_KE_0130"><hi rend="capitalsize1">M</hi>oet varen in een lant</l>
+<lb n="17" xml:id="Af4r.17"/><l n="A_KE_0131"><hi rend="capitalsize1">D</hi>at mi is vremde ende onbecant</l>
+<lb n="18" xml:id="Af4r.18"/><l n="A_KE_0132"><hi rend="capitalsize1">M</hi>it deser <choice><abbr>tale<g ref="#bar"/></abbr><expan>tale<ex>n</ex></expan></choice> ghinc <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>gereyde<g ref="#bar"/></abbr><expan>gereyde<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Af4r.19"/><l n="A_KE_0133"><hi rend="capitalsize1">D</hi>ie coninc karel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> cleyden.</l>
+<lb n="20" xml:id="Af4r.20"/><l n="A_KE_0134"><hi rend="capitalsize1">M</hi>it sinen <choice><abbr>diere<g ref="#bar"/></abbr><expan>diere<ex>n</ex></expan></choice> gewaden</l>
+<lb n="21" xml:id="Af4r.21"/><l n="A_KE_0135"><hi rend="capitalsize1">A</hi>ls die te stelen was beraden</l>
+<lb n="22" xml:id="Af4r.22"/><l n="A_KE_0136"><hi rend="capitalsize1">H</hi>et was altoes sine seden</l>
+<lb n="23" xml:id="Af4r.23"/><l n="A_KE_0137"><hi rend="capitalsize1">D</hi>atmen sine wapene deden</l>
+<lb n="24" xml:id="Af4r.24"/><l n="A_KE_0138"><hi rend="capitalsize1">T</hi>en bedde daer hi lach</l>
+<lb n="25" xml:id="Af4r.25"/><l n="A_KE_0139"><hi rend="capitalsize1">H</hi>et waren die beste die ye <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> sach.</l>
+<lb n="26" xml:id="Af4r.26"/><l n="A_KE_0140"><hi rend="capitalsize1">A</hi>ls hi aldus ghewapent was</l>
+<lb n="27" xml:id="Af4r.27"/><l n="A_KE_0141"><hi rend="capitalsize1">G</hi>hinc hi doer dat palas</l>
+<lb n="28" xml:id="Af4r.28"/><l n="A_KE_0142"><hi rend="capitalsize1">D</hi>aer en was slot noch dore so goet:</l>
+
+
+<pb xml:id="A.f4v" n="4v"/>
+<lb n="1" xml:id="Af4v.1"/><l n="A_KE_0143"><hi rend="capitalsize1">N</hi>och poerte diene wederstoet.</l>
+<lb n="2" xml:id="Af4v.2"/><l n="A_KE_0144"><hi rend="capitalsize1">S</hi>ine waren <choice><abbr>tege<g ref="#bar"/></abbr><expan>tege<ex>n</ex></expan></choice> hem ontdaen</l>
+<lb n="3" xml:id="Af4v.3"/><l n="A_KE_0145"><hi rend="capitalsize1">D</hi>aer hi wilde mocht hi gaen</l>
+<lb n="4" xml:id="Af4v.4"/><l n="A_KE_0146"><hi rend="capitalsize1">D</hi>aer en was niemant dien sach</l>
+<lb n="5" xml:id="Af4v.5"/><l n="A_KE_0147"><hi rend="capitalsize1">W</hi>ant dat volc algader lach</l>
+<lb n="6" xml:id="Af4v.6"/><l n="A_KE_0148"><hi rend="capitalsize1">I</hi>n vasten slape als god woude.</l>
+<lb n="7" xml:id="Af4v.7"/><l n="A_KE_0149"><hi rend="capitalsize1">D</hi>at dedi al door des conincs houde</l>
+<lb n="8" xml:id="Af4v.8"/><l n="A_KE_0150"><hi rend="capitalsize1">S</hi>ine hulpe was hem bereet</l>
+<lb n="9" xml:id="Af4v.9"/><l n="A_KE_0151"><hi rend="capitalsize1">A</hi>ls hi die borch brugghe leet</l>
+<lb n="10" xml:id="Af4v.10"/><l n="A_KE_0152"><hi rend="capitalsize1">G</hi>hinc die coninc mit liste</l>
+<lb n="11" xml:id="Af4v.11"/><l n="A_KE_0153"><hi rend="capitalsize1">T</hi>otten stalle al daer hi wiste.</l>
+<lb n="12" xml:id="Af4v.12"/><l n="A_KE_0154"><hi rend="capitalsize1">S</hi>ijn ors ende sijn ghesmiden</l>
+<lb n="13" xml:id="Af4v.13"/><l n="A_KE_0155"><hi rend="capitalsize1">S</hi>onder eenich langher beyden</l>
+<lb n="14" xml:id="Af4v.14"/><l n="A_KE_0156"><hi rend="capitalsize1">H</hi>i sadelet ende satter bouen</l>
+<lb n="15" xml:id="Af4v.15"/><l n="A_KE_0157"><hi rend="capitalsize1">O</hi>pt ors datmen mochte louen</l>
+<lb n="16" xml:id="Af4v.16"/><l n="A_KE_0158"><choice><abbr><hi rend="capitalsize1">O</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">O</hi>e<ex>n</ex></expan></choice> hi ter poorten ghereden quam</l>
+<lb n="17" xml:id="Af4v.17"/><l n="A_KE_0159"><hi rend="capitalsize1">S</hi>ach hi daer ende vernam</l>
+<lb n="18" xml:id="Af4v.18"/><l n="A_KE_0160"><hi rend="capitalsize1">D</hi>en wachter ende den poortiere</l>
+<lb n="19" xml:id="Af4v.19"/><l n="A_KE_0161"><hi rend="capitalsize1">D</hi>ie luttel wisten dat hoer heere</l>
+<lb n="20" xml:id="Af4v.20"/><l n="A_KE_0162"><hi rend="capitalsize1">S</hi>o na hem was mitten schilde</l>
+<lb n="21" xml:id="Af4v.21"/><l n="A_KE_0163"><hi rend="capitalsize1">S</hi>i sliepen vaste alst god wilde</l>
+<lb n="22" xml:id="Af4v.22"/><l n="A_KE_0164"><hi rend="capitalsize1">D</hi>ie coninc beette <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ontdoet</l>
+<lb n="23" xml:id="Af4v.23"/><l n="A_KE_0165"><hi rend="capitalsize1">D</hi>ie poorte die besloten stoet</l>
+<lb n="24" xml:id="Af4v.24"/><l n="A_KE_0166"><hi rend="capitalsize1">E</hi>nde leyde sijn ors vut</l>
+<lb n="25" xml:id="Af4v.25"/><l n="A_KE_0167"><hi rend="capitalsize1">S</hi>onder niemare ende gheluyt</l>
+<lb n="26" xml:id="Af4v.26"/><l n="A_KE_0168"><hi rend="capitalsize1">D</hi>oen sat hi in sijn ghereyde</l>
+<lb n="27" xml:id="Af4v.27"/><l n="A_KE_0169"><hi rend="capitalsize1">D</hi>ie coninc karel ende seyde</l>
+<lb n="28" xml:id="Af4v.28"/><l n="A_KE_0170"><hi rend="capitalsize1">G</hi>od also ghewaerlijcke:</l>
+
+
+<pb xml:id="A.f5r" n="5r"/>
+<lb n="1" xml:id="Af5r.1"/><l n="A_KE_0171"><hi rend="capitalsize1">A</hi>ls ghi quaemt in aertrike</l>
+<lb n="2" xml:id="Af5r.2"/><l n="A_KE_0172"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wort sone ende vader:</l>
+<lb n="3" xml:id="Af5r.3"/><l n="A_KE_0173"><hi rend="capitalsize1">O</hi>m ons te verlossen alle gader</l>
+<lb n="4" xml:id="Af5r.4"/><l n="A_KE_0174"><hi rend="capitalsize1">D</hi>at adam hadde verloren</l>
+<lb n="5" xml:id="Af5r.5"/><l n="A_KE_0175"><hi rend="capitalsize1">E</hi>nde dat na hem wert gheboren</l>
+<lb n="6" xml:id="Af5r.6"/><l n="A_KE_0176"><hi rend="capitalsize1">G</hi>hi liet v aenden cruce slaen</l>
+<lb n="7" xml:id="Af5r.7"/><l n="A_KE_0177"><hi rend="capitalsize1">D</hi>oen v die ioden <choice><abbr>hadde<g ref="#bar"/></abbr><expan>hadde<ex>n</ex></expan></choice> gheuaen.</l>
+<lb n="8" xml:id="Af5r.8"/><l n="A_KE_0178"><hi rend="capitalsize1">S</hi>i staken v met eenen speere.</l>
+<lb n="9" xml:id="Af5r.9"/><l n="A_KE_0179"><hi rend="capitalsize1">S</hi>i sloegen v dies haddi geere</l>
+<lb n="10" xml:id="Af5r.10"/><l n="A_KE_0180"><hi rend="capitalsize1">D</hi>ese bitterlike doot</l>
+<lb n="11" xml:id="Af5r.11"/><l n="A_KE_0181"><hi rend="capitalsize1">O</hi>ntfincdi here door onsen noot:</l>
+
+<note n="A_KE_0182">Line_number 0182 is missing</note>
+<lb n="12" xml:id="Af5r.12"/><l n="A_KE_0183"><hi rend="capitalsize1">A</hi>lso waerlic alst was waer</l>
+<lb n="13" xml:id="Af5r.13"/><l n="A_KE_0184"><hi rend="capitalsize1">E</hi>nde ghi here lasaruse.</l>
+<lb n="14" xml:id="Af5r.14"/><l n="A_KE_0185"><hi rend="capitalsize1">D</hi>aer hi lach in sine cluse</l>
+<lb n="15" xml:id="Af5r.15"/><l n="A_KE_0186"><hi rend="capitalsize1">V</hi>erwecket heere vander doot</l>
+<lb n="16" xml:id="Af5r.16"/><l n="A_KE_0187"><hi rend="capitalsize1">E</hi>nde vanden steenen maket broot</l>
+<lb n="17" xml:id="Af5r.17"/><l n="A_KE_0188"><hi rend="capitalsize1">E</hi>nde vanden water wijn</l>
+<lb n="18" xml:id="Af5r.18"/><l n="A_KE_0189"><hi rend="capitalsize1">S</hi>o moeti in mijn gheleyde sijn</l>
+<lb n="19" xml:id="Af5r.19"/><l n="A_KE_0190"><hi rend="capitalsize1">I</hi>n desen duemsteren nacht</l>
+<lb n="20" xml:id="Af5r.20"/><l n="A_KE_0191"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> verbaert aen mij v cracht</l>
+<lb n="21" xml:id="Af5r.21"/><l n="A_KE_0192"><hi rend="capitalsize1">O</hi>etmoedich god ende vader</l>
+<lb n="22" xml:id="Af5r.22"/><l n="A_KE_0193"><hi rend="capitalsize1">A</hi>en v keer ic mi alle gader</l>
+<lb n="23" xml:id="Af5r.23"/><l n="A_KE_0194"><hi rend="capitalsize1">H</hi>i was in vele gedochten</l>
+<lb n="24" xml:id="Af5r.24"/><l n="A_KE_0195"><hi rend="capitalsize1">W</hi>aer hi best <choice><abbr>hene<g ref="#bar"/></abbr><expan>hene<ex>n</ex></expan></choice> <choice><abbr>vare<g ref="#bar"/></abbr><expan>vare<ex>n</ex></expan></choice> mochte.</l>
+<lb n="25" xml:id="Af5r.25"/><l n="A_KE_0196"><hi rend="capitalsize1">D</hi>aer hi stelens soude beghinnen.</l>
+<lb n="26" xml:id="Af5r.26"/><l n="A_KE_0197"><hi rend="capitalsize1">D</hi>oe quam hi in een wout binnen.</l>
+<lb n="27" xml:id="Af5r.27"/><l n="A_KE_0198"><hi rend="capitalsize1">K</hi>arel den edelen man</l>
+<lb n="28" xml:id="Af5r.28"/><l n="A_KE_0199"><hi rend="capitalsize1">D</hi>at niet verre stont van daen</l>
+
+
+<pb xml:id="A.f5v" n="5v"/>
+<lb n="1" xml:id="Af5v.1"/><l n="A_KE_0200"><hi rend="capitalsize1">D</hi>oen hi quam gereden daer</l>
+<lb n="2" xml:id="Af5v.2"/><l n="A_KE_0201"><hi rend="capitalsize1">D</hi>ie mane scheen seer claer</l>
+<lb n="3" xml:id="Af5v.3"/><l n="A_KE_0202"><hi rend="capitalsize1">D</hi>ie sterren lichten aenden trone:</l>
+<lb n="4" xml:id="Af5v.4"/><l n="A_KE_0203"><hi rend="capitalsize1">D</hi>weder was claer ende scone</l>
+<lb n="5" xml:id="Af5v.5"/><l n="A_KE_0204"><hi rend="capitalsize2">D</hi>Vs peynsde die coninc.</l>
+<lb n="6" xml:id="Af5v.6"/><l n="A_KE_0205"><hi rend="capitalsize1">I</hi>c was ghewone voer alle dinck</l>
+<lb n="7" xml:id="Af5v.7"/><l n="A_KE_0206"><hi rend="capitalsize1">D</hi>ieue te hatene daer icse wiste</l>
+<lb n="8" xml:id="Af5v.8"/><l n="A_KE_0207"><hi rend="capitalsize1">D</hi>ie den lieden mit liste</l>
+<lb n="9" xml:id="Af5v.9"/><l n="A_KE_0208"><hi rend="capitalsize1">H</hi>oer goet stelen ende rouen</l>
+<lb n="10" xml:id="Af5v.10"/><l n="A_KE_0209"><hi rend="capitalsize1">N</hi>v mach ic hem wel ghelouen.</l>
+<lb n="11" xml:id="Af5v.11"/><l n="A_KE_0210"><hi rend="capitalsize1">D</hi>ie leuen bider auontuer</l>
+<lb n="12" xml:id="Af5v.12"/><l n="A_KE_0211"><hi rend="capitalsize1">S</hi>i weten wel dat si verbueren.</l>
+<lb n="13" xml:id="Af5v.13"/><l n="A_KE_0212"><hi rend="capitalsize1">L</hi>ijf ende goet <choice><abbr>machme<g ref="#bar"/>se</abbr><expan>machme<ex>n</ex>se</expan></choice> vaen</l>
+<lb n="14" xml:id="Af5v.14"/><l n="A_KE_0213"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> doetse <choice><abbr>hange<g ref="#bar"/></abbr><expan>hange<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> thooft of slaen</l>
+<lb n="15" xml:id="Af5v.15"/><l n="A_KE_0214"><hi rend="capitalsize1">O</hi>f steruen arger doot</l>
+<lb n="16" xml:id="Af5v.16"/><l n="A_KE_0215"><hi rend="capitalsize1">H</hi>oren anxte is dicke groot</l>
+<lb n="17" xml:id="Af5v.17"/><l n="A_KE_0216"><choice><abbr><hi rend="capitalsize1">N</hi>e<g ref="#bar"/>mermer</abbr><expan><hi rend="capitalsize1">N</hi>e<ex>m</ex>mermer</expan></choice> en gheualt mi dat</l>
+<lb n="18" xml:id="Af5v.18"/><l n="A_KE_0217"><hi rend="capitalsize1">D</hi>at ic man doer <choice><abbr>cleyne<g ref="#bar"/></abbr><expan>cleyne<ex>n</ex></expan></choice> scat.</l>
+<lb n="19" xml:id="Af5v.19"/><l n="A_KE_0218"><hi rend="capitalsize1">S</hi>teruen doe in al mijn leuen</l>
+<lb n="20" xml:id="Af5v.20"/><l n="A_KE_0219"><hi rend="capitalsize1">I</hi>c hebbe elegast verdreueuen</l>
+<lb n="21" xml:id="Af5v.21"/><l n="A_KE_0220"><hi rend="capitalsize1">O</hi>m cleyne sake wt minen lande</l>
+<lb n="22" xml:id="Af5v.22"/><l n="A_KE_0221"><hi rend="capitalsize1">D</hi>ie dicke set sijn lijf te pande.</l>
+<lb n="23" xml:id="Af5v.23"/><l n="A_KE_0222"><hi rend="capitalsize1">O</hi>m tgoet daer hi bi leeft</l>
+<lb n="24" xml:id="Af5v.24"/><l n="A_KE_0223"><hi rend="capitalsize1">I</hi>c wane hi dicke sorghe heeft.</l>
+<lb n="25" xml:id="Af5v.25"/><l n="A_KE_0224"><hi rend="capitalsize1">H</hi>i en heeft lant noch leen</l>
+<lb n="26" xml:id="Af5v.26"/><l n="A_KE_0225"><hi rend="capitalsize1">N</hi>och <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> toeuerlaet geen</l>
+<lb n="27" xml:id="Af5v.27"/><l n="A_KE_0226"><hi rend="capitalsize1">D</hi>an hi mit stelen can beiaghen</l>
+<lb n="28" xml:id="Af5v.28"/><l n="A_KE_0227"><hi rend="capitalsize1">D</hi>aer op moet hi <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> ontdraghen.</l>
+
+
+<pb xml:id="A.f6r" n="6r"/>
+<lb n="1" xml:id="Af6r.1"/><l n="A_KE_0228"><hi rend="capitalsize1">I</hi>c nam hem tlant des was hi heere</l>
+<lb n="2" xml:id="Af6r.2"/><l n="A_KE_0229"><hi rend="capitalsize1">D</hi>at mach <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> nv wel rouwen seere</l>
+<lb n="3" xml:id="Af6r.3"/><l n="A_KE_0230"><hi rend="capitalsize1">B</hi>eide borch ende lant</l>
+<lb n="4" xml:id="Af6r.4"/><l n="A_KE_0231"><hi rend="capitalsize1">D</hi>es was ic herde onbekant</l>
+<lb n="5" xml:id="Af6r.5"/><l n="A_KE_0232"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> hi hadde in sine scaren</l>
+<lb n="6" xml:id="Af6r.6"/><l n="A_KE_0233"><hi rend="capitalsize1">D</hi>ie met hem onthouden waren</l>
+<lb n="7" xml:id="Af6r.7"/><l n="A_KE_0234"><hi rend="capitalsize1">R</hi>idders serianten een ghetal.</l>
+<lb n="8" xml:id="Af6r.8"/><l n="A_KE_0235"><hi rend="capitalsize1">D</hi>ie ic heb onterft al</l>
+<lb n="9" xml:id="Af6r.9"/><l n="A_KE_0236"><hi rend="capitalsize1">B</hi>eyde van lande ende van goede</l>
+<lb n="10" xml:id="Af6r.10"/><l n="A_KE_0237"><hi rend="capitalsize1">N</hi>v volghen si hem al doer armoede</l>
+<lb n="11" xml:id="Af6r.11"/><l n="A_KE_0238"><hi rend="capitalsize1">I</hi>c en laetse niewers <choice><abbr>geduere<g ref="#bar"/>.</abbr><expan>geduere<ex>n</ex>.</expan></choice></l>
+<lb n="12" xml:id="Af6r.12"/><l n="A_KE_0239"><hi rend="capitalsize1">D</hi>iese onthilde ic <choice><abbr>dade<g ref="#bar"/></abbr><expan>dade<ex>n</ex></expan></choice> verbueren</l>
+<lb n="13" xml:id="Af6r.13"/><l n="A_KE_0240"><hi rend="capitalsize1">B</hi>eyde borch ende leen</l>
+<lb n="14" xml:id="Af6r.14"/><l n="A_KE_0241"><hi rend="capitalsize1">H</hi>i en heuet toeuerlaet gheen</l>
+<lb n="15" xml:id="Af6r.15"/><l n="A_KE_0242"><hi rend="capitalsize1">H</hi>i moet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> al <choice><abbr>o<g ref="#bar"/>thouden</abbr><expan>o<ex>n</ex>thouden</expan></choice></l>
+<lb n="16" xml:id="Af6r.16"/><l n="A_KE_0243"><hi rend="capitalsize1">I</hi>n wildernissen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in <choice><abbr>woude<g ref="#bar"/></abbr><expan>woude<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Af6r.17"/><l n="A_KE_0244"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> moet alleene beiaghen</l>
+<lb n="18" xml:id="Af6r.18"/><l n="A_KE_0245"><hi rend="capitalsize1">D</hi>aer si <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> alle op ondraghen</l>
+<lb n="19" xml:id="Af6r.19"/><l n="A_KE_0246"><hi rend="capitalsize1">M</hi>er so vele isser an</l>
+<lb n="20" xml:id="Af6r.20"/><l n="A_KE_0247"><hi rend="capitalsize1">H</hi>i en steelt gheenen armen man</l>
+<lb n="21" xml:id="Af6r.21"/><l n="A_KE_0248"><hi rend="capitalsize1">D</hi>ie bi sijnre pinen leeft</l>
+<lb n="22" xml:id="Af6r.22"/><l n="A_KE_0249"><hi rend="capitalsize1">D</hi>at pelgrim ofte <choice><abbr>coepma<g ref="#bar"/></abbr><expan>coepma<ex>n</ex></expan></choice> heeft</l>
+<lb n="23" xml:id="Af6r.23"/><l n="A_KE_0250"><hi rend="capitalsize1">L</hi>aet hi hem gebruken wel</l>
+<lb n="24" xml:id="Af6r.24"/><l n="A_KE_0251"><hi rend="capitalsize1">M</hi>er hi en <choice><abbr>v<g ref="#apomod"/>sekert</abbr><expan>v<ex>er</ex>sekert</expan></choice> nyemant el.</l>
+<lb n="25" xml:id="Af6r.25"/><l n="A_KE_0252"><hi rend="capitalsize1">B</hi>isscoppen ende canoniken</l>
+<lb n="26" xml:id="Af6r.26"/><l n="A_KE_0253"><hi rend="capitalsize1">A</hi>bden ende moniken</l>
+<lb n="27" xml:id="Af6r.27"/><l n="A_KE_0254"><hi rend="capitalsize1">D</hi>ekenen ende papen</l>
+<lb n="28" xml:id="Af6r.28"/><l n="A_KE_0255"><hi rend="capitalsize1">D</hi>aer hise can betrapen</l>
+
+
+<pb xml:id="A.f6v" n="6v"/>
+<lb n="1" xml:id="Af6v.1"/><l n="A_KE_0256"><hi rend="capitalsize1">C</hi>omen si in sijnre werde.</l>
+<lb n="2" xml:id="Af6v.2"/><l n="A_KE_0257"><hi rend="capitalsize1">H</hi>i neemt hem <choice><abbr>mule<g ref="#bar"/></abbr><expan>mule<ex>n</ex></expan></choice> ende peerde</l>
+<lb n="3" xml:id="Af6v.3"/><l n="A_KE_0258"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> steectse vut haren ghereyde</l>
+<lb n="4" xml:id="Af6v.4"/><l n="A_KE_0259"><hi rend="capitalsize1">D</hi>at si vallen op die heyde</l>
+<lb n="5" xml:id="Af6v.5"/><l n="A_KE_0260"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> neemt hem mit sijnre cracht</l>
+<lb n="6" xml:id="Af6v.6"/><l n="A_KE_0261"><hi rend="capitalsize1">A</hi>l dat si daer hebben bracht</l>
+<lb n="7" xml:id="Af6v.7"/><l n="A_KE_0262"><hi rend="capitalsize1">S</hi>iluer cleeder facelment</l>
+<lb n="8" xml:id="Af6v.8"/><l n="A_KE_0263"><hi rend="capitalsize1">D</hi>us beiaecht hi hem ontrent</l>
+<lb n="9" xml:id="Af6v.9"/><l n="A_KE_0264"><hi rend="capitalsize1">D</hi>aer hi die rike lieden weet.</l>
+<lb n="10" xml:id="Af6v.10"/><l n="A_KE_0265"><hi rend="capitalsize1">H</hi>y neemt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> haren scat ghereet</l>
+<lb n="11" xml:id="Af6v.11"/><l n="A_KE_0266"><hi rend="capitalsize1">B</hi>eyde siluer ende gout:</l>
+<lb n="12" xml:id="Af6v.12"/><l n="A_KE_0267"><hi rend="capitalsize1">S</hi>inen list is menichfout</l>
+<lb n="13" xml:id="Af6v.13"/><l n="A_KE_0268"><hi rend="capitalsize1">N</hi>yemant en cannen gheuaen.</l>
+<lb n="14" xml:id="Af6v.14"/><l n="A_KE_0269"><hi rend="capitalsize1">N</hi>ochtan heefter om ghedaen</l>
+<lb n="15" xml:id="Af6v.15"/><l n="A_KE_0270"><hi rend="capitalsize1">M</hi>enich man sine cracht.</l>
+<lb n="16" xml:id="Af6v.16"/><l n="A_KE_0271"><hi rend="capitalsize1">I</hi>c woudic nv in deser nacht</l>
+<lb n="17" xml:id="Af6v.17"/><l n="A_KE_0272"><hi rend="capitalsize1">S</hi>ijn gheselle mochte wesen.</l>
+<lb n="18" xml:id="Af6v.18"/><l n="A_KE_0273"><hi rend="capitalsize1">A</hi>y heere god helpt mi tot desen</l>
+<lb n="19" xml:id="Af6v.19"/><l n="A_KE_0274"><hi rend="capitalsize1">I</hi>t deser talen voer hi voort.</l>
+<lb n="20" xml:id="Af6v.20"/><l n="A_KE_0275"><hi rend="capitalsize1">D</hi>ie coninc ende heeft verhoort</l>
+<lb n="21" xml:id="Af6v.21"/><l n="A_KE_0276"><hi rend="capitalsize1">H</hi>oe een ridder quam gheuaren</l>
+<lb n="22" xml:id="Af6v.22"/><l n="A_KE_0277"><hi rend="capitalsize1">I</hi>nder seluer ghebaren.</l>
+<lb n="23" xml:id="Af6v.23"/><l n="A_KE_0278"><hi rend="capitalsize1">A</hi>ls die riden wil verholen</l>
+<lb n="24" xml:id="Af6v.24"/><l n="A_KE_0279"><hi rend="capitalsize1">M</hi>et wapenen swart als colen</l>
+<lb n="25" xml:id="Af6v.25"/><l n="A_KE_0280"><hi rend="capitalsize1">S</hi>wart was helm ende schilt</l>
+<lb n="26" xml:id="Af6v.26"/><l n="A_KE_0281"><hi rend="capitalsize1">D</hi>ie hi aenden hals hilt</l>
+<lb n="27" xml:id="Af6v.27"/><l n="A_KE_0282"><hi rend="capitalsize1">S</hi>inen halsberch mochtmen louen</l>
+<lb n="28" xml:id="Af6v.28"/><l n="A_KE_0283"><hi rend="capitalsize1">S</hi>wart was den wapenroc daer <choice><abbr>boue<g ref="#bar"/>.</abbr><expan>boue<ex>n</ex>.</expan></choice></l>
+
+
+<pb xml:id="A.f7r" n="7r"/>
+<lb n="1" xml:id="Af7r.1"/><l n="A_KE_0284"><hi rend="capitalsize1">S</hi>wart was dors daer hi op sat</l>
+<lb n="2" xml:id="Af7r.2"/><l n="A_KE_0285"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> quam enen sonderlingen pat</l>
+<lb n="3" xml:id="Af7r.3"/><l n="A_KE_0286"><hi rend="capitalsize1">D</hi>wers riden doer den woude</l>
+<lb n="4" xml:id="Af7r.4"/><l n="A_KE_0287"><hi rend="capitalsize1">A</hi>lsen die coninc ghemoeten soude.</l>
+<lb n="5" xml:id="Af7r.5"/><l n="A_KE_0288"><hi rend="capitalsize1">S</hi>egende <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> en was in vare</l>
+<lb n="6" xml:id="Af7r.6"/><l n="A_KE_0289"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> waende dat die duuel ware</l>
+<lb n="7" xml:id="Af7r.7"/><l n="A_KE_0290"><hi rend="capitalsize1">O</hi>m dat hi was so swart al</l>
+<lb n="8" xml:id="Af7r.8"/><l n="A_KE_0291"><hi rend="capitalsize1">D</hi>en <choice><abbr>rike<g ref="#bar"/></abbr><expan>rike<ex>n</ex></expan></choice> god hi <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> beual.</l>
+<lb n="9" xml:id="Af7r.9"/><l n="A_KE_0292"><hi rend="capitalsize1">H</hi>i pensde in sinen moet</l>
+<lb n="10" xml:id="Af7r.10"/><l n="A_KE_0293"><hi rend="capitalsize1">G</hi>heualt mi quaet ofte goet:</l>
+<lb n="11" xml:id="Af7r.11"/><l n="A_KE_0294"><hi rend="capitalsize1">E</hi>n vlie te nacht doer desen.</l>
+<lb n="12" xml:id="Af7r.12"/><l n="A_KE_0295"><hi rend="capitalsize1">I</hi>c sel der auonturen genesen.</l>
+<lb n="13" xml:id="Af7r.13"/><l n="A_KE_0296"><hi rend="capitalsize1">N</hi>ochtan weet ic te voren wel</l>
+<lb n="14" xml:id="Af7r.14"/><l n="A_KE_0297"><hi rend="capitalsize1">T</hi>is die duuel ende <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> el</l>
+<lb n="15" xml:id="Af7r.15"/><l n="A_KE_0298"><hi rend="capitalsize1">W</hi>aer hi van gods aluen yet</l>
+<lb n="16" xml:id="Af7r.16"/><l n="A_KE_0299"><hi rend="capitalsize1">H</hi>i en ware so swart niet</l>
+<lb n="17" xml:id="Af7r.17"/><l n="A_KE_0300"><hi rend="capitalsize1">T</hi>is al swart peert ende <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Af7r.18"/><l n="A_KE_0301"><hi rend="capitalsize1">A</hi>l dat icker aen gemerken can</l>
+<lb n="19" xml:id="Af7r.19"/><l n="A_KE_0302"><hi rend="capitalsize1">I</hi>c bidde gode dat hi waket</l>
+<lb n="20" xml:id="Af7r.20"/><l n="A_KE_0303"><hi rend="capitalsize1">I</hi>c duchte dat mi toren naket</l>
+<lb n="21" xml:id="Af7r.21"/><l n="A_KE_0304"><hi rend="capitalsize1">D</hi>at dese mi niet en scende</l>
+<lb n="22" xml:id="Af7r.22"/><l n="A_KE_0305"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> als hi bet quam ghehende</l>
+<lb n="23" xml:id="Af7r.23"/><l n="A_KE_0306"><hi rend="capitalsize1">S</hi>eghende hi <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was in vare</l>
+<lb n="24" xml:id="Af7r.24"/><l n="A_KE_0307"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> waende dat die duuel ware.</l>
+<lb n="25" xml:id="Af7r.25"/><l n="A_KE_0308"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die <choice><abbr>swarte<g ref="#bar"/></abbr><expan>swarte<ex>n</ex></expan></choice> ridder heeft <choice><abbr>v<g ref="#apomod"/>nome<g ref="#bar"/></abbr><expan>v<ex>er</ex>nome<ex>n</ex></expan></choice></l>
+<lb n="26" xml:id="Af7r.26"/><l n="A_KE_0309"><hi rend="capitalsize1">D</hi>en coninc <choice><abbr>teghe<g ref="#bar"/></abbr><expan>teghe<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>come<g ref="#bar"/>.</abbr><expan>come<ex>n</ex>.</expan></choice></l>
+<lb n="27" xml:id="Af7r.27"/><l n="A_KE_0310"><hi rend="capitalsize1">P</hi>ensde hi in sinen sin</l>
+<lb n="28" xml:id="Af7r.28"/><l n="A_KE_0311"><hi rend="capitalsize1">D</hi>ese is verdoelt hier in.</l>
+
+
+<pb xml:id="A.f7v" n="7v"/>
+<lb n="1" xml:id="Af7v.1"/><l n="A_KE_0312"><hi rend="capitalsize1">E</hi>nde heuet sinen wech <choice><abbr>v<g ref="#apomod"/>loren</abbr><expan>v<ex>er</ex>loren</expan></choice></l>
+<lb n="2" xml:id="Af7v.2"/><l n="A_KE_0313"><hi rend="capitalsize1">I</hi>c mach dat aen hem <choice><abbr>v<g ref="#apomod"/>horen</abbr><expan>v<ex>er</ex>horen</expan></choice></l>
+<lb n="3" xml:id="Af7v.3"/><l n="A_KE_0314"><hi rend="capitalsize1">H</hi>i salder laten die wapen sijn</l>
+<lb n="4" xml:id="Af7v.4"/><l n="A_KE_0315"><hi rend="capitalsize1">D</hi>ie die beste sijn in schine</l>
+<lb n="5" xml:id="Af7v.5"/><l n="A_KE_0316"><hi rend="capitalsize1">D</hi>ie ic in seuen iaren sach.</l>
+<lb n="6" xml:id="Af7v.6"/><l n="A_KE_0317"><hi rend="capitalsize1">S</hi>i <choice><abbr>v<g ref="#apomod"/>lichte<g ref="#bar"/></abbr><expan>v<ex>er</ex>lichte<ex>n</ex></expan></choice> als den dach.</l>
+<lb n="7" xml:id="Af7v.7"/><l n="A_KE_0318"><hi rend="capitalsize1">V</hi>an steenen ende goude</l>
+<lb n="8" xml:id="Af7v.8"/><l n="A_KE_0319"><hi rend="capitalsize1">W</hi>anen quam hi inden woude.</l>
+<lb n="9" xml:id="Af7v.9"/><l n="A_KE_0320"><hi rend="capitalsize1">T</hi>en was noyt arm man</l>
+<lb n="10" xml:id="Af7v.10"/><l n="A_KE_0321"><hi rend="capitalsize1">D</hi>ie sulcke wapen droech an</l>
+<lb n="11" xml:id="Af7v.11"/><l n="A_KE_0322"><hi rend="capitalsize1">E</hi>nde sulc ors hadde bescreden</l>
+<lb n="12" xml:id="Af7v.12"/><l n="A_KE_0323"><hi rend="capitalsize1">S</hi>o sterc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van scone leden</l>
+<lb n="13" xml:id="Af7v.13"/><l n="A_KE_0324"><hi rend="capitalsize2">D</hi>Oen si <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> te <choice><abbr>gemoete<g ref="#bar"/></abbr><expan>gemoete<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Af7v.14"/><l n="A_KE_0325"><hi rend="capitalsize1">L</hi>eden si al sonder groeten</l>
+<lb n="15" xml:id="Af7v.15"/><l n="A_KE_0326"><hi rend="capitalsize1">D</hi>een besach den anderen wel</l>
+<lb n="16" xml:id="Af7v.16"/><l n="A_KE_0327"><hi rend="capitalsize1">M</hi>er si en seyden niet el</l>
+<lb n="17" xml:id="Af7v.17"/><l n="A_KE_0328"><hi rend="capitalsize1">A</hi>ls hi den coninck was leden</l>
+<lb n="18" xml:id="Af7v.18"/><l n="A_KE_0329"><hi rend="capitalsize1">D</hi>iet swart ors had <choice><abbr>bescrede<g ref="#bar"/>:</abbr><expan>bescrede<ex>n</ex>:</expan></choice></l>
+<lb n="19" xml:id="Af7v.19"/><l n="A_KE_0330"><hi rend="capitalsize1">H</hi>ilt hi stille ende dochte</l>
+<lb n="20" xml:id="Af7v.20"/><l n="A_KE_0331"><hi rend="capitalsize1">W</hi>ye die ander wesen mochte</l>
+<lb n="21" xml:id="Af7v.21"/><l n="A_KE_0332"><hi rend="capitalsize1">W</hi>aer om dat hi aldus lijt.</l>
+<lb n="22" xml:id="Af7v.22"/><l n="A_KE_0333"><hi rend="capitalsize1">E</hi>nde sijnre <choice><abbr>tale<g ref="#bar"/></abbr><expan>tale<ex>n</ex></expan></choice> aldus vermijt</l>
+<lb n="23" xml:id="Af7v.23"/><l n="A_KE_0334"><hi rend="capitalsize1">D</hi>atti mi niet en groete</l>
+<lb n="24" xml:id="Af7v.24"/><l n="A_KE_0335"><hi rend="capitalsize1">D</hi>oen hi mi ghemoete</l>
+<lb n="25" xml:id="Af7v.25"/><l n="A_KE_0336"><hi rend="capitalsize1">E</hi>nde <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> gheen dinc en vraghet</l>
+<lb n="26" xml:id="Af7v.26"/><l n="A_KE_0337"><hi rend="capitalsize1">I</hi>c wane dat hi quaet iaghet.</l>
+<lb n="27" xml:id="Af7v.27"/><l n="A_KE_0338"><hi rend="capitalsize1">W</hi>aer ic seker van dien:</l>
+<lb n="28" xml:id="Af7v.28"/><l n="A_KE_0339"><hi rend="capitalsize1">D</hi>at hi quame om <choice><abbr>v<g ref="#apomod"/>spien</abbr><expan>v<ex>er</ex>spien</expan></choice></l>
+
+
+<pb xml:id="A.f8r" n="8r"/>
+<lb n="1" xml:id="Af8r.1"/><l n="A_KE_0340"><hi rend="capitalsize1">D</hi>atti mi ofte mine</l>
+<lb n="2" xml:id="Af8r.2"/><l n="A_KE_0341"><hi rend="capitalsize1">B</hi>renghen wilde in pine</l>
+<lb n="3" xml:id="Af8r.3"/><l n="A_KE_0342"><hi rend="capitalsize1">T</hi>eghen den coninc die ic ontrade</l>
+<lb n="4" xml:id="Af8r.4"/><l n="A_KE_0343"><hi rend="capitalsize1">H</hi>i en lede te nacht sonder scade</l>
+<lb n="5" xml:id="Af8r.5"/><l n="A_KE_0344"><hi rend="capitalsize1">W</hi>at node soude hi iaghen.</l>
+<lb n="6" xml:id="Af8r.6"/><l n="A_KE_0345"><hi rend="capitalsize1">A</hi>chter bosschen ende haghen</l>
+<lb n="7" xml:id="Af8r.7"/><l n="A_KE_0346"><hi rend="capitalsize1">O</hi>fti mi niet en sochte</l>
+<lb n="8" xml:id="Af8r.8"/><l n="A_KE_0347"><hi rend="capitalsize1">B</hi>iden heere die mi ghewrochte</l>
+<lb n="9" xml:id="Af8r.9"/><l n="A_KE_0348"><hi rend="capitalsize1">H</hi>ine ontrijt mi te nacht</l>
+<lb n="10" xml:id="Af8r.10"/><l n="A_KE_0349"><hi rend="capitalsize1">I</hi>c sel proeuen sine cracht</l>
+<lb n="11" xml:id="Af8r.11"/><l n="A_KE_0350"><hi rend="capitalsize1">I</hi>c willen spreken ende kennen</l>
+<lb n="12" xml:id="Af8r.12"/><l n="A_KE_0351"><hi rend="capitalsize1">H</hi>y mach sulc sijn ic sel winnen.</l>
+<lb n="13" xml:id="Af8r.13"/><l n="A_KE_0352"><hi rend="capitalsize1">S</hi>ijn ors ende dat hi heuet an.</l>
+<lb n="14" xml:id="Af8r.14"/><l n="A_KE_0353"><hi rend="capitalsize1">E</hi>nde doen met lachter keeren dan</l>
+<lb n="15" xml:id="Af8r.15"/><l n="A_KE_0354"><hi rend="capitalsize1">H</hi>i es hier comen als een domme</l>
+<lb n="16" xml:id="Af8r.16"/><l n="A_KE_0355"><hi rend="capitalsize1">M</hi>et dien werp hi sijn ors omme</l>
+<lb n="17" xml:id="Af8r.17"/><l n="A_KE_0356"><hi rend="capitalsize1">E</hi>nde volchde den coninc naer</l>
+<lb n="18" xml:id="Af8r.18"/><l n="A_KE_0357"><hi rend="capitalsize1">D</hi>oen hien achterhaelde daer</l>
+<lb n="19" xml:id="Af8r.19"/><l n="A_KE_0358"><hi rend="capitalsize1">R</hi>iep hi lude ridder ontbeyt</l>
+<lb n="20" xml:id="Af8r.20"/><l n="A_KE_0359"><hi rend="capitalsize1">W</hi>aer na ist dat ghi rijt</l>
+<lb n="21" xml:id="Af8r.21"/><l n="A_KE_0360"><hi rend="capitalsize1">I</hi>c wil <choice><abbr>wete<g ref="#bar"/></abbr><expan>wete<ex>n</ex></expan></choice> wat ghi soect</l>
+<lb n="22" xml:id="Af8r.22"/><l n="A_KE_0361"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> iaecht ende roect</l>
+<lb n="23" xml:id="Af8r.23"/><l n="A_KE_0362"><hi rend="capitalsize1">E</hi>er ghi mi ontrijt van hier</l>
+<lb n="24" xml:id="Af8r.24"/><l n="A_KE_0363"><hi rend="capitalsize1">A</hi>l waerdi noch so fier</l>
+<lb n="25" xml:id="Af8r.25"/><l n="A_KE_0364"><hi rend="capitalsize1">E</hi>nde so diere uwer tale</l>
+<lb n="26" xml:id="Af8r.26"/><l n="A_KE_0365"><hi rend="capitalsize1">B</hi>erechtes mi so doedi wale</l>
+<lb n="27" xml:id="Af8r.27"/><l n="A_KE_0366"><hi rend="capitalsize1">I</hi>c wil weten wie ghi sijt</l>
+<lb n="28" xml:id="Af8r.28"/><l n="A_KE_0367"><hi rend="capitalsize1">E</hi>nde waer ghi vaert op dese tijt</l>
+
+
+<pb xml:id="A.f8v" n="8v"/>
+<lb n="1" xml:id="Af8v.1"/><l n="A_KE_0368"><hi rend="capitalsize1">E</hi>nde hoe dat v vader hiet</l>
+<lb n="2" xml:id="Af8v.2"/><l n="A_KE_0369"><hi rend="capitalsize1">E</hi>n machs v verlaten niet</l>
+<lb n="3" xml:id="Af8v.3"/><l n="A_KE_0370"><hi rend="capitalsize1">O</hi>en antwoerde die coninc</l>
+<lb n="4" xml:id="Af8v.4"/><l n="A_KE_0371"><hi rend="capitalsize1">G</hi>hi vraget mi so menich dinc</l>
+<lb n="5" xml:id="Af8v.5"/><l n="A_KE_0372"><hi rend="capitalsize1">E</hi>n wistu hoe berechten:</l>
+<lb n="6" xml:id="Af8v.6"/><l n="A_KE_0373"><hi rend="capitalsize1">I</hi>c heb lieuer dat wi vechten:</l>
+<lb n="7" xml:id="Af8v.7"/><l n="A_KE_0374"><hi rend="capitalsize1">D</hi>an ic v seide bi bedwanghe</l>
+<lb n="8" xml:id="Af8v.8"/><l n="A_KE_0375"><hi rend="capitalsize1">S</hi>o haddic gheleeft veel te langhen</l>
+<lb n="9" xml:id="Af8v.9"/><l n="A_KE_0376"><hi rend="capitalsize1">D</hi>at mi een man dwinghen soude</l>
+<lb n="10" xml:id="Af8v.10"/><l n="A_KE_0377"><hi rend="capitalsize1">V</hi>an dinghen die ic niet en woude</l>
+<lb n="11" xml:id="Af8v.11"/><l n="A_KE_0378"><hi rend="capitalsize1">B</hi>erechten ten ware mi lief</l>
+<lb n="12" xml:id="Af8v.12"/><l n="A_KE_0379"><hi rend="capitalsize1">C</hi>oemter mi goet af of miskief</l>
+<lb n="13" xml:id="Af8v.13"/><l n="A_KE_0380"><hi rend="capitalsize1">W</hi>y sullen desen strijt nv scheyden</l>
+<lb n="14" xml:id="Af8v.14"/><l n="A_KE_0381"><hi rend="capitalsize1">E</hi>nde becorten tusschen ons beyden</l>
+<lb n="15" xml:id="Af8v.15"/><l n="A_KE_0382"><hi rend="capitalsize1">D</hi>es conincs schilt was verdect</l>
+<lb n="16" xml:id="Af8v.16"/><l n="A_KE_0383"><hi rend="capitalsize1">H</hi>i en wildes niet voeren ontdect</l>
+<lb n="17" xml:id="Af8v.17"/><l n="A_KE_0384"><hi rend="capitalsize1">O</hi>m teyken datter aene stoet</l>
+<lb n="18" xml:id="Af8v.18"/><l n="A_KE_0385"><hi rend="capitalsize1">H</hi>i en wilde niet dat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> waer vroet.</l>
+<lb n="19" xml:id="Af8v.19"/><l n="A_KE_0386"><hi rend="capitalsize1">D</hi>at hi ware die coninck</l>
+<lb n="20" xml:id="Af8v.20"/><l n="A_KE_0387"><hi rend="capitalsize1">S</hi>i worpen omme met deser dinc:</l>
+<lb n="21" xml:id="Af8v.21"/><l n="A_KE_0388"><hi rend="capitalsize1">H</hi>aer orssen sterc ende snel</l>
+<lb n="22" xml:id="Af8v.22"/><l n="A_KE_0389"><hi rend="capitalsize1">S</hi>i waren beyde ghewapent wel.</l>
+<lb n="23" xml:id="Af8v.23"/><l n="A_KE_0390"><hi rend="capitalsize1">H</hi>are speeren waren sterc</l>
+<lb n="24" xml:id="Af8v.24"/><l n="A_KE_0391"><hi rend="capitalsize1">S</hi>i versaemden in een perc</l>
+<lb n="25" xml:id="Af8v.25"/><l n="A_KE_0392"><hi rend="capitalsize1">M</hi>it sulcken nide onder hem tween</l>
+<lb n="26" xml:id="Af8v.26"/><l n="A_KE_0393"><hi rend="capitalsize1">D</hi>at dorssen boghen ouer gaer been</l>
+<lb n="27" xml:id="Af8v.27"/><l n="A_KE_0394"><hi rend="capitalsize1">M</hi>anlic vingen si ten swaerde</l>
+<lb n="28" xml:id="Af8v.28"/><l n="A_KE_0395"><hi rend="capitalsize1">A</hi>ls die vechtens begaerde</l>
+
+
+<pb xml:id="A.f9r" n="9r"/>
+<lb n="1" xml:id="Af9r.1"/><l n="A_KE_0396"><hi rend="capitalsize1">S</hi>i vochten een langhe wile</l>
+<lb n="2" xml:id="Af9r.2"/><l n="A_KE_0397"><hi rend="capitalsize1">D</hi>atmen gaen mochte een mile</l>
+<lb n="3" xml:id="Af9r.3"/><l n="A_KE_0398"><hi rend="capitalsize1">D</hi>ie swerte was sterc ende snel</l>
+<lb n="4" xml:id="Af9r.4"/><l n="A_KE_0399"><hi rend="capitalsize1">E</hi>nde sine consten waren fel</l>
+<lb n="5" xml:id="Af9r.5"/><l n="A_KE_0400"><hi rend="capitalsize1">S</hi>o dat die coninc was in vare</l>
+<lb n="6" xml:id="Af9r.6"/><l n="A_KE_0401"><hi rend="capitalsize1">E</hi>nde waende dat die duuel ware</l>
+<lb n="7" xml:id="Af9r.7"/><l n="A_KE_0402"><hi rend="capitalsize1">H</hi>i sloech den swarten opten schilt</l>
+<lb n="8" xml:id="Af9r.8"/><l n="A_KE_0403"><hi rend="capitalsize1">D</hi>ien hi manlic voor hem hilt</l>
+<lb n="9" xml:id="Af9r.9"/><l n="A_KE_0404"><hi rend="capitalsize1">D</hi>at hi in tween stucken vloech</l>
+<lb n="10" xml:id="Af9r.10"/><l n="A_KE_0405"><hi rend="capitalsize1">O</hi>ft ware een linden loof</l>
+<lb n="11" xml:id="Af9r.11"/><l n="A_KE_0406"><hi rend="capitalsize1">D</hi>ie swarte sloech den coninc weder</l>
+<lb n="12" xml:id="Af9r.12"/><l n="A_KE_0407"><hi rend="capitalsize1">D</hi>ie swerde ghingen op ende neder</l>
+<lb n="13" xml:id="Af9r.13"/><l n="A_KE_0408"><hi rend="capitalsize1">O</hi>pten helme op die maelgien</l>
+<lb n="14" xml:id="Af9r.14"/><l n="A_KE_0409"><hi rend="capitalsize1">D</hi>atter menich moeste faelgien</l>
+<lb n="15" xml:id="Af9r.15"/><l n="A_KE_0410"><hi rend="capitalsize1">D</hi>aer en was halsberch gheen soe goet</l>
+<lb n="16" xml:id="Af9r.16"/><l n="A_KE_0411"><hi rend="capitalsize1">D</hi>aer en dranc dore dat bloet</l>
+<lb n="17" xml:id="Af9r.17"/><l n="A_KE_0412"><hi rend="capitalsize1">D</hi>oer die maelgien vuter huyt</l>
+<lb n="18" xml:id="Af9r.18"/><l n="A_KE_0413"><hi rend="capitalsize1">D</hi>aer van sloeghen groot gheluyt</l>
+<lb n="19" xml:id="Af9r.19"/><l n="A_KE_0414"><hi rend="capitalsize1">D</hi>ie <choice><abbr>spaendere<g ref="#bar"/></abbr><expan>spaendere<ex>n</ex></expan></choice> <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> scilde daer <choice><abbr>vloghe<g ref="#bar"/>.</abbr><expan>vloghe<ex>n</ex>.</expan></choice></l>
+<lb n="20" xml:id="Af9r.20"/><l n="A_KE_0415"><hi rend="capitalsize1">D</hi>ie <choice><abbr>helme<g ref="#bar"/></abbr><expan>helme<ex>n</ex></expan></choice> op hoer hooft die boghen</l>
+<lb n="21" xml:id="Af9r.21"/><l n="A_KE_0416"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ontfingen scarde ende vlegghen</l>
+<lb n="22" xml:id="Af9r.22"/><l n="A_KE_0417"><hi rend="capitalsize1">S</hi>o scaerp waren der swaerden eggen</l>
+<lb n="23" xml:id="Af9r.23"/><l n="A_KE_0418"><hi rend="capitalsize2">D</hi>Ie coninc pensde in sinen moet</l>
+<lb n="24" xml:id="Af9r.24"/><l n="A_KE_0419"><hi rend="capitalsize1">D</hi>ese is te wapene goet</l>
+
+<note n="A_KE_0420">Line_number 0420 is missing</note>
+
+<note n="A_KE_0421">Line_number 0421 is missing</note>
+<lb n="25" xml:id="Af9r.25"/><l n="A_KE_0422"><hi rend="capitalsize1">S</hi>alic liden mijns namen</l>
+<lb n="26" xml:id="Af9r.26"/><l n="A_KE_0423"><hi rend="capitalsize1">I</hi>c souts mi eewelic scamen</l>
+<lb n="27" xml:id="Af9r.27"/><l n="A_KE_0424"><hi rend="capitalsize1">N</hi>emmermeer en gecreech ic eere</l>
+<lb n="28" xml:id="Af9r.28"/><l n="A_KE_0425"><hi rend="capitalsize1">D</hi>oe sloech hi <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> slach so seere.</l>
+
+
+<pb xml:id="A.f9v" n="9v"/>
+<lb n="1" xml:id="Af9v.1"/><l n="A_KE_0426"><hi rend="capitalsize1">O</hi>pten swarten die voor hem hilt</l>
+<lb n="2" xml:id="Af9v.2"/><l n="A_KE_0427"><hi rend="capitalsize1">D</hi>at hien manlic hadde gheuelt</l>
+<lb n="3" xml:id="Af9v.3"/><l n="A_KE_0428"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vanden ors tumelen dede</l>
+<lb n="4" xml:id="Af9v.4"/><l n="A_KE_0429"><choice><abbr><hi rend="capitalsize1">T</hi>ussche<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">T</hi>ussche<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>n</ex></expan></choice> beyden en was gene vrede</l>
+<lb n="5" xml:id="Af9v.5"/><l n="A_KE_0430"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die swarte sloech opten heere</l>
+<lb n="6" xml:id="Af9v.6"/><l n="A_KE_0431"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloech enen slach so seere:</l>
+<lb n="7" xml:id="Af9v.7"/><l n="A_KE_0432"><hi rend="capitalsize1">O</hi>pten helm dat hi booch</l>
+<lb n="8" xml:id="Af9v.8"/><l n="A_KE_0433"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> tswaert in twee <choice><abbr>stucke<g ref="#bar"/></abbr><expan>stucke<ex>n</ex></expan></choice> vloech</l>
+<lb n="9" xml:id="Af9v.9"/><l n="A_KE_0434"><hi rend="capitalsize1">S</hi>o anxtelic was die slach</l>
+<lb n="10" xml:id="Af9v.10"/><l n="A_KE_0435"><hi rend="capitalsize1">A</hi>ls dat die swarte sach</l>
+<lb n="11" xml:id="Af9v.11"/><l n="A_KE_0436"><hi rend="capitalsize1">D</hi>atti sijn swaert hadde verloren</l>
+<lb n="12" xml:id="Af9v.12"/><l n="A_KE_0437"><hi rend="capitalsize1">T</hi>fy dat ic ye was gheboren</l>
+<lb n="13" xml:id="Af9v.13"/><l n="A_KE_0438"><hi rend="capitalsize1">P</hi>ensde hi in sinen moet</l>
+<lb n="14" xml:id="Af9v.14"/><l n="A_KE_0439"><hi rend="capitalsize1">D</hi>at ick leue waer toe ist goet</l>
+<lb n="15" xml:id="Af9v.15"/><l n="A_KE_0440"><hi rend="capitalsize1">E</hi>n hadde noyt ongheual</l>
+<lb n="16" xml:id="Af9v.16"/><l n="A_KE_0441"><hi rend="capitalsize1">N</hi>och nemmermeer en sal</l>
+<lb n="17" xml:id="Af9v.17"/><l n="A_KE_0442"><hi rend="capitalsize1">W</hi>aer mede sal ic nv <choice><abbr>v<g ref="#apomod"/>weeren.</abbr><expan>v<ex>er</ex>weeren.</expan></choice></l>
+<lb n="18" xml:id="Af9v.18"/><l n="A_KE_0443"><hi rend="capitalsize1">E</hi>n prise mijn lijf niet twee peeren</l>
+<lb n="19" xml:id="Af9v.19"/><l n="A_KE_0444"><hi rend="capitalsize1">W</hi>ant ic ben ydelre hande</l>
+<lb n="20" xml:id="Af9v.20"/><l n="A_KE_0445"><hi rend="capitalsize1">D</hi>oe docht den coninc scande</l>
+<lb n="21" xml:id="Af9v.21"/><l n="A_KE_0446"><hi rend="capitalsize1">O</hi>p <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> te slane die voor <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> helt</l>
+<lb n="22" xml:id="Af9v.22"/><l n="A_KE_0447"><hi rend="capitalsize1">D</hi>ie sach hi liggen tswaert opt velt</l>
+<lb n="23" xml:id="Af9v.23"/><l n="A_KE_0448"><hi rend="capitalsize1">I</hi>n twee <choice><abbr>stucke<g ref="#bar"/></abbr><expan>stucke<ex>n</ex></expan></choice> <choice><abbr>ghebroke<g ref="#bar"/></abbr><expan>ghebroke<ex>n</ex></expan></choice></l>
+<lb n="24" xml:id="Af9v.24"/><l n="A_KE_0449"><hi rend="capitalsize1">P</hi>ensdi en is niet ghewroken</l>
+<lb n="25" xml:id="Af9v.25"/><l n="A_KE_0450"><hi rend="capitalsize1">D</hi>ie eenen wille slaen of deeren.</l>
+<lb n="26" xml:id="Af9v.26"/><l n="A_KE_0451"><hi rend="capitalsize1">D</hi>ie hem niet en can gheweeren:</l>
+<lb n="27" xml:id="Af9v.27"/><l n="A_KE_0452"><hi rend="capitalsize1">D</hi>us hilden si stille int wout.</l>
+<lb n="28" xml:id="Af9v.28"/><l n="A_KE_0453"><hi rend="capitalsize1">H</hi>aer ghepeyns was menichuout</l>
+
+
+<pb xml:id="A.f10r" n="10r"/>
+<lb n="1" xml:id="Af10r.1"/><l n="A_KE_0454"><hi rend="capitalsize1">D</hi>een wie dander wesen mochte</l>
+<lb n="2" xml:id="Af10r.2"/><l n="A_KE_0455"><hi rend="capitalsize1">B</hi>yden heere die mi ghewrochte</l>
+<lb n="3" xml:id="Af10r.3"/><l n="A_KE_0456"><hi rend="capitalsize1">S</hi>prac karel die coninc</l>
+<lb n="4" xml:id="Af10r.4"/><l n="A_KE_0457"><hi rend="capitalsize1">G</hi>hi en berecht mi een dinc</l>
+<lb n="5" xml:id="Af10r.5"/><l n="A_KE_0458"><hi rend="capitalsize1">H</hi>eer ridder des ic v vraghe.</l>
+<lb n="6" xml:id="Af10r.6"/><l n="A_KE_0459"><hi rend="capitalsize1">G</hi>hi hebt gheleeft al v daghe</l>
+<lb n="7" xml:id="Af10r.7"/><l n="A_KE_0460"><hi rend="capitalsize1">H</hi>oe ghi hiet of wie ghi sijt.</l>
+<lb n="8" xml:id="Af10r.8"/><l n="A_KE_0461"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> laet ons corten desen strijt:</l>
+<lb n="9" xml:id="Af10r.9"/><l n="A_KE_0462"><hi rend="capitalsize1">M</hi>ach ic met eeren liden.</l>
+<lb n="10" xml:id="Af10r.10"/><l n="A_KE_0463"><hi rend="capitalsize1">I</hi>c sal v henen laten riden</l>
+<lb n="11" xml:id="Af10r.11"/><l n="A_KE_0464"><hi rend="capitalsize1">A</hi>ls ic uwe name weet.</l>
+<lb n="12" xml:id="Af10r.12"/><l n="A_KE_0465"><hi rend="capitalsize1">D</hi>ie swarte sprac ic ben bereet</l>
+<lb n="13" xml:id="Af10r.13"/><l n="A_KE_0466"><hi rend="capitalsize1">I</hi>n dien dat ghi mi maket vroet</l>
+<lb n="14" xml:id="Af10r.14"/><l n="A_KE_0467"><hi rend="capitalsize1">W</hi>at nootsaken dat v doet</l>
+<lb n="15" xml:id="Af10r.15"/><l n="A_KE_0468"><hi rend="capitalsize1">D</hi>at ghi hier quaemt te nacht</l>
+<lb n="16" xml:id="Af10r.16"/><l n="A_KE_0469"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wiens <choice><abbr>tore<g ref="#bar"/></abbr><expan>tore<ex>n</ex></expan></choice> dat ghi wacht</l>
+<lb n="17" xml:id="Af10r.17"/><l n="A_KE_0470"><hi rend="capitalsize1">D</hi>oe seyde karel die edel man</l>
+<lb n="18" xml:id="Af10r.18"/><l n="A_KE_0471"><hi rend="capitalsize1">S</hi>egt mi tierst ic segh v dan</l>
+<lb n="19" xml:id="Af10r.19"/><l n="A_KE_0472"><hi rend="capitalsize1">W</hi>at ic hier soecke ende iaghe</l>
+<lb n="20" xml:id="Af10r.20"/><l n="A_KE_0473"><hi rend="capitalsize1">E</hi>n derf niet riden bi daghe</l>
+<lb n="21" xml:id="Af10r.21"/><l n="A_KE_0474"><hi rend="capitalsize1">T</hi>en is sonder nootsake niet</l>
+<lb n="22" xml:id="Af10r.22"/><l n="A_KE_0475"><hi rend="capitalsize1">D</hi>at ghi mi dus ghewapent siet</l>
+<lb n="23" xml:id="Af10r.23"/><l n="A_KE_0476"><hi rend="capitalsize1">I</hi>c sel v seggen hoet coemt</l>
+<lb n="24" xml:id="Af10r.24"/><l n="A_KE_0477"><hi rend="capitalsize1">A</hi>ls ghi mi uwen name noemt</l>
+
+<note n="A_KE_0478">Line_number 0478 is missing</note>
+
+<note n="A_KE_0479">Line_number 0479 is missing</note>
+<lb n="25" xml:id="Af10r.25"/><l n="A_KE_0480"><hi rend="capitalsize1">D</hi>ies sijt seker ende vast</l>
+<lb n="26" xml:id="Af10r.26"/><l n="A_KE_0481"><hi rend="capitalsize1">H</hi>eere antwoerde elegast</l>
+<lb n="27" xml:id="Af10r.27"/><l n="A_KE_0482"><hi rend="capitalsize1">D</hi>at sprac die ridder herde saen</l>
+<lb n="28" xml:id="Af10r.28"/><l n="A_KE_0483"><hi rend="capitalsize1">T</hi>en is mi ten besten niet vergaen.</l>
+
+
+<pb xml:id="A.f10v" n="10v"/>
+<lb n="1" xml:id="Af10v.1"/><l n="A_KE_0484"><hi rend="capitalsize1">I</hi>c heb goet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant <choice><abbr>verlore<g ref="#bar"/></abbr><expan>verlore<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Af10v.2"/><l n="A_KE_0485"><hi rend="capitalsize1">D</hi>at ic hadde hier te voren</l>
+<lb n="3" xml:id="Af10v.3"/><l n="A_KE_0486"><hi rend="capitalsize1">B</hi>i ongheualle als menich doet</l>
+<lb n="4" xml:id="Af10v.4"/><l n="A_KE_0487"><hi rend="capitalsize1">S</hi>oudict v al <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice> vroet</l>
+<lb n="5" xml:id="Af10v.5"/><l n="A_KE_0488"><hi rend="capitalsize1">H</hi>oe mine <choice><abbr>sake<g ref="#bar"/></abbr><expan>sake<ex>n</ex></expan></choice> comen sijn</l>
+<lb n="6" xml:id="Af10v.6"/><l n="A_KE_0489"><hi rend="capitalsize1">E</hi>er ic v geseyde den sin</l>
+<lb n="7" xml:id="Af10v.7"/><l n="A_KE_0490"><hi rend="capitalsize1">H</hi>et soude v <choice><abbr>dencke<g ref="#bar"/></abbr><expan>dencke<ex>n</ex></expan></choice> veel te lanc</l>
+<lb n="8" xml:id="Af10v.8"/><l n="A_KE_0491"><hi rend="capitalsize1">M</hi>ijn gheluc is so cranc</l>
+<lb n="9" xml:id="Af10v.9"/><l n="A_KE_0492"><hi rend="capitalsize1">A</hi>ls dit die coninc verstoet.</l>
+<lb n="10" xml:id="Af10v.10"/><l n="A_KE_0493"><hi rend="capitalsize1">W</hi>as hi blide in sinen moet</l>
+<lb n="11" xml:id="Af10v.11"/><l n="A_KE_0494"><hi rend="capitalsize1">A</hi>l haddet al gheweest sijn</l>
+<lb n="12" xml:id="Af10v.12"/><l n="A_KE_0495"><hi rend="capitalsize1">T</hi>goet dat vloyt opten rijn.</l>
+<lb n="13" xml:id="Af10v.13"/><l n="A_KE_0496"><hi rend="capitalsize1">H</hi>i seide ridder eyst v bequame</l>
+<lb n="14" xml:id="Af10v.14"/><l n="A_KE_0497"><hi rend="capitalsize1">N</hi>v segghet mi uwen name</l>
+<lb n="15" xml:id="Af10v.15"/><l n="A_KE_0498"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hoe ghi v gheneert</l>
+<lb n="16" xml:id="Af10v.16"/><l n="A_KE_0499"><hi rend="capitalsize1">B</hi>y al dat god heuet weert:</l>
+<lb n="17" xml:id="Af10v.17"/><l n="A_KE_0500"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bi hem seluen te voeren</l>
+<lb n="18" xml:id="Af10v.18"/><l n="A_KE_0501"><hi rend="capitalsize1">V</hi>an mi en en hebdi gheenen toren</l>
+<lb n="19" xml:id="Af10v.19"/><l n="A_KE_0502"><hi rend="capitalsize1">I</hi>c sal v so vele berechten.</l>
+<lb n="20" xml:id="Af10v.20"/><l n="A_KE_0503"><hi rend="capitalsize1">V</hi>raechdijs mi sonder vechten</l>
+<lb n="21" xml:id="Af10v.21"/><l n="A_KE_0504"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sonder <choice><abbr>euele<g ref="#bar"/></abbr><expan>euele<ex>n</ex></expan></choice> moet</l>
+<lb n="22" xml:id="Af10v.22"/><l n="A_KE_0505"><hi rend="capitalsize1">I</hi>n dien dat ghi mi maket vroet</l>
+<lb n="23" xml:id="Af10v.23"/><l n="A_KE_0506"><hi rend="capitalsize1">N</hi>v sijts seker ende vast</l>
+<lb n="24" xml:id="Af10v.24"/><l n="A_KE_0507"><hi rend="capitalsize1">H</hi>eere ic hiete elegast</l>
+<lb n="25" xml:id="Af10v.25"/><l n="A_KE_0508"><hi rend="capitalsize1">E</hi>n wil v niet helen</l>
+<lb n="26" xml:id="Af10v.26"/><l n="A_KE_0509"><hi rend="capitalsize1">D</hi>aer ic bi leue moet ic stelen</l>
+<lb n="27" xml:id="Af10v.27"/><l n="A_KE_0510"><hi rend="capitalsize1">M</hi>er so vele isser an.</l>
+<lb n="28" xml:id="Af10v.28"/><l n="A_KE_0511"><hi rend="capitalsize1">E</hi>n steels <choice><abbr>geene<g ref="#bar"/></abbr><expan>geene<ex>n</ex></expan></choice> armen man</l>
+
+
+<pb xml:id="A.f11r" n="11r"/>
+<lb n="1" xml:id="Af11r.1"/><l n="A_KE_0512"><hi rend="capitalsize1">D</hi>ie bi sijnre pine leeft</l>
+<lb n="2" xml:id="Af11r.2"/><l n="A_KE_0513"><hi rend="capitalsize1">D</hi>at pelgrim ofte <choice><abbr>coopma<g ref="#bar"/></abbr><expan>coopma<ex>n</ex></expan></choice> heeft</l>
+<lb n="3" xml:id="Af11r.3"/><l n="A_KE_0514"><hi rend="capitalsize1">D</hi>ies laet ic <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>ghebruke<g ref="#bar"/></abbr><expan>ghebruke<ex>n</ex></expan></choice> wel</l>
+<lb n="4" xml:id="Af11r.4"/><l n="A_KE_0515"><hi rend="capitalsize1">M</hi>er ic en verseker <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> el</l>
+<lb n="5" xml:id="Af11r.5"/><l n="A_KE_0516"><hi rend="capitalsize1">S</hi>int dat ic was gheboren.</l>
+<lb n="6" xml:id="Af11r.6"/><l n="A_KE_0517"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ic mijn goet had <choice><abbr>verlore<g ref="#bar"/></abbr><expan>verlore<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Af11r.7"/><l n="A_KE_0518"><hi rend="capitalsize1">D</hi>aer ic bi soude leuen</l>
+<lb n="8" xml:id="Af11r.8"/><l n="A_KE_0519"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> mi die coninc had <choice><abbr>v<g ref="#apomod"/>dreue<g ref="#bar"/></abbr><expan>v<ex>er</ex>dreue<ex>n</ex></expan></choice></l>
+<lb n="9" xml:id="Af11r.9"/><l n="A_KE_0520"><hi rend="capitalsize1">K</hi>arel vut minen lande</l>
+<lb n="10" xml:id="Af11r.10"/><l n="A_KE_0521"><hi rend="capitalsize1">I</hi>c salt segghen al ist scande</l>
+<lb n="11" xml:id="Af11r.11"/><l n="A_KE_0522"><hi rend="capitalsize1">S</hi>o heb ic mi onthouden</l>
+<lb n="12" xml:id="Af11r.12"/><l n="A_KE_0523"><hi rend="capitalsize1">I</hi>n wildernissen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in wouden</l>
+<lb n="13" xml:id="Af11r.13"/><l n="A_KE_0524"><hi rend="capitalsize1">D</hi>aer si twalef bi leuen</l>
+<lb n="14" xml:id="Af11r.14"/><l n="A_KE_0525"><choice><abbr><hi rend="capitalsize1">M</hi>oete<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">M</hi>oete<ex>n</ex>t</expan></choice> rike luden gheuen</l>
+<lb n="15" xml:id="Af11r.15"/><l n="A_KE_0526"><hi rend="capitalsize1">B</hi>isscoppen ende canoniken</l>
+<lb n="16" xml:id="Af11r.16"/><l n="A_KE_0527"><hi rend="capitalsize1">A</hi>bden ende moniken</l>
+<lb n="17" xml:id="Af11r.17"/><l n="A_KE_0528"><hi rend="capitalsize1">D</hi>ekenen ende papen</l>
+<lb n="18" xml:id="Af11r.18"/><l n="A_KE_0529"><hi rend="capitalsize1">D</hi>aer icse can betrapen</l>
+<lb n="19" xml:id="Af11r.19"/><l n="A_KE_0531"><hi rend="capitalsize1">I</hi>c neme haer goet met liste.</l>
+<lb n="20" xml:id="Af11r.20"/><l n="A_KE_0530"><hi rend="capitalsize1">E</hi>n weet so vast en kiste</l>
+
+<note n="A_KE_0532">Line_number 0532 is missing</note>
+
+<note n="A_KE_0533">Line_number 0533 is missing</note>
+<lb n="21" xml:id="Af11r.21"/><l n="A_KE_0534"><hi rend="capitalsize1">W</hi>eet icker goet in</l>
+<lb n="22" xml:id="Af11r.22"/><l n="A_KE_0535"><hi rend="capitalsize1">I</hi>c brenct in mijn gewin:</l>
+<lb n="23" xml:id="Af11r.23"/><l n="A_KE_0536"><hi rend="capitalsize1">E</hi>nde onder mine ghesellen</l>
+<lb n="24" xml:id="Af11r.24"/><l n="A_KE_0537"><hi rend="capitalsize1">W</hi>at soudicker meer of tellen</l>
+<lb n="25" xml:id="Af11r.25"/><l n="A_KE_0538"><hi rend="capitalsize1">M</hi>inen list is menichuout</l>
+<lb n="26" xml:id="Af11r.26"/><l n="A_KE_0539"><hi rend="capitalsize1">M</hi>ine gesellen sijn int wout</l>
+<lb n="27" xml:id="Af11r.27"/><l n="A_KE_0540"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ic voer wt om auenture</l>
+<lb n="28" xml:id="Af11r.28"/><l n="A_KE_0541"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> heb <choice><abbr>vonde<g ref="#bar"/></abbr><expan>vonde<ex>n</ex></expan></choice> <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>suere<g ref="#bar"/></abbr><expan>suere<ex>n</ex></expan></choice></l>
+
+
+<pb xml:id="A.f11v" n="11v"/>
+<lb n="1" xml:id="Af11v.1"/><l n="A_KE_0542"><hi rend="capitalsize1">W</hi>ant ic heb mijn swaert <choice><abbr>v<g ref="#apomod"/>loreu.</abbr><expan>v<ex>er</ex>loreu.</expan></choice></l>
+<lb n="2" xml:id="Af11v.2"/><l n="A_KE_0543"><hi rend="capitalsize1">E</hi>n coeser gheen haue voren</l>
+<lb n="3" xml:id="Af11v.3"/><l n="A_KE_0544"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ict weder hadde gheheel</l>
+<lb n="4" xml:id="Af11v.4"/><l n="A_KE_0545"><hi rend="capitalsize1">D</hi>er slaghen heb ic ooc een deel</l>
+<lb n="5" xml:id="Af11v.5"/><l n="A_KE_0546"><hi rend="capitalsize1">M</hi>eer dan ic ye ghewan</l>
+<lb n="6" xml:id="Af11v.6"/><l n="A_KE_0547"><hi rend="capitalsize1">O</hi>p eenen nacht van eenen man</l>
+<lb n="7" xml:id="Af11v.7"/><l n="A_KE_0548"><hi rend="capitalsize2">N</hi>V segt mi ridder hoe ghi heet</l>
+<lb n="8" xml:id="Af11v.8"/><l n="A_KE_0549"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die ghene die v veet</l>
+<lb n="9" xml:id="Af11v.9"/><l n="A_KE_0550"><hi rend="capitalsize1">I</hi>s hi van sulker machte</l>
+<lb n="10" xml:id="Af11v.10"/><l n="A_KE_0551"><hi rend="capitalsize1">D</hi>at ghi riden moet bi nachte</l>
+<lb n="11" xml:id="Af11v.11"/><l n="A_KE_0552"><hi rend="capitalsize1">E</hi>n condise niet ghematen:</l>
+<lb n="12" xml:id="Af11v.12"/><l n="A_KE_0553"><hi rend="capitalsize1">D</hi>ie ghene die v haten</l>
+<lb n="13" xml:id="Af11v.13"/><l n="A_KE_0554"><hi rend="capitalsize1">G</hi>hi sijt te wapene so goet</l>
+<lb n="14" xml:id="Af11v.14"/><l n="A_KE_0555"><hi rend="capitalsize1">D</hi>ie coninc pensde in sinen moet</l>
+<lb n="15" xml:id="Af11v.15"/><l n="A_KE_0556"><hi rend="capitalsize1">G</hi>od heeft mijn bede ghehoort</l>
+<lb n="16" xml:id="Af11v.16"/><l n="A_KE_0557"><hi rend="capitalsize1">N</hi>v moetti mi beraden voort</l>
+<lb n="17" xml:id="Af11v.17"/><l n="A_KE_0558"><hi rend="capitalsize1">D</hi>it is die man die ic begheerde</l>
+<lb n="18" xml:id="Af11v.18"/><l n="A_KE_0559"><hi rend="capitalsize1">B</hi>ouen alle die leuen op daerde</l>
+<lb n="19" xml:id="Af11v.19"/><l n="A_KE_0560"><hi rend="capitalsize1">M</hi>ede te varen op desen nacht</l>
+
+<note n="A_KE_0561">Line_number 0561 is missing</note>
+<lb n="20" xml:id="Af11v.20"/><l n="A_KE_0562"><hi rend="capitalsize1">G</hi>od heefter mi te poente bracht</l>
+<lb n="21" xml:id="Af11v.21"/><l n="A_KE_0563"><hi rend="capitalsize1">N</hi>v moet ic liegen door den noot</l>
+<lb n="22" xml:id="Af11v.22"/><l n="A_KE_0564"><hi rend="capitalsize1">B</hi>iden heere die mi gheboot:</l>
+<lb n="23" xml:id="Af11v.23"/><l n="A_KE_0565"><hi rend="capitalsize1">S</hi>prac die coninc tot elegast.</l>
+<lb n="24" xml:id="Af11v.24"/><l n="A_KE_0566"><hi rend="capitalsize1">A</hi>en mi hebdi gheleyde vast</l>
+<lb n="25" xml:id="Af11v.25"/><l n="A_KE_0567"><hi rend="capitalsize1">G</hi>hestade vrient ende vrede</l>
+<lb n="26" xml:id="Af11v.26"/><l n="A_KE_0568"><hi rend="capitalsize1">I</hi>c sel v seggen mine sede.</l>
+<lb n="27" xml:id="Af11v.27"/><l n="A_KE_0569"><hi rend="capitalsize1">W</hi>at helpt vrienden verholen</l>
+<lb n="28" xml:id="Af11v.28"/><l n="A_KE_0570"><hi rend="capitalsize1">I</hi>c heb so vele goets gestolen</l>
+
+
+<pb xml:id="A.f12r" n="12r"/>
+<lb n="1" xml:id="Af12r.1"/><l n="A_KE_0571"><hi rend="capitalsize1">W</hi>aer ic mitter helft gheuaen</l>
+<lb n="2" xml:id="Af12r.2"/><l n="A_KE_0572"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> liet mi waerlic niet ontgaen</l>
+<lb n="3" xml:id="Af12r.3"/><l n="A_KE_0573"><hi rend="capitalsize1">O</hi>m mijn ghewichte van goude root</l>
+<lb n="4" xml:id="Af12r.4"/><l n="A_KE_0574"><hi rend="capitalsize1">M</hi>ar het dede mi den noot</l>
+<lb n="5" xml:id="Af12r.5"/><l n="A_KE_0575"><hi rend="capitalsize1">N</hi>oot breket alle strijt.</l>
+<lb n="6" xml:id="Af12r.6"/><l n="A_KE_0576"><hi rend="capitalsize1">N</hi>v segghet mi ridder wie ghi sijt</l>
+<lb n="7" xml:id="Af12r.7"/><l n="A_KE_0577"><hi rend="capitalsize1">I</hi>ck sel v segghen minen name</l>
+<lb n="8" xml:id="Af12r.8"/><l n="A_KE_0578"><hi rend="capitalsize1">I</hi>st v wille ende bequame</l>
+<lb n="9" xml:id="Af12r.9"/><l n="A_KE_0579"><hi rend="capitalsize1">I</hi>c ben ghehieten adelbrecht</l>
+<lb n="10" xml:id="Af12r.10"/><l n="A_KE_0580"><hi rend="capitalsize1">I</hi>c pleghe te stelen ouer recht.</l>
+<lb n="11" xml:id="Af12r.11"/><l n="A_KE_0581"><hi rend="capitalsize1">I</hi>n kerken <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in cluysn.</l>
+<lb n="12" xml:id="Af12r.12"/><l n="A_KE_0582"><hi rend="capitalsize1">E</hi>nde in alle gods husen.</l>
+<lb n="13" xml:id="Af12r.13"/><l n="A_KE_0583"><hi rend="capitalsize1">I</hi>c stele alderhande saken</l>
+<lb n="14" xml:id="Af12r.14"/><l n="A_KE_0584"><hi rend="capitalsize1">E</hi>n late <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> met ghemaken:</l>
+<lb n="15" xml:id="Af12r.15"/><l n="A_KE_0585"><hi rend="capitalsize1">D</hi>en rijcken ende den armen</l>
+<lb n="16" xml:id="Af12r.16"/><l n="A_KE_0586"><hi rend="capitalsize1">I</hi>c en achte niet op hoer carmen.</l>
+<lb n="17" xml:id="Af12r.17"/><l n="A_KE_0587"><hi rend="capitalsize1">E</hi>n weet gheenen <choice><abbr>arme<g ref="#bar"/></abbr><expan>arme<ex>n</ex></expan></choice> man</l>
+<lb n="18" xml:id="Af12r.18"/><l n="A_KE_0588"><hi rend="capitalsize1">D</hi>aer ic mijn ghewin weet an</l>
+<lb n="19" xml:id="Af12r.19"/><l n="A_KE_0589"><hi rend="capitalsize1">E</hi>n naem hem lieuer sine haue</l>
+<lb n="20" xml:id="Af12r.20"/><l n="A_KE_0590"><hi rend="capitalsize1">D</hi>an ic hem die mine gaue</l>
+<lb n="21" xml:id="Af12r.21"/><l n="A_KE_0591"><hi rend="capitalsize1">A</hi>ldus heb ic mi ontdraghen</l>
+<lb n="22" xml:id="Af12r.22"/><l n="A_KE_0592"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hebbe gheleyt nauwe lagen</l>
+<lb n="23" xml:id="Af12r.23"/><l n="A_KE_0593"><hi rend="capitalsize1">O</hi>m eenen scat die ic weet</l>
+<lb n="24" xml:id="Af12r.24"/><l n="A_KE_0594"><hi rend="capitalsize1">M</hi>i souts wesen wel ghereet</l>
+<lb n="25" xml:id="Af12r.25"/><l n="A_KE_0596"><hi rend="capitalsize1">E</hi>er emmermeer morghen vroe</l>
+<lb n="26" xml:id="Af12r.26"/><l n="A_KE_0595"><hi rend="capitalsize1">H</hi>addicker goede hulpe toe</l>
+<lb n="27" xml:id="Af12r.27"/><l n="A_KE_0597"><hi rend="capitalsize1">A</hi>lso vele als ics rochte</l>
+<lb n="28" xml:id="Af12r.28"/><l n="A_KE_0598"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> mijn peert dragen mochte</l>
+
+
+<pb xml:id="A.f12v" n="12v"/>
+<lb n="1" xml:id="Af12v.1"/><l n="A_KE_0599"><hi rend="capitalsize1">D</hi>ie scat is qualic ghewonnen.</l>
+<lb n="2" xml:id="Af12v.2"/><l n="A_KE_0600"><hi rend="capitalsize1">G</hi>od en souts ons niet <choice><abbr>v<g ref="#apomod"/>gonnen</abbr><expan>v<ex>er</ex>gonnen</expan></choice></l>
+<lb n="3" xml:id="Af12v.3"/><l n="A_KE_0601"><hi rend="capitalsize1">A</hi>l hadden wijs een deel</l>
+<lb n="4" xml:id="Af12v.4"/><l n="A_KE_0602"><hi rend="capitalsize1">D</hi>i scat leyt in een casteel</l>
+<lb n="5" xml:id="Af12v.5"/><l n="A_KE_0603"><hi rend="capitalsize1">D</hi>aer mi die eyghenoot is cont</l>
+<lb n="6" xml:id="Af12v.6"/><l n="A_KE_0604"><hi rend="capitalsize1">A</hi>l <choice><abbr>hadde<g ref="#bar"/>s</abbr><expan>hadde<ex>n</ex>s</expan></choice> wijs vijf hondert pont</l>
+<lb n="7" xml:id="Af12v.7"/><l n="A_KE_0605"><hi rend="capitalsize1">T</hi>en mochten niet deeren</l>
+<lb n="8" xml:id="Af12v.8"/><l n="A_KE_0606"><hi rend="capitalsize1">D</hi>at wi vanden sinen teeren.</l>
+<lb n="9" xml:id="Af12v.9"/><l n="A_KE_0636"><hi rend="capitalsize1">L</hi>aet ons gesellen sijn te nacht</l>
+<lb n="10" xml:id="Af12v.10"/><l n="A_KE_0637"><hi rend="capitalsize1">D</hi>at wi connen beiaghen</l>
+<lb n="11" xml:id="Af12v.11"/><l n="A_KE_0638"><hi rend="capitalsize1">B</hi>eyt hier ende het sal daghen</l>
+<lb n="12" xml:id="Af12v.12"/><l n="A_KE_0639"><hi rend="capitalsize1">D</hi>an sel ic deylen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghi sult kiesen</l>
+<lb n="13" xml:id="Af12v.13"/><l n="A_KE_0640"><hi rend="capitalsize1">D</hi>ies achter gaet moet riesen</l>
+<lb n="14" xml:id="Af12v.14"/><l n="A_KE_0641"><hi rend="capitalsize2">E</hi>Legast seide waer leit den scat.</l>
+<lb n="15" xml:id="Af12v.15"/><l n="A_KE_0642"><hi rend="capitalsize1">L</hi>ieue gheselle segt mi dat</l>
+<lb n="16" xml:id="Af12v.16"/><l n="A_KE_0643"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> in wat stede</l>
+<lb n="17" xml:id="Af12v.17"/><l n="A_KE_0644"><hi rend="capitalsize1">H</hi>et mach daer sijn ic vare mede</l>
+<lb n="18" xml:id="Af12v.18"/><l n="A_KE_0645"><hi rend="capitalsize1">I</hi>c wils wesen vroet:</l>
+<lb n="19" xml:id="Af12v.19"/><l n="A_KE_0646"><hi rend="capitalsize1">E</hi>er ic v volghe eenen voet</l>
+<lb n="20" xml:id="Af12v.20"/><l n="A_KE_0647"><hi rend="capitalsize1">D</hi>oen seide karel die edel man.</l>
+<lb n="21" xml:id="Af12v.21"/><l n="A_KE_0648"><hi rend="capitalsize1">I</hi>c selt v berechten dan</l>
+<lb n="22" xml:id="Af12v.22"/><l n="A_KE_0649"><hi rend="capitalsize1">D</hi>ie coninc heeft so groot een scat</l>
+<lb n="23" xml:id="Af12v.23"/><l n="A_KE_0650"><hi rend="capitalsize1">H</hi>et mochten luttel deeren dat.</l>
+
+<note n="A_KE_0651">Line_number 0651 is missing</note>
+
+<note n="A_KE_0652">Line_number 0652 is missing</note>
+<lb n="24" xml:id="Af12v.24"/><l n="A_KE_0653"><choice><abbr><hi rend="capitalsize1">V</hi>ansine<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>ansine<ex>n</ex></expan></choice> scatte daer hi leghet</l>
+<lb n="25" xml:id="Af12v.25"/><l n="A_KE_0654"><hi rend="capitalsize1">A</hi>ls die coninc seghet.</l>
+<lb n="26" xml:id="Af12v.26"/><l n="A_KE_0655"><hi rend="capitalsize1">D</hi>atti hem seluen stelen wille</l>
+<lb n="27" xml:id="Af12v.27"/><l n="A_KE_0656"><hi rend="capitalsize1">E</hi>legast en sweech niet stille</l>
+<lb n="28" xml:id="Af12v.28"/><l n="A_KE_0657"><hi rend="capitalsize1">H</hi>i seyde dat moet mi god <choice><abbr>v<g ref="#apomod"/>bieden</abbr><expan>v<ex>er</ex>bieden</expan></choice></l>
+
+
+<pb xml:id="A.f13r" n="13r"/>
+<lb n="1" xml:id="Af13r.1"/><l n="A_KE_0658"><hi rend="capitalsize1">S</hi>i en leuen niet diet mi rieden</l>
+<lb n="2" xml:id="Af13r.2"/><l n="A_KE_0659"><hi rend="capitalsize1">D</hi>at ic den coninc dade scade</l>
+<lb n="3" xml:id="Af13r.3"/><l n="A_KE_0660"><hi rend="capitalsize1">A</hi>l heeft hi mi bi quaden rade.</l>
+<lb n="4" xml:id="Af13r.4"/><l n="A_KE_0661"><hi rend="capitalsize1">M</hi>ijn goet ghenomen ende <choice><abbr>v<g ref="#apomod"/>dreuen</abbr><expan>v<ex>er</ex>dreuen</expan></choice></l>
+<lb n="5" xml:id="Af13r.5"/><l n="A_KE_0662"><hi rend="capitalsize1">I</hi>c sel hem al mijn <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Af13r.6"/><l n="A_KE_0663"><hi rend="capitalsize1">G</hi>oet vrient sijn na mijn macht.</l>
+<lb n="7" xml:id="Af13r.7"/><l n="A_KE_0664"><hi rend="capitalsize1">I</hi>n sijn scade en coem ic te nacht</l>
+<lb n="8" xml:id="Af13r.8"/><l n="A_KE_0665"><hi rend="capitalsize1">W</hi>ant hi is gerechtich heere</l>
+<lb n="9" xml:id="Af13r.9"/><l n="A_KE_0666"><hi rend="capitalsize1">D</hi>ade ic hem anders dan eere</l>
+<lb n="10" xml:id="Af13r.10"/><l n="A_KE_0667"><hi rend="capitalsize1">I</hi>c mochs mi <choice><abbr>scame<g ref="#bar"/></abbr><expan>scame<ex>n</ex></expan></choice> voor gode</l>
+<lb n="11" xml:id="Af13r.11"/><l n="A_KE_0668"><hi rend="capitalsize1">M</hi>en mochs mi gheraden node</l>
+<lb n="12" xml:id="Af13r.12"/><l n="A_KE_0669"><hi rend="capitalsize1">L</hi>s dit die coninc verstoet</l>
+<lb n="13" xml:id="Af13r.13"/><l n="A_KE_0670"><hi rend="capitalsize1">W</hi>as hi blide in sinen moet:</l>
+<lb n="14" xml:id="Af13r.14"/><l n="A_KE_0671"><hi rend="capitalsize1">D</hi>at hem elegast die dief</l>
+<lb n="15" xml:id="Af13r.15"/><l n="A_KE_0672"><hi rend="capitalsize1">G</hi>oet gonste <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hadde lief.</l>
+<lb n="16" xml:id="Af13r.16"/><l n="A_KE_0673"><hi rend="capitalsize1">H</hi>i pensde mochti keeren.</l>
+<lb n="17" xml:id="Af13r.17"/><l n="A_KE_0674"><hi rend="capitalsize1">B</hi>ehouden sijnder eeren</l>
+<lb n="18" xml:id="Af13r.18"/><l n="A_KE_0675"><hi rend="capitalsize1">H</hi>i souden goets so vele geuen</l>
+<lb n="19" xml:id="Af13r.19"/><l n="A_KE_0676"><hi rend="capitalsize1">H</hi>i <choice><abbr>soud<g ref="#apomod"/></abbr><expan>soud<ex>er</ex></expan></choice> mit <choice><abbr>eere<g ref="#bar"/></abbr><expan>eere<ex>n</ex></expan></choice> sijn daech op <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Af13r.20"/><l n="A_KE_0677"><hi rend="capitalsize1">S</hi>onder stelen ende rouen</l>
+<lb n="21" xml:id="Af13r.21"/><l n="A_KE_0678"><hi rend="capitalsize1">D</hi>es mocht <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> gelouen</l>
+<lb n="22" xml:id="Af13r.22"/><l n="A_KE_0679"><hi rend="capitalsize1">N</hi>a dien gepense daer hi in was.</l>
+<lb n="23" xml:id="Af13r.23"/><l n="A_KE_0680"><hi rend="capitalsize1">V</hi>raechde elegaste das</l>
+<lb n="24" xml:id="Af13r.24"/><l n="A_KE_0681"><hi rend="capitalsize1">O</hi>ft hien yewers wilde leyden</l>
+<lb n="25" xml:id="Af13r.25"/><l n="A_KE_0682"><hi rend="capitalsize1">D</hi>aer si tgoet onder hem beyden:</l>
+<lb n="26" xml:id="Af13r.26"/><l n="A_KE_0683"><hi rend="capitalsize1">M</hi>ochten <choice><abbr>beiaghe<g ref="#bar"/></abbr><expan>beiaghe<ex>n</ex></expan></choice> op dien nacht</l>
+<lb n="27" xml:id="Af13r.27"/><l n="A_KE_0684"><hi rend="capitalsize1">H</hi>i deder toe sijn beste cracht.</l>
+<lb n="28" xml:id="Af13r.28"/><l n="A_KE_0685"><hi rend="capitalsize1">G</hi>heerne ende sijn behindichede</l>
+
+
+<pb xml:id="A.f13v" n="13v"/>
+<lb n="1" xml:id="Af13v.1"/><l n="A_KE_0686"><hi rend="capitalsize1">W</hi>oude hi hem laten <choice><abbr>vare<g ref="#bar"/></abbr><expan>vare<ex>n</ex></expan></choice> mede.</l>
+<lb n="2" xml:id="Af13v.2"/><l n="A_KE_0687"><hi rend="capitalsize2">E</hi>Legast sede ia ic gerne</l>
+<lb n="3" xml:id="Af13v.3"/><l n="A_KE_0688"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> weet niet ghi segt in scerne</l>
+<lb n="4" xml:id="Af13v.4"/><l n="A_KE_0689"><hi rend="capitalsize1">T</hi>heggericx van eggermonde</l>
+<lb n="5" xml:id="Af13v.5"/><l n="A_KE_0690"><hi rend="capitalsize1">D</hi>aer moghen wi stelen sonder sonde</l>
+<lb n="6" xml:id="Af13v.6"/><l n="A_KE_0691"><hi rend="capitalsize1">D</hi>ie des conincs suster heeft.</l>
+<lb n="7" xml:id="Af13v.7"/><l n="A_KE_0692"><hi rend="capitalsize1">H</hi>et is scade dat gi leeft</l>
+<lb n="8" xml:id="Af13v.8"/><l n="A_KE_0693"><hi rend="capitalsize1">H</hi>i heeft den menighen verraden</l>
+<lb n="9" xml:id="Af13v.9"/><l n="A_KE_0694"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghebrocht in groter scaden</l>
+<lb n="10" xml:id="Af13v.10"/><l n="A_KE_0695"><hi rend="capitalsize1">E</hi>nde ooc mede sinen heere</l>
+<lb n="11" xml:id="Af13v.11"/><l n="A_KE_0696"><hi rend="capitalsize1">S</hi>oudi nemen lijf ende eere</l>
+<lb n="12" xml:id="Af13v.12"/><l n="A_KE_0697"><hi rend="capitalsize1">M</hi>ocht na sinen wille gaen</l>
+<lb n="13" xml:id="Af13v.13"/><l n="A_KE_0698"><hi rend="capitalsize1">D</hi>at heb ic wel verstaen.</l>
+<lb n="14" xml:id="Af13v.14"/><l n="A_KE_0699"><hi rend="capitalsize1">N</hi>ochtan houti vanden coninc</l>
+<lb n="15" xml:id="Af13v.15"/><l n="A_KE_0700"><hi rend="capitalsize1">H</hi>erde menich scone dinc</l>
+<lb n="16" xml:id="Af13v.16"/><l n="A_KE_0701"><hi rend="capitalsize1">B</hi>eyde borch ende leen</l>
+<lb n="17" xml:id="Af13v.17"/><l n="A_KE_0702"><hi rend="capitalsize1">A</hi>l en haddi toeuerlaet anders geen</l>
+<lb n="18" xml:id="Af13v.18"/><l n="A_KE_0703"><hi rend="capitalsize1">H</hi>et mochten luttel <choice><abbr>deere<g ref="#bar"/></abbr><expan>deere<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Af13v.19"/><l n="A_KE_0704"><hi rend="capitalsize1">D</hi>at wi vanden sinen teeren:</l>
+<lb n="20" xml:id="Af13v.20"/><l n="A_KE_0705"><hi rend="capitalsize1">D</hi>aer selen wi varen ist v wille</l>
+<lb n="21" xml:id="Af13v.21"/><l n="A_KE_0706"><hi rend="capitalsize1">D</hi>ie coninc peynsde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sweech al stille</l>
+<lb n="22" xml:id="Af13v.22"/><l n="A_KE_0707"><hi rend="capitalsize1">N</hi>a dat daer ghescepen stoet</l>
+<lb n="23" xml:id="Af13v.23"/><l n="A_KE_0708"><hi rend="capitalsize1">D</hi>at daer ware stelen goet.</l>
+<lb n="24" xml:id="Af13v.24"/><l n="A_KE_0709"><hi rend="capitalsize1">A</hi>l hadden sijn suster gheuangen</l>
+<lb n="25" xml:id="Af13v.25"/><l n="A_KE_0710"><hi rend="capitalsize1">S</hi>i souden node laten hangeu</l>
+<lb n="26" xml:id="Af13v.26"/><l n="A_KE_0711"><hi rend="capitalsize1">D</hi>us droeghen si ouereen</l>
+<lb n="27" xml:id="Af13v.27"/><l n="A_KE_0712"><hi rend="capitalsize1">D</hi>aer te varen onder hem tween</l>
+<lb n="28" xml:id="Af13v.28"/><l n="A_KE_0713"><hi rend="capitalsize1">T</hi>e stelen eggerics scat.</l>
+
+
+<pb xml:id="A.f14r" n="14r"/>
+<lb n="1" xml:id="Af14r.1"/><l n="A_KE_0714"><hi rend="capitalsize1">D</hi>ie coninc hem niet en <choice><abbr>v<g ref="#apomod"/>gat</abbr><expan>v<ex>er</ex>gat</expan></choice></l>
+<lb n="2" xml:id="Af14r.2"/><l n="A_KE_0715"><hi rend="capitalsize2">H</hi>I <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> ghereden op een velt</l>
+<lb n="3" xml:id="Af14r.3"/><l n="A_KE_0716"><hi rend="capitalsize1">O</hi>p haer orssen wel ghestelt</l>
+<lb n="4" xml:id="Af14r.4"/><l n="A_KE_0717"><hi rend="capitalsize1">D</hi>aer vonden si een ploech staen</l>
+<lb n="5" xml:id="Af14r.5"/><l n="A_KE_0718"><hi rend="capitalsize1">D</hi>ie coninc beette neder saen</l>
+<lb n="6" xml:id="Af14r.6"/><l n="A_KE_0719"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> elegast reet voren</l>
+<lb n="7" xml:id="Af14r.7"/><l n="A_KE_0720"><hi rend="capitalsize1">D</hi>aer si den wech hadden vercoren</l>
+<lb n="8" xml:id="Af14r.8"/><l n="A_KE_0721"><hi rend="capitalsize1">D</hi>ie coninc namt tcouter in die hant</l>
+<lb n="9" xml:id="Af14r.9"/><l n="A_KE_0722"><hi rend="capitalsize1">D</hi>at hi aen die ploech vant</l>
+<lb n="10" xml:id="Af14r.10"/><l n="A_KE_0723"><hi rend="capitalsize1">H</hi>i pensde in sinen moet</l>
+<lb n="11" xml:id="Af14r.11"/><l n="A_KE_0724"><hi rend="capitalsize1">D</hi>it is den ambocht goet</l>
+<lb n="12" xml:id="Af14r.12"/><l n="A_KE_0725"><hi rend="capitalsize1">D</hi>ie <choice><abbr>graue<g ref="#bar"/></abbr><expan>graue<ex>n</ex></expan></choice> wil in borghen</l>
+<lb n="13" xml:id="Af14r.13"/><l n="A_KE_0726"><hi rend="capitalsize1">H</hi>i moeter toe besorghen</l>
+<lb n="14" xml:id="Af14r.14"/><l n="A_KE_0727"><hi rend="capitalsize1">S</hi>ulcke dinc als hem bedorste.</l>
+<lb n="15" xml:id="Af14r.15"/><l n="A_KE_0728"><hi rend="capitalsize1">D</hi>oe sat hi op al sonder vorste.</l>
+<lb n="16" xml:id="Af14r.16"/><l n="A_KE_0729"><hi rend="capitalsize1">E</hi>nde volchdde elegaste</l>
+<lb n="17" xml:id="Af14r.17"/><l n="A_KE_0730"><hi rend="capitalsize1">N</hi>a met sporen vaste:</l>
+<lb n="18" xml:id="Af14r.18"/><l n="A_KE_0731"><hi rend="capitalsize1">D</hi>ie een luttel was voren</l>
+<lb n="19" xml:id="Af14r.19"/><l n="A_KE_0732"><hi rend="capitalsize1">V</hi>erstaet so moechdi horen</l>
+<lb n="20" xml:id="Af14r.20"/><l n="A_KE_0733"><hi rend="capitalsize1">D</hi>oen si quamen voor die veste</l>
+<lb n="21" xml:id="Af14r.21"/><l n="A_KE_0734"><hi rend="capitalsize1">D</hi>ie de scoonste was ende die beste</l>
+<lb n="22" xml:id="Af14r.22"/><l n="A_KE_0735"><hi rend="capitalsize1">D</hi>ie yewaert stoet <choice><abbr>opte<g ref="#bar"/></abbr><expan>opte<ex>n</ex></expan></choice> rijn</l>
+<lb n="23" xml:id="Af14r.23"/><l n="A_KE_0736"><hi rend="capitalsize1">E</hi>legast sprac hier wil ic sijn</l>
+<lb n="24" xml:id="Af14r.24"/><l n="A_KE_0737"><hi rend="capitalsize1">N</hi>v siet seyti adelbrecht.</l>
+<lb n="25" xml:id="Af14r.25"/><l n="A_KE_0738"><hi rend="capitalsize1">W</hi>at dunct v ghedaen te recht</l>
+<lb n="26" xml:id="Af14r.26"/><l n="A_KE_0739"><hi rend="capitalsize1">I</hi>c wil wercken bi uwen rade.</l>
+<lb n="27" xml:id="Af14r.27"/><l n="A_KE_0740"><hi rend="capitalsize1">M</hi>i ware leet gheschiede v scade</l>
+<lb n="28" xml:id="Af14r.28"/><l n="A_KE_0741"><hi rend="capitalsize1">D</hi>atmen mochte seggen dan</l>
+
+
+<pb xml:id="A.f14v" n="14v"/>
+<lb n="1" xml:id="Af14v.1"/><l n="A_KE_0742"><hi rend="capitalsize1">H</hi>et quam al bi desen man:</l>
+<lb n="2" xml:id="Af14v.2"/><l n="A_KE_0743"><hi rend="capitalsize1">D</hi>ie coninc antwoerde na dier <choice><abbr>tale<g ref="#bar"/></abbr><expan>tale<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Af14v.3"/><l n="A_KE_0744"><hi rend="capitalsize1">E</hi>n quam noyt binnen der salen</l>
+<lb n="4" xml:id="Af14v.4"/><l n="A_KE_0745"><hi rend="capitalsize1">N</hi>och inden houe daer ic weet.</l>
+<lb n="5" xml:id="Af14v.5"/><l n="A_KE_0746"><hi rend="capitalsize1">H</hi>et soude mi wesen ongereet</l>
+<lb n="6" xml:id="Af14v.6"/><l n="A_KE_0747"><hi rend="capitalsize1">S</hi>oudicker nv binnen gaen</l>
+<lb n="7" xml:id="Af14v.7"/><l n="A_KE_0748"><hi rend="capitalsize1">A</hi>n v seluen moet al staen</l>
+<lb n="8" xml:id="Af14v.8"/><l n="A_KE_0749"><hi rend="capitalsize1">E</hi>legast seide tis mi lief</l>
+<lb n="9" xml:id="Af14v.9"/><l n="A_KE_0750"><hi rend="capitalsize1">S</hi>idi een behendich dief.</l>
+<lb n="10" xml:id="Af14v.10"/><l n="A_KE_0751"><hi rend="capitalsize1">D</hi>at sal ic cortelic verstaen</l>
+<lb n="11" xml:id="Af14v.11"/><l n="A_KE_0752"><hi rend="capitalsize1">L</hi>aet ons een gat maken gaen</l>
+<lb n="12" xml:id="Af14v.12"/><l n="A_KE_0753"><hi rend="capitalsize1">I</hi>nder muer ter goeder vre.</l>
+<lb n="13" xml:id="Af14v.13"/><l n="A_KE_0754"><hi rend="capitalsize1">D</hi>aer wi moghen <choice><abbr>crupe<g ref="#bar"/></abbr><expan>crupe<ex>n</ex></expan></choice> dore</l>
+<lb n="14" xml:id="Af14v.14"/><l n="A_KE_0755"><hi rend="capitalsize1">D</hi>it loueden si beyde wel</l>
+<lb n="15" xml:id="Af14v.15"/><l n="A_KE_0756"><hi rend="capitalsize1">S</hi>i bonden hoer orssen snel.</l>
+<lb n="16" xml:id="Af14v.16"/><l n="A_KE_0757"><hi rend="capitalsize1">E</hi>nde ghingen ten muere <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> gheluyt</l>
+<lb n="17" xml:id="Af14v.17"/><l n="A_KE_0758"><hi rend="capitalsize1">E</hi>legast trec een yser vut</l>
+<lb n="18" xml:id="Af14v.18"/><l n="A_KE_0759"><hi rend="capitalsize1">D</hi>aer hi den muer mit soude <choice><abbr>picke<g ref="#bar"/></abbr><expan>picke<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Af14v.19"/><l n="A_KE_0760"><hi rend="capitalsize1">D</hi>oe began die coninc te <choice><abbr>trecke<g ref="#bar"/></abbr><expan>trecke<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Af14v.20"/><l n="A_KE_0761"><hi rend="capitalsize1">T</hi>couter voert vander ploech</l>
+<lb n="21" xml:id="Af14v.21"/><l n="A_KE_0762"><hi rend="capitalsize1">D</hi>oe stont elegast ende loech</l>
+<lb n="22" xml:id="Af14v.22"/><l n="A_KE_0763"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vraechde waer hijt dede <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice></l>
+<lb n="23" xml:id="Af14v.23"/><l n="A_KE_0764"><hi rend="capitalsize1">C</hi>onstic tsmeesters huus <choice><abbr>gherake<g ref="#bar"/></abbr><expan>gherake<ex>n</ex></expan></choice></l>
+<lb n="24" xml:id="Af14v.24"/><l n="A_KE_0765"><hi rend="capitalsize1">I</hi>c dede maken sulc een</l>
+<lb n="25" xml:id="Af14v.25"/><l n="A_KE_0766"><hi rend="capitalsize1">D</hi>us ghedaen en sach ic noyt gheen</l>
+<lb n="26" xml:id="Af14v.26"/><l n="A_KE_0767"><hi rend="capitalsize1">B</hi>eseghen tot sulcken sticken:</l>
+<lb n="27" xml:id="Af14v.27"/><l n="A_KE_0768"><choice><abbr><hi rend="capitalsize1">D</hi>aerme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>aerme<ex>n</ex></expan></choice> mey doer soude picken</l>
+<lb n="28" xml:id="Af14v.28"/><l n="A_KE_0769"><hi rend="capitalsize1">D</hi>ie coninc sprac het mach wel sijn</l>
+
+
+<pb xml:id="A.f15r" n="15r"/>
+<lb n="1" xml:id="Af15r.1"/><l n="A_KE_0770"><hi rend="capitalsize1">I</hi>c quam gheuaren opten rijn</l>
+<lb n="2" xml:id="Af15r.2"/><l n="A_KE_0771"><hi rend="capitalsize1">D</hi>ies is leden die derde dach</l>
+<lb n="3" xml:id="Af15r.3"/><l n="A_KE_0772"><hi rend="capitalsize1">D</hi>at ic voer om mijn beiach</l>
+<lb n="4" xml:id="Af15r.4"/><l n="A_KE_0773"><hi rend="capitalsize1">D</hi>aer moestic mijn yser laten</l>
+<lb n="5" xml:id="Af15r.5"/><l n="A_KE_0774"><hi rend="capitalsize1">H</hi>et ontuiel mi opter straten</l>
+<lb n="6" xml:id="Af15r.6"/><l n="A_KE_0775"><choice><abbr><hi rend="capitalsize1">D</hi>aerme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>aerme<ex>n</ex></expan></choice> mi volchde achter</l>
+<lb n="7" xml:id="Af15r.7"/><l n="A_KE_0776"><hi rend="capitalsize1">E</hi>n dorste niet keeren door den lachter:</l>
+<lb n="8" xml:id="Af15r.8"/><l n="A_KE_0777"><hi rend="capitalsize1">D</hi>us was ic mijns yser aue</l>
+<lb n="9" xml:id="Af15r.9"/><l n="A_KE_0778"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dit nam ic bider mane</l>
+<lb n="10" xml:id="Af15r.10"/><l n="A_KE_0779"><hi rend="capitalsize1">D</hi>aer ict vant aen een ploech</l>
+<lb n="11" xml:id="Af15r.11"/><l n="A_KE_0780"><hi rend="capitalsize1">E</hi>legast sprac het is goet genoech</l>
+<lb n="12" xml:id="Af15r.12"/><l n="A_KE_0781"><choice><abbr><hi rend="capitalsize1">M</hi>oge<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>oge<ex>n</ex></expan></choice> wi daer te punte in geraken</l>
+<lb n="13" xml:id="Af15r.13"/><l n="A_KE_0782"><hi rend="capitalsize1">H</hi>ier na doet een ander maken</l>
+<lb n="14" xml:id="Af15r.14"/><l n="A_KE_0783"><hi rend="capitalsize1">S</hi>i lieten die tale si maecten tgat</l>
+<lb n="15" xml:id="Af15r.15"/><l n="A_KE_0784"><hi rend="capitalsize1">E</hi>legast voechdent bat</l>
+<lb n="16" xml:id="Af15r.16"/><l n="A_KE_0785"><hi rend="capitalsize1">D</hi>at hi daer toe dede sine leden.</l>
+<lb n="17" xml:id="Af15r.17"/><l n="A_KE_0786"><hi rend="capitalsize1">D</hi>ant den conic karel dede</l>
+<lb n="18" xml:id="Af15r.18"/><l n="A_KE_0787"><hi rend="capitalsize1">A</hi>l was hi groot <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sterc</l>
+<lb n="19" xml:id="Af15r.19"/><l n="A_KE_0788"><hi rend="capitalsize1">H</hi>i en conste niet sulc werc</l>
+<lb n="20" xml:id="Af15r.20"/><l n="A_KE_0789"><hi rend="capitalsize1">D</hi>oen si tgat vander muere.</l>
+<lb n="21" xml:id="Af15r.21"/><l n="A_KE_0790"><hi rend="capitalsize1">H</hi>adden bracht al duere</l>
+<lb n="22" xml:id="Af15r.22"/><l n="A_KE_0791"><hi rend="capitalsize1">E</hi>nde si daer in souden gaen</l>
+<lb n="23" xml:id="Af15r.23"/><l n="A_KE_0792"><hi rend="capitalsize1">E</hi>legast sprac ghi sult ontfaen.</l>
+<lb n="24" xml:id="Af15r.24"/><l n="A_KE_0793"><hi rend="capitalsize1">H</hi>ier buten daer ic u sel brenghen</l>
+<lb n="25" xml:id="Af15r.25"/><l n="A_KE_0794"><hi rend="capitalsize1">H</hi>i en woudes niet ghehenghen</l>
+<lb n="26" xml:id="Af15r.26"/><l n="A_KE_0795"><hi rend="capitalsize1">D</hi>at die coninc binnen quame.</l>
+<lb n="27" xml:id="Af15r.27"/><l n="A_KE_0796"><hi rend="capitalsize1">S</hi>o sere ontsach hi hem der <choice><abbr>onurame<g ref="#bar"/>.</abbr><expan>onurame<ex>n</ex>.</expan></choice></l>
+<lb n="28" xml:id="Af15r.28"/><l n="A_KE_0797"><hi rend="capitalsize1">H</hi>i en dochten geen behendich dief</l>
+
+
+<pb xml:id="A.f15v" n="15v"/>
+<lb n="1" xml:id="Af15v.1"/><l n="A_KE_0798"><hi rend="capitalsize1">N</hi>ochtan woudi leet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lief</l>
+<lb n="2" xml:id="Af15v.2"/><l n="A_KE_0799"><hi rend="capitalsize1">M</hi>et hem deylen sijn ghewin</l>
+<lb n="3" xml:id="Af15v.3"/><l n="A_KE_0800"><hi rend="capitalsize1">D</hi>ie coninc bleef buten elegast ginc in</l>
+<lb n="4" xml:id="Af15v.4"/><l n="A_KE_0801"><hi rend="capitalsize1">E</hi>legast conste behendichede.</l>
+<lb n="5" xml:id="Af15v.5"/><l n="A_KE_0802"><hi rend="capitalsize1">D</hi>ie hi proefde ter menigher stede</l>
+<lb n="6" xml:id="Af15v.6"/><l n="A_KE_0803"><hi rend="capitalsize1">D</hi>ie was minlic ende mate.</l>
+<lb n="7" xml:id="Af15v.7"/><l n="A_KE_0804"><hi rend="capitalsize1">H</hi>i trac een cruyt vut eenen vate</l>
+<lb n="8" xml:id="Af15v.8"/><l n="A_KE_0805"><hi rend="capitalsize1">E</hi>nde deet binnen sinen monde</l>
+<lb n="9" xml:id="Af15v.9"/><l n="A_KE_0806"><hi rend="capitalsize1">D</hi>ie sulc een hadde hi verstonde.</l>
+<lb n="10" xml:id="Af15v.10"/><l n="A_KE_0807"><hi rend="capitalsize1">W</hi>at <choice><abbr>hane<g ref="#bar"/></abbr><expan>hane<ex>n</ex></expan></choice> craeyen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> honden bilen</l>
+<lb n="11" xml:id="Af15v.11"/><l n="A_KE_0808"><hi rend="capitalsize1">D</hi>oen verstont hi ter wilen</l>
+<lb n="12" xml:id="Af15v.12"/><l n="A_KE_0809"><hi rend="capitalsize1">A</hi>n enen hane an enen hont.</l>
+<lb n="13" xml:id="Af15v.13"/><l n="A_KE_0810"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide dat die coninc stont</l>
+<lb n="14" xml:id="Af15v.14"/><l n="A_KE_0811"><hi rend="capitalsize1">B</hi>uten den houe in haer latijn</l>
+<lb n="15" xml:id="Af15v.15"/><l n="A_KE_0812"><hi rend="capitalsize1">E</hi>legast sprac hoe mach dit sijn</l>
+<lb n="16" xml:id="Af15v.16"/><l n="A_KE_0813"><hi rend="capitalsize1">S</hi>oude die coninc sijn hier voren.</l>
+<lb n="17" xml:id="Af15v.17"/><l n="A_KE_0814"><hi rend="capitalsize1">I</hi>c duchte dat mi naket toren</l>
+<lb n="18" xml:id="Af15v.18"/><l n="A_KE_0815"><hi rend="capitalsize1">I</hi>c ben <choice><abbr>verrade<g ref="#bar"/></abbr><expan>verrade<ex>n</ex></expan></choice> na mijn ghedochte</l>
+<lb n="19" xml:id="Af15v.19"/><l n="A_KE_0816"><hi rend="capitalsize1">O</hi>ft mi verleyt alfs gedrochte</l>
+<lb n="20" xml:id="Af15v.20"/><l n="A_KE_0817"><hi rend="capitalsize1">L</hi>egast ginc daer hi <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> coninc liet:</l>
+<lb n="21" xml:id="Af15v.21"/><l n="A_KE_0818"><hi rend="capitalsize1">T</hi>er stede daer hi <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> schiet</l>
+<lb n="22" xml:id="Af15v.22"/><l n="A_KE_0819"><hi rend="capitalsize1">E</hi>nde seide <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> wat hi hadde <choice><abbr>v<g ref="#apomod"/>staen.</abbr><expan>v<ex>er</ex>staen.</expan></choice></l>
+<lb n="23" xml:id="Af15v.23"/><l n="A_KE_0820"><hi rend="capitalsize1">H</hi>em en bedrogge sijn waen</l>
+
+<note n="A_KE_0821">Line_number 0821 is missing</note>
+
+<note n="A_KE_0822">Line_number 0822 is missing</note>
+<lb n="24" xml:id="Af15v.24"/><l n="A_KE_0823"><hi rend="capitalsize1">B</hi>eyde aen hanen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> aen houden.</l>
+<lb n="25" xml:id="Af15v.25"/><l n="A_KE_0824"><hi rend="capitalsize1">D</hi>iet in haer latijn vonden</l>
+<lb n="26" xml:id="Af15v.26"/><l n="A_KE_0825"><hi rend="capitalsize1">D</hi>at die coninc ware daer</l>
+<lb n="27" xml:id="Af15v.27"/><l n="A_KE_0826"><hi rend="capitalsize1">M</hi>er hi en wiste niet hoe naer</l>
+<lb n="28" xml:id="Af15v.28"/><l n="A_KE_0827"><hi rend="capitalsize1">D</hi>oen seyde karel die edel man</l>
+
+
+<pb xml:id="A.f16r" n="16r"/>
+<lb n="1" xml:id="Af16r.1"/><l n="A_KE_0828"><hi rend="capitalsize1">W</hi>ie heuet v gheseit dan:</l>
+<lb n="2" xml:id="Af16r.2"/><l n="A_KE_0829"><hi rend="capitalsize1">W</hi>at soude die coninc hier doen</l>
+<lb n="3" xml:id="Af16r.3"/><l n="A_KE_0830"><hi rend="capitalsize1">S</hi>oudi ghelouen an een hoen</l>
+<lb n="4" xml:id="Af16r.4"/><l n="A_KE_0831"><hi rend="capitalsize1">O</hi>ft dat een hont bast</l>
+<lb n="5" xml:id="Af16r.5"/><l n="A_KE_0832"><hi rend="capitalsize1">S</hi>o en is v gheloue niet vast</l>
+<lb n="6" xml:id="Af16r.6"/><l n="A_KE_0833"><hi rend="capitalsize1">M</hi>i denct dat ghi mi saghen telt.</l>
+<lb n="7" xml:id="Af16r.7"/><l n="A_KE_0834"><hi rend="capitalsize1">W</hi>aer toe ist goet dat ghi mi quelt</l>
+<lb n="8" xml:id="Af16r.8"/><l n="A_KE_0835"><hi rend="capitalsize1">V</hi> gheloue en is niet vast</l>
+<lb n="9" xml:id="Af16r.9"/><l n="A_KE_0836"><hi rend="capitalsize1">N</hi>v hoort sprac elegast</l>
+<lb n="10" xml:id="Af16r.10"/><l n="A_KE_0837"><hi rend="capitalsize1">H</hi>i stac den coninc inden mont.</l>
+<lb n="11" xml:id="Af16r.11"/><l n="A_KE_0838"><hi rend="capitalsize1">E</hi>en cruyt dat daer voor <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> stont</l>
+<lb n="12" xml:id="Af16r.12"/><l n="A_KE_0839"><hi rend="capitalsize1">E</hi>nde seyde nv suldi verstaen:</l>
+<lb n="13" xml:id="Af16r.13"/><l n="A_KE_0840"><hi rend="capitalsize1">S</hi>o ic te voren hebbe ghedaen.</l>
+<lb n="14" xml:id="Af16r.14"/><l n="A_KE_0841"><hi rend="capitalsize1">E</hi>chter craeyde die hane ende sede</l>
+<lb n="15" xml:id="Af16r.15"/><l n="A_KE_0842"><hi rend="capitalsize1">A</hi>lso als hi te voren dede</l>
+<lb n="16" xml:id="Af16r.16"/><l n="A_KE_0843"><hi rend="capitalsize1">D</hi>at die coninc ware daer.</l>
+<lb n="17" xml:id="Af16r.17"/><l n="A_KE_0844"><hi rend="capitalsize1">M</hi>er hi en wiste niet hoe naer:</l>
+<lb n="18" xml:id="Af16r.18"/><l n="A_KE_0845"><hi rend="capitalsize1">G</hi>heselle wat die hane craeyt</l>
+<lb n="19" xml:id="Af16r.19"/><l n="A_KE_0846"><hi rend="capitalsize1">I</hi>c wilde mijn kele winde waeyt</l>
+<lb n="20" xml:id="Af16r.20"/><l n="A_KE_0847"><hi rend="capitalsize1">I</hi>s die coninc niet hier bi</l>
+<lb n="21" xml:id="Af16r.21"/><l n="A_KE_0848"><hi rend="capitalsize1">D</hi>oe seide karel het fy</l>
+<lb n="22" xml:id="Af16r.22"/><l n="A_KE_0849"><hi rend="capitalsize1">G</hi>heselle sidi veruaert</l>
+<lb n="23" xml:id="Af16r.23"/><l n="A_KE_0850"><hi rend="capitalsize1">I</hi>c waende dat ghi coender waert</l>
+<lb n="24" xml:id="Af16r.24"/><l n="A_KE_0851"><hi rend="capitalsize1">D</hi>oet dat ghi seyt laet ons gaen</l>
+<lb n="25" xml:id="Af16r.25"/><l n="A_KE_0852"><hi rend="capitalsize1">A</hi>l soudemen ons heden vaen.</l>
+<lb n="26" xml:id="Af16r.26"/><l n="A_KE_0853"><hi rend="capitalsize1">E</hi>legast sprac ic sals beghinnen</l>
+<lb n="27" xml:id="Af16r.27"/><l n="A_KE_0854"><hi rend="capitalsize1">L</hi>aet sien wat seldi daer an winnen</l>
+
+<note n="A_KE_0855">Line_number 0855 is missing</note>
+
+<note n="A_KE_0856">Line_number 0856 is missing</note>
+<lb n="28" xml:id="Af16r.28"/><l n="A_KE_0857"><hi rend="capitalsize1">E</hi>legast eyste sijn cruyt weder.</l>
+
+
+<pb xml:id="A.f16v" n="16v"/>
+<lb n="1" xml:id="Af16v.1"/><l n="A_KE_0858"><hi rend="capitalsize1">D</hi>ie coninc sochte op ende neder</l>
+<lb n="2" xml:id="Af16v.2"/><l n="A_KE_0859"><hi rend="capitalsize1">W</hi>eder ende in sinen monde</l>
+<lb n="3" xml:id="Af16v.3"/><l n="A_KE_0860"><hi rend="capitalsize1">M</hi>erhi <choice><abbr>v<g ref="#apomod"/>lost</abbr><expan>v<ex>er</ex>lost</expan></choice> ter stonde</l>
+<lb n="4" xml:id="Af16v.4"/><l n="A_KE_0861"><hi rend="capitalsize1">H</hi>i en mochs vinden niet</l>
+<lb n="5" xml:id="Af16v.5"/><l n="A_KE_0862"><hi rend="capitalsize1">D</hi>ie <choice><abbr>coni<g ref="#bar"/>c</abbr><expan>coni<ex>n</ex>c</expan></choice> sprac wats mi gesciet</l>
+<lb n="6" xml:id="Af16v.6"/><l n="A_KE_0863"><hi rend="capitalsize1">M</hi>i <choice><abbr>du<g ref="#bar"/>ct</abbr><expan>du<ex>n</ex>ct</expan></choice> ic heb mijn cruut <choice><abbr>verlore<g ref="#bar"/></abbr><expan>verlore<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Af16v.7"/><l n="A_KE_0864"><hi rend="capitalsize1">D</hi>at ic had hier te voren</l>
+<lb n="8" xml:id="Af16v.8"/><l n="A_KE_0865"><choice><abbr><hi rend="capitalsize1">B</hi>eloke<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>eloke<ex>n</ex></expan></choice> <choice><abbr>tussche<g ref="#bar"/></abbr><expan>tussche<ex>n</ex></expan></choice> minen tanden</l>
+<lb n="9" xml:id="Af16v.9"/><l n="A_KE_0866"><hi rend="capitalsize1">B</hi>i mijnre weet dat mach mi anden</l>
+<lb n="10" xml:id="Af16v.10"/><l n="A_KE_0867"><hi rend="capitalsize1">O</hi>e loech elegast echt</l>
+<lb n="11" xml:id="Af16v.11"/><l n="A_KE_0868"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide steeldi ouer recht</l>
+<lb n="12" xml:id="Af16v.12"/><l n="A_KE_0869"><hi rend="capitalsize1">H</hi>oe coemt <choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> v niet en vaet</l>
+<lb n="13" xml:id="Af16v.13"/><l n="A_KE_0870"><hi rend="capitalsize1">T</hi>elken als ghi stelen gaet</l>
+<lb n="14" xml:id="Af16v.14"/><l n="A_KE_0871"><hi rend="capitalsize1">D</hi>at ghi leeft is wonder groot</l>
+<lb n="15" xml:id="Af16v.15"/><l n="A_KE_0872"><hi rend="capitalsize1">G</hi>hi en waert langhe wile doot</l>
+<lb n="16" xml:id="Af16v.16"/><l n="A_KE_0873"><hi rend="capitalsize1">G</hi>heselle seit hi <choice><abbr>o<g ref="#bar"/>uerholen</abbr><expan>o<ex>n</ex>uerholen</expan></choice></l>
+<lb n="17" xml:id="Af16v.17"/><l n="A_KE_0874"><hi rend="capitalsize1">I</hi>c heb v cruyt ghestolen</l>
+<lb n="18" xml:id="Af16v.18"/><l n="A_KE_0875"><hi rend="capitalsize1">G</hi>hi en weet <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>stele<g ref="#bar"/></abbr><expan>stele<ex>n</ex></expan></choice> niet en hare</l>
+<lb n="19" xml:id="Af16v.19"/><l n="A_KE_0876"><hi rend="capitalsize1">D</hi>ie coninc peynsde ghi segt ware</l>
+<lb n="20" xml:id="Af16v.20"/><l n="A_KE_0877"><hi rend="capitalsize1">M</hi>ittien lieten si die tale</l>
+<lb n="21" xml:id="Af16v.21"/><l n="A_KE_0878"><hi rend="capitalsize1">G</hi>ode beual hi al te male</l>
+<lb n="22" xml:id="Af16v.22"/><l n="A_KE_0879"><hi rend="capitalsize1">D</hi>at hien moeste borghen.</l>
+<lb n="23" xml:id="Af16v.23"/><l n="A_KE_0880"><hi rend="capitalsize1">E</hi>en deel was hi in sorghen</l>
+<lb n="24" xml:id="Af16v.24"/><l n="A_KE_0881"><choice><abbr><hi rend="capitalsize1">N</hi>ochta<g ref="#bar"/>s</abbr><expan><hi rend="capitalsize1">N</hi>ochta<ex>n</ex>s</expan></choice> consti beheyndichede.</l>
+<lb n="25" xml:id="Af16v.25"/><l n="A_KE_0882"><hi rend="capitalsize1">D</hi>aer hi alle die ghene mede</l>
+<lb n="26" xml:id="Af16v.26"/><l n="A_KE_0883"><hi rend="capitalsize1">S</hi>lapen dede vanden sale</l>
+<lb n="27" xml:id="Af16v.27"/><l n="A_KE_0884"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ontsloot dan al te male</l>
+<lb n="28" xml:id="Af16v.28"/><l n="A_KE_0885"><hi rend="capitalsize1">S</hi>loten <choice><abbr>dieme<g ref="#bar"/></abbr><expan>dieme<ex>n</ex></expan></choice> met <choice><abbr>slotele<g ref="#bar"/></abbr><expan>slotele<ex>n</ex></expan></choice> sloot</l>
+
+
+<pb xml:id="A.f17r" n="17r"/>
+<lb n="1" xml:id="Af17r.1"/><l n="A_KE_0886"><hi rend="capitalsize1">W</hi>aren si cleyne ofte groot</l>
+<lb n="2" xml:id="Af17r.2"/><l n="A_KE_0887"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghinc ten scatte daer hi lach</l>
+<lb n="3" xml:id="Af17r.3"/><l n="A_KE_0888"><hi rend="capitalsize1">E</hi>ert <choice><abbr>yema<g ref="#bar"/>t</abbr><expan>yema<ex>n</ex>t</expan></choice> hoorde of sach</l>
+<lb n="4" xml:id="Af17r.4"/><l n="A_KE_0889"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haelde ende brochte</l>
+<lb n="5" xml:id="Af17r.5"/><l n="A_KE_0890"><hi rend="capitalsize1">A</hi>lso vele als hem goet dochte</l>
+<lb n="6" xml:id="Af17r.6"/><l n="A_KE_0891"><hi rend="capitalsize1">D</hi>oen wilde karel van danen riden.</l>
+<lb n="7" xml:id="Af17r.7"/><l n="A_KE_0892"><hi rend="capitalsize1">E</hi>legast die hiet hem ontbeiden</l>
+<lb n="8" xml:id="Af17r.8"/><l n="A_KE_0893"><hi rend="capitalsize1">H</hi>i soude om eenen sadel gaen</l>
+<lb n="9" xml:id="Af17r.9"/><l n="A_KE_0894"><hi rend="capitalsize1">D</hi>ie in die camer ware ghestaen</l>
+<lb n="10" xml:id="Af17r.10"/><l n="A_KE_0895"><hi rend="capitalsize1">D</hi>aer eggeric <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn wijf in lach:</l>
+<lb n="11" xml:id="Af17r.11"/><l n="A_KE_0896"><hi rend="capitalsize1">D</hi>ie scoonste die noyt man sach.</l>
+<lb n="12" xml:id="Af17r.12"/><l n="A_KE_0897"><hi rend="capitalsize1">H</hi>i en leeft niet die v gheseyde</l>
+<lb n="13" xml:id="Af17r.13"/><l n="A_KE_0898"><hi rend="capitalsize1">D</hi>ie <choice><abbr>v<g ref="#apomod"/>weentheit</abbr><expan>v<ex>er</ex>weentheit</expan></choice> vanden gereyde</l>
+<lb n="14" xml:id="Af17r.14"/><l n="A_KE_0899"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ooc aen dat voerboech</l>
+<lb n="15" xml:id="Af17r.15"/><l n="A_KE_0900"><hi rend="capitalsize1">E</hi>s te prisene ghenoech</l>
+<lb n="16" xml:id="Af17r.16"/><l n="A_KE_0901"><hi rend="capitalsize1">D</hi>aer <choice><abbr>hange<g ref="#bar"/></abbr><expan>hange<ex>n</ex></expan></choice> an <choice><abbr>ho<g ref="#bar"/>dert</abbr><expan>ho<ex>n</ex>dert</expan></choice> <choice><abbr>scelle<g ref="#bar"/></abbr><expan>scelle<ex>n</ex></expan></choice> groot</l>
+<lb n="17" xml:id="Af17r.17"/><l n="A_KE_0902"><hi rend="capitalsize1">D</hi>ie alle sijn van goude root</l>
+<lb n="18" xml:id="Af17r.18"/><l n="A_KE_0903"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>clincke<g ref="#bar"/></abbr><expan>clincke<ex>n</ex></expan></choice> als eggeric rijt</l>
+<lb n="19" xml:id="Af17r.19"/><l n="A_KE_0904"><hi rend="capitalsize1">G</hi>heselle doet wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ontbeyt</l>
+<lb n="20" xml:id="Af17r.20"/><l n="A_KE_0905"><hi rend="capitalsize1">I</hi>c sal hem sinen sadel <choice><abbr>stele<g ref="#bar"/></abbr><expan>stele<ex>n</ex></expan></choice></l>
+<lb n="21" xml:id="Af17r.21"/><l n="A_KE_0906"><hi rend="capitalsize1">A</hi>l soudic hanghen bider kelen</l>
+<lb n="22" xml:id="Af17r.22"/><l n="A_KE_0907"><hi rend="capitalsize1">I</hi>t was den coninc onbequame</l>
+<lb n="23" xml:id="Af17r.23"/><l n="A_KE_0908"><hi rend="capitalsize1">H</hi>i hadde eer <choice><abbr>o<g ref="#bar"/>tbeert</abbr><expan>o<ex>n</ex>tbeert</expan></choice> der vrame</l>
+<lb n="24" xml:id="Af17r.24"/><l n="A_KE_0909"><hi rend="capitalsize1">V</hi>anden sadel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tghewin.</l>
+<lb n="25" xml:id="Af17r.25"/><l n="A_KE_0910"><hi rend="capitalsize1">D</hi>an elegast keerde weder in:</l>
+<lb n="26" xml:id="Af17r.26"/><l n="A_KE_0911"><hi rend="capitalsize1">A</hi>ls elegast quam <choice><abbr>te<g ref="#bar"/></abbr><expan>te<ex>n</ex></expan></choice> ghereyde</l>
+<lb n="27" xml:id="Af17r.27"/><l n="A_KE_0912"><hi rend="capitalsize1">D</hi>aer ic heden eer of seide</l>
+
+<note n="A_KE_0913">Line_number 0913 is missing</note>
+
+<note n="A_KE_0914">Line_number 0914 is missing</note>
+<lb n="28" xml:id="Af17r.28"/><l n="A_KE_0915"><hi rend="capitalsize1">G</hi>auen sulc enen clanc</l>
+
+
+<pb xml:id="A.f17v" n="17v"/>
+<lb n="1" xml:id="Af17v.1"/><l n="A_KE_0916"><hi rend="capitalsize1">D</hi>atter eggeric bi <choice><abbr>ontspra<g ref="#bar"/>c</abbr><expan>ontspra<ex>n</ex>c</expan></choice></l>
+<lb n="2" xml:id="Af17v.2"/><l n="A_KE_0917"><hi rend="capitalsize1">W</hi>t sinen slape ende seyde.</l>
+<lb n="3" xml:id="Af17v.3"/><l n="A_KE_0918"><hi rend="capitalsize1">W</hi>ie is daer te minen ghereyde:</l>
+<lb n="4" xml:id="Af17v.4"/><l n="A_KE_0919"><hi rend="capitalsize1">H</hi>i woude trecken sijn sweert</l>
+<lb n="5" xml:id="Af17v.5"/><l n="A_KE_0920"><hi rend="capitalsize1">H</hi>addet die vrouwe niet gheweert</l>
+<lb n="6" xml:id="Af17v.6"/><l n="A_KE_0921"><hi rend="capitalsize1">D</hi>ie hem seide ende vraghede</l>
+<lb n="7" xml:id="Af17v.7"/><l n="A_KE_0922"><hi rend="capitalsize1">W</hi>at ware dat hi iaghede</l>
+<lb n="8" xml:id="Af17v.8"/><l n="A_KE_0923"><hi rend="capitalsize1">O</hi>ften aluen wilden verleiden.</l>
+<lb n="9" xml:id="Af17v.9"/><l n="A_KE_0924"><hi rend="capitalsize1">S</hi>i namt swaert al mitter scheyden</l>
+<lb n="10" xml:id="Af17v.10"/><l n="A_KE_0925"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seyde daer en mach <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> in</l>
+<lb n="11" xml:id="Af17v.11"/><l n="A_KE_0926"><hi rend="capitalsize1">E</hi>omen sijn meer noch min</l>
+<lb n="12" xml:id="Af17v.12"/><l n="A_KE_0927"><hi rend="capitalsize1">T</hi>is ander dinc dat v deert</l>
+<lb n="13" xml:id="Af17v.13"/><l n="A_KE_0928"><hi rend="capitalsize1">S</hi>i bemaenden ende beswert</l>
+<lb n="14" xml:id="Af17v.14"/><l n="A_KE_0929"><hi rend="capitalsize1">D</hi>at hi haer seide sijn ghedochte</l>
+<lb n="15" xml:id="Af17v.15"/><l n="A_KE_0930"><hi rend="capitalsize1">W</hi>aer bi dat hi niet en mochte</l>
+<lb n="16" xml:id="Af17v.16"/><l n="A_KE_0931"><hi rend="capitalsize1">S</hi>lapen binnen drien nachten.</l>
+<lb n="17" xml:id="Af17v.17"/><l n="A_KE_0932"><hi rend="capitalsize1">D</hi>aer si consten ghewachten.</l>
+<lb n="18" xml:id="Af17v.18"/><l n="A_KE_0933"><hi rend="capitalsize1">N</hi>och eten binnen drien dagen</l>
+<lb n="19" xml:id="Af17v.19"/><l n="A_KE_0934"><hi rend="capitalsize1">D</hi>it began si hem te vraghen.</l>
+<lb n="20" xml:id="Af17v.20"/><l n="A_KE_0935"><hi rend="capitalsize1">V</hi>rouwen list is menichuout.</l>
+<lb n="21" xml:id="Af17v.21"/><l n="A_KE_0936"><hi rend="capitalsize1">S</hi>ijn si ionc sijn si out</l>
+<lb n="22" xml:id="Af17v.22"/><l n="A_KE_0937"><hi rend="capitalsize1">S</hi>o langhe lach si hem an</l>
+<lb n="23" xml:id="Af17v.23"/><l n="A_KE_0938"><hi rend="capitalsize1">D</hi>at hi haer te segghen began</l>
+<lb n="24" xml:id="Af17v.24"/><l n="A_KE_0939"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> hi des conincs doot hadde <choice><abbr>gheswore<g ref="#bar"/></abbr><expan>gheswore<ex>n</ex></expan></choice></l>
+<lb n="25" xml:id="Af17v.25"/><l n="A_KE_0940"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die te doen waren <choice><abbr>v<g ref="#apomod"/>coren.</abbr><expan>v<ex>er</ex>coren.</expan></choice></l>
+<lb n="26" xml:id="Af17v.26"/><l n="A_KE_0941"><hi rend="capitalsize1">S</hi>oude cortelike comen:</l>
+<lb n="27" xml:id="Af17v.27"/><l n="A_KE_0942"><hi rend="capitalsize1">H</hi>i ghincse haer bi namen nomen</l>
+<lb n="28" xml:id="Af17v.28"/><l n="A_KE_0943"><hi rend="capitalsize1">H</hi>oe si hieten wie si waren</l>
+
+
+<pb xml:id="A.f18r" n="18r"/>
+<lb n="1" xml:id="Af18r.1"/><l n="A_KE_0944"><hi rend="capitalsize1">D</hi>ie den coninc wilden daren</l>
+<lb n="2" xml:id="Af18r.2"/><l n="A_KE_0945"><hi rend="capitalsize2">D</hi>It hoorde al elegast.</l>
+<lb n="3" xml:id="Af18r.3"/><l n="A_KE_0946"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hielt in therte vast</l>
+<lb n="4" xml:id="Af18r.4"/><l n="A_KE_0947"><hi rend="capitalsize1">H</hi>i pensde hi sout <choice><abbr>bre<g ref="#bar"/>ge<g ref="#bar"/></abbr><expan>bre<ex>n</ex>ge<ex>n</ex></expan></choice> voort.</l>
+<lb n="5" xml:id="Af18r.5"/><l n="A_KE_0948"><hi rend="capitalsize1">D</hi>ie ondaet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die valschsche moort.</l>
+
+<note n="A_KE_0949">Line_number 0949 is missing</note>
+
+<note n="A_KE_0950">Line_number 0950 is missing</note>
+<lb n="6" xml:id="Af18r.6"/><l n="A_KE_0951"><hi rend="capitalsize1">S</hi>i seide mi waer lieuer vele</l>
+<lb n="7" xml:id="Af18r.7"/><l n="A_KE_0952"><hi rend="capitalsize1">D</hi>atmen v hinge bider kele</l>
+<lb n="8" xml:id="Af18r.8"/><l n="A_KE_0953"><hi rend="capitalsize1">D</hi>an ic dat ghedoghen soude.</l>
+
+<note n="A_KE_0954">Line_number 0954 is missing</note>
+
+<note n="A_KE_0955">Line_number 0955 is missing</note>
+<lb n="9" xml:id="Af18r.9"/><l n="A_KE_0956"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eggeric sloech soe houde.</l>
+<lb n="10" xml:id="Af18r.10"/><l n="A_KE_0957"><hi rend="capitalsize1">D</hi>ie vrouwe voor nase <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mont.</l>
+<lb n="11" xml:id="Af18r.11"/><l n="A_KE_0958"><hi rend="capitalsize1">D</hi>at haer tbloet ter stont</l>
+<lb n="12" xml:id="Af18r.12"/><l n="A_KE_0959"><hi rend="capitalsize1">T</hi>er nase <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> te monde wt brac.</l>
+<lb n="13" xml:id="Af18r.13"/><l n="A_KE_0960"><hi rend="capitalsize1">S</hi>i rechte haer op ende stac</l>
+<lb n="14" xml:id="Af18r.14"/><l n="A_KE_0961"><hi rend="capitalsize1">H</hi>aer aenschijn ouer tbedde boom</l>
+<lb n="15" xml:id="Af18r.15"/><l n="A_KE_0962"><hi rend="capitalsize1">I</hi>c wasser bi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nams goem</l>
+<lb n="16" xml:id="Af18r.16"/><l n="A_KE_0963"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> croper liselike toe.</l>
+<lb n="17" xml:id="Af18r.17"/><l n="A_KE_0964"><hi rend="capitalsize1">I</hi>n minen rechten hantscoe.</l>
+<lb n="18" xml:id="Af18r.18"/><l n="A_KE_0965"><hi rend="capitalsize1">O</hi>ntfinct bloet vander vrouwen</l>
+
+<note n="A_KE_0966">Line_number 0966 is missing</note>
+<lb n="19" xml:id="Af18r.19"/><l n="A_KE_0967"><hi rend="capitalsize1">O</hi>m dat hijt wilde scouwen</l>
+<lb n="20" xml:id="Af18r.20"/><l n="A_KE_0968"><hi rend="capitalsize1">D</hi>iet den coninc te voren brochte</l>
+<lb n="21" xml:id="Af18r.21"/><l n="A_KE_0969"><hi rend="capitalsize1">D</hi>at hider <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> voor wachten mochte.</l>
+<lb n="22" xml:id="Af18r.22"/><l n="A_KE_0970"><hi rend="capitalsize1">D</hi>oe seyde elegast een ghebede</l>
+<lb n="23" xml:id="Af18r.23"/><l n="A_KE_0971"><hi rend="capitalsize1">D</hi>aer hi alle die ghene mede</l>
+<lb n="24" xml:id="Af18r.24"/><l n="A_KE_0972"><hi rend="capitalsize1">S</hi>lapen dede ende die vrouwe</l>
+<lb n="25" xml:id="Af18r.25"/><l n="A_KE_0973"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sprac sijn woert mit trouwe</l>
+<lb n="26" xml:id="Af18r.26"/><l n="A_KE_0974"><hi rend="capitalsize1">D</hi>at si beyde sliepen vast</l>
+<lb n="27" xml:id="Af18r.27"/><l n="A_KE_0975"><hi rend="capitalsize1">D</hi>oen ontstal hem elegast</l>
+<lb n="28" xml:id="Af18r.28"/><l n="A_KE_0976"><hi rend="capitalsize1">S</hi>inen sadel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sijn swaert</l>
+
+
+<pb xml:id="A.f18v" n="18v"/>
+<lb n="1" xml:id="Af18v.1"/><l n="A_KE_0977"><hi rend="capitalsize1">D</hi>at hi lief hadde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> weert.</l>
+<lb n="2" xml:id="Af18v.2"/><l n="A_KE_0978"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> maecte hem sijnre vaerde</l>
+<lb n="3" xml:id="Af18v.3"/><l n="A_KE_0979"><hi rend="capitalsize1">B</hi>uten den houe tsinen paerde</l>
+<lb n="4" xml:id="Af18v.4"/><l n="A_KE_0980"><choice><abbr><hi rend="capitalsize1">T</hi>otte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">T</hi>otte<ex>n</ex></expan></choice> coninc die seere <choice><abbr>v<g ref="#apomod"/>dochte.</abbr><expan>v<ex>er</ex>dochte.</expan></choice></l>
+<lb n="5" xml:id="Af18v.5"/><l n="A_KE_0981"><hi rend="capitalsize1">A</hi>l om tgoet dat elegast brochte</l>
+<lb n="6" xml:id="Af18v.6"/><l n="A_KE_0982"><hi rend="capitalsize1">H</hi>ine hadder niet langher gestaen</l>
+<lb n="7" xml:id="Af18v.7"/><l n="A_KE_0983"><hi rend="capitalsize1">H</hi>adt na hem moghen gaen</l>
+<lb n="8" xml:id="Af18v.8"/><l n="A_KE_0984"><hi rend="capitalsize1">S</hi>o seere was hi vererret.</l>
+<lb n="9" xml:id="Af18v.9"/><l n="A_KE_0985"><hi rend="capitalsize1">H</hi>i vraechde waer hi had gemerret</l>
+<lb n="10" xml:id="Af18v.10"/><l n="A_KE_0986"><hi rend="capitalsize1">E</hi>legast seide en mochs niet.</l>
+<lb n="11" xml:id="Af18v.11"/><l n="A_KE_0987"><hi rend="capitalsize1">B</hi>i al dat god leuen liet</l>
+<lb n="12" xml:id="Af18v.12"/><l n="A_KE_0988"><hi rend="capitalsize1">T</hi>is wonder dat mi thert niet en breect:</l>
+<lb n="13" xml:id="Af18v.13"/><l n="A_KE_0989"><hi rend="capitalsize1">V</hi>anden rouwe die daer in steect</l>
+<lb n="14" xml:id="Af18v.14"/><l n="A_KE_0990"><hi rend="capitalsize1">S</hi>i en breect nemmermeer.</l>
+<lb n="15" xml:id="Af18v.15"/><l n="A_KE_0991"><hi rend="capitalsize1">D</hi>oor rouwe noch door seer</l>
+<lb n="16" xml:id="Af18v.16"/><l n="A_KE_0992"><hi rend="capitalsize1">D</hi>ies ben ic seker te voren.</l>
+<lb n="17" xml:id="Af18v.17"/><l n="A_KE_0993"><hi rend="capitalsize1">S</hi>i heeft so groten toren</l>
+<lb n="18" xml:id="Af18v.18"/><l n="A_KE_0994"><hi rend="capitalsize1">G</hi>heselle seiti dits tghereyde</l>
+<lb n="19" xml:id="Af18v.19"/><l n="A_KE_0995"><hi rend="capitalsize1">D</hi>aer ic v heden of seide</l>
+
+<note n="A_KE_0996">Line_number 0996 is missing</note>
+
+<note n="A_KE_0997">Line_number 0997 is missing</note>
+<lb n="20" xml:id="Af18v.20"/><l n="A_KE_0998"><hi rend="capitalsize1">D</hi>it hout ic sal gaen</l>
+<lb n="21" xml:id="Af18v.21"/><l n="A_KE_0999"><hi rend="capitalsize1">E</hi>ggeric sijn hooft of slaen</l>
+<lb n="22" xml:id="Af18v.22"/><l n="A_KE_1000"><hi rend="capitalsize1">O</hi>f doden met eenen kniue</l>
+<lb n="23" xml:id="Af18v.23"/><l n="A_KE_1001"><hi rend="capitalsize1">D</hi>aer hi leyt bi sinen wiue</l>
+<lb n="24" xml:id="Af18v.24"/><l n="A_KE_1002"><hi rend="capitalsize1">D</hi>at en lietic om al dat gout</l>
+<lb n="25" xml:id="Af18v.25"/><l n="A_KE_1003"><hi rend="capitalsize1">D</hi>at die warelt inne hout</l>
+<lb n="26" xml:id="Af18v.26"/><l n="A_KE_1004"><hi rend="capitalsize1">I</hi>c sel weder keeren schiere</l>
+<lb n="27" xml:id="Af18v.27"/><l n="A_KE_1005"><hi rend="capitalsize1">D</hi>oen bemaende die coninc diere</l>
+<lb n="28" xml:id="Af18v.28"/><l n="A_KE_1006"><hi rend="capitalsize1">D</hi>at hi hem seide door wat sake</l>
+
+
+<pb xml:id="A.f19r" n="19r"/>
+<lb n="1" xml:id="Af19r.1"/><l n="A_KE_1007"><hi rend="capitalsize1">H</hi>i ware so seere tongemake</l>
+<lb n="2" xml:id="Af19r.2"/><l n="A_KE_1008"><hi rend="capitalsize1">E</hi>n sidi niet al gesont</l>
+<lb n="3" xml:id="Af19r.3"/><l n="A_KE_1009"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hebt wel <num type="roman">.x.</num> <choice><abbr>ho<g ref="#bar"/>dert</abbr><expan>ho<ex>n</ex>dert</expan></choice> pont</l>
+<lb n="4" xml:id="Af19r.4"/><l n="A_KE_1010"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> tgereyde daer ghi om ghinct</l>
+<lb n="5" xml:id="Af19r.5"/><l n="A_KE_1011"><hi rend="capitalsize1">A</hi>y heer het is al <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> dinc</l>
+<lb n="6" xml:id="Af19r.6"/><l n="A_KE_1012"><hi rend="capitalsize1">D</hi>at mijnre herten deert</l>
+<lb n="7" xml:id="Af19r.7"/><l n="A_KE_1013"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> <choice><abbr>droeue<g ref="#bar"/></abbr><expan>droeue<ex>n</ex></expan></choice> sin <choice><abbr>v<g ref="#apomod"/>teert</abbr><expan>v<ex>er</ex>teert</expan></choice></l>
+<lb n="8" xml:id="Af19r.8"/><l n="A_KE_1014"><hi rend="capitalsize1">I</hi>c heb minen heer verloren</l>
+<lb n="9" xml:id="Af19r.9"/><l n="A_KE_1015"><hi rend="capitalsize1">I</hi>c hadde toeuerlaet te voren</l>
+<lb n="10" xml:id="Af19r.10"/><l n="A_KE_1016"><hi rend="capitalsize1">T</hi>e comene te minen goede</l>
+<lb n="11" xml:id="Af19r.11"/><l n="A_KE_1017"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> te <choice><abbr>v<g ref="#apomod"/>winne<g ref="#bar"/></abbr><expan>v<ex>er</ex>winne<ex>n</ex></expan></choice> mijn armoede</l>
+
+<note n="A_KE_1018">Line_number 1018 is missing</note>
+
+<note n="A_KE_1019">Line_number 1019 is missing</note>
+<lb n="12" xml:id="Af19r.12"/><l n="A_KE_1020"><hi rend="capitalsize1">M</hi>ijn heer sel <choice><abbr>sterue<g ref="#bar"/></abbr><expan>sterue<ex>n</ex></expan></choice> <choice><abbr>morge<g ref="#bar"/></abbr><expan>morge<ex>n</ex></expan></choice> vroe</l>
+<lb n="13" xml:id="Af19r.13"/><l n="A_KE_1021"><hi rend="capitalsize1">I</hi>c mach v seggen hoe</l>
+
+<note n="A_KE_1022">Line_number 1022 is missing</note>
+<lb n="14" xml:id="Af19r.14"/><l n="A_KE_1023"><hi rend="capitalsize1">E</hi>ggeric heeft sinen doot <choice><abbr>geswore<g ref="#bar"/></abbr><expan>geswore<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Af19r.15"/><l n="A_KE_1024"><hi rend="capitalsize1">D</hi>oen wiste karel wel te <choice><abbr>vore<g ref="#bar"/></abbr><expan>vore<ex>n</ex></expan></choice></l>
+
+<note n="A_KE_1025">Line_number 1025 is missing</note>
+
+<note n="A_KE_1026">Line_number 1026 is missing</note>
+
+<note n="A_KE_1027">Line_number 1027 is missing</note>
+<lb n="16" xml:id="Af19r.16"/><l n="A_KE_1028"><hi rend="capitalsize1">D</hi>at hem god te stelen ontboot</l>
+<lb n="17" xml:id="Af19r.17"/><l n="A_KE_1029"><hi rend="capitalsize1">O</hi>m te bescudden vander doot.</l>
+<lb n="18" xml:id="Af19r.18"/><l n="A_KE_1030"><hi rend="capitalsize1">H</hi>i danckes oetmoedelike</l>
+<lb n="19" xml:id="Af19r.19"/><l n="A_KE_1031"><hi rend="capitalsize1">G</hi>ode <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> hemelrike</l>
+<lb n="20" xml:id="Af19r.20"/><l n="A_KE_1032"><hi rend="capitalsize1">O</hi>e <choice><abbr>a<g ref="#bar"/>twoerde</abbr><expan>a<ex>n</ex>twoerde</expan></choice> die coninc saen</l>
+<lb n="21" xml:id="Af19r.21"/><l n="A_KE_1033"><hi rend="capitalsize1">H</hi>oe so waendi dan tontgaen</l>
+<lb n="22" xml:id="Af19r.22"/><l n="A_KE_1034"><hi rend="capitalsize1">O</hi>f <choice><abbr>ghie<g ref="#bar"/></abbr><expan>ghie<ex>n</ex></expan></choice> staect mit <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> kniue</l>
+<lb n="23" xml:id="Af19r.23"/><l n="A_KE_1035"><hi rend="capitalsize1">D</hi>aer hi leit bi sinen wiue</l>
+<lb n="24" xml:id="Af19r.24"/><l n="A_KE_1036"><hi rend="capitalsize1">T</hi>hof selde <choice><abbr>verstorme<g ref="#bar"/></abbr><expan>verstorme<ex>n</ex></expan></choice> al</l>
+<lb n="25" xml:id="Af19r.25"/><l n="A_KE_1037"><hi rend="capitalsize1">G</hi>hi en had meer dan gheual</l>
+<lb n="26" xml:id="Af19r.26"/><l n="A_KE_1038"><hi rend="capitalsize1">G</hi>hi sout saen <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> vercoft</l>
+<lb n="27" xml:id="Af19r.27"/><l n="A_KE_1039"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> v lijf den eynde brocht.</l>
+<lb n="28" xml:id="Af19r.28"/><l n="A_KE_1040"><hi rend="capitalsize1">S</hi>oudi v worpen inden noot</l>
+
+
+<pb xml:id="A.f19v" n="19v"/>
+<lb n="1" xml:id="Af19v.1"/><l n="A_KE_1041"><hi rend="capitalsize1">S</hi>terft die coninc so is hi doot</l>
+<lb n="2" xml:id="Af19v.2"/><l n="A_KE_1042"><hi rend="capitalsize1">W</hi>at talen souder of wesen</l>
+<lb n="3" xml:id="Af19v.3"/><l n="A_KE_1043"><hi rend="capitalsize1">G</hi>hi sout des rouwen ghenesen</l>
+<lb n="4" xml:id="Af19v.4"/><l n="A_KE_1044"><hi rend="capitalsize1">D</hi>it seidi doer behendichede</l>
+<lb n="5" xml:id="Af19v.5"/><l n="A_KE_1045"><hi rend="capitalsize1">O</hi>m elegast te <choice><abbr>proeue<g ref="#bar"/></abbr><expan>proeue<ex>n</ex></expan></choice> mede</l>
+<lb n="6" xml:id="Af19v.6"/><l n="A_KE_1046"><hi rend="capitalsize1">N</hi>ochtan wasser een ander an.</l>
+<lb n="7" xml:id="Af19v.7"/><l n="A_KE_1047"><hi rend="capitalsize1">H</hi>i hadde gherne gheweest van dan</l>
+<lb n="8" xml:id="Af19v.8"/><l n="A_KE_1048"><hi rend="capitalsize1">D</hi>langhe letten was hem leet</l>
+<lb n="9" xml:id="Af19v.9"/><l n="A_KE_1049"><hi rend="capitalsize1">E</hi>legast antwoerde ghereet</l>
+<lb n="10" xml:id="Af19v.10"/><l n="A_KE_1050"><hi rend="capitalsize1">B</hi>i al dat god leuen liet</l>
+<lb n="11" xml:id="Af19v.11"/><l n="A_KE_1051"><hi rend="capitalsize1">W</hi>aerdi mijn gheselle niet.</l>
+<lb n="12" xml:id="Af19v.12"/><l n="A_KE_1052"><hi rend="capitalsize1">T</hi>en bleue te nacht <choice><abbr>onghewroke<g ref="#bar"/>.</abbr><expan>onghewroke<ex>n</ex>.</expan></choice></l>
+<lb n="13" xml:id="Af19v.13"/><l n="A_KE_1053"><hi rend="capitalsize1">D</hi>at ghi hebt so na ghesproken</l>
+<lb n="14" xml:id="Af19v.14"/><l n="A_KE_1054"><hi rend="capitalsize1">D</hi>en coninc karel minen heere:</l>
+<lb n="15" xml:id="Af19v.15"/><l n="A_KE_1055"><hi rend="capitalsize1">D</hi>ie waerdich is alder eere.</l>
+<lb n="16" xml:id="Af19v.16"/><l n="A_KE_1056"><hi rend="capitalsize1">B</hi>iden heere die mi ghewrochte</l>
+<lb n="17" xml:id="Af19v.17"/><l n="A_KE_1057"><hi rend="capitalsize1">I</hi>c sel vorderen mijn gedochte.</l>
+<lb n="18" xml:id="Af19v.18"/><l n="A_KE_1058"><hi rend="capitalsize1">E</hi>nde wreken minen toren.</l>
+<lb n="19" xml:id="Af19v.19"/><l n="A_KE_1059"><hi rend="capitalsize1">T</hi>conincs doot is ghesworen</l>
+<lb n="20" xml:id="Af19v.20"/><l n="A_KE_1060"><hi rend="capitalsize1">E</hi>er ic vander buerch scheide.</l>
+<lb n="21" xml:id="Af19v.21"/><l n="A_KE_1061"><hi rend="capitalsize1">G</hi>aet mi te lieue of te leyde</l>
+<lb n="22" xml:id="Af19v.22"/><l n="A_KE_1062"><hi rend="capitalsize1">D</hi>ie coninc peynsde dits mijn vrient</l>
+<lb n="23" xml:id="Af19v.23"/><l n="A_KE_1063"><hi rend="capitalsize1">A</hi>l heb ics qualic op <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> verdient</l>
+<lb n="24" xml:id="Af19v.24"/><l n="A_KE_1064"><hi rend="capitalsize1">I</hi>c salt <choice><abbr>betere<g ref="#bar"/></abbr><expan>betere<ex>n</ex></expan></choice> mach ic leuen.</l>
+<lb n="25" xml:id="Af19v.25"/><l n="A_KE_1065"><hi rend="capitalsize1">H</hi>i sal verwinnen al lijn sneuen.</l>
+<lb n="26" xml:id="Af19v.26"/><l n="A_KE_1066"><hi rend="capitalsize1">G</hi>heselle ic sel u wisen bet.</l>
+<lb n="27" xml:id="Af19v.27"/><l n="A_KE_1067"><hi rend="capitalsize1">H</hi>oe ghien <choice><abbr>bre<g ref="#bar"/>ghen</abbr><expan>bre<ex>n</ex>ghen</expan></choice> selt int net</l>
+<lb n="28" xml:id="Af19v.28"/><l n="A_KE_1068"><hi rend="capitalsize1">E</hi>ggericke van eggermonde</l>
+
+
+<pb xml:id="A.f20r" n="20r"/>
+<lb n="1" xml:id="Af20r.1"/><l n="A_KE_1069"><hi rend="capitalsize1">R</hi>ijt inder morghenstonde</l>
+<lb n="2" xml:id="Af20r.2"/><l n="A_KE_1070"><hi rend="capitalsize1">T</hi>otten coninc daer ghien vint.</l>
+<lb n="3" xml:id="Af20r.3"/><l n="A_KE_1071"><hi rend="capitalsize1">V</hi>ertelt hem <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ontbint</l>
+<lb n="4" xml:id="Af20r.4"/><l n="A_KE_1072"><hi rend="capitalsize1">D</hi>ie ondaet ende die moort</l>
+<lb n="5" xml:id="Af20r.5"/><l n="A_KE_1073"><hi rend="capitalsize1">A</hi>ls hi sal horen v woert</l>
+<lb n="6" xml:id="Af20r.6"/><l n="A_KE_1074"><hi rend="capitalsize1">G</hi>hi selter bi versoenen al</l>
+<lb n="7" xml:id="Af20r.7"/><l n="A_KE_1075"><hi rend="capitalsize1">V</hi> loon en sel niet wesen smal.</l>
+<lb n="8" xml:id="Af20r.8"/><l n="A_KE_1076"><hi rend="capitalsize1">G</hi>hi moghet riden bi sijnre <hi rend="capitalsize1">B</hi>iden</l>
+<lb n="9" xml:id="Af20r.9"/><l n="A_KE_1077"><hi rend="capitalsize1">A</hi>lle v daghe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> v tiden</l>
+<lb n="10" xml:id="Af20r.10"/><l n="A_KE_1078"><hi rend="capitalsize1">O</hi>f ghi sijn broeder waert.</l>
+<lb n="11" xml:id="Af20r.11"/><l n="A_KE_1079"><hi rend="capitalsize1">S</hi>o langhe als v god ghespaert.</l>
+<lb n="12" xml:id="Af20r.12"/><l n="A_KE_1080"><hi rend="capitalsize1">E</hi>legast seyde wats mijns gheschiet</l>
+<lb n="13" xml:id="Af20r.13"/><l n="A_KE_1081"><hi rend="capitalsize1">E</hi>n come voor den coninc niet.</l>
+<lb n="14" xml:id="Af20r.14"/><l n="A_KE_1082"><hi rend="capitalsize1">D</hi>ie coninc is te mi so gram</l>
+<lb n="15" xml:id="Af20r.15"/><l n="A_KE_1083"><hi rend="capitalsize1">O</hi>m dat ic hem eens nam</l>
+<lb n="16" xml:id="Af20r.16"/><l n="A_KE_1084"><hi rend="capitalsize1">V</hi>an <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> <choice><abbr>scatte<g ref="#bar"/></abbr><expan>scatte<ex>n</ex></expan></choice> sulc en <choice><abbr>scaerde<g ref="#bar"/></abbr><expan>scaerde<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Af20r.17"/><l n="A_KE_1085"><hi rend="capitalsize1">D</hi>at cume gedroech twee paerden</l>
+<lb n="18" xml:id="Af20r.18"/><l n="A_KE_1086"><hi rend="capitalsize1">I</hi>c en come niet daer hi mi saghe.</l>
+<lb n="19" xml:id="Af20r.19"/><l n="A_KE_1087"><hi rend="capitalsize1">N</hi>och bi nachte noch bi daghe.</l>
+<lb n="20" xml:id="Af20r.20"/><l n="A_KE_1088"><hi rend="capitalsize1">D</hi>ats pine teghen spoet</l>
+<lb n="21" xml:id="Af20r.21"/><l n="A_KE_1089"><hi rend="capitalsize1">W</hi>il ic v segghen wat ghi doet</l>
+<lb n="22" xml:id="Af20r.22"/><l n="A_KE_1090"><hi rend="capitalsize1">S</hi>prac karel die edel man</l>
+<lb n="23" xml:id="Af20r.23"/><l n="A_KE_1091"><hi rend="capitalsize1">R</hi>ijt wech in uwen dam.</l>
+<lb n="24" xml:id="Af20r.24"/><l n="A_KE_1092"><hi rend="capitalsize1">D</hi>aer ghi liet v ghesellen</l>
+<lb n="25" xml:id="Af20r.25"/><l n="A_KE_1093"><hi rend="capitalsize1">N</hi>v sal ic v vertellen</l>
+<lb n="26" xml:id="Af20r.26"/><l n="A_KE_1094"><hi rend="capitalsize1">V</hi>oert voor v ons beiach</l>
+<lb n="27" xml:id="Af20r.27"/><l n="A_KE_1095"><hi rend="capitalsize1">T</hi>ot morghen opten dach</l>
+<lb n="28" xml:id="Af20r.28"/><l n="A_KE_1096"><hi rend="capitalsize1">D</hi>an deylen wi mit ghemake</l>
+
+
+<pb xml:id="A.f20v" n="20v"/>
+<lb n="1" xml:id="Af20v.1"/><l n="A_KE_1097"><hi rend="capitalsize1">I</hi>c sal bode sijn vander sake</l>
+<lb n="2" xml:id="Af20v.2"/><l n="A_KE_1098"><hi rend="capitalsize1">T</hi>otten coninc daer icken weet</l>
+<lb n="3" xml:id="Af20v.3"/><l n="A_KE_1099"><hi rend="capitalsize1">S</hi>loech <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> doot het waer mi leet</l>
+<lb n="4" xml:id="Af20v.4"/><l n="A_KE_1100"><hi rend="capitalsize2">M</hi>It deser talen dat si schieden.</l>
+<lb n="5" xml:id="Af20v.5"/><l n="A_KE_1101"><hi rend="capitalsize1">E</hi>legast voer tot sinen lieden</l>
+<lb n="6" xml:id="Af20v.6"/><l n="A_KE_1102"><hi rend="capitalsize1">D</hi>aer hise liet inden dam.</l>
+<lb n="7" xml:id="Af20v.7"/><l n="A_KE_1103"><hi rend="capitalsize1">E</hi>nde karel die edel man.</l>
+<lb n="8" xml:id="Af20v.8"/><l n="A_KE_1104"><hi rend="capitalsize1">V</hi>oer <choice><abbr>tynghele<g ref="#bar"/></abbr><expan>tynghele<ex>m</ex></expan></choice> in sijn casteel</l>
+<lb n="9" xml:id="Af20v.9"/><l n="A_KE_1105"><hi rend="capitalsize1">S</hi>ijn herte was sonder riueel</l>
+<lb n="10" xml:id="Af20v.10"/><l n="A_KE_1106"><hi rend="capitalsize1">D</hi>atten die gheen wilde verraden.</l>
+<lb n="11" xml:id="Af20v.11"/><l n="A_KE_1107"><hi rend="capitalsize1">D</hi>ie hem soude staen in staden</l>
+<lb n="12" xml:id="Af20v.12"/><l n="A_KE_1108"><hi rend="capitalsize1">S</hi>oude recht na rechte staen</l>
+<lb n="13" xml:id="Af20v.13"/><l n="A_KE_1109"><hi rend="capitalsize1">N</hi>och stont die poorte ontdaen.</l>
+<lb n="14" xml:id="Af20v.14"/><l n="A_KE_1110"><hi rend="capitalsize1">E</hi>nde sine lieden sliepen alle</l>
+<lb n="15" xml:id="Af20v.15"/><l n="A_KE_1111"><hi rend="capitalsize1">H</hi>i bant dors opten stalle.</l>
+<lb n="16" xml:id="Af20v.16"/><l n="A_KE_1112"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ginc ter cameren daer hi lach:</l>
+<lb n="17" xml:id="Af20v.17"/><l n="A_KE_1113"><hi rend="capitalsize1">E</hi>ert <choice><abbr>yema<g ref="#bar"/>t</abbr><expan>yema<ex>n</ex>t</expan></choice> hoorde ofte sach</l>
+<lb n="18" xml:id="Af20v.18"/><l n="A_KE_1114"><hi rend="capitalsize1">H</hi>i hadde sijn <choice><abbr>wape<g ref="#bar"/></abbr><expan>wape<ex>n</ex></expan></choice> af ghedaen</l>
+<lb n="19" xml:id="Af20v.19"/><l n="A_KE_1115"><hi rend="capitalsize1">S</hi>o was die wachter <choice><abbr>gestae<g ref="#bar"/>.</abbr><expan>gestae<ex>n</ex>.</expan></choice></l>
+<lb n="20" xml:id="Af20v.20"/><l n="A_KE_1116"><hi rend="capitalsize1">T</hi>er hoger <choice><abbr>tinne<g ref="#bar"/></abbr><expan>tinne<ex>n</ex></expan></choice> blies den dach</l>
+<lb n="21" xml:id="Af20v.21"/><l n="A_KE_1117"><choice><abbr><hi rend="capitalsize1">D</hi>ieme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>ieme<ex>n</ex></expan></choice> scone <choice><abbr>v<g ref="#apomod"/>baren</abbr><expan>v<ex>er</ex>baren</expan></choice> sach</l>
+<lb n="22" xml:id="Af20v.22"/><l n="A_KE_1118"><hi rend="capitalsize1">D</hi>oen wert in wake menich man</l>
+<lb n="23" xml:id="Af20v.23"/><l n="A_KE_1119"><hi rend="capitalsize1">D</hi>ien god den slaep seynde an</l>
+<lb n="24" xml:id="Af20v.24"/><l n="A_KE_1120"><hi rend="capitalsize1">D</hi>oe die coninc stelen voer</l>
+<lb n="25" xml:id="Af20v.25"/><l n="A_KE_1121"><hi rend="capitalsize1">D</hi>at was hem een scone boer:</l>
+<lb n="26" xml:id="Af20v.26"/><l n="A_KE_1122"><hi rend="capitalsize1">D</hi>oe seynde karel die coninc</l>
+<lb n="27" xml:id="Af20v.27"/><l n="A_KE_1123"><hi rend="capitalsize1">O</hi>m eenen sinen camerlinc</l>
+<lb n="28" xml:id="Af20v.28"/><l n="A_KE_1124"><hi rend="capitalsize1">O</hi>m sinen verholen raet</l>
+
+
+<pb xml:id="A.f21r" n="21r"/>
+<lb n="1" xml:id="Af21r.1"/><l n="A_KE_1125"><hi rend="capitalsize1">E</hi>nde seide hoet met hem staet</l>
+<lb n="2" xml:id="Af21r.2"/><l n="A_KE_1126"><hi rend="capitalsize1">D</hi>at hi wiste wel te voren</l>
+<lb n="3" xml:id="Af21r.3"/><l n="A_KE_1127"><hi rend="capitalsize1">D</hi>at sinen doot ware ghesworen</l>
+<lb n="4" xml:id="Af21r.4"/><l n="A_KE_1128"><hi rend="capitalsize1">V</hi>an eggheric van eggermonde</l>
+<lb n="5" xml:id="Af21r.5"/><l n="A_KE_1129"><hi rend="capitalsize1">D</hi>ie comen sal in corter stonde</l>
+<lb n="6" xml:id="Af21r.6"/><l n="A_KE_1130"><hi rend="capitalsize1">M</hi>et alder macht vanden lande.</l>
+<lb n="7" xml:id="Af21r.7"/><l n="A_KE_1131"><hi rend="capitalsize1">O</hi>m hem te doene scande</l>
+<lb n="8" xml:id="Af21r.8"/><l n="A_KE_1132"><hi rend="capitalsize1">A</hi>ls te nemen sijn leuen.</l>
+<lb n="9" xml:id="Af21r.9"/><l n="A_KE_1133"><hi rend="capitalsize1">D</hi>at si hem goeden raet geuen</l>
+<lb n="10" xml:id="Af21r.10"/><l n="A_KE_1134"><hi rend="capitalsize1">D</hi>at hi behoude sijn eere</l>
+<lb n="11" xml:id="Af21r.11"/><l n="A_KE_1135"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> daer toe haren <choice><abbr>gherechte<g ref="#bar"/></abbr><expan>gherechte<ex>n</ex></expan></choice> heere.</l>
+<lb n="12" xml:id="Af21r.12"/><l n="A_KE_1136"><hi rend="capitalsize2">D</hi>Oe seide die hertoge <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> baynier</l>
+<lb n="13" xml:id="Af21r.13"/><l n="A_KE_1137"><hi rend="capitalsize1">L</hi>aetse <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> si <choice><abbr>vinde<g ref="#bar"/></abbr><expan>vinde<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> hier</l>
+<lb n="14" xml:id="Af21r.14"/><l n="A_KE_1138"><hi rend="capitalsize1">H</hi>et sel den menighen costen tleuen</l>
+<lb n="15" xml:id="Af21r.15"/><l n="A_KE_1139"><hi rend="capitalsize1">I</hi>c sal ons goeden raet gheuen</l>
+<lb n="16" xml:id="Af21r.16"/><l n="A_KE_1140"><hi rend="capitalsize1">H</hi>ier is menich sterc fransoys</l>
+<lb n="17" xml:id="Af21r.17"/><l n="A_KE_1141"><hi rend="capitalsize1">W</hi>t vrancrijc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> baloys</l>
+<lb n="18" xml:id="Af21r.18"/><l n="A_KE_1142"><hi rend="capitalsize1">M</hi>enich ridder menich seriant:</l>
+<lb n="19" xml:id="Af21r.19"/><l n="A_KE_1143"><hi rend="capitalsize1">D</hi>ie mit v quamen hier int lant.</l>
+<lb n="20" xml:id="Af21r.20"/><l n="A_KE_1144"><hi rend="capitalsize1">S</hi>i selen <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> wapenen alte male</l>
+<lb n="21" xml:id="Af21r.21"/><l n="A_KE_1145"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> trecken in die hoghe sale.</l>
+<lb n="22" xml:id="Af21r.22"/><l n="A_KE_1146"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ghi selue heer coninc</l>
+<lb n="23" xml:id="Af21r.23"/><l n="A_KE_1147"><hi rend="capitalsize1">S</hi>ult ghewapent staen inden rinc.</l>
+<lb n="24" xml:id="Af21r.24"/><l n="A_KE_1148"><hi rend="capitalsize1">D</hi>ie v daer slaen wil of deeren</l>
+<lb n="25" xml:id="Af21r.25"/><l n="A_KE_1149"><hi rend="capitalsize1">W</hi>isellen wel weeren</l>
+<lb n="26" xml:id="Af21r.26"/><l n="A_KE_1150"><hi rend="capitalsize1">D</hi>bloet sel <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> lopen ter sporen</l>
+<lb n="27" xml:id="Af21r.27"/><l n="A_KE_1151"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eggheric als te voren</l>
+<lb n="28" xml:id="Af21r.28"/><l n="A_KE_1152"><hi rend="capitalsize1">D</hi>esen raet dochten wesen goet.</l>
+
+
+<pb xml:id="A.f21v" n="21v"/>
+<lb n="1" xml:id="Af21v.1"/><l n="A_KE_1153"><hi rend="capitalsize1">S</hi>i <choice><abbr>wapende<g ref="#bar"/></abbr><expan>wapende<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> metter spoet</l>
+<lb n="2" xml:id="Af21v.2"/><l n="A_KE_1154"><hi rend="capitalsize1">A</hi>lle die daertoe dochten</l>
+<lb n="3" xml:id="Af21v.3"/><l n="A_KE_1155"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wapenen <choice><abbr>drage<g ref="#bar"/></abbr><expan>drage<ex>n</ex></expan></choice> <choice><abbr>mochte<g ref="#bar"/></abbr><expan>mochte<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Af21v.4"/><l n="A_KE_1156"><hi rend="capitalsize1">B</hi>eyde cleyn <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot.</l>
+<lb n="5" xml:id="Af21v.5"/><l n="A_KE_1157"><hi rend="capitalsize1">S</hi>i duchhen swaren wederstoot.</l>
+<lb n="6" xml:id="Af21v.6"/><l n="A_KE_1158"><hi rend="capitalsize1">E</hi>ggeric was <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> groter macht.</l>
+<lb n="7" xml:id="Af21v.7"/><l n="A_KE_1159"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> alle die hadden cracht</l>
+<lb n="8" xml:id="Af21v.8"/><l n="A_KE_1160"><hi rend="capitalsize1">W</hi>eder ende opten rijn</l>
+<lb n="9" xml:id="Af21v.9"/><l n="A_KE_1161"><hi rend="capitalsize1">W</hi>oude in sijnre hulpen sijn</l>
+<lb n="10" xml:id="Af21v.10"/><l n="A_KE_1162"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> dede ter <choice><abbr>poorte<g ref="#bar"/></abbr><expan>poorte<ex>n</ex></expan></choice> <num type="roman">.lx.</num> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Af21v.11"/><l n="A_KE_1163"><choice><abbr><hi rend="capitalsize1">G</hi>ewape<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">G</hi>ewape<ex>n</ex>t</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> halsberch an.</l>
+<lb n="12" xml:id="Af21v.12"/><l n="A_KE_1164"><choice><abbr><hi rend="capitalsize1">D</hi>oe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>oe<ex>n</ex></expan></choice> eggerics <choice><abbr>liede<g ref="#bar"/></abbr><expan>liede<ex>n</ex></expan></choice> <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> <choice><abbr>geuare<g ref="#bar"/></abbr><expan>geuare<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Af21v.13"/><l n="A_KE_1165"><hi rend="capitalsize1">I</hi>n tconincs houe met <choice><abbr>scare<g ref="#bar"/></abbr><expan>scare<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Af21v.14"/><l n="A_KE_1166"><hi rend="capitalsize1">O</hi>ntdede men die poorte wide</l>
+<lb n="15" xml:id="Af21v.15"/><l n="A_KE_1167"><hi rend="capitalsize1">E</hi>nde lietse alle door liden</l>
+<lb n="16" xml:id="Af21v.16"/><l n="A_KE_1168"><hi rend="capitalsize1">D</hi>oen si <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> int hof</l>
+<lb n="17" xml:id="Af21v.17"/><l n="A_KE_1169"><hi rend="capitalsize1">D</hi>edemen hoer cleeder of.</l>
+<lb n="18" xml:id="Af21v.18"/><l n="A_KE_1170"><hi rend="capitalsize1">M</hi>en vant naest haren liue</l>
+<lb n="19" xml:id="Af21v.19"/><l n="A_KE_1171"><hi rend="capitalsize1">W</hi>itte halsberghe scarpe kniue</l>
+<lb n="20" xml:id="Af21v.20"/><l n="A_KE_1172"><hi rend="capitalsize1">D</hi>ie ondaet was openbaer</l>
+<lb n="21" xml:id="Af21v.21"/><l n="A_KE_1173"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> leydse <choice><abbr>geuange<g ref="#bar"/></abbr><expan>geuange<ex>n</ex></expan></choice> daer</l>
+<lb n="22" xml:id="Af21v.22"/><l n="A_KE_1174"><hi rend="capitalsize1">A</hi>ltemet dat si <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice></l>
+<lb n="23" xml:id="Af21v.23"/><l n="A_KE_1175"><hi rend="capitalsize1">T</hi>ot datmense had benamen</l>
+
+<note n="A_KE_1176">Line_number 1176 is missing</note>
+
+<note n="A_KE_1177">Line_number 1177 is missing</note>
+<lb n="24" xml:id="Af21v.24"/><l n="A_KE_1178"><hi rend="capitalsize1">E</hi>ggeric <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> geuaren</l>
+<lb n="25" xml:id="Af21v.25"/><l n="A_KE_1179"><hi rend="capitalsize1">A</hi>l mitter lester scaren</l>
+<lb n="26" xml:id="Af21v.26"/><l n="A_KE_1180"><hi rend="capitalsize1">D</hi>aer alle die moort aene stoet</l>
+<lb n="27" xml:id="Af21v.27"/><l n="A_KE_1181"><hi rend="capitalsize1">D</hi>oe hi gebeet was te voet</l>
+<lb n="28" xml:id="Af21v.28"/><l n="A_KE_1182"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> waende gaen in die sale</l>
+
+
+<pb xml:id="A.f22r" n="22r"/>
+<lb n="1" xml:id="Af22r.1"/><l n="A_KE_1183"><hi rend="capitalsize1">S</hi>lootmen die poorten te male</l>
+<lb n="2" xml:id="Af22r.2"/><l n="A_KE_1184"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> <choice><abbr>vincke<g ref="#bar"/></abbr><expan>vincke<ex>n</ex></expan></choice> als dander dede</l>
+<lb n="3" xml:id="Af22r.3"/><l n="A_KE_1185"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> <choice><abbr>va<g ref="#bar"/>t</abbr><expan>va<ex>n</ex>t</expan></choice> <choice><abbr>gewape<g ref="#bar"/>t</abbr><expan>gewape<ex>n</ex>t</expan></choice> sine leden.</l>
+<lb n="4" xml:id="Af22r.4"/><l n="A_KE_1186"><hi rend="capitalsize1">B</hi>at dan <choice><abbr>yema<g ref="#bar"/>t</abbr><expan>yema<ex>n</ex>t</expan></choice> die daer was:</l>
+<lb n="5" xml:id="Af22r.5"/><l n="A_KE_1187"><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> leyde <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> in dat pallas</l>
+<lb n="6" xml:id="Af22r.6"/><l n="A_KE_1188"><hi rend="capitalsize1">V</hi>oor den coninc sinen heere.</l>
+<lb n="7" xml:id="Af22r.7"/><l n="A_KE_1189"><hi rend="capitalsize1">D</hi>at mochti <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> wel <choice><abbr>scame<g ref="#bar"/></abbr><expan>scame<ex>n</ex></expan></choice> seere.</l>
+<lb n="8" xml:id="Af22r.8"/><l n="A_KE_1190"><hi rend="capitalsize1">D</hi>ie coninc leide <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> vele te <choice><abbr>vore<g ref="#bar"/>.</abbr><expan>vore<ex>n</ex>.</expan></choice></l>
+<lb n="9" xml:id="Af22r.9"/><l n="A_KE_1191"><hi rend="capitalsize1">H</hi>i en woudes een niet horen</l>
+<lb n="10" xml:id="Af22r.10"/><l n="A_KE_1192"><hi rend="capitalsize1">H</hi>i lochende der ondaet</l>
+<lb n="11" xml:id="Af22r.11"/><l n="A_KE_1193"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide heer coninc hebt <choice><abbr>betere<g ref="#bar"/></abbr><expan>betere<ex>n</ex></expan></choice> raet</l>
+<lb n="12" xml:id="Af22r.12"/><l n="A_KE_1194"><hi rend="capitalsize1">D</hi>adi mi lachter onuerdient</l>
+<lb n="13" xml:id="Af22r.13"/><l n="A_KE_1195"><hi rend="capitalsize1">G</hi>hi hadt <choice><abbr>v<g ref="#apomod"/>lore<g ref="#bar"/></abbr><expan>v<ex>er</ex>lore<ex>n</ex></expan></choice> <choice><abbr>menige<g ref="#bar"/></abbr><expan>menige<ex>n</ex></expan></choice> vrient.</l>
+<lb n="14" xml:id="Af22r.14"/><l n="A_KE_1196"><hi rend="capitalsize1">G</hi>hi en waret ooc niet so coene</l>
+<lb n="15" xml:id="Af22r.15"/><l n="A_KE_1197"><hi rend="capitalsize1">N</hi>och geen uwer baroene</l>
+<lb n="16" xml:id="Af22r.16"/><l n="A_KE_1198"><hi rend="capitalsize1">D</hi>ie mi op dorste staden</l>
+<lb n="17" xml:id="Af22r.17"/><l n="A_KE_1199"><hi rend="capitalsize1">D</hi>at ic v hadde verraden</l>
+<lb n="18" xml:id="Af22r.18"/><l n="A_KE_1200"><hi rend="capitalsize1">V</hi>oor <choice><abbr>yema<g ref="#bar"/>t</abbr><expan>yema<ex>n</ex>t</expan></choice> dies begaerde</l>
+<lb n="19" xml:id="Af22r.19"/><l n="A_KE_1201"><hi rend="capitalsize1">I</hi>c daet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> lochenen <choice><abbr>mitte<g ref="#bar"/></abbr><expan>mitte<ex>n</ex></expan></choice> swaerde</l>
+<lb n="20" xml:id="Af22r.20"/><l n="A_KE_1202"><hi rend="capitalsize1">O</hi>f mitten oerde van minen spere</l>
+<lb n="21" xml:id="Af22r.21"/><l n="A_KE_1203"><hi rend="capitalsize1">N</hi>v come voort dies begheere</l>
+<lb n="22" xml:id="Af22r.22"/><l n="A_KE_1204"><hi rend="capitalsize1">A</hi>ls die coninc verstoet.</l>
+<lb n="23" xml:id="Af22r.23"/><l n="A_KE_1205"><hi rend="capitalsize1">W</hi>as hi blide in sinen snoet</l>
+<lb n="24" xml:id="Af22r.24"/><l n="A_KE_1206"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seynde om elegaste</l>
+<lb n="25" xml:id="Af22r.25"/><l n="A_KE_1207"><hi rend="capitalsize1">B</hi>oden na boden vaste.</l>
+<lb n="26" xml:id="Af22r.26"/><l n="A_KE_1208"><hi rend="capitalsize1">D</hi>aer hi was inden woude</l>
+<lb n="27" xml:id="Af22r.27"/><l n="A_KE_1209"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>tboot</abbr><expan>o<ex>n</ex>tboot</expan></choice> hem herde houde</l>
+<lb n="28" xml:id="Af22r.28"/><l n="A_KE_1210"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>gaf</abbr><expan>v<ex>er</ex>gaf</expan></choice> hem alle misdaet</l>
+
+
+<pb xml:id="A.f22v" n="22v"/>
+<lb n="1" xml:id="Af22v.1"/><l n="A_KE_1211"><hi rend="capitalsize1">I</hi>n dien dat hi den camp bestaet.</l>
+<lb n="2" xml:id="Af22v.2"/><l n="A_KE_1212"><hi rend="capitalsize1">T</hi>egen eggericke</l>
+<lb n="3" xml:id="Af22v.3"/><l n="A_KE_1213"><hi rend="capitalsize1">H</hi>i souden maken rike</l>
+<lb n="4" xml:id="Af22v.4"/><l n="A_KE_1214"><hi rend="capitalsize1">D</hi>ie boden en lieten niet</l>
+<lb n="5" xml:id="Af22v.5"/><l n="A_KE_1215"><hi rend="capitalsize1">S</hi>i deden dat hem die coninc hiet</l>
+<lb n="6" xml:id="Af22v.6"/><l n="A_KE_1216"><hi rend="capitalsize1">S</hi>i <choice><abbr>voere<g ref="#bar"/></abbr><expan>voere<ex>n</ex></expan></choice> tot <choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> stonden</l>
+<lb n="7" xml:id="Af22v.7"/><l n="A_KE_1217"><hi rend="capitalsize1">D</hi>aer si elegast vonden.</l>
+<lb n="8" xml:id="Af22v.8"/><l n="A_KE_1218"><hi rend="capitalsize1">D</hi>at hem die coninc beual</l>
+<lb n="9" xml:id="Af22v.9"/><l n="A_KE_1219"><hi rend="capitalsize1">S</hi>eiden si elegast al</l>
+<lb n="10" xml:id="Af22v.10"/><l n="A_KE_1220"><hi rend="capitalsize1">D</hi>ie seere verblide vanden woerde:</l>
+<lb n="11" xml:id="Af22v.11"/><l n="A_KE_1221"><hi rend="capitalsize1">A</hi>ls hi die nieumare hoorde</l>
+<lb n="12" xml:id="Af22v.12"/><l n="A_KE_1222"><hi rend="capitalsize1">H</hi>i liet leggen sijn ghereyde.</l>
+<lb n="13" xml:id="Af22v.13"/><l n="A_KE_1223"><hi rend="capitalsize1">S</hi>onder eenich langher beyden</l>
+<lb n="14" xml:id="Af22v.14"/><l n="A_KE_1224"><hi rend="capitalsize1">D</hi>at hi eggericke stal</l>
+<lb n="15" xml:id="Af22v.15"/><l n="A_KE_1225"><hi rend="capitalsize1">H</hi>iet hi ende beual</l>
+<lb n="16" xml:id="Af22v.16"/><l n="A_KE_1226"><hi rend="capitalsize1">H</hi>i swoer bi sijnre kerstenhede</l>
+<lb n="17" xml:id="Af22v.17"/><l n="A_KE_1227"><hi rend="capitalsize1">W</hi>aer hem god sculdich een bede</l>
+<lb n="18" xml:id="Af22v.18"/><l n="A_KE_1228"><hi rend="capitalsize1">H</hi>i en begeerde ander goet:</l>
+<lb n="19" xml:id="Af22v.19"/><l n="A_KE_1229"><hi rend="capitalsize1">D</hi>an hi den camp vechten moet.</l>
+<lb n="20" xml:id="Af22v.20"/><l n="A_KE_1230"><hi rend="capitalsize1">E</hi>nde sinen gherechten heere</l>
+<lb n="21" xml:id="Af22v.21"/><l n="A_KE_1231"><hi rend="capitalsize1">O</hi>m te behouden sijn eere.</l>
+<lb n="22" xml:id="Af22v.22"/><l n="A_KE_1232"><hi rend="capitalsize1">S</hi>i voeren wech metter spoet.</l>
+<lb n="23" xml:id="Af22v.23"/><l n="A_KE_1233"><hi rend="capitalsize1">D</hi>oen elegast die ridder goet</l>
+<lb n="24" xml:id="Af22v.24"/><l n="A_KE_1234"><hi rend="capitalsize1">Q</hi>uam in des conincs sale</l>
+<lb n="25" xml:id="Af22v.25"/><l n="A_KE_1235"><hi rend="capitalsize1">N</hi>v moechdi horen sine tale</l>
+<lb n="26" xml:id="Af22v.26"/><l n="A_KE_1236"><hi rend="capitalsize2">H</hi>I seide god hoede dit ghesinde</l>
+<lb n="27" xml:id="Af22v.27"/><l n="A_KE_1237"><choice><abbr><hi rend="capitalsize1">D</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>e<ex>n</ex></expan></choice> coninc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> ic hier vinde</l>
+<lb n="28" xml:id="Af22v.28"/><l n="A_KE_1238"><hi rend="capitalsize1">M</hi>er eggeric en groetic niet</l>
+
+
+<pb xml:id="A.f23r" n="23r"/>
+<lb n="1" xml:id="Af23r.1"/><l n="A_KE_1239"><hi rend="capitalsize1">G</hi>od die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>cruce<g ref="#bar"/></abbr><expan>cruce<ex>n</ex></expan></choice> liet</l>
+<lb n="2" xml:id="Af23r.2"/><l n="A_KE_1240"><hi rend="capitalsize1">O</hi>m <choice><abbr>onse<g ref="#bar"/></abbr><expan>onse<ex>n</ex></expan></choice> wille vele <choice><abbr>v<g ref="#apomod"/>mach</abbr><expan>v<ex>er</ex>mach</expan></choice></l>
+<lb n="3" xml:id="Af23r.3"/><l n="A_KE_1241"><hi rend="capitalsize1">D</hi>ie late mi <choice><abbr>sie<g ref="#bar"/></abbr><expan>sie<ex>n</ex></expan></choice> op desn dach</l>
+<lb n="4" xml:id="Af23r.4"/><l n="A_KE_1242"><hi rend="capitalsize1">E</hi>n maria die maghet soete</l>
+<lb n="5" xml:id="Af23r.5"/><l n="A_KE_1243"><hi rend="capitalsize1">D</hi>atmen te winde hanghen moete</l>
+<lb n="6" xml:id="Af23r.6"/><l n="A_KE_1244"><hi rend="capitalsize1">E</hi>ggheric van eggermonde</l>
+<lb n="7" xml:id="Af23r.7"/><l n="A_KE_1245"><hi rend="capitalsize1">M</hi>ochte god doen sonde</l>
+<lb n="8" xml:id="Af23r.8"/><l n="A_KE_1246"><hi rend="capitalsize1">S</hi>o heeft hi sonde ghedaen</l>
+<lb n="9" xml:id="Af23r.9"/><l n="A_KE_1247"><hi rend="capitalsize1">D</hi>at hi der galgen is ontgaen</l>
+<lb n="10" xml:id="Af23r.10"/><l n="A_KE_1248"><hi rend="capitalsize1">O</hi>m dat hi swoer mijns <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> doot</l>
+<lb n="11" xml:id="Af23r.11"/><l n="A_KE_1249"><choice><abbr><hi rend="capitalsize1">S</hi>ond<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">S</hi>ond<ex>er</ex></expan></choice> bedwanc oft noot</l>
+<lb n="12" xml:id="Af23r.12"/><l n="A_KE_1250"><hi rend="capitalsize1">A</hi>ls dit elegast hadde <choice><abbr>gesproke<g ref="#bar"/></abbr><expan>gesproke<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Af23r.13"/><l n="A_KE_1251"><hi rend="capitalsize1">E</hi>ggeric hadt gerne <choice><abbr>ghewroke<g ref="#bar"/>.</abbr><expan>ghewroke<ex>n</ex>.</expan></choice></l>
+<lb n="14" xml:id="Af23r.14"/><l n="A_KE_1252"><hi rend="capitalsize1">M</hi>er hi en hads die macht niet</l>
+<lb n="15" xml:id="Af23r.15"/><l n="A_KE_1253"><hi rend="capitalsize1">D</hi>aer was menich die hem liet</l>
+<lb n="16" xml:id="Af23r.16"/><l n="A_KE_1254"><hi rend="capitalsize1">D</hi>ie coninc antwoerde daer of</l>
+<lb n="17" xml:id="Af23r.17"/><l n="A_KE_1255"><hi rend="capitalsize1">S</hi>ijt willecomme in mijn hof</l>
+<lb n="18" xml:id="Af23r.18"/><l n="A_KE_1256"><hi rend="capitalsize1">N</hi>v vermaen ic v bi alle dien</l>
+<lb n="19" xml:id="Af23r.19"/><l n="A_KE_1257"><hi rend="capitalsize1">D</hi>ies god van <choice><abbr>sonde<g ref="#bar"/></abbr><expan>sonde<ex>n</ex></expan></choice> plien</l>
+<lb n="20" xml:id="Af23r.20"/><l n="A_KE_1258"><hi rend="capitalsize1">D</hi>at ghi segt ende brenct voort:</l>
+<lb n="21" xml:id="Af23r.21"/><l n="A_KE_1259"><hi rend="capitalsize1">D</hi>ie ondaet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die moort</l>
+<lb n="22" xml:id="Af23r.22"/><l n="A_KE_1260"><hi rend="capitalsize1">V</hi>an eggeric die ghi hier siet</l>
+<lb n="23" xml:id="Af23r.23"/><l n="A_KE_1261"><hi rend="capitalsize1">D</hi>at en laet door niemant niet</l>
+<lb n="24" xml:id="Af23r.24"/><l n="A_KE_1262"><hi rend="capitalsize1">G</hi>hi en segt waer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> niet el</l>
+<lb n="25" xml:id="Af23r.25"/><l n="A_KE_1263"><hi rend="capitalsize1">H</hi>oe die auentuer geuel.</l>
+<lb n="26" xml:id="Af23r.26"/><l n="A_KE_1264"><hi rend="capitalsize1">E</hi>legast seide gerne</l>
+<lb n="27" xml:id="Af23r.27"/><l n="A_KE_1265"><hi rend="capitalsize1">M</hi>i en staets niet tontbeerne</l>
+<lb n="28" xml:id="Af23r.28"/><l n="A_KE_1266"><hi rend="capitalsize1">I</hi>c ben seker wel te voren.</l>
+
+
+<pb xml:id="A.f23v" n="23v"/>
+<lb n="1" xml:id="Af23v.1"/><l n="A_KE_1267"><hi rend="capitalsize1">D</hi>at eggeric heeft v doot gesworen</l>
+<lb n="2" xml:id="Af23v.2"/><l n="A_KE_1268"><hi rend="capitalsize1">I</hi>c hoordet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>segge<g ref="#bar"/></abbr><expan>segge<ex>n</ex></expan></choice> daer hi lach.</l>
+<lb n="3" xml:id="Af23v.3"/><l n="A_KE_1269"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> gaf sinen wiue enen slach.</l>
+<lb n="4" xml:id="Af23v.4"/><l n="A_KE_1270"><hi rend="capitalsize1">D</hi>at sijt dorste anden</l>
+<lb n="5" xml:id="Af23v.5"/><l n="A_KE_1271"><hi rend="capitalsize1">D</hi>aer haer bloet ten tanden.</l>
+<lb n="6" xml:id="Af23v.6"/><l n="A_KE_1272"><hi rend="capitalsize1">T</hi>er nase <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ter mont vut brat</l>
+<lb n="7" xml:id="Af23v.7"/><l n="A_KE_1273"><hi rend="capitalsize1">S</hi>i rechte haer op ende stac</l>
+<lb n="8" xml:id="Af23v.8"/><l n="A_KE_1274"><hi rend="capitalsize1">H</hi>aer aenschijn ouer tbedde boom</l>
+<lb n="9" xml:id="Af23v.9"/><l n="A_KE_1275"><hi rend="capitalsize1">I</hi>c was daer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nams goom:</l>
+<lb n="10" xml:id="Af23v.10"/><l n="A_KE_1276"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> croper liseliken toe</l>
+<lb n="11" xml:id="Af23v.11"/><l n="A_KE_1277"><hi rend="capitalsize1">I</hi>n minen rechteren hanscoe</l>
+<lb n="12" xml:id="Af23v.12"/><l n="A_KE_1278"><hi rend="capitalsize1">O</hi>ntfinc ict bloet vander vrouwen.</l>
+<lb n="13" xml:id="Af23v.13"/><l n="A_KE_1279"><hi rend="capitalsize1">D</hi>oen liet hi den coninc scouwen.</l>
+<lb n="14" xml:id="Af23v.14"/><l n="A_KE_1280"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> diet wilde sien</l>
+<lb n="15" xml:id="Af23v.15"/><l n="A_KE_1281"><hi rend="capitalsize1">D</hi>orste eggeric <choice><abbr>lochene<g ref="#bar"/></abbr><expan>lochene<ex>n</ex></expan></choice> van dien.</l>
+<lb n="16" xml:id="Af23v.16"/><l n="A_KE_1282"><hi rend="capitalsize1">I</hi>c dade hem lien der ondaet.</l>
+<lb n="17" xml:id="Af23v.17"/><l n="A_KE_1283"><hi rend="capitalsize1">E</hi>er die sonne onder gaet</l>
+
+<note n="A_KE_1284">Line_number 1284 is missing</note>
+
+<note n="A_KE_1285">Line_number 1285 is missing</note>
+
+<note n="A_KE_1286">Line_number 1286 is missing</note>
+
+<note n="A_KE_1287">Line_number 1287 is missing</note>
+
+<note n="A_KE_1288">Line_number 1288 is missing</note>
+
+<note n="A_KE_1289">Line_number 1289 is missing</note>
+
+<note n="A_KE_1290">Line_number 1290 is missing</note>
+
+<note n="A_KE_1291">Line_number 1291 is missing</note>
+
+<note n="A_KE_1292">Line_number 1292 is missing</note>
+
+<note n="A_KE_1293">Line_number 1293 is missing</note>
+
+<note n="A_KE_1294">Line_number 1294 is missing</note>
+
+<note n="A_KE_1295">Line_number 1295 is missing</note>
+
+<note n="A_KE_1296">Line_number 1296 is missing</note>
+
+<note n="A_KE_1297">Line_number 1297 is missing</note>
+
+<note n="A_KE_1298">Line_number 1298 is missing</note>
+
+<note n="A_KE_1299">Line_number 1299 is missing</note>
+
+<note n="A_KE_1300">Line_number 1300 is missing</note>
+
+<note n="A_KE_1301">Line_number 1301 is missing</note>
+
+<note n="A_KE_1302">Line_number 1302 is missing</note>
+<lb n="18" xml:id="Af23v.18"/><l n="A_KE_1303"><hi rend="capitalsize1">E</hi>n moget ontseggen <choice><abbr>ca<g ref="#bar"/>p</abbr><expan>ca<ex>m</ex>p</expan></choice> noch strijt</l>
+<lb n="19" xml:id="Af23v.19"/><l n="A_KE_1304"><hi rend="capitalsize1">D</hi>ie <choice><abbr>v<g ref="#apomod"/>dachuaert</abbr><expan>v<ex>er</ex>dachuaert</expan></choice> inden crijt</l>
+<lb n="20" xml:id="Af23v.20"/><l n="A_KE_1305"><hi rend="capitalsize1">T</hi>er warelt gheenen man</l>
+<lb n="21" xml:id="Af23v.21"/><l n="A_KE_1306"><hi rend="capitalsize1">D</hi>is v wille staden an</l>
+<lb n="22" xml:id="Af23v.22"/><l n="A_KE_1307"><hi rend="capitalsize1">D</hi>ie coninc antwoerde daer na</l>
+<lb n="23" xml:id="Af23v.23"/><l n="A_KE_1308"><hi rend="capitalsize1">B</hi>i mine wet ghi seght waer</l>
+<lb n="24" xml:id="Af23v.24"/><l n="A_KE_1309"><hi rend="capitalsize1">S</hi>oudicken voeren na recht</l>
+<lb n="25" xml:id="Af23v.25"/><l n="A_KE_1310"><hi rend="capitalsize1">I</hi>c deden slepen eenen knecht</l>
+<lb n="26" xml:id="Af23v.26"/><l n="A_KE_1311"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hangen bider kelen.</l>
+<lb n="27" xml:id="Af23v.27"/><l n="A_KE_1312"><hi rend="capitalsize1">D</hi>oen ghinc met eggeric vuten spele</l>
+<lb n="28" xml:id="Af23v.28"/><l n="A_KE_1313"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> peynsde in sinen moet.</l>
+
+
+<pb xml:id="A.f24r" n="24r"/>
+<lb n="1" xml:id="Af24r.1"/><l n="A_KE_1314"><hi rend="capitalsize1">N</hi>a dat ghescepen stoet</l>
+<lb n="2" xml:id="Af24r.2"/><l n="A_KE_1315"><hi rend="capitalsize1">B</hi>eter is camp dan hals <choice><abbr>onttwee<g ref="#bar"/></abbr><expan>onttwee<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Af24r.3"/><l n="A_KE_1316"><hi rend="capitalsize1">I</hi>nt hof en was man gheen</l>
+<lb n="4" xml:id="Af24r.4"/><l n="A_KE_1317"><hi rend="capitalsize1">D</hi>iet spreken dorste siere vromen</l>
+<lb n="5" xml:id="Af24r.5"/><l n="A_KE_1318"><hi rend="capitalsize1">D</hi>us wert den camp an ghenomen</l>
+<lb n="6" xml:id="Af24r.6"/><l n="A_KE_1319"><hi rend="capitalsize1">E</hi>en luten nader noenen</l>
+<lb n="7" xml:id="Af24r.7"/><l n="A_KE_1320"><hi rend="capitalsize1">D</hi>ie coninc ontboot sijn beroene</l>
+<lb n="8" xml:id="Af24r.8"/><l n="A_KE_1321"><hi rend="capitalsize1">D</hi>at si ghewapent te velde waren</l>
+<lb n="9" xml:id="Af24r.9"/><l n="A_KE_1322"><hi rend="capitalsize1">H</hi>i en wildes camps niet ontbaren</l>
+<lb n="10" xml:id="Af24r.10"/><l n="A_KE_1323"><hi rend="capitalsize1">H</hi>i hiet den camp ghereyden</l>
+<lb n="11" xml:id="Af24r.11"/><l n="A_KE_1324"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bad god dat hi moest scheiden</l>
+<lb n="12" xml:id="Af24r.12"/><l n="A_KE_1325"><hi rend="capitalsize1">D</hi>en camp <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tgheuechte</l>
+<lb n="13" xml:id="Af24r.13"/><l n="A_KE_1326"><hi rend="capitalsize1">N</hi>a reden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> na rechte</l>
+<lb n="14" xml:id="Af24r.14"/><l n="A_KE_1327"><hi rend="capitalsize1">D</hi>ie coninc trooste elegast wel</l>
+<lb n="15" xml:id="Af24r.15"/><l n="A_KE_1328"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide verghinge wel sijn spel.</l>
+<lb n="16" xml:id="Af24r.16"/><l n="A_KE_1329"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> behilti sijn leuen</l>
+<lb n="17" xml:id="Af24r.17"/><l n="A_KE_1330"><hi rend="capitalsize1">H</hi>i souden sijnder suster geuen</l>
+<lb n="18" xml:id="Af24r.18"/><l n="A_KE_1331"><hi rend="capitalsize1">D</hi>ie eggeric hadde te voren</l>
+<lb n="19" xml:id="Af24r.19"/><l n="A_KE_1332"><hi rend="capitalsize1">D</hi>ie sijn doot had ghesworen</l>
+<lb n="20" xml:id="Af24r.20"/><l n="A_KE_1333"><hi rend="capitalsize1">E</hi>n sloech coerden opt velt</l>
+<lb n="21" xml:id="Af24r.21"/><l n="A_KE_1334"><hi rend="capitalsize1">D</hi>aer menich <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> <choice><abbr>ghewape<g ref="#bar"/>t</abbr><expan>ghewape<ex>n</ex>t</expan></choice> helt</l>
+<lb n="22" xml:id="Af24r.22"/><l n="A_KE_1335"><hi rend="capitalsize1">E</hi>en luttel voor vespertijt</l>
+<lb n="23" xml:id="Af24r.23"/><l n="A_KE_1336"><hi rend="capitalsize1">E</hi>legast quam eerst int crijt</l>
+<lb n="24" xml:id="Af24r.24"/><l n="A_KE_1337"><hi rend="capitalsize1">O</hi>m datti aen legger was</l>
+<lb n="25" xml:id="Af24r.25"/><l n="A_KE_1338"><hi rend="capitalsize1">H</hi>i beette neder int gras</l>
+<lb n="26" xml:id="Af24r.26"/><l n="A_KE_1339"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> viel in knien ghebede</l>
+<lb n="27" xml:id="Af24r.27"/><l n="A_KE_1340"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seide god doer v <choice><abbr>goedertiere<g ref="#bar"/>hede</abbr><expan>goedertiere<ex>n</ex>hede</expan></choice></l>
+<lb n="28" xml:id="Af24r.28"/><l n="A_KE_1341"><hi rend="capitalsize1">I</hi>c come v heden te ghenaden</l>
+
+
+<pb xml:id="A.f24v" n="24v"/>
+<lb n="1" xml:id="Af24v.1"/><l n="A_KE_1342"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> allen minen misdaden.</l>
+<lb n="2" xml:id="Af24v.2"/><l n="A_KE_1343"><hi rend="capitalsize1">D</hi>ie mi ye gheuel</l>
+<lb n="3" xml:id="Af24v.3"/><l n="A_KE_1344"><hi rend="capitalsize1">I</hi>c kenne mine misdaet wel</l>
+<lb n="4" xml:id="Af24v.4"/><l n="A_KE_1345"><hi rend="capitalsize1">O</hi>etmoedich god diet vermach</l>
+<lb n="5" xml:id="Af24v.5"/><l n="A_KE_1346"><hi rend="capitalsize1">E</hi>n wreect niet op desen dach.</l>
+<lb n="6" xml:id="Af24v.6"/><l n="A_KE_1347"><hi rend="capitalsize1">A</hi>n mi mine sonden</l>
+<lb n="7" xml:id="Af24v.7"/><l n="A_KE_1348"><hi rend="capitalsize1">D</hi>oer v heylighe vijf wonden.</l>
+<lb n="8" xml:id="Af24v.8"/><l n="A_KE_1349"><hi rend="capitalsize1">D</hi>ie ghi ontfinct doer ons misdaet.</l>
+<lb n="9" xml:id="Af24v.9"/><l n="A_KE_1350"><hi rend="capitalsize1">H</hi>ebt heden mijns raet</l>
+<lb n="10" xml:id="Af24v.10"/><l n="A_KE_1351"><hi rend="capitalsize1">S</hi>o dat ic niet en sterue.</l>
+<lb n="11" xml:id="Af24v.11"/><l n="A_KE_1352"><hi rend="capitalsize1">N</hi>och inden camp en bederue</l>
+<lb n="12" xml:id="Af24v.12"/><l n="A_KE_1353"><hi rend="capitalsize1">I</hi>st dat mi die sonden niet en slaen</l>
+<lb n="13" xml:id="Af24v.13"/><l n="A_KE_1354"><hi rend="capitalsize1">S</hi>o waen ic wel van hier ontgaen</l>
+<lb n="14" xml:id="Af24v.14"/><l n="A_KE_1355"><hi rend="capitalsize1">V</hi>olmaect god door v doghet</l>
+<lb n="15" xml:id="Af24v.15"/><l n="A_KE_1356"><hi rend="capitalsize1">I</hi>c biddu dat ghi mi <choice><abbr>v<g ref="#apomod"/>hoghet</abbr><expan>v<ex>er</ex>hoghet</expan></choice></l>
+<lb n="16" xml:id="Af24v.16"/><l n="A_KE_1357"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> maria soete vrouwe</l>
+<lb n="17" xml:id="Af24v.17"/><l n="A_KE_1358"><hi rend="capitalsize1">I</hi>c wil v dienen mit rechter trouwe.</l>
+<lb n="18" xml:id="Af24v.18"/><l n="A_KE_1359"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> nemmermeer voort an</l>
+<lb n="19" xml:id="Af24v.19"/><l n="A_KE_1360"><hi rend="capitalsize1">E</hi>n werdic rouer noch scat <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Af24v.20"/><l n="A_KE_1361"><hi rend="capitalsize1">I</hi>n wildernissen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in wouden</l>
+<lb n="21" xml:id="Af24v.21"/><l n="A_KE_1362"><hi rend="capitalsize1">M</hi>ach ic hier mijn lijf behouden.</l>
+
+<note n="A_KE_1363">Line_number 1363 is missing</note>
+
+<note n="A_KE_1364">Line_number 1364 is missing</note>
+<lb n="22" xml:id="Af24v.22"/><l n="A_KE_1365"><hi rend="capitalsize1">D</hi>oen hi eynde sijn ghebede.</l>
+<lb n="23" xml:id="Af24v.23"/><l n="A_KE_1366"><hi rend="capitalsize1">S</hi>eghende hi alle sine lede</l>
+<lb n="24" xml:id="Af24v.24"/><l n="A_KE_1367"><hi rend="capitalsize1">S</hi>cone mit sijnder rechter hant</l>
+<lb n="25" xml:id="Af24v.25"/><l n="A_KE_1368"><hi rend="capitalsize1">S</hi>eghende hi sijn ridders ghewant</l>
+<lb n="26" xml:id="Af24v.26"/><l n="A_KE_1369"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> seghende dors dat voor hem stoet</l>
+<lb n="27" xml:id="Af24v.27"/><l n="A_KE_1370"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> bat gode dor oetmoet</l>
+<lb n="28" xml:id="Af24v.28"/><l n="A_KE_1371"><hi rend="capitalsize1">D</hi>at <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>draghe<g ref="#bar"/></abbr><expan>draghe<ex>n</ex></expan></choice> moest met eeren</l>
+
+
+<pb xml:id="A.f25r" n="25r"/>
+<lb n="1" xml:id="Af25r.1"/><l n="A_KE_1372"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> vuten campe laten keeren</l>
+<lb n="2" xml:id="Af25r.2"/><l n="A_KE_1373"><hi rend="capitalsize1">M</hi>et dat hi die tale seyde</l>
+<lb n="3" xml:id="Af25r.3"/><l n="A_KE_1374"><hi rend="capitalsize1">S</hi>at hi op in sijn ghereyde</l>
+<lb n="4" xml:id="Af25r.4"/><l n="A_KE_1375"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hinc den schilt ter luchter side</l>
+<lb n="5" xml:id="Af25r.5"/><l n="A_KE_1376"><hi rend="capitalsize1">N</hi>v naket eenen groten stride</l>
+<lb n="6" xml:id="Af25r.6"/><l n="A_KE_1377"><hi rend="capitalsize1">H</hi>i <choice><abbr>na<g ref="#bar"/></abbr><expan>na<ex>m</ex></expan></choice> in die hant dat speere:</l>
+<lb n="7" xml:id="Af25r.7"/><l n="A_KE_1378"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eggeric quam met grooter geere</l>
+<lb n="8" xml:id="Af25r.8"/><l n="A_KE_1379"><choice><abbr><hi rend="capitalsize1">T</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">T</hi>e<ex>n</ex></expan></choice> crite wert ghewapent wel</l>
+<lb n="9" xml:id="Af25r.9"/><l n="A_KE_1380"><hi rend="capitalsize1">D</hi>ie seere was int herte fel</l>
+<lb n="10" xml:id="Af25r.10"/><l n="A_KE_1381"><hi rend="capitalsize1">H</hi>i en seide noch en dede.</l>
+<lb n="11" xml:id="Af25r.11"/><l n="A_KE_1382"><hi rend="capitalsize1">T</hi>e gode waert gheene bede</l>
+<lb n="12" xml:id="Af25r.12"/><l n="A_KE_1383"><hi rend="capitalsize1">H</hi>i sloech met sporen vaste:</l>
+<lb n="13" xml:id="Af25r.13"/><l n="A_KE_1384"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> reet op elegaste</l>
+<lb n="14" xml:id="Af25r.14"/><l n="A_KE_1385"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> elegast op hem weder</l>
+<lb n="15" xml:id="Af25r.15"/><l n="A_KE_1386"><hi rend="capitalsize1">D</hi>ie eggeric stac doer tleder</l>
+<lb n="16" xml:id="Af25r.16"/><l n="A_KE_1387"><hi rend="capitalsize1">V</hi>ander curien mit gewelt</l>
+<lb n="17" xml:id="Af25r.17"/><l n="A_KE_1388"><hi rend="capitalsize1">D</hi>atti neder viel opt velt</l>
+<lb n="18" xml:id="Af25r.18"/><l n="A_KE_1389"><hi rend="capitalsize1">V</hi>anden orsse op daerde</l>
+<lb n="19" xml:id="Af25r.19"/><l n="A_KE_1390"><hi rend="capitalsize1">E</hi>ggheric vinc ten swaerde</l>
+<lb n="20" xml:id="Af25r.20"/><l n="A_KE_1391"><hi rend="capitalsize1">D</hi>at hi trac vuter scheyde</l>
+<lb n="21" xml:id="Af25r.21"/><l n="A_KE_1392"><hi rend="capitalsize1">E</hi>nde seide nv sal ic v doden beyde</l>
+<lb n="22" xml:id="Af25r.22"/><l n="A_KE_1393"><hi rend="capitalsize1">E</hi>legast v <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> v paert</l>
+<lb n="23" xml:id="Af25r.23"/><l n="A_KE_1394"><hi rend="capitalsize1">T</hi>en si dat ghi ter vaert</l>
+<lb n="24" xml:id="Af25r.24"/><l n="A_KE_1395"><hi rend="capitalsize1">N</hi>eder beet op die moude</l>
+<lb n="25" xml:id="Af25r.25"/><l n="A_KE_1396"><hi rend="capitalsize1">S</hi>o mach v ors dlijf behouden</l>
+<lb n="26" xml:id="Af25r.26"/><l n="A_KE_1397"><hi rend="capitalsize1">H</hi>ets so sterc ende so groot</l>
+<lb n="27" xml:id="Af25r.27"/><l n="A_KE_1398"><hi rend="capitalsize1">H</hi>et waer stade sloech ict doot</l>
+<lb n="28" xml:id="Af25r.28"/><l n="A_KE_1399"><hi rend="capitalsize1">D</hi>ie menighe soudt beclaghen</l>
+
+
+<pb xml:id="A.f25v" n="25v"/>
+<lb n="1" xml:id="Af25v.1"/><l n="A_KE_1400"><hi rend="capitalsize1">M</hi>oechdi v lijf ontdragen</l>
+<lb n="2" xml:id="Af25v.2"/><l n="A_KE_1401"><hi rend="capitalsize1">S</hi>o behoudi v paert</l>
+<lb n="3" xml:id="Af25v.3"/><l n="A_KE_1402"><hi rend="capitalsize1">E</hi>legast sprac ter vaert.</l>
+<lb n="4" xml:id="Af25v.4"/><l n="A_KE_1403"><hi rend="capitalsize1">E</hi>n ware dat ghi te voet sijt</l>
+<lb n="5" xml:id="Af25v.5"/><l n="A_KE_1404"><hi rend="capitalsize1">I</hi>c soude <choice><abbr>corte<g ref="#bar"/></abbr><expan>corte<ex>n</ex></expan></choice> desen strijt</l>
+<lb n="6" xml:id="Af25v.6"/><l n="A_KE_1405"><hi rend="capitalsize1">E</hi>n wil v niet te voete slaen:</l>
+<lb n="7" xml:id="Af25v.7"/><l n="A_KE_1406"><hi rend="capitalsize1">I</hi>c wil prijs an v begaen</l>
+<lb n="8" xml:id="Af25v.8"/><l n="A_KE_1407"><hi rend="capitalsize1">A</hi>l souts mi sijn te wors</l>
+<lb n="9" xml:id="Af25v.9"/><l n="A_KE_1408"><hi rend="capitalsize1">N</hi>v sit weder op v ors</l>
+<lb n="10" xml:id="Af25v.10"/><l n="A_KE_1409"><hi rend="capitalsize1">L</hi>aet ons vechten ridder wise</l>
+<lb n="11" xml:id="Af25v.11"/><l n="A_KE_1410"><hi rend="capitalsize1">I</hi>c heb lieuer datmen mi prise.</l>
+<lb n="12" xml:id="Af25v.12"/><l n="A_KE_1411"><hi rend="capitalsize1">D</hi>an ic v sloeghe bi rampe</l>
+<lb n="13" xml:id="Af25v.13"/><l n="A_KE_1412"><hi rend="capitalsize1">A</hi>l soudic bliuen inden campe</l>
+<lb n="14" xml:id="Af25v.14"/><l n="A_KE_1413"><hi rend="capitalsize2">D</hi>It was den coninc karel leet</l>
+<lb n="15" xml:id="Af25v.15"/><l n="A_KE_1414"><hi rend="capitalsize1">D</hi>at elegast so <choice><abbr>la<g ref="#bar"/>ge</abbr><expan>la<ex>n</ex>ge</expan></choice> meert.</l>
+<lb n="16" xml:id="Af25v.16"/><l n="A_KE_1415"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> eggericke spaert</l>
+<lb n="17" xml:id="Af25v.17"/><l n="A_KE_1416"><hi rend="capitalsize1">E</hi>ggeric vinc sijn ors ter vaert</l>
+<lb n="18" xml:id="Af25v.18"/><l n="A_KE_1417"><hi rend="capitalsize1">D</hi>oe elegast die tale seide</l>
+<lb n="19" xml:id="Af25v.19"/><l n="A_KE_1418"><hi rend="capitalsize1">S</hi>at hi op in sijn ghereyde</l>
+<lb n="20" xml:id="Af25v.20"/><l n="A_KE_1419"><hi rend="capitalsize1">D</hi>oen <choice><abbr>v<g ref="#apomod"/>hief</abbr><expan>v<ex>er</ex>hief</expan></choice> daer een strijt</l>
+<lb n="21" xml:id="Af25v.21"/><l n="A_KE_1420"><hi rend="capitalsize1">T</hi>ot langhe na verpertijt</l>
+<lb n="22" xml:id="Af25v.22"/><l n="A_KE_1421"><hi rend="capitalsize1">E</hi>n quam <choice><abbr>niema<g ref="#bar"/>t</abbr><expan>niema<ex>n</ex>t</expan></choice> daer hi sach</l>
+<lb n="23" xml:id="Af25v.23"/><l n="A_KE_1422"><hi rend="capitalsize1">N</hi>oyt op eenen dach</l>
+
+<note n="A_KE_1423">Line_number 1423 is missing</note>
+
+<note n="A_KE_1424">Line_number 1424 is missing</note>
+
+<note n="A_KE_1425">Line_number 1425 is missing</note>
+
+<note n="A_KE_1426">Line_number 1426 is missing</note>
+
+<note n="A_KE_1427">Line_number 1427 is missing</note>
+
+<note n="A_KE_1428">Line_number 1428 is missing</note>
+
+<note n="A_KE_1429">Line_number 1429 is missing</note>
+
+<note n="A_KE_1430">Line_number 1430 is missing</note>
+<lb n="24" xml:id="Af25v.24"/><l n="A_KE_1431"><hi rend="capitalsize1">S</hi>o fellen strijt tusschen <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> tween</l>
+<lb n="25" xml:id="Af25v.25"/><l n="A_KE_1432"><hi rend="capitalsize1">A</hi>ls si hadden al in een</l>
+<lb n="26" xml:id="Af25v.26"/><l n="A_KE_1433"><hi rend="capitalsize1">D</hi>ats loghene ne geen</l>
+<lb n="27" xml:id="Af25v.27"/><l n="A_KE_1434"><hi rend="capitalsize1">D</hi>oe seide die coninc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>vra<g ref="#bar"/>crike</abbr><expan>vra<ex>n</ex>crike</expan></choice></l>
+<lb n="28" xml:id="Af25v.28"/><l n="A_KE_1435"><hi rend="capitalsize1">G</hi>od also gewaerlike</l>
+
+
+<pb xml:id="A.f26r" n="26r"/>
+<lb n="1" xml:id="Af26r.1"/><l n="A_KE_1436"><hi rend="capitalsize1">A</hi>ls ghi hier moghende sijt</l>
+<lb n="2" xml:id="Af26r.2"/><l n="A_KE_1437"><hi rend="capitalsize1">S</hi>o moetti corten desen strijt</l>
+<lb n="3" xml:id="Af26r.3"/><l n="A_KE_1438"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dit lange gheuechte</l>
+<lb n="4" xml:id="Af26r.4"/><l n="A_KE_1439"><hi rend="capitalsize1">N</hi>a redene <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> na rechte</l>
+<lb n="5" xml:id="Af26r.5"/><l n="A_KE_1440"><hi rend="capitalsize1">E</hi>legast hadde een swaert</l>
+<lb n="6" xml:id="Af26r.6"/><l n="A_KE_1441"><hi rend="capitalsize1">H</hi>et was sijns gewichte waert</l>
+<lb n="7" xml:id="Af26r.7"/><l n="A_KE_1442"><hi rend="capitalsize1">V</hi>an ghemale goude root</l>
+<lb n="8" xml:id="Af26r.8"/><l n="A_KE_1443"><hi rend="capitalsize1">E</hi>lcke man te sijnre noot</l>
+<lb n="9" xml:id="Af26r.9"/><l n="A_KE_1444"><hi rend="capitalsize1">D</hi>ie coninc hadt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>gegeue<g ref="#bar"/></abbr><expan>gegeue<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Af26r.10"/><l n="A_KE_1445"><hi rend="capitalsize1">E</hi>legast die heuet <choice><abbr>v<g ref="#apomod"/>heuen:</abbr><expan>v<ex>er</ex>heuen:</expan></choice></l>
+<lb n="11" xml:id="Af26r.11"/><l n="A_KE_1446"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sloech eenen slach so seere</l>
+<lb n="12" xml:id="Af26r.12"/><l n="A_KE_1447"><damage><gap></gap></damage></l>
+<lb n="13" xml:id="Af26r.13"/><l n="A_KE_1448"><damage><gap></gap></damage></l>
+<lb n="14" xml:id="Af26r.14"/><l n="A_KE_1449"><damage><gap></gap></damage></l>
+<lb n="15" xml:id="Af26r.15"/><l n="A_KE_1450"><damage><gap></gap></damage></l>
+<lb n="16" xml:id="Af26r.16"/><l n="A_KE_1451"><damage><gap></gap></damage></l>
+<lb n="17" xml:id="Af26r.17"/><l n="A_KE_1452"><damage><gap></gap></damage></l>
+<lb n="18" xml:id="Af26r.18"/><l n="A_KE_1453"><damage><gap></gap></damage></l>
+<lb n="19" xml:id="Af26r.19"/><l n="A_KE_1454"><damage><gap></gap></damage></l>
+<lb n="20" xml:id="Af26r.20"/><l n="A_KE_1455"><damage><gap></gap></damage></l>
+<lb n="21" xml:id="Af26r.21"/><l n="A_KE_1456"><damage><gap></gap></damage></l>
+<lb n="22" xml:id="Af26r.22"/><l n="A_KE_1457"><damage><gap></gap></damage></l>
+<lb n="23" xml:id="Af26r.23"/><l n="A_KE_1458"><damage><gap></gap></damage></l>
+<lb n="24" xml:id="Af26r.24"/><l n="A_KE_1459"><damage><gap></gap></damage></l>
+<lb n="25" xml:id="Af26r.25"/><l n="A_KE_1460"><damage><gap></gap></damage></l>
+<lb n="26" xml:id="Af26r.26"/><l n="A_KE_1461"><damage><gap></gap></damage></l>
+<lb n="27" xml:id="Af26r.27"/><l n="A_KE_1462"><damage><gap></gap></damage></l>
+<lb n="28" xml:id="Af26r.28"/><l n="A_KE_1463"><damage><gap></gap></damage></l>
+
+
+<pb xml:id="A.f26v" n="26v"/>
+<lb n="1" xml:id="Af26v.1"/><l n="A_KE_1464"><hi rend="capitalsize1">D</hi>aer en halp saec noch bede</l>
+<lb n="2" xml:id="Af26v.2"/><l n="A_KE_1465"><hi rend="capitalsize1">E</hi>legast bleef inder eere</l>
+<lb n="3" xml:id="Af26v.3"/><l n="A_KE_1466"><hi rend="capitalsize1">D</hi>ies dancti onsen heere.</l>
+<lb n="4" xml:id="Af26v.4"/><l n="A_KE_1467"><hi rend="capitalsize1">D</hi>ie coninc gaf <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> eggerics wijf.</l>
+<lb n="5" xml:id="Af26v.5"/><l n="A_KE_1468"><hi rend="capitalsize1">S</hi>i waren tsamen al haer lijf</l>
+<lb n="6" xml:id="Af26v.6"/><l n="A_KE_1469"><hi rend="capitalsize1">D</hi>us moet god al onse saken</l>
+<lb n="7" xml:id="Af26v.7"/><l n="A_KE_1470"><hi rend="capitalsize1">V</hi>oor onse doot te goede maken</l>
+<lb n="8" xml:id="Af26v.8"/><l n="A_KE_1471"><hi rend="capitalsize1">D</hi>es gonne ons die hemelsche vader</l>
+<lb n="9" xml:id="Af26v.9"/><l n="A_KE_1472"><hi rend="capitalsize1">N</hi>v segghet amen alle gader:</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

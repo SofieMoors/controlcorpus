@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: http://archivesetmanuscrits.bnf.fr/ark:/12148/cc994557</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <institution>BN Fonds Néerlandais</institution>
+            <idno>106</idno>
+            <msName>P</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="8v, 9v, 10r, 10v, 11r, 12v, 13r, 14v, 15r, 18r, 25r, 27r, 31r, 46v, 50r, 75v, 119r, 168v" to=""/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="interpolated stanzas/excerpt">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/> 
+                           <num type="book-block" value="327"/>
+                           <num type="end-flyleaf" value=""/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="270"/>
+                              <width unit="mm" quantity="210"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="" writtenLines="" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>colour-stroking (red); interpolated stanzas are underlined (red)</decoNote><decoNote><watermark></watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>interpolated stanzas in Excellente Chronyke van Vlaenderen</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1493-1494</origDate>
+<origPlace>Bruges(?)/Flanders</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="P.f8va" n="8va"/>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,01">
+<lb n="1" xml:id="Pf8va.1"/><l n="P_I,01_0001"><hi rend="capitalsize1">N</hi>u merct sone wattic hu ghebiede</l>
+<lb n="2" xml:id="Pf8va.2"/><l n="P_I,01_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wat is dattic dy bediede</l>
+<lb n="3" xml:id="Pf8va.3"/><l n="P_I,01_0003"><hi rend="capitalsize1">D</hi>ats dattu <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> ane sult <choice><abbr>keere<g ref="#bar"/></abbr><expan>keere<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Pf8va.4"/><l n="P_I,01_0004"><hi rend="capitalsize1">D</hi>attu gode zult emmer <choice><abbr>eere<g ref="#bar"/></abbr><expan>eere<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="I,02">
+<lb n="5" xml:id="Pf8va.5"/><l n="P_I,02_0001"><hi rend="capitalsize1">D</hi>u zult <choice><abbr>smorghe<g ref="#bar"/>s</abbr><expan>smorghe<ex>n</ex>s</expan></choice> vrouch vp <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Pf8va.6"/><l n="P_I,02_0002"><hi rend="capitalsize1">E</hi>nde om dine bederue gaen</l>
+
+
+<pb xml:id="P.f8vb" n="8vb"/>
+<lb n="1" xml:id="Pf8vb.1"/><l n="P_I,02_0003"><hi rend="capitalsize1">M</hi>en seit die te langhe slaept</l>
+<lb n="2" xml:id="Pf8vb.2"/><l n="P_I,02_0004"><hi rend="capitalsize1">D</hi>at hem die slaep <choice><abbr>o<g ref="#bar"/>duchtic</abbr><expan>o<ex>n</ex>duchtic</expan></choice> mae<unclear>ct</unclear></l>
+</lg>
+<lg type="disticha" n="I,03">
+<lb n="3" xml:id="Pf8vb.3"/><l n="P_I,03_0001"><hi rend="capitalsize1">W</hi>achti dat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> niet en zeghet</l>
+<lb n="4" xml:id="Pf8vb.4"/><l n="P_I,03_0002"><hi rend="capitalsize1">D</hi>at vele tale an dij leghet</l>
+<lb n="5" xml:id="Pf8vb.5"/><l n="P_I,03_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> menegherande tale</l>
+<lb n="6" xml:id="Pf8vb.6"/><l n="P_I,03_0004"><hi rend="capitalsize1">E</hi>n voughet <choice><abbr>nieme<g ref="#bar"/>t</abbr><expan>nieme<ex>n</ex>t</expan></choice> goeders wale</l>
+
+
+<pb xml:id="P.f9va" n="9va"/>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="1" xml:id="Pf9va.1"/><l n="P_I,04_0001"><hi rend="capitalsize1">Z</hi>one doet als die vroede doet</l>
+<lb n="2" xml:id="Pf9va.2"/><l n="P_I,04_0002"><hi rend="capitalsize1">D</hi>ie heift ghestadeghen moet</l>
+<lb n="3" xml:id="Pf9va.3"/><l n="P_I,04_0003"><hi rend="capitalsize1">H</hi>ets lachter dat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> hier zeghet</l>
+<lb n="4" xml:id="Pf9va.4"/><l n="P_I,04_0004"><hi rend="capitalsize1">D</hi>ies <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> ginder niet en pleghet</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="5" xml:id="Pf9va.5"/><l n="P_I,05_0001"><hi rend="capitalsize1">E</hi>n merke <choice><abbr>nieme<g ref="#bar"/>s</abbr><expan>nieme<ex>n</ex>s</expan></choice> quade daet</l>
+<lb n="6" xml:id="Pf9va.6"/><l n="P_I,05_0002"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> vele merkens is quaet</l>
+<lb n="7" xml:id="Pf9va.7"/><l n="P_I,05_0003"><hi rend="capitalsize1">B</hi>eede en es man noch wijf</l>
+<lb n="8" xml:id="Pf9va.8"/><l n="P_I,05_0004"><hi rend="capitalsize1">D</hi>ie zonder zonde leet <choice><abbr>zij<g ref="#bar"/></abbr><expan>zij<ex>n</ex></expan></choice> lijf</l>
+</lg>
+<lg type="disticha" n="I,14">
+<lb n="9" xml:id="Pf9va.9"/><l n="P_I,14_0001"><hi rend="capitalsize1">A</hi>ls di yement gheue lof</l>
+<lb n="10" xml:id="Pf9va.10"/><l n="P_I,14_0002"><hi rend="capitalsize1">E</hi>n weist te blijder niet daer of</l>
+<lb n="11" xml:id="Pf9va.11"/><l n="P_I,14_0003"><hi rend="capitalsize1">D</hi>ie vroede mercket <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>staet</abbr><expan>v<ex>er</ex>staet</expan></choice></l>
+<lb n="12" xml:id="Pf9va.12"/><l n="P_I,14_0004"><hi rend="capitalsize1">E</hi>er hij van yement lof <choice><abbr>o<g ref="#bar"/>tfaet</abbr><expan>o<ex>n</ex>tfaet</expan></choice></l>
+
+
+<pb xml:id="P.f10ra" n="10ra"/>
+</lg>
+<lg type="disticha" n="I,16">
+<lb n="1" xml:id="Pf10ra.1"/><l n="P_I,16_0001"><hi rend="capitalsize1">D</hi>ie wile du best jonghelinc</l>
+<lb n="2" xml:id="Pf10ra.2"/><l n="P_I,16_0002"><hi rend="capitalsize1">Z</hi>o doet meneghe goede dinc</l>
+<lb n="3" xml:id="Pf10ra.3"/><l n="P_I,16_0003"><hi rend="capitalsize1">A</hi>ls di naken dine daghe</l>
+<lb n="4" xml:id="Pf10ra.4"/><l n="P_I,16_0004"><hi rend="capitalsize1">D</hi>at <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> dijns te goede ghewaghe</l>
+</lg>
+<lg type="disticha" n="I,18">
+<lb n="5" xml:id="Pf10ra.5"/><l n="P_I,18_0001"><hi rend="capitalsize1">A</hi>l eist dat<add>s</add>tu hebbes ghenouch</l>
+<lb n="6" xml:id="Pf10ra.6"/><l n="P_I,18_0002"><hi rend="capitalsize1">H</hi>aue houtti jnt gheuouch</l>
+<lb n="7" xml:id="Pf10ra.7"/><l n="P_I,18_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> heden is de man rijcke</l>
+<lb n="8" xml:id="Pf10ra.8"/><l n="P_I,18_0004"><hi rend="capitalsize1">Z</hi>morghens staet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>co<g ref="#bar"/>merlike</abbr><expan>co<ex>m</ex>merlike</expan></choice></l>
+</lg>
+<lg type="disticha" n="I,20">
+<lb n="9" xml:id="Pf10ra.9"/><l n="P_I,20_0001"><hi rend="capitalsize1">Z</hi>one als di <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> aerme vrient</l>
+<lb n="10" xml:id="Pf10ra.10"/><l n="P_I,20_0002"><hi rend="capitalsize1">V</hi>an cleender ghiften dient</l>
+<lb n="11" xml:id="Pf10ra.11"/><l n="P_I,20_0003"><hi rend="capitalsize1">W</hi>eist blider <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> di is te moede</l>
+<lb n="12" xml:id="Pf10ra.12"/><l n="P_I,20_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dancket <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> met allen goede</l>
+</lg>
+<lg type="disticha" n="I,21">
+<lb n="13" xml:id="Pf10ra.13"/><l n="P_I,21_0001"><hi rend="capitalsize1">A</hi>l bestu aerm <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> van hauen</l>
+<lb n="14" xml:id="Pf10ra.14"/><l n="P_I,21_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> van rijcheden bescauen</l>
+<lb n="15" xml:id="Pf10ra.15"/><l n="P_I,21_0003"><hi rend="capitalsize1">B</hi>epeinst dattu hier te <choice><abbr>voore<g ref="#bar"/></abbr><expan>voore<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Pf10ra.16"/><l n="P_I,21_0004"><hi rend="capitalsize1">A</hi>erm <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> naect waert <choice><abbr>ghebore<g ref="#bar"/></abbr><expan>ghebore<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="I,22">
+<lb n="17" xml:id="Pf10ra.17"/><l n="P_I,22_0001"><hi rend="capitalsize1">D</hi>u ne zulstu <choice><abbr>keere<g ref="#bar"/></abbr><expan>keere<ex>n</ex></expan></choice> niet jn dien</l>
+<lb n="18" xml:id="Pf10ra.18"/><l n="P_I,22_0002"><hi rend="capitalsize1">D</hi>attu die doot zult ontsien</l>
+<lb n="19" xml:id="Pf10ra.19"/><l n="P_I,22_0003"><hi rend="capitalsize1">W</hi>ant wie die doot ontsiet</l>
+<lb n="20" xml:id="Pf10ra.20"/><l n="P_I,22_0004"><hi rend="capitalsize1">H</hi>em en helpt <choice><abbr>zij<g ref="#bar"/></abbr><expan>zij<ex>n</ex></expan></choice> leuen niet</l>
+
+
+<pb xml:id="P.f10vb" n="10vb"/>
+</lg>
+<lg type="disticha" n="I,19">
+<lb n="1" xml:id="Pf10vb.1"/><l n="P_I,19_0001"><hi rend="capitalsize1">H</hi>ij is sotter dan queken hoot</l>
+<lb n="2" xml:id="Pf10vb.2"/><l n="P_I,19_0002"><hi rend="capitalsize1">D</hi>ie hoopt vp eens <choice><abbr>a<g ref="#bar"/>ders</abbr><expan>a<ex>n</ex>ders</expan></choice> doot</l>
+<lb n="3" xml:id="Pf10vb.3"/><l n="P_I,19_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> alle lieden jonc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hout</l>
+<lb n="4" xml:id="Pf10vb.4"/><l n="P_I,19_0004"><hi rend="capitalsize1">Z</hi>ijns haers leuens onghewout</l>
+</lg>
+<lg type="disticha" n="I,24">
+<lb n="5" xml:id="Pf10vb.5"/><l n="P_I,24_0001"><hi rend="capitalsize1">V</hi>an dien datti is ghebleuen</l>
+<lb n="6" xml:id="Pf10vb.6"/><l n="P_I,24_0002"><hi rend="capitalsize1">Z</hi>ulstu behendelike leuen</l>
+<lb n="7" xml:id="Pf10vb.7"/><l n="P_I,24_0003"><hi rend="capitalsize1">H</hi>out di <choice><abbr>e<g ref="#bar"/>mer</abbr><expan>e<ex>m</ex>mer</expan></choice> so ondersteken</l>
+<lb n="8" xml:id="Pf10vb.8"/><l n="P_I,24_0004"><hi rend="capitalsize1">D</hi>at di niet en mach <choice><abbr>ghebreke<g ref="#bar"/></abbr><expan>ghebreke<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="I,36">
+<lb n="9" xml:id="Pf10vb.9"/><l n="P_I,36_0001"><hi rend="capitalsize1">I</hi>eghens die gone die <choice><abbr>mij<g ref="#bar"/>nen</abbr><expan>mij<ex>n</ex>nen</expan></choice></l>
+<lb n="10" xml:id="Pf10vb.10"/><l n="P_I,36_0002"><hi rend="capitalsize1">E</hi>n zulstu sceldens niet <choice><abbr>beghy<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>beghy<ex>n</ex>ne<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Pf10vb.11"/><l n="P_I,36_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> scelden hier te vooren</l>
+<lb n="12" xml:id="Pf10vb.12"/><l n="P_I,36_0004"><hi rend="capitalsize1">V</hi>ernoy is <choice><abbr>co<g ref="#bar"/>men</abbr><expan>co<ex>m</ex>men</expan></choice> ende toren</l>
+
+
+<pb xml:id="P.f11ra" n="11ra"/>
+</lg>
+<lg type="disticha" n="I,38">
+<lb n="1" xml:id="Pf11ra.1"/><l n="P_I,38_0001"><hi rend="capitalsize1">A</hi>l mueghestu <choice><abbr>v<g ref="#apomod"/>winne<g ref="#bar"/></abbr><expan>v<ex>er</ex>winne<ex>n</ex></expan></choice> zaen</l>
+<lb n="2" xml:id="Pf11ra.2"/><l n="P_I,38_0002"><choice><abbr><hi rend="capitalsize1">D</hi>ine<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>ine<ex>n</ex></expan></choice> viant <choice><abbr>e<g ref="#bar"/>me</abbr><expan>e<ex>m</ex>me</expan></choice> <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> jn <choice><abbr>vrede<g ref="#bar"/></abbr><expan>vrede<ex>n</ex></expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Pf11ra.3"/><l n="P_I,38_0003"><hi rend="capitalsize1">I</hi>c zegghe di dat ghestadichede</l>
+<lb n="4" xml:id="Pf11ra.4"/><l n="P_I,38_0004"><hi rend="capitalsize1">H</hi>euet meneghe goede zede</l>
+</lg>
+<lg type="disticha" n="I,39">
+<lb n="5" xml:id="Pf11ra.5"/><l n="P_I,39_0001"><hi rend="capitalsize1">D</hi>at een man behaghet heift</l>
+<lb n="6" xml:id="Pf11ra.6"/><l n="P_I,39_0002"><hi rend="capitalsize1">M</hi>et pinen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zottelike begheift</l>
+<lb n="7" xml:id="Pf11ra.7"/><l n="P_I,39_0003"><hi rend="capitalsize1">D</hi>at lachtert alstu dit beuroet</l>
+<lb n="8" xml:id="Pf11ra.8"/><l n="P_I,39_0004"><hi rend="capitalsize1">Z</hi>o keert daer of dinen moet</l>
+
+
+<pb xml:id="P.f12vb" n="12vb"/>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="1" xml:id="Pf12vb.1"/><l n="P_I,40_0001"><hi rend="capitalsize1">B</hi>eede nemen ende gheuen</l>
+<lb n="2" xml:id="Pf12vb.2"/><l n="P_I,40_0002"><hi rend="capitalsize1">E</hi>s haer zede die nv leuen</l>
+<lb n="3" xml:id="Pf12vb.3"/><l n="P_I,40_0003"><hi rend="capitalsize1">M</hi>et eeren zo doet also</l>
+<lb n="4" xml:id="Pf12vb.4"/><l n="P_I,40_0004"><hi rend="capitalsize1">Z</hi>o muechstu blijde <choice><abbr>zij<g ref="#bar"/></abbr><expan>zij<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vro</l>
+</lg>
+<lg type="disticha" n="II,Pb">
+<lb n="5" xml:id="Pf12vb.5"/><l n="P_II,Pb_0001"><hi rend="capitalsize1">W</hi>ilstu ooc leeren medecine</l>
+
+<note n="P_II,Pb_0002">Line_number 0002 is missing</note>
+
+<note n="P_II,Pb_0003">Line_number 0003 is missing</note>
+
+<note n="P_II,Pb_0004">Line_number 0004 is missing</note>
+</lg>
+<lg type="disticha" n="II,Pd">
+
+<note n="P_II,Pd_0001">Line_number 0001 is missing</note>
+<lb n="6" xml:id="Pf12vb.6"/><l n="P_II,Pd_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/>ne</abbr><expan>mij<ex>n</ex>ne</expan></choice> doen jn <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> <choice><abbr>zi<g ref="#bar"/>ne</abbr><expan>zi<ex>n</ex>ne</expan></choice></l>
+<lb n="7" xml:id="Pf12vb.7"/><l n="P_II,Pd_0003"><hi rend="capitalsize1">O</hi>uidius leeret dij alsoo</l>
+<lb n="8" xml:id="Pf12vb.8"/><l n="P_II,Pd_0004"><hi rend="capitalsize1">H</hi>oe du <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mij<ex>n</ex>ne<ex>n</ex></expan></choice> wordes vroo</l>
+</lg>
+<lg type="disticha" n="II,Pc">
+<lb n="9" xml:id="Pf12vb.9"/><l n="P_II,Pc_0001"><hi rend="capitalsize1">W</hi>ilstu di dies onderwijnden</l>
+<lb n="10" xml:id="Pf12vb.10"/><l n="P_II,Pc_0002"><hi rend="capitalsize1">D</hi>atstu gheuecht wilt <choice><abbr>beghi<g ref="#bar"/>nen</abbr><expan>beghi<ex>n</ex>nen</expan></choice></l>
+<lb n="11" xml:id="Pf12vb.11"/><l n="P_II,Pc_0003"><hi rend="capitalsize1">D</hi>oet <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> raet ende lucane</l>
+<lb n="12" xml:id="Pf12vb.12"/><l n="P_II,Pc_0004"><hi rend="capitalsize1">Z</hi>ij zalder di wel <choice><abbr>bri<g ref="#bar"/>ghen</abbr><expan>bri<ex>n</ex>ghen</expan></choice> ane</l>
+
+
+<pb xml:id="P.f13b" n="13b"/>
+</lg>
+<lg type="disticha" n="II,Pe">
+<lb n="1" xml:id="Pf13b.1"/><l n="P_II,Pe_0001"><hi rend="capitalsize1">Z</hi>one wilstu wezen vroet</l>
+<lb n="2" xml:id="Pf13b.2"/><l n="P_II,Pe_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wijsheit <choice><abbr>doe<g ref="#bar"/></abbr><expan>doe<ex>n</ex></expan></choice> jn <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> moet</l>
+<lb n="3" xml:id="Pf13b.3"/><l n="P_II,Pe_0003"><hi rend="capitalsize1">Z</hi>o leert zo vele jn <choice><abbr>dij<g ref="#bar"/>re</abbr><expan>dij<ex>n</ex>re</expan></choice> juecht</l>
+<lb n="4" xml:id="Pf13b.4"/><l n="P_II,Pe_0004"><hi rend="capitalsize1">A</hi>lstu oudt best dattu hels duecht</l>
+</lg>
+<lg type="disticha" n="II,02">
+<lb n="5" xml:id="Pf13b.5"/><l n="P_II,02_0001"><hi rend="capitalsize1">D</hi>u ne zult niet vraghen des</l>
+<lb n="6" xml:id="Pf13b.6"/><l n="P_II,02_0002"><hi rend="capitalsize1">W</hi>elc zij die hemel of was hij es</l>
+<lb n="7" xml:id="Pf13b.7"/><l n="P_II,02_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> du best steruelic <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> daer bij</l>
+<lb n="8" xml:id="Pf13b.8"/><l n="P_II,02_0004"><hi rend="capitalsize1">O</hi>nderwinti niet wat <choice><abbr>sterue<g ref="#bar"/></abbr><expan>sterue<ex>n</ex></expan></choice> zij</l>
+</lg>
+<lg type="disticha" n="II,06+IV,10">
+<lb n="9" xml:id="Pf13b.9"/><l n="P_II,06+IV,10_0001"><hi rend="capitalsize1">D</hi>u zult ommate vlien</l>
+<lb n="10" xml:id="Pf13b.10"/><l n="P_II,06+IV,10_0002"><hi rend="capitalsize1">M</hi>en secht dats die vroede plien</l>
+<lb n="11" xml:id="Pf13b.11"/><l n="P_II,06+IV,10_0003"><hi rend="capitalsize1">M</hi>ate houden <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> volghen hare</l>
+<lb n="12" xml:id="Pf13b.12"/><l n="P_II,06+IV,10_0004"><hi rend="capitalsize1">W</hi>ant <choice><abbr>o<g ref="#bar"/>mate</abbr><expan>o<ex>m</ex>mate</expan></choice> is ongheware</l>
+
+
+<pb xml:id="P.f13vb" n="13vb"/>
+</lg>
+<lg type="disticha" n="II,07+III,07">
+<lb n="1" xml:id="Pf13vb.1"/><l n="P_II,07+III,07_0001"><hi rend="capitalsize1">W</hi>egestu dijns ghezelle daet</l>
+<lb n="2" xml:id="Pf13vb.2"/><l n="P_II,07+III,07_0002"><hi rend="capitalsize1">D</hi>ies hij <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> scaemt dats quaet</l>
+<lb n="3" xml:id="Pf13vb.3"/><l n="P_II,07+III,07_0003"><hi rend="capitalsize1">B</hi>epeinst oft dij lief ware</l>
+<lb n="4" xml:id="Pf13vb.4"/><l n="P_II,07+III,07_0004"><hi rend="capitalsize1">D</hi>atti dine <choice><abbr>sca<g ref="#bar"/>de</abbr><expan>sca<ex>n</ex>de</expan></choice> maecte mare</l>
+</lg>
+<lg type="disticha" n="II,08">
+<lb n="5" xml:id="Pf13vb.5"/><l n="P_II,08_0001"><hi rend="capitalsize1">Z</hi>one en merct de zonden niet</l>
+<lb n="6" xml:id="Pf13vb.6"/><l n="P_II,08_0002"><hi rend="capitalsize1">D</hi>ie <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> den quaden doen ziet</l>
+<lb n="7" xml:id="Pf13vb.7"/><l n="P_II,08_0003"><hi rend="capitalsize1">W</hi>ant die tijt zal <choice><abbr>co<g ref="#bar"/>men</abbr><expan>co<ex>m</ex>men</expan></choice> saen</l>
+<lb n="8" xml:id="Pf13vb.8"/><l n="P_II,08_0004"><hi rend="capitalsize1">D</hi>at sijs loon zullen ontfaen</l>
+</lg>
+<lg type="disticha" n="II,12">
+<lb n="9" xml:id="Pf13vb.9"/><l n="P_II,12_0001"><hi rend="capitalsize1">D</hi>at god wille doen metti</l>
+<lb n="10" xml:id="Pf13vb.10"/><l n="P_II,12_0002"><hi rend="capitalsize1">L</hi>aet <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> gheworden wat dat si</l>
+<lb n="11" xml:id="Pf13vb.11"/><l n="P_II,12_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> du ne waerts <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> te rade niet</l>
+<lb n="12" xml:id="Pf13vb.12"/><l n="P_II,12_0004"><hi rend="capitalsize1">D</hi>aer hij di sciep <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wesen hiet</l>
+</lg>
+<lg type="disticha" n="II,13">
+<lb n="13" xml:id="Pf13vb.13"/><l n="P_II,13_0001"><hi rend="capitalsize1">I</hi>c verbiede di nidichede</l>
+<lb n="14" xml:id="Pf13vb.14"/><l n="P_II,13_0002"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> zij heuet quade zede</l>
+<lb n="15" xml:id="Pf13vb.15"/><l n="P_II,13_0003"><hi rend="capitalsize1">Z</hi>o wiese draghet god weet</l>
+<lb n="16" xml:id="Pf13vb.16"/><l n="P_II,13_0004"><hi rend="capitalsize1">H</hi>em <choice><abbr>co<g ref="#bar"/>ter</abbr><expan>co<ex>m</ex>ter</expan></choice> of dat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> es leet</l>
+
+
+<pb xml:id="P.f14va" n="14va"/>
+</lg>
+<lg type="disticha" n="II,08">
+<lb n="1" xml:id="Pf14va.1"/><l n="P_II,08_0001"><hi rend="capitalsize1">Z</hi>one en merct de zonde niet</l>
+<lb n="2" xml:id="Pf14va.2"/><l n="P_II,08_0002"><hi rend="capitalsize1">D</hi>ie <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> den quaden <choice><abbr>doe<g ref="#bar"/></abbr><expan>doe<ex>n</ex></expan></choice> ziet</l>
+<lb n="3" xml:id="Pf14va.3"/><l n="P_II,08_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> de tijt sal <choice><abbr>co<g ref="#bar"/>men</abbr><expan>co<ex>m</ex>men</expan></choice> zaen</l>
+<lb n="4" xml:id="Pf14va.4"/><l n="P_II,08_0004"><hi rend="capitalsize1">Dat</hi> sijs loon zullen ontfaen</l>
+
+
+<pb xml:id="P.f15rb" n="15rb"/>
+</lg>
+<lg type="disticha" n="I,15">
+<lb n="1" xml:id="Pf15rb.1"/><l n="P_I,15_0001"><hi rend="capitalsize1">A</hi>ls een ander man doet wel</l>
+<lb n="2" xml:id="Pf15rb.2"/><l n="P_I,15_0002"><hi rend="capitalsize1">D</hi>at onthout ende vertelt</l>
+<lb n="3" xml:id="Pf15rb.3"/><l n="P_I,15_0003"><hi rend="capitalsize1">D</hi>oetstu wel zo zwijchter of</l>
+<lb n="4" xml:id="Pf15rb.4"/><l n="P_I,15_0004"><hi rend="capitalsize1">Z</hi>o zulstu hebben goeden lof</l>
+</lg>
+<lg type="disticha" n="I,27">
+<lb n="5" xml:id="Pf15rb.5"/><l n="P_I,27_0001"><hi rend="capitalsize1">W</hi>achti jeghens die ghebare</l>
+<lb n="6" xml:id="Pf15rb.6"/><l n="P_I,27_0002"><hi rend="capitalsize1">M</hi>ijnlike als die voeghelare</l>
+<lb n="7" xml:id="Pf15rb.7"/><l n="P_I,27_0003"><hi rend="capitalsize1">D</hi>ie scoone pipen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> blasen</l>
+<lb n="8" xml:id="Pf15rb.8"/><l n="P_I,27_0004"><hi rend="capitalsize1">A</hi>ls zij die voghelkins <choice><abbr>v<g ref="#apomod"/>dwaze<g ref="#bar"/></abbr><expan>v<ex>er</ex>dwaze<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="9" xml:id="Pf15rb.9"/><l n="P_II,21_0001"><hi rend="capitalsize1">D</hi>atti jn <choice><abbr>droncke<g ref="#bar"/>scepe</abbr><expan>droncke<ex>n</ex>scepe</expan></choice> ghesciet</l>
+<lb n="10" xml:id="Pf15rb.10"/><l n="P_II,21_0002"><hi rend="capitalsize1">D</hi>at en laet onghebetert niet</l>
+<lb n="11" xml:id="Pf15rb.11"/><l n="P_II,21_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> <choice><abbr>va<g ref="#bar"/>n</abbr><expan>va<ex>n</ex>n</expan></choice> dronckescepe <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>ier</ex></expan></choice> te <choice><abbr>voore<g ref="#bar"/></abbr><expan>voore<ex>n</ex></expan></choice></l>
+<lb n="12" xml:id="Pf15rb.12"/><l n="P_II,21_0004"><hi rend="capitalsize1">V</hi>ernoy is <choice><abbr>co<g ref="#bar"/>men</abbr><expan>co<ex>m</ex>men</expan></choice> ende toren</l>
+
+
+<pb xml:id="P.f18ra" n="18ra"/>
+</lg>
+<lg type="disticha" n="II,24">
+<lb n="1" xml:id="Pf18ra.1"/><l n="P_II,24_0001"><hi rend="capitalsize1">M</hi>erct wel watti mach deeren</l>
+<lb n="2" xml:id="Pf18ra.2"/><l n="P_II,24_0002"><hi rend="capitalsize1">W</hi>aert <choice><abbr>zake<g ref="#bar"/></abbr><expan>zake<ex>n</ex></expan></choice> die ghij muecht <choice><abbr>v<g ref="#apomod"/>weere<g ref="#bar"/></abbr><expan>v<ex>er</ex>weere<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Pf18ra.3"/><l n="P_II,24_0003"><hi rend="capitalsize1">H</hi>ij dinct mij sot die <choice><abbr>co<g ref="#bar"/>men</abbr><expan>co<ex>m</ex>men</expan></choice> siet</l>
+<lb n="4" xml:id="Pf18ra.4"/><l n="P_II,24_0004"><hi rend="capitalsize1">T</hi>ongheual ende niet en vliet</l>
+
+
+<pb xml:id="P.f25rb" n="25rb"/>
+</lg>
+<lg type="disticha" n="II,31">
+<lb n="1" xml:id="Pf25rb.1"/><l n="P_II,31_0001"><hi rend="capitalsize1">E</hi>n rouct niet wat hu droomt</l>
+<lb n="2" xml:id="Pf25rb.2"/><l n="P_II,31_0002"><hi rend="capitalsize1">H</hi>ij dinct mij zot dies goomt</l>
+<lb n="3" xml:id="Pf25rb.3"/><l n="P_II,31_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> was de lieden sdaechs <choice><abbr>hoore<g ref="#bar"/></abbr><expan>hoore<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Pf25rb.4"/><l n="P_II,31_0004"><hi rend="capitalsize1">D</hi>at comt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> dickent snachts te <add>vooren</add></l>
+</lg>
+<lg type="disticha" n="III,02">
+<lb n="5" xml:id="Pf25rb.5"/><l n="P_III,02_0001"><hi rend="capitalsize1">E</hi>en <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> die goeder voere pleicht</l>
+<lb n="6" xml:id="Pf25rb.6"/><l n="P_III,02_0002"><hi rend="capitalsize1">E</hi>n darf niet <choice><abbr>roucke<g ref="#bar"/></abbr><expan>roucke<ex>n</ex></expan></choice> wat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> zeicht</l>
+<lb n="7" xml:id="Pf25rb.7"/><l n="P_III,02_0003"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> hij en mach duer niemens tale</l>
+<lb n="8" xml:id="Pf25rb.8"/><l n="P_III,02_0004"><hi rend="capitalsize1">Q</hi>uaet werden wilt hij zelue wale</l>
+
+
+<pb xml:id="P.f27rb" n="27rb"/>
+</lg>
+<lg type="disticha" n="III,04">
+<lb n="1" xml:id="Pf27rb.1"/><l n="P_III,04_0001"><hi rend="capitalsize1">T</hi>ieghens die gone die <choice><abbr>co<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>co<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>smeeke<g ref="#bar"/></abbr><expan>smeeke<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Pf27rb.2"/><l n="P_III,04_0002"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> scoone worden vut reecken</l>
+<lb n="3" xml:id="Pf27rb.3"/><l n="P_III,04_0003"><hi rend="capitalsize1">Z</hi>ulstu di wachten doetstu wel</l>
+<lb n="4" xml:id="Pf27rb.4"/><l n="P_III,04_0004"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> zij zijn loos ende fel</l>
+</lg>
+<lg type="disticha" n="III,10">
+<lb n="5" xml:id="Pf27rb.5"/><l n="P_III,10_0001"><hi rend="capitalsize1">A</hi>ls di yement gheift <choice><abbr>goede<g ref="#bar"/></abbr><expan>goede<ex>n</ex></expan></choice> raet</l>
+<lb n="6" xml:id="Pf27rb.6"/><l n="P_III,10_0002"><hi rend="capitalsize1">Z</hi>och toocht daer an dijn <choice><abbr>toev<g ref="#apomod"/>laet</abbr><expan>toev<ex>er</ex>laet</expan></choice></l>
+<lb n="7" xml:id="Pf27rb.7"/><l n="P_III,10_0003"><hi rend="capitalsize1">H</hi>i is zot die goeden raet ontzecht</l>
+<lb n="8" xml:id="Pf27rb.8"/><l n="P_III,10_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> laet daer duecht an lecht</l>
+</lg>
+<lg type="disticha" n="III,12">
+<lb n="9" xml:id="Pf27rb.9"/><l n="P_III,12_0001"><hi rend="capitalsize1">W</hi>achti wel te dijnen liue</l>
+<lb n="10" xml:id="Pf27rb.10"/><l n="P_III,12_0002"><hi rend="capitalsize1">D</hi>attu <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> nemes te wiue</l>
+<lb n="11" xml:id="Pf27rb.11"/><l n="P_III,12_0003"><hi rend="capitalsize1">E</hi>enich wijf du en kentse wel</l>
+<lb n="12" xml:id="Pf27rb.12"/><l n="P_III,12_0004"><hi rend="capitalsize1">W</hi>ant die wijfs zijn vele fel</l>
+</lg>
+<lg type="disticha" n="III,15">
+<lb n="13" xml:id="Pf27rb.13"/><l n="P_III,15_0001"><hi rend="capitalsize1">D</hi>aer du wetes <choice><abbr>ghedae<g ref="#bar"/></abbr><expan>ghedae<ex>n</ex></expan></choice> ouerdaet</l>
+<lb n="14" xml:id="Pf27rb.14"/><l n="P_III,15_0002"><hi rend="capitalsize1">H</hi>eelstu dat du doets quaet</l>
+<lb n="15" xml:id="Pf27rb.15"/><l n="P_III,15_0003"><hi rend="capitalsize1">D</hi>at men niet <choice><abbr>zegghe<g ref="#bar"/></abbr><expan>zegghe<ex>n</ex></expan></choice> en mach <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> di</l>
+<lb n="16" xml:id="Pf27rb.16"/><l n="P_III,15_0004"><hi rend="capitalsize1">I</hi>c wane hij dies ghezelle zij</l>
+
+
+<pb xml:id="P.f31rb" n="31rb"/>
+</lg>
+<lg type="disticha" n="III,16">
+<lb n="1" xml:id="Pf31rb.1"/><l n="P_III,16_0001"><hi rend="capitalsize1">A</hi>lstu mueghes jn <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> moet</l>
+<lb n="2" xml:id="Pf31rb.2"/><l n="P_III,16_0002"><hi rend="capitalsize1">V</hi>erstaen dat <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> dij <choice><abbr>o<g ref="#bar"/>recht</abbr><expan>o<ex>n</ex>recht</expan></choice> doet</l>
+<lb n="3" xml:id="Pf31rb.3"/><l n="P_III,16_0003"><hi rend="capitalsize1">Z</hi>o bidt den rechter datti dij</l>
+<lb n="4" xml:id="Pf31rb.4"/><l n="P_III,16_0004"><hi rend="capitalsize1">O</hi>m der gods wille jn hu hulpe zij</l>
+
+
+<pb xml:id="P.f46vb" n="46vb"/>
+</lg>
+<lg type="disticha" n="III,21ter">
+<lb n="1" xml:id="Pf46vb.1"/><l n="P_III,21ter_0001"><hi rend="capitalsize1">D</hi>attu dine vrienden raden</l>
+<lb n="2" xml:id="Pf46vb.2"/><l n="P_III,21ter_0002"><hi rend="capitalsize1">Z</hi>ulstu jn <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> <choice><abbr>zij<g ref="#bar"/></abbr><expan>zij<ex>n</ex></expan></choice> bestaden</l>
+<lb n="3" xml:id="Pf46vb.3"/><l n="P_III,21ter_0003"><hi rend="capitalsize1">H</hi>ier naer alstu te doene heues</l>
+<lb n="4" xml:id="Pf46vb.4"/><l n="P_III,21ter_0004"><hi rend="capitalsize1">D</hi>atstu raet dij <choice><abbr>zelue<g ref="#bar"/></abbr><expan>zelue<ex>n</ex></expan></choice> gheues</l>
+
+
+<pb xml:id="P.f50ra" n="50ra"/>
+</lg>
+<lg type="disticha" n="III,19">
+<lb n="1" xml:id="Pf50ra.1"/><l n="P_III,19_0001"><hi rend="capitalsize1">A</hi>lstu etes wachtu des</l>
+<lb n="2" xml:id="Pf50ra.2"/><l n="P_III,19_0002"><hi rend="capitalsize1">D</hi>atstu te vele niet en sprekes</l>
+<lb n="3" xml:id="Pf50ra.3"/><l n="P_III,19_0003"><hi rend="capitalsize1">W</hi>ie <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> vele sprekens <choice><abbr>h<hi rend="superscript">euet</hi></abbr><expan>h<ex>euet</ex></expan></choice> jn <choice><abbr>zede<g ref="#bar"/></abbr><expan>zede<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Pf50ra.4"/><l n="P_III,19_0004"><hi rend="capitalsize1">M</hi>erct <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> jn uwe <choice><abbr>doorpershede<g ref="#bar"/></abbr><expan>doorpershede<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="III,20">
+<lb n="5" xml:id="Pf50ra.5"/><l n="P_III,20_0001"><hi rend="capitalsize1">A</hi>ls <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> wijf verbolghen es</l>
+<lb n="6" xml:id="Pf50ra.6"/><l n="P_III,20_0002"><hi rend="capitalsize1">D</hi>u ne zult niet roucken des</l>
+<lb n="7" xml:id="Pf50ra.7"/><l n="P_III,20_0003"><hi rend="capitalsize1">W</hi>at zou seghet <choice><abbr>wa<g ref="#bar"/>t</abbr><expan>wa<ex>n</ex>t</expan></choice> haer woort</l>
+<lb n="8" xml:id="Pf50ra.8"/><l n="P_III,20_0004"><hi rend="capitalsize1">W</hi>ayt die wijnt al vter poort</l>
+</lg>
+<lg type="disticha" n="III,21">
+<lb n="9" xml:id="Pf50ra.9"/><l n="P_III,21_0001"><hi rend="capitalsize1">Z</hi>one ofstu vroet wilt zijn</l>
+<lb n="10" xml:id="Pf50ra.10"/><l n="P_III,21_0002"><hi rend="capitalsize1">Z</hi>o theere jn goeder mate dijn</l>
+<lb n="11" xml:id="Pf50ra.11"/><l n="P_III,21_0003"><hi rend="capitalsize1">H</hi>ij is zot die tzine verteirt</l>
+<lb n="12" xml:id="Pf50ra.12"/><l n="P_III,21_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> anden vremde hem gheneert</l>
+
+
+<pb xml:id="P.f75vb" n="75vb"/>
+</lg>
+<lg type="disticha" n="III,20">
+<lb n="1" xml:id="Pf75vb.1"/><l n="P_III,20_0001"><hi rend="capitalsize1">A</hi>ls dijn wijf <choice><abbr>v<g ref="#apomod"/>bolghen</abbr><expan>v<ex>er</ex>bolghen</expan></choice> es</l>
+<lb n="2" xml:id="Pf75vb.2"/><l n="P_III,20_0002"><hi rend="capitalsize1">D</hi>u ne zult niet <choice><abbr>zoucke<g ref="#bar"/></abbr><expan>zoucke<ex>n</ex></expan></choice> des</l>
+<lb n="3" xml:id="Pf75vb.3"/><l n="P_III,20_0003"><hi rend="capitalsize1">W</hi>at zou zecht <choice><abbr>wa<g ref="#bar"/>t</abbr><expan>wa<ex>n</ex>t</expan></choice> haer woort</l>
+<lb n="4" xml:id="Pf75vb.4"/><l n="P_III,20_0004"><hi rend="capitalsize1">W</hi>ait die wijnt al huter poort</l>
+</lg>
+<lg type="disticha" n="III,21">
+<lb n="5" xml:id="Pf75vb.5"/><l n="P_III,21_0001"><hi rend="capitalsize1">Z</hi>one ofstu vroet wilt zijn</l>
+<lb n="6" xml:id="Pf75vb.6"/><l n="P_III,21_0002"><hi rend="capitalsize1">Z</hi>o theere jn goeder mate <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Pf75vb.7"/><l n="P_III,21_0003"><hi rend="capitalsize1">H</hi>ij es zot die tzine verteert</l>
+<lb n="8" xml:id="Pf75vb.8"/><l n="P_III,21_0004"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> an den <choice><abbr>vreemde<g ref="#bar"/></abbr><expan>vreemde<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> ghemert</l>
+
+
+<pb xml:id="P.f119ra" n="119ra"/>
+</lg>
+<lg type="disticha" n="III,23">
+<lb n="1" xml:id="Pf119ra.1"/><l n="P_III,23_0001"><hi rend="capitalsize1">E</hi>s dijn wijf <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> rade vroet</l>
+<lb n="2" xml:id="Pf119ra.2"/><l n="P_III,23_0002"><hi rend="capitalsize1">H</hi>outter dy an bestu vroet</l>
+<lb n="3" xml:id="Pf119ra.3"/><l n="P_III,23_0003"><hi rend="capitalsize1">T</hi>es menich wijf die meer can</l>
+<lb n="4" xml:id="Pf119ra.4"/><l n="P_III,23_0004"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> goeden rade <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> haer <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+</lg>
+<lg type="disticha" n="III,24">
+<lb n="5" xml:id="Pf119ra.5"/><l n="P_III,24_0001"><hi rend="capitalsize1">D</hi>u sult met <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> zin algader</l>
+<lb n="6" xml:id="Pf119ra.6"/><l n="P_III,24_0002"><hi rend="capitalsize1">E</hi>eren moeder ende vader</l>
+<lb n="7" xml:id="Pf119ra.7"/><l n="P_III,24_0003"><hi rend="capitalsize1">M</hi>en zecht wiese belghen doet</l>
+<lb n="8" xml:id="Pf119ra.8"/><l n="P_III,24_0004"><hi rend="capitalsize1">D</hi>at hem <choice><abbr>te<g ref="#bar"/></abbr><expan>te<ex>n</ex></expan></choice> <choice><abbr>pine<g ref="#bar"/></abbr><expan>pine<ex>n</ex></expan></choice> <choice><abbr>co<g ref="#bar"/>me<g ref="#bar"/></abbr><expan>co<ex>m</ex>me<ex>n</ex></expan></choice> moet</l>
+
+
+<pb xml:id="P.f168vb" n="168vb"/>
+</lg>
+<lg type="disticha" n="I,35+IV,04">
+<lb n="1" xml:id="Pf168vb.1"/><l n="P_I,35+IV,04_0001"><hi rend="capitalsize1">D</hi>u muechs den <choice><abbr>pe<g ref="#bar"/>ninc</abbr><expan>pe<ex>n</ex>ninc</expan></choice> winnen wel</l>
+<lb n="2" xml:id="Pf168vb.2"/><l n="P_I,35+IV,04_0002"><hi rend="capitalsize1">D</hi>aer vrienscap an licht ende niet el</l>
+<lb n="3" xml:id="Pf168vb.3"/><l n="P_I,35+IV,04_0003"><hi rend="capitalsize1">T</hi>en was noit zo helich een man</l>
+<lb n="4" xml:id="Pf168vb.4"/><l n="P_I,35+IV,04_0004"><hi rend="capitalsize1">H</hi>ij en leide zinen zijn daer an</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

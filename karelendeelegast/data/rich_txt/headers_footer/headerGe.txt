@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on Klein, J. W. (1989). De Gentse fragmenten van de ‘Karel ende Elegast’. Tijdschrift Voor Nederlandse Taal- En Letterkunde, 105, 85–132.</p>
+            </publicationStmt>
+<sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Ghent</settlement>
+            <institution>University Library</institution>
+            <idno>HS. 896-A</idno>
+            <msName>Ge</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="2r" to="10v"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="manuscript" >
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="0"/>
+                           <num type="book-block" value="10"/>
+                           <num type="end-flyleaf" value="0"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="235"/>
+                              <width unit="mm" quantity="165"/>
+                           </dimensions>
+                        </support>
+                     <foliation>no foliation present. The strips have been numbered by a modern hand</foliation>
+                     <collation>a10</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="39" ruledLines="40">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="180"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+         <dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+         <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera  textualis">the manuscript is written in a littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote> one inhabited initial (8 lines, red); lombardic capital letters (2 lines, red); colour-stroking first letters (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only 17 strips (20-25 by 205 mm) survive. The strips originate from two bifolia, which were either the outer bifolia of a quire in 8, or the second and third bifolia (counted from the outside) of a quire in 10</p></additions>
+               </physDesc>
+
+<history>
+<origin>              
+<origDate notBefore="1350" notAfter="1400">1350-1400</origDate>
+<origPlace>Southwest-Brabant</origPlace>
+</origin>
+</history>
+        </msDesc>
+            
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

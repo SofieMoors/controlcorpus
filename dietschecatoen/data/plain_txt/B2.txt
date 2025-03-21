@@ -1,0 +1,418 @@
+
+
+
+
+B2_prologue_0001 DIe ghene die in haren sine
+B2_prologue_0002 draghen wairlike minne
+B2_prologue_0003 Si maker of rijm ende liet
+B2_prologue_0004 der minnen so en draghic niet
+B2_prologue_0005 der om ist my al vergaen
+B2_prologue_0006 datter minnen mach bestaen
+B2_prologue_0007 die wille dat jc minne droech
+B2_prologue_0008 Als jc mīne sach jc loech
+B2_prologue_0009 nv haticse al in minnen sinne
+B2_prologue_0010 die minne draghen en̄ minne
+B2_prologue_0011 Ende heb ghekert mine moet
+B2_prologue_0012 An die ghene die sijn vroet
+B2_prologue_0013 Eer jc dijt dede seide een mijn vrient
+B2_prologue_0014 gheselle die d̶ ter wijsheit dient
+B2_prologue_0015 dat hijs beter loon ontfaen
+B2_prologue_0016 dan die ter minnē dienste staet
+B2_prologue_0017 hier om heb jc des begonnē
+B2_prologue_0018 Sy hebben onrecht dies mi vʼōnen
+B2_prologue_0019 Nv bidt alle mit mi te gode
+B2_prologue_0020 dat hy my sende sinen bode
+B2_prologue_0021 die my wise en̄ lere
+B2_prologue_0022 hoe jc my ter wijsheit kere
+B2_prologue_0023 Allen die vroet willen wesen
+B2_prologue_0024 Een boec dat die clerken lesen
+
+
+
+B2_prologue_0025 Als sy ierst ter scolen gaen
+B2_prologue_0026 die hem wijsheit doet verstaen
+B2_prologue_0027 vele meer dan enich man
+B2_prologue_0028 hier om pensic in mine moet
+B2_prologue_0029 dat jcker v bi wille leeren
+B2_prologue_0030 hoe ghij v herte suite bekeren
+B2_prologue_0031 ter wijsheit nv merket an
+B2_prologue_0032 wiene maecte twonde een man
+B2_prologue_0033 tot romen wilen eer
+B2_prologue_0034 die der wijsheit wiste meer
+B2_prologue_0035 dan enich man die leuet nv
+B2_prologue_0036 hij hiet cathoen dat seg jc v
+B2_prologue_0037 hij had een kint dat hiet alsoe
+B2_prologue_0038 Als hij dede des was hij vro
+B2_prologue_0039 doent mitten kinde was vʼgaen
+B2_prologue_0040 dat mocht dy onthouden en̄ vʼstaen
+B2_prologue_0041 riep hij en̄ sprac tot hem
+B2_prologue_0042 men seyt sone dat jc ben
+B2_prologue_0043 wijs en̄ vroet nv merket an
+B2_prologue_0044 Ic sal dy leren dat jc can
+B2_prologue_0045 doen seyde hij en̄ begae̶n aldus
+B2_prologue_0046 Sy deus est animus
+
+
+B2_I,01_0001 Nv merket sone wat jc dy ghebiede
+B2_I,01_0002 En̄ wat ist dat jc dy bediede
+B2_I,01_0003 dats dattu dy dair ane sulte kerē
+
+
+
+B2_I,01_0004 datstu goede sulste eren
+
+
+B2_I,02_0001 du sulste smorghens vroe op staen
+B2_I,02_0002 En̄ om dine bederue gaen
+B2_I,02_0003 men seyt die te lange slaept
+B2_I,02_0004 dat hem den slaep ōduchtich maect
+
+
+B2_I,03_0001 Wachti dat men niet en seget
+B2_I,03_0002 dat vele tale an di leghet
+B2_I,03_0003 want menigherhande tale
+B2_I,03_0004 En voeghet niiemant wale
+
+
+B2_I,05_0001 En merke niemans quade daet
+B2_I,05_0002 die vele merken si doen quaet
+B2_I,05_0003 by dy en js man noch wijf
+B2_I,05_0004 die sonder sonden leyt sij lijf
+
+
+B2_I,06_0001 HEbstu oec dat iemant deert
+B2_I,06_0002 docht van dy hy js dies gheert
+B2_I,06_0003 om dat hem luttel helpen mach
+B2_I,06_0004 te doen den luden quaet ghelach
+
+
+B2_I,07_0001 EEnradich en̄ sachte
+B2_I,07_0002 Sulstu wesen jn dijn ghedachte
+B2_I,07_0003 hij js sot die sijn ghepeijns
+B2_I,07_0004 den luden seghet haer en̄ gheijcts
+
+
+B2_I,08_0001 gheloeft niet als dijn wijf tonrecht
+B2_I,08_0002 Claget ouer dine knecht
+B2_I,08_0003 want der wiuen sijn ghenoch
+B2_I,08_0004 Smans vrienden sijn togheuech
+
+
+B2_I,10_0001 Dv sult in tale noch jn spraken
+
+
+
+B2_I,10_0002 gheschel jeghen die quade maken
+B2_I,10_0003 want van schelden hier te voren
+B2_I,10_0004 vernoey js comen en̄ toren
+
+
+B2_I,09_0001 Alstu manes dinen vrient
+B2_I,09_0002 die dy dicke heuet ghedient
+B2_I,09_0003 Al sprake hy daer ieghens iet
+B2_I,09_0004 daer om selstu hem hem hatē niet
+
+
+B2_I,12_0001 NIe mare en̄ achter sprken
+B2_I,12_0002 die de luden te scande maken
+B2_I,12_0003 Salstu scouwen en̄ haten
+B2_I,12_0004 beide in wegen en̄ jn stratē
+
+
+B2_I,14_0001 Alstu iemant gheuet lof
+B2_I,14_0002 En wes d̶a̶i̶r̶ te blider niet daer of
+B2_I,14_0003 die vroede merket en̄ verstaet
+B2_I,14_0004 Eer hij van iemant lof ontfaet
+
+
+B2_I,40_0001 BEyde nemen en̄ gheuen
+B2_I,40_0002 Is haer sede die nv leuen
+B2_I,40_0003 mit eren sone doch al soe
+B2_I,40_0004 So machstu blide sijn en̄ vro
+
+
+B2_II,Pe_0001 Sone wilstu wesen vroet
+B2_II,Pe_0002 En̄ wijsheit doen jn dinen moet
+B2_II,Pe_0003 So lere so vele jn dijnre joghet
+
+Line_number 0004 is missing
+
+
+B2_I,15_0001 ALs een ander man doet wel
+B2_I,15_0002 dat onthout en̄ vertel
+B2_I,15_0003 doetstu wel soe swigher of
+
+Line_number 0004 is missing
+
+
+B2_I,16_0001 die wile datstu bist jonghelinck
+
+
+
+B2_I,16_0002 Soe doet menich goede dinc
+B2_I,16_0003 Alstu naken dine dage
+B2_I,16_0004 dat men dijns goede ghewage
+
+
+B2_I,17_0001 En roke niet wat enich man
+B2_I,17_0002 Stillekijn gherymen can
+B2_I,17_0003 want die quade waent wel des
+B2_I,17_0004 watmen riwet dat van hem es
+
+
+B2_I,18_0001 Alstu̶ comt datstu heues ghenoech
+B2_I,18_0002 hauē houti int gheuoech
+B2_I,18_0003 want huden js die man rike
+B2_I,18_0004 morghen staet hem armelike
+
+
+B2_I,20_0001 Sone als dy dijn arme vrient
+B2_I,20_0002 van eenre cleynder ghijften dient
+B2_I,20_0003 wes blider dan di js te moede
+B2_I,20_0004 En̄ dankes hem mit allen goede
+
+
+B2_I,21_0001 Alstu arm bist van hauen
+B2_I,21_0002 En̄ van rijcheden bescauen
+B2_I,21_0003 peijns datstu hier te voren
+B2_I,21_0004 naect en̄ arm. wordes gheboren
+
+
+B2_I,22_0001 du en sulte dy niet keren jn dien
+B2_I,22_0002 datstu die doot sulste ontsien
+B2_I,22_0003 want wie die doot ontsiet
+B2_I,22_0004 hem en helpt sijn leuen niet
+
+
+B2_I,19_0001 HIs̶ js sotter dan een quekenoot
+B2_I,19_0002 die hoopt op ander luden doot
+
+
+
+B2_I,19_0003 want alle die luden jonc en̄ out
+B2_I,19_0004 Sijn haers leuens onghewout
+
+
+B2_I,23_0001 Alstu heues des verdient
+B2_I,23_0002 datstu en heues ghenen vrient
+B2_I,23_0003 dat en sulstu goede witen niet
+B2_I,23_0004 want hem js leet datti messciet
+
+
+B2_I,24_0001 Van dien datti js bleuen
+B2_I,24_0002 Salstu vroedelike leuen
+B2_I,24_0003 En̄ emmʼ wes soe ondersteken
+B2_I,24_0004 datti niet en mach gheba̶rekē
+
+
+B2_I,27_0001 wachti jeghen die ghebare
+B2_I,27_0002 minlic als die voghelare
+B2_I,27_0003 die s̶o̶n̶e̶ scone pipen en̄ blasen
+B2_I,27_0004 Als si die voghelkijn verdwasen
+
+
+B2_I,28_0001 Alstu heues kinder sonder goet
+B2_I,28_0002 So doet als die vroede doet
+B2_I,28_0003 die sijn kinder ambacht leert
+B2_I,28_0004 Als noot heeft datter hem toe
+
+
+B2_II,13_0001 Ic verbiede dy nidichede
+B2_II,13_0002 want si heuet quade sede
+B2_II,13_0003 wiese draghet god weet
+B2_II,13_0004 hem comter of dat hem js leet
+
+
+B2_II,Pa_0001 wilstu sone daer toe teren
+B2_II,Pa_0002 datstu dorpers sede wils leren
+B2_II,Pa_0003 VIrgilius heeft bescreuen
+B2_II,Pa_0004 watmen daer toe doen sal
+
+
+
+
+
+B2_III,19_0001 Alstu e̶t̶e̶r̶s̶ etes wachstu dies
+B2_III,19_0002 datstu te vele niet en plies
+B2_III,19_0003 Te spreken wie dat heeft jn sedē
+B2_III,19_0004 men merket al in dorperheden
+
+
+B2_II,Pb_0001 Wilstu leren medicine
+B2_II,Pb_0002 En̄ goet arsater te sine
+B2_II,Pb_0003 Macer heeft bescreuen al
+B2_II,Pb_0004 watmen daer toe doen sal
+
+
+B2_II,Pd_0001 wilstu leren wat si minne
+B2_II,Pd_0002 Ende minne doen in dinē sine
+B2_II,Pd_0003 Ouidius leert dy also
+B2_II,Pd_0004 hoe du van minnē wordes vro
+
+
+B2_II,16_0001 du sulte seggen goet noch quaet
+B2_II,16_0002 Segge hoe dat mitti staet
+B2_II,16_0003 want het tjs der ōtwetende sede
+
+Line_number 0004 is missing
+
+
+B2_III,14_0001 Dv en niet sulte prouē dine cracht
+B2_III,14_0002 Aen een dinc dat dy js vter macht
+B2_III,14_0003 daer leyt a̶n̶ te prouē laster an
+B2_III,14_0004 dat een ghedoet dat niet en can
+
+
+B2_III,24_0001 du sulste mit dinē lieue al gader
+B2_III,24_0002 Eren moeder en̄ vader
+B2_III,24_0003 god seyt diese belghen doet
+B2_III,24_0004 dat hem die pine werden moet
+
+
+B2_IV,02_0001 Sone doet als die wyse
+B2_IV,02_0002 En̄ houti an die sulue spise
+B2_IV,02_0003 daer du mede bist gheuoet
+
+
+
+B2_IV,02_0004 Soe js dijn leuen wel behoet
+
+
+B2_II,31_0001 En roeke niet watti droomt
+B2_II,31_0002 hy j̶s̶ s dunct my sot dies goomt
+B2_II,31_0003 wat die luden daghes horen
+B2_II,31_0004 Comt hem dicke nachts te vorē
+
+
+B2_III,01_0001 Sone lere jn dine sinne
+B2_III,01_0002 datter wijsheit wone jnne
+B2_III,01_0003 die mit sondē leyt sijn leuen
+B2_III,01_0004 het tis qualic mit hem beweuen
+
+
+B2_I,33_0001 na dien datti dine tide naken
+B2_I,33_0002 Salstu dine tere maken
+B2_I,33_0003 En̄ dinē cost meer noch myn
+B2_I,33_0004 na dien datstu heues gewin
+
+
+B2_I,35_0001 Dv sulte gaerne dat luttel geuē
+B2_I,35_0002 ofstu dat wils beweuen
+B2_I,35_0003 die hellinc js een goet ghewin
+B2_I,35_0004 die den pēnic brenghet in
+
+
+B2_II,19_0001 hoerdom js een quade sede
+B2_II,19_0002 En̄ vrec te sine daer mede
+B2_II,19_0003 dese twe salstu scouwen
+B2_II,19_0004 want sy vele sonden bruwen
+
+
+B2_I,37_0001 alstu hebben dine knechte
+B2_I,37_0002 gram ghemaect mit onrechte
+B2_I,37_0003 laet sinken dinen euele moet
+B2_I,37_0004 het tis dy eerlic en̄ goet
+
+
+
+
+
+B2_I,38_0001 Al maechstu vʼwinnen saen
+B2_I,38_0002 dinen viant laet jn vreden staen
+B2_I,38_0003 Ic seg di dy dat ghestadichede
+B2_I,38_0004 heuet menighe goede sede
+
+
+B2_II,01_0001 Dv sulste wesen onder daen
+B2_II,01_0002 den ghenen dye dy te diēste staen
+B2_II,01_0003 ofstu iemant wilde deren
+B2_II,01_0004 dat sy dy helpen verweren
+
+
+B2_III,20_0001 Als dijn wijf verbolgen es
+B2_III,20_0002 du en sulste niet roeken des
+B2_III,20_0003 wat sy seit want hare wort
+B2_III,20_0004 waeyt die wynt al vter poort
+
+
+B2_III,23_0001 Es dijn wijf van rade vroet
+B2_III,23_0002 houter dy an dats dy goet
+B2_III,23_0003 het tjs menich wijf die meer can
+B2_III,23_0004 van vroedē rade dan haer man
+
+
+B2_IV,01_0001 rijc te sijn tonmaten
+B2_IV,01_0002 Salstu scouwen en̄ hatē
+B2_IV,01_0003 En̄ deel dijn goet den armē mede
+B2_IV,01_0004 So sulstu na dijnre tijt hebbē vre
+
+
+B2_II,02_0001 Dv en sulste niet vragē des
+B2_II,02_0002 welc js die hemel en̄ waer hij es
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+B2_II,12_0003 du en waers daer te rade niet
+B2_II,12_0004 daer hij dy sciep en̄ wesen hiet
+
+
+B2_III,12_0001 Sone wachti by dinē liue
+B2_III,12_0002 dattu nēmeer wijf te wiue
+
+
+
+B2_III,12_0003 En nemes du en kense wel
+B2_III,12_0004 want der wiuē sijn wel fel
+
+
+B2_III,04_0001 Iegē die gene die cōnē smekē
+B2_III,04_0002 En̄ scone tale voort reken
+B2_III,04_0003 Salstu dy w̶a̶c̶h̶s̶t̶u̶ wachtē doestuwale
+B2_III,04_0004 want sy wandel jn die tale
+
+
+B2_III,Pb_0001 Sone houdi na mine lere
+B2_III,Pb_0002 doestuut dy comter of eere
+B2_III,Pb_0003 laetstuut oec het js mit my gast
+B2_III,Pb_0004 En̄ mitti salt bliuen vast
+
+
+B2_II,21_0001 datti jn dronkenscap ghesciet
+B2_II,21_0002 dat en laet onghebetert niet
+B2_II,21_0003 want daer of hier te voren
+B2_II,21_0004 vernoey js comen en̄ toren
+
+
+B2_independent stanza_0001 Sone dits js die beste scat
+B2_independent stanza_0002 die jc hebbe en̄ om dat
+B2_independent stanza_0003 hetic ende beuele dy
+B2_independent stanza_0004 dat hy ēmer mitti sy
+
+
+B2_epilogue_0001 Ghy ludē die dese redene
+B2_epilogue_0002 hebt ghehoort doet v ghebede
+B2_epilogue_0003 oetmedelike tot onsen here
+B2_epilogue_0004 bidt hem dat hy v bekere
+B2_epilogue_0005 Ende verlichte v den sin
+B2_epilogue_0006 datter wijsheit wone jn
+B2_epilogue_0007 DIe dijt maecte vten latine
+B2_epilogue_0008 In duijsshe hij begerde te sine
+
+
+
+B2_epilogue_0009 In v ghebede vroe en̄ spade
+B2_epilogue_0010 bydt gode dat hij hē doe ghenade
+B2_epilogue_0011 En̄ ons h̶ allen mit hē hier bouē
+B2_epilogue_0012 daer die engelen gode louen
+B2_epilogue_0013 Amen segt allegader meest
+B2_epilogue_0014 des gonne ons die vader die
+B2_epilogue_0015 Sone en̄ den heyligē geest
+B2_epilogue_0016 Amen
+

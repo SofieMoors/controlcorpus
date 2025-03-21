@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription and manuscript description based on: Sleiderink, R., and Houtsma, J. (2015). Fragmenten van twee eenkolomshandschriften van de Dietsche Catoen, overgeleverd in Mechelse stadsrekeningen. Queeste, 22, 165-177.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution>AR Rekenkamer</institution>
+            <idno>41.234</idno>
+            <msName>Br</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="8"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="single-quire manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="0"/> 
+                           <num type="book-block" value="8"/>
+                           <num type="end-flyleaf" value="0"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="140"/>
+                              <width unit="mm" quantity="110"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation>1IV(8) or 1V(10)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="17" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="134"/>
+                              <width unit="mm" quantity="73"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="4,9" max="5"/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote></decoNote><decoNote><watermark>Briquet 5633 (croix latine)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only the outside bifolium remains</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1430-1440</origDate>
+<origPlace>Brabant(?)</origPlace>
+</origin></history>
+</msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="Br.f1r" n="1r"/>
+
+
+<text n="prologue" xml:id="prologue">
+<body>
+<p><lg type="disticha" n="prologue">
+<lb n="1" xml:id="Brf1r.1"/><l n="Br_prologue_0001"><hi rend="capitalsize4">D</hi><unclear>ie</unclear> ghene die in <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> sinne</l>
+<lb n="2" xml:id="Brf1r.2"/><l n="Br_prologue_0002"><hi rend="capitalsize1">D</hi>raghen weerlike minne</l>
+<lb n="3" xml:id="Brf1r.3"/><l n="Br_prologue_0003"><hi rend="capitalsize1">S</hi>i maken daer rijm <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> liet</l>
+<lb n="4" xml:id="Brf1r.4"/><l n="Br_prologue_0004">der <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> soe en draghic <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice></l>
+<lb n="5" xml:id="Brf1r.5"/><l n="Br_prologue_0005">want mi es al dat vergaen</l>
+<lb n="6" xml:id="Brf1r.6"/><l n="Br_prologue_0006"><hi rend="capitalsize1">D</hi>at selker <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> mach bestaen</l>
+<lb n="7" xml:id="Brf1r.7"/><l n="Br_prologue_0007"><hi rend="capitalsize1">W</hi>ilen <choice><abbr>doe<g ref="#bar"/></abbr><expan>doe<ex>n</ex></expan></choice> ic minne droech</l>
+<lb n="8" xml:id="Brf1r.8"/><l n="Br_prologue_0008"><hi rend="capitalsize1">A</hi>lsic die minne sach ic loech</l>
+<lb n="9" xml:id="Brf1r.9"/><l n="Br_prologue_0009"><hi rend="capitalsize1">N</hi>v haticse alle in <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> sinne</l>
+<lb n="10" xml:id="Brf1r.10"/><l n="Br_prologue_0010"><hi rend="capitalsize1">D</hi>ie treffelijc <choice><abbr>draghe<g ref="#bar"/></abbr><expan>draghe<ex>n</ex></expan></choice> hare minne</l>
+<lb n="11" xml:id="Brf1r.11"/><l n="Br_prologue_0011"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hebbe ghekeert <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> moet</l>
+<lb n="12" xml:id="Brf1r.12"/><l n="Br_prologue_0012"><hi rend="capitalsize1">A</hi>en die ghene die sijn vroet</l>
+<lb n="13" xml:id="Brf1r.13"/><l n="Br_prologue_0013"><hi rend="capitalsize1">E</hi>er ic dit dede seide <num type="roman">i</num> mijn vrient</l>
+<lb n="14" xml:id="Brf1r.14"/><l n="Br_prologue_0014"><hi rend="capitalsize1">G</hi>heselle die ter wijsheit dient</l>
+<lb n="15" xml:id="Brf1r.15"/><l n="Br_prologue_0015"><hi rend="capitalsize1">W</hi>eet dat hijs betere loen ontfaet</l>
+<lb n="16" xml:id="Brf1r.16"/><l n="Br_prologue_0016"><hi rend="capitalsize1">D</hi>an die ter <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> dienste staet</l>
+<lb n="17" xml:id="Brf1r.17"/><l n="Br_prologue_0017"><hi rend="capitalsize1">H</hi>ier om hebbic des begonnen</l>
+
+
+<pb xml:id="Br.f1v" n="1v"/>
+<lb n="1" xml:id="Brf1v.1"/><l n="Br_prologue_0018"><hi rend="capitalsize1">S</hi>i hebben onrecht des mi <choice><abbr>veronne<g ref="#bar"/></abbr><expan>veronne<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Brf1v.2"/><l n="Br_prologue_0019"><hi rend="capitalsize1">N</hi>v bidt alle met mi te gode</l>
+<lb n="3" xml:id="Brf1v.3"/><l n="Br_prologue_0020"><hi rend="capitalsize1">D</hi>at hi mi sinde sinen bode</l>
+<lb n="4" xml:id="Brf1v.4"/><l n="Br_prologue_0021"><hi rend="capitalsize1">D</hi>ie mi wise <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lere</l>
+<lb n="5" xml:id="Brf1v.5"/><l n="Br_prologue_0022">hoe ic mi ter vroetheit kere</l>
+<lb n="6" xml:id="Brf1v.6"/><l n="Br_prologue_0023"><hi rend="capitalsize2">A</hi><unclear>lle</unclear> die vroet willen wesen</l>
+<lb n="7" xml:id="Brf1v.7"/><l n="Br_prologue_0024"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> boec es dat di <choice><abbr>clerke<g ref="#bar"/></abbr><expan>clerke<ex>n</ex></expan></choice> lesen</l>
+<lb n="8" xml:id="Brf1v.8"/><l n="Br_prologue_0025"><hi rend="capitalsize1">A</hi> si irst ter scolen gaen</l>
+<lb n="9" xml:id="Brf1v.9"/><l n="Br_prologue_0026"><hi rend="capitalsize1">D</hi>ie hem wijsheit doet verstaen</l>
+<lb n="10" xml:id="Brf1v.10"/><l n="Br_prologue_0027"><hi rend="capitalsize1">W</hi>ele meer dan iemen doet</l>
+<lb n="11" xml:id="Brf1v.11"/><l n="Br_prologue_0028"><hi rend="capitalsize1">H</hi>ier om peinsic in <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> moet</l>
+<lb n="12" xml:id="Brf1v.12"/><l n="Br_prologue_0029"><hi rend="capitalsize1">D</hi>at icker v bi wille leren</l>
+<lb n="13" xml:id="Brf1v.13"/><l n="Br_prologue_0030">hoe ghi v herte sult <choice><abbr>bekere<g ref="#bar"/></abbr><expan>bekere<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Brf1v.14"/><l n="Br_prologue_0031"><hi rend="capitalsize1">T</hi>er vroetheit nv merket <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Brf1v.15"/><l n="Br_prologue_0032"><hi rend="capitalsize1">W</hi>ine maecte het <choice><abbr>woe<g ref="#bar"/>t</abbr><expan>woe<ex>n</ex>t</expan></choice> <num type="roman">i</num> man</l>
+<lb n="16" xml:id="Brf1v.16"/><l n="Br_prologue_0033"><hi rend="capitalsize1">T</hi>oet rome wilen eer</l>
+<lb n="17" xml:id="Brf1v.17"/><l n="Br_prologue_0034"><hi rend="capitalsize1">D</hi>ie der wijsheit wiste meer</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: https://fragmentarium.ms/description/F-1nxs/4474 and Gysseling, Maurits, Corpus van Middelnederlandse teksten (tot en met het jaar 1300), Bouwstoffen voor een woordarchief van de Nederlandse taal, reeks II, vol. 1 (’s-Gravenhage: Nijhoff, 1980), pp. 393-500.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Oudenaarde</settlement>
+            <institution>Stadsarchief Handschriften en Zeldzame Drukken</institution>
+            <idno>nr. 32</idno>
+            <msName>The Oudenaarde verse miscellany, A</msName>
+          </msIdentifier>
+
+               <msContents>
+<msItem>
+<locus from="248v" to="251v"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="sammelband">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value=""/> 
+                           <num type="book-block" value="257"/>
+                           <num type="end-flyleaf" value=""/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="275"/>
+                              <width unit="mm" quantity="212"/>
+                           </dimensions>
+                        </support>
+                     <foliation>foliation in Roman numbers on recto side by first corrector</foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="33" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="230"/>
+                              <width unit="mm" quantity="190"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis libraria">the Dietsche Catoen is written in littera textualis libraria by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>title (red) in decoration (35mm); initial (red and blue); lombardic letters (red and blue); colour-stroking (red)</decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only 32 folia from the original codex remain</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1290</origDate>
+<origPlace>Flanders</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+            <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000003153</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>The Hague</settlement>
+            <institution>National Library of the Netherlands</institution>
+            <idno>75 E 20</idno>
+            <msName>O</msName>
+          </msIdentifier>
+               <msContents>
+<msItem>
+<locus from="1" to="145"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="145"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="298"/>
+                              <width unit="mm" quantity="215"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-111 and 1-145)</foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="35-40" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="210"/>
+                              <width unit="mm" quantity="165"/>
+                           </dimensions>
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Rhymed Bible is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>initials (red); titels (red)</decoNote></decoDesc>
+                  <additions><p>reconstruction, only 111 folia remain</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1450-1475</origDate>
+<origPlace></origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group><text n="Eva_sample1" xml:id="sample1">
+<body>
+<p>
+
+<pb xml:id="O.f10ra" n="10ra"/>
+<lb n="1" xml:id="Of10ra.1"/><l n="O_sample1_0771"><hi rend="capitalsize1">W</hi>ant sulc eylant is <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> dach</l>
+<lb n="2" xml:id="Of10ra.2"/><l n="O_sample1_0772"><hi rend="capitalsize1">D</hi>aer geen <choice><abbr>me<g ref="#bar"/>sche</abbr><expan>me<ex>n</ex>sche</expan></choice> <choice><abbr>sterue<g ref="#bar"/></abbr><expan>sterue<ex>n</ex></expan></choice> mach</l>
+<lb n="3" xml:id="Of10ra.3"/><l n="O_sample1_0773"><hi rend="capitalsize1">J</hi>nt lant van ceres <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> seg ic v</l>
+<lb n="4" xml:id="Of10ra.4"/><l n="O_sample1_0774"><hi rend="capitalsize1">E</hi>s eene dinc an bome dats ru</l>
+<lb n="5" xml:id="Of10ra.5"/><l n="O_sample1_0775"><choice><abbr><hi rend="capitalsize1">D</hi>aerme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>aerme<ex>n</ex></expan></choice> mede <choice><abbr>lang<g ref="#etfin"/></abbr><expan>lang<ex>et</ex></expan></choice> tlijf</l>
+<lb n="6" xml:id="Of10ra.6"/><l n="O_sample1_0776"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>alexand<g ref="#apomod"/></abbr><expan>alexand<ex>er</ex></expan></choice> <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> blijf</l>
+<lb n="7" xml:id="Of10ra.7"/><l n="O_sample1_0777"><hi rend="capitalsize1">D</hi>ie screef tote aristotiles</l>
+<lb n="8" xml:id="Of10ra.8"/><l n="O_sample1_0778"><choice><abbr><hi rend="capitalsize1">D</hi>att<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>att<ex>er</ex></expan></choice> <choice><abbr>zonne<g ref="#bar"/></abbr><expan>zonne<ex>n</ex></expan></choice> boem volc es</l>
+<lb n="9" xml:id="Of10ra.9"/><l n="O_sample1_0779"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> lange leuet vtermaten</l>
+<lb n="10" xml:id="Of10ra.10"/><l n="O_sample1_0780"><hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> si vander vrucht aten</l>
+<lb n="11" xml:id="Of10ra.11"/><l n="O_sample1_0780a">hoe <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> se <choice><abbr>vte<g ref="#bar"/></abbr><expan>vte<ex>n</ex></expan></choice> <choice><abbr><g ref="#pbardes"/>adyse</abbr><expan><ex>par</ex>adyse</expan></choice> stac <num type="roman">xviii</num></l>
+<lb n="12" xml:id="Of10ra.12"/><l n="O_sample1_0781"><hi rend="capitalsize2">G</hi>od stacken vten <choice><abbr><g ref="#pbardes"/>adyse</abbr><expan><ex>par</ex>adyse</expan></choice></l>
+<lb n="13" xml:id="Of10ra.13"/><l n="O_sample1_0782"><hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/>ti</abbr><expan>d<ex>at</ex>ti</expan></choice> soude na <choice><abbr>dor<g ref="#pbardes"/>s</abbr><expan>dor<ex>per</ex>s</expan></choice> wise</l>
+<lb n="14" xml:id="Of10ra.14"/><l n="O_sample1_0783"><hi rend="capitalsize1">D</hi>aerde <choice><abbr>oufene<g ref="#bar"/></abbr><expan>oufene<ex>n</ex></expan></choice> daer hi te voren</l>
+<lb n="15" xml:id="Of10ra.15"/><l n="O_sample1_0784"><hi rend="capitalsize1">O</hi>f was gemaect nv suldi <choice><abbr>hore<g ref="#bar"/></abbr><expan>hore<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Of10ra.16"/><l n="O_sample1_0785"><hi rend="capitalsize1">V</hi>an wat lande hy gemaect was</l>
+<lb n="17" xml:id="Of10ra.17"/><l n="O_sample1_0786"><hi rend="capitalsize1">W</hi>ant vten lande van damas</l>
+<lb n="18" xml:id="Of10ra.18"/><l n="O_sample1_0787"><hi rend="capitalsize1">D</hi>aer in was hy <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> siin wijf</l>
+<lb n="19" xml:id="Of10ra.19"/><l n="O_sample1_0788"><hi rend="capitalsize1">B</hi>eede <choice><abbr>begraue<g ref="#bar"/></abbr><expan>begraue<ex>n</ex></expan></choice> na siin lijf</l>
+<lb n="20" xml:id="Of10ra.20"/><l n="O_sample1_0789">jn <del>spel</del> spelonca duplijcij</l>
+<lb n="21" xml:id="Of10ra.21"/><l n="O_sample1_0790"><hi rend="capitalsize1">A</hi>lsoe noemt die byble vrij</l>
+<lb n="22" xml:id="Of10ra.22"/><l n="O_sample1_0791"><hi rend="capitalsize1">J</hi>n dien acker slouch als <num type="roman">.j.</num> fel</l>
+<lb n="23" xml:id="Of10ra.23"/><l n="O_sample1_0792"><hi rend="capitalsize1">C</hi>haym <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> <choice><abbr>broed<g ref="#apomod"/></abbr><expan>broed<ex>er</ex></expan></choice> abel</l>
+<lb n="24" xml:id="Of10ra.24"/><l n="O_sample1_0793"><hi rend="capitalsize1">V</hi>oer tparadijs sette onse <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice></l>
+<lb n="25" xml:id="Of10ra.25"/><l n="O_sample1_0794"><hi rend="capitalsize1">C</hi>herubin datti den duuel <choice><abbr>ke<g ref="#apomod"/>e</abbr><expan>ke<ex>er</ex>e</expan></choice></l>
+<lb n="26" xml:id="Of10ra.26"/><l n="O_sample1_0795"><hi rend="capitalsize1">D</hi>at hiere <choice><abbr>ny<g ref="#bar"/>mermeer</abbr><expan>ny<ex>m</ex>mermeer</expan></choice> voert</l>
+<lb n="27" xml:id="Of10ra.27"/><l n="O_sample1_0796"><hi rend="capitalsize1">J</hi>n en quame <choice><abbr>v<g ref="#apomod"/>staet</abbr><expan>v<ex>er</ex>staet</expan></choice> dit woert</l>
+<lb n="28" xml:id="Of10ra.28"/><l n="O_sample1_0797"><hi rend="capitalsize1">D</hi>at vier den <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> den wech <choice><abbr>bena<g ref="#bar"/></abbr><expan>bena<ex>m</ex></expan></choice></l>
+<lb n="29" xml:id="Of10ra.29"/><l n="O_sample1_0798"><choice><abbr><hi rend="capitalsize1">D</hi>att<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>att<ex>er</ex></expan></choice> <choice><abbr>ny<g ref="#bar"/>mermeer</abbr><expan>ny<ex>m</ex>mermeer</expan></choice> geen en quam</l>
+<lb n="30" xml:id="Of10ra.30"/><l n="O_sample1_0799"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> zwaert es keerende <choice><abbr>gena<g ref="#bar"/>t</abbr><expan>gena<ex>n</ex>t</expan></choice></l>
+<lb n="31" xml:id="Of10ra.31"/><l n="O_sample1_0800"><hi rend="capitalsize1">W</hi>ant <choice><abbr>te<g ref="#bar"/></abbr><expan>te<ex>n</ex></expan></choice> es el niet dan een brant</l>
+<lb n="32" xml:id="Of10ra.32"/><l n="O_sample1_0801"><hi rend="capitalsize1">E</hi>en vierich muer <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> gheet</l>
+<lb n="33" xml:id="Of10ra.33"/><l n="O_sample1_0802"><hi rend="capitalsize1">B</hi>edi es <choice><abbr>berne<g ref="#bar"/>de</abbr><expan>berne<ex>n</ex>de</expan></choice> <choice><abbr>datme<g ref="#bar"/>t</abbr><expan>datme<ex>n</ex>t</expan></choice> heet</l>
+<lb n="34" xml:id="Of10ra.34"/><l n="O_sample1_0803"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> god wel doen mochte</l>
+<lb n="35" xml:id="Of10ra.35"/><l n="O_sample1_0804"><hi rend="capitalsize1">A</hi>lsoet hem best dochte</l>
+<lb n="36" xml:id="Of10ra.36"/><l n="O_sample1_0805"><hi rend="capitalsize1">H</hi>et was een stic noch <choice><abbr>altesame<g ref="#bar"/></abbr><expan>altesame<ex>n</ex></expan></choice></l>
+<lb n="37" xml:id="Of10ra.37"/><l n="O_sample1_0806"><hi rend="capitalsize1">D</hi>oer enoch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> elyas <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice></l>
+<lb n="38" xml:id="Of10ra.38"/><l n="O_sample1_0807"><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> dat bloet dat sydent liep</l>
+
+
+<pb xml:id="O.f10rb" n="10rb"/>
+<lb n="1" xml:id="Of10rb.1"/><l n="O_sample1_0808"><hi rend="capitalsize1">V</hi>ut ons <choice><abbr>heer<g ref="#apomod"/></abbr><expan>heer<ex>en</ex></expan></choice> wonden diep</l>
+<lb n="2" xml:id="Of10rb.2"/><l n="O_sample1_0809"><hi rend="capitalsize1">J</hi>n siere passien dede hijt al vut</l>
+<lb n="3" xml:id="Of10rb.3"/><l n="O_sample1_0810"><hi rend="capitalsize1">D</hi>ies esser menige zalige bruyt</l>
+<lb n="4" xml:id="Of10rb.4"/><l n="O_sample1_0811"><hi rend="capitalsize1">V</hi>an <choice><abbr>sine<g ref="#bar"/>talue<g ref="#bar"/></abbr><expan>sine<ex>n</ex>talue<ex>n</ex></expan></choice> sint jn comen</l>
+<lb n="5" xml:id="Of10rb.5"/><l n="O_sample1_0812"><hi rend="capitalsize1">D</hi>ie <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> loen <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> heeft <choice><abbr>genome<g ref="#bar"/></abbr><expan>genome<ex>n</ex></expan></choice></l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Debora_sample2" xml:id="sample2">
+<body>
+<p>
+
+<pb xml:id="O.f46ra" n="46ra"/>
+<lb n="1" xml:id="Of46ra.1"/><l n="O_sample2_7303">echt <choice><abbr>dad<g ref="#bar"/></abbr><expan>dad<ex>en</ex></expan></choice> si na sangers doot</l>
+<lb n="2" xml:id="Of46ra.2"/><l n="O_sample2_7304">die van <choice><abbr>isr<g ref="#bar"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> anxt groot</l>
+<lb n="3" xml:id="Of46ra.3"/><l n="O_sample2_7305"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> god lietse <choice><abbr>dwinge<g ref="#bar"/></abbr><expan>dwinge<ex>n</ex></expan></choice> dan</l>
+<lb n="4" xml:id="Of46ra.4"/><l n="O_sample2_7306">jabin den <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> van canaan</l>
+<lb n="5" xml:id="Of46ra.5"/><l n="O_sample2_7307">die in asors <choice><abbr>tide<g ref="#bar"/></abbr><expan>tide<ex>n</ex></expan></choice> <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> was</l>
+<lb n="6" xml:id="Of46ra.6"/><l n="O_sample2_7308">sijn maerscalc was cyseras</l>
+<lb n="7" xml:id="Of46ra.7"/><l n="O_sample2_7309">dese hadde tvolc <num type="roman">.xx.</num> jaer</l>
+<lb n="8" xml:id="Of46ra.8"/><l n="O_sample2_7310">jn bedwange harde zwaer</l>
+<lb n="9" xml:id="Of46ra.9"/><l n="O_sample2_7311">doe <choice><abbr>riepe<g ref="#bar"/></abbr><expan>riepe<ex>n</ex></expan></choice> si op gode <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> sinne</l>
+<lb n="10" xml:id="Of46ra.10"/><l n="O_sample2_7312"><choice><abbr>tie<g ref="#bar"/></abbr><expan>tie<ex>n</ex></expan></choice> tiden was een <choice><abbr><g ref="#pflour"/>phetinne</abbr><expan><ex>pro</ex>phetinne</expan></choice></l>
+<lb n="11" xml:id="Of46ra.11"/><l n="O_sample2_7313">hiet delbora <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> woende in effraym</l>
+<lb n="12" xml:id="Of46ra.12"/><l n="O_sample2_7314">soe riep barach van neptalym</l>
+<lb n="13" xml:id="Of46ra.13"/><l n="O_sample2_7315"><choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> man <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seide god</l>
+<lb n="14" xml:id="Of46ra.14"/><l n="O_sample2_7316">die gebieti dit gebod</l>
+<lb n="15" xml:id="Of46ra.15"/><l n="O_sample2_7317">leet te mont thabor <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice></l>
+<lb n="16" xml:id="Of46ra.16"/><l n="O_sample2_7318"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> setti daer <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> were</l>
+<lb n="17" xml:id="Of46ra.17"/><l n="O_sample2_7319"><num type="roman">.x.m</num> <choice><abbr>ne<g ref="#bar"/></abbr><expan>ne<ex>m</ex></expan></choice> metti man</l>
+<lb n="18" xml:id="Of46ra.18"/><l n="O_sample2_7320">van zabulon <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> neptalim dan</l>
+<lb n="19" xml:id="Of46ra.19"/><l n="O_sample2_7321">god sal di <choice><abbr>geue<g ref="#bar"/></abbr><expan>geue<ex>n</ex></expan></choice> sekerleke</l>
+<lb n="20" xml:id="Of46ra.20"/><l n="O_sample2_7322">daer by dat physon loept die beke</l>
+<lb n="21" xml:id="Of46ra.21"/><l n="O_sample2_7322a">drie hondert <num type="roman">m</num> <choice><abbr>gewape<g ref="#bar"/>d<g ref="#apomod"/></abbr><expan>gewape<ex>n</ex>d<ex>er</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="22" xml:id="Of46ra.22"/><l n="O_sample2_7323">jn <choice><abbr>dine<g ref="#bar"/></abbr><expan>dine<ex>n</ex></expan></choice> <choice><abbr>hande<g ref="#bar"/></abbr><expan>hande<ex>n</ex></expan></choice> cysaras</l>
+<lb n="23" xml:id="Of46ra.23"/><l n="O_sample2_7324">barath sprac jn doe niet das</l>
+<lb n="24" xml:id="Of46ra.24"/><l n="O_sample2_7325">du en wilt selue met my <choice><abbr>vare<g ref="#bar"/></abbr><expan>vare<ex>n</ex></expan></choice></l>
+<lb n="25" xml:id="Of46ra.25"/><l n="O_sample2_7326">jc doet sprac delbora te <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice></l>
+<lb n="26" xml:id="Of46ra.26"/><l n="O_sample2_7327"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> een wijf sal <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> die <choice><abbr>e<g ref="#apomod"/>e</abbr><expan>e<ex>er</ex>e</expan></choice></l>
+<lb n="27" xml:id="Of46ra.27"/><l n="O_sample2_7328">cysaras <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> die <choice><abbr>ma<g ref="#apomod"/>e</abbr><expan>ma<ex>er</ex>e</expan></choice></l>
+<lb n="28" xml:id="Of46ra.28"/><l n="O_sample2_7329">dat dat here was in porre</l>
+<lb n="29" xml:id="Of46ra.29"/><l n="O_sample2_7330"><choice><abbr>te<g ref="#bar"/></abbr><expan>te<ex>n</ex></expan></choice> berge <choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>aer</ex>t</expan></choice> van taborre</l>
+<lb n="30" xml:id="Of46ra.30"/><l n="O_sample2_7331">hy <choice><abbr>v<g ref="#apomod"/>saemde</abbr><expan>v<ex>er</ex>saemde</expan></choice> haesteleke</l>
+
+
+<pb xml:id="O.f46rb" n="46rb"/>
+<lb n="1" xml:id="Of46rb.1"/><l n="O_sample2_7332">tote phison op die beke</l>
+<lb n="2" xml:id="Of46rb.2"/><l n="O_sample2_7333">drie <choice><abbr>ho<g ref="#bar"/>dert</abbr><expan>ho<ex>n</ex>dert</expan></choice> <num type="roman">m</num> <choice><abbr>gewape<g ref="#bar"/>d<g ref="#apomod"/></abbr><expan>gewape<ex>n</ex>d<ex>er</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Of46rb.3"/><l n="O_sample2_7334"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <num type="roman">x.m</num> ridders <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> an</l>
+<lb n="4" xml:id="Of46rb.4"/><l n="O_sample2_7335"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <num type="roman">xi</num> dusent wagene die <choice><abbr>snide<g ref="#bar"/></abbr><expan>snide<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Of46rb.5"/><l n="O_sample2_7336"><choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> zekele an <choice><abbr>beede<g ref="#bar"/></abbr><expan>beede<ex>n</ex></expan></choice> ziden</l>
+<lb n="6" xml:id="Of46rb.6"/><l n="O_sample2_7337"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>and<g ref="#apomod"/>e</abbr><expan>and<ex>er</ex>e</expan></choice> wagene wies <choice><abbr>wo<g ref="#bar"/>dert</abbr><expan>wo<ex>n</ex>dert</expan></choice></l>
+<lb n="7" xml:id="Of46rb.7"/><l n="O_sample2_7338"><choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <num type="roman">.xxv.</num> hondert</l>
+<lb n="8" xml:id="Of46rb.8"/><l n="O_sample2_7339">delbora seide tote barath</l>
+<lb n="9" xml:id="Of46rb.9"/><l n="O_sample2_7340">ganc <choice><abbr>ned<g ref="#apomod"/></abbr><expan>ned<ex>er</ex></expan></choice> op desen dach</l>
+<lb n="10" xml:id="Of46rb.10"/><l n="O_sample2_7341">god sal si <choice><abbr>geue<g ref="#bar"/></abbr><expan>geue<ex>n</ex></expan></choice> cysaras</l>
+<lb n="11" xml:id="Of46rb.11"/><l n="O_sample2_7342">hy daelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> al dat <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> was</l>
+<lb n="12" xml:id="Of46rb.12"/><l n="O_sample2_7343">delbora stont <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bat</l>
+<lb n="13" xml:id="Of46rb.13"/><l n="O_sample2_7344"><choice><abbr>opte<g ref="#bar"/></abbr><expan>opte<ex>n</ex></expan></choice> berch in eene stat</l>
+<lb n="14" xml:id="Of46rb.14"/><l n="O_sample2_7345">god gaf cyserre <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> vaer</l>
+<lb n="15" xml:id="Of46rb.15"/><l n="O_sample2_7346">enten <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> die <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> daer</l>
+<lb n="16" xml:id="Of46rb.16"/><l n="O_sample2_7347">want hagel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>rege<g ref="#bar"/></abbr><expan>rege<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Of46rb.17"/><l n="O_sample2_7348"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>blixo<g ref="#bar"/>me</abbr><expan>blixo<ex>m</ex>me</expan></choice> die <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>jege<g ref="#bar"/></abbr><expan>jege<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Of46rb.18"/><l n="O_sample2_7349">soe dat die <choice><abbr>slinge<g ref="#apomod"/></abbr><expan>slinge<ex>re</ex></expan></choice> entie <choice><abbr>boge<g ref="#bar"/></abbr><expan>boge<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Of46rb.19"/><l n="O_sample2_7350">hem cleen no groet ne <choice><abbr>doge<g ref="#bar"/></abbr><expan>doge<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Of46rb.20"/><l n="O_sample2_7351">sulc viel <choice><abbr>vand<g ref="#apomod"/></abbr><expan>vand<ex>er</ex></expan></choice> <choice><abbr>wage<g ref="#bar"/></abbr><expan>wage<ex>n</ex></expan></choice> op daerde</l>
+<lb n="21" xml:id="Of46rb.21"/><l n="O_sample2_7352">sulc wort <choice><abbr>getorde<g ref="#bar"/></abbr><expan>getorde<ex>n</ex></expan></choice> <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> die <choice><abbr><g ref="#pbardes"/>de</abbr><expan><ex>paer</ex>de</expan></choice></l>
+<lb n="22" xml:id="Of46rb.22"/><l n="O_sample2_7353">sus dede hem al there ter vluch</l>
+<lb n="23" xml:id="Of46rb.23"/><l n="O_sample2_7354">cysaras vlo doer die vrucht</l>
+<lb n="24" xml:id="Of46rb.24"/><l n="O_sample2_7355">al daer abuuer chynneus</l>
+<lb n="25" xml:id="Of46rb.25"/><l n="O_sample2_7356">woende <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> siin wijf was thuys</l>
+<lb n="26" xml:id="Of46rb.26"/><l n="O_sample2_7357">abuer was <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> van jetro</l>
+<lb n="27" xml:id="Of46rb.27"/><l n="O_sample2_7358"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> gehoont so</l>
+<lb n="28" xml:id="Of46rb.28"/><l n="O_sample2_7359"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tvolc van <choice><abbr>isr<g ref="#bar"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="29" xml:id="Of46rb.29"/><l n="O_sample2_7360">abuers wijf hiet jabel</l>
+<lb n="30" xml:id="Of46rb.30"/><l n="O_sample2_7361">hy hadde vrede met jabin</l>
+<lb n="31" xml:id="Of46rb.31"/><l n="O_sample2_7362">cysaras die vloe <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> jn</l>
+<lb n="32" xml:id="Of46rb.32"/><l n="O_sample2_7363"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bat <choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> <choice><abbr>decke<g ref="#bar"/></abbr><expan>decke<ex>n</ex></expan></choice> soude</l>
+<lb n="33" xml:id="Of46rb.33"/><l n="O_sample2_7364">oec seidi datti <choice><abbr>drincke<g ref="#bar"/></abbr><expan>drincke<ex>n</ex></expan></choice> woude</l>
+<lb n="34" xml:id="Of46rb.34"/><l n="O_sample2_7365">soe gaf <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> melc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi sliep vaste</l>
+<lb n="35" xml:id="Of46rb.35"/><l n="O_sample2_7366">doe door slouch soe <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> gaste</l>
+<lb n="36" xml:id="Of46rb.36"/><l n="O_sample2_7367">beede die <choice><abbr>sliepe<g ref="#bar"/></abbr><expan>sliepe<ex>n</ex></expan></choice> nageltse daer</l>
+<lb n="37" xml:id="Of46rb.37"/><l n="O_sample2_7368">jege die aerde dat was waer</l>
+<lb n="38" xml:id="Of46rb.38"/><l n="O_sample2_7369"><choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> <choice><abbr>yserine<g ref="#bar"/></abbr><expan>yserine<ex>n</ex></expan></choice> nagele</l>
+
+
+<pb xml:id="O.f46va" n="46va"/>
+<lb n="1" xml:id="Of46va.1"/><l n="O_sample2_7370">jahel bediet die behagelle</l>
+<lb n="2" xml:id="Of46va.2"/><l n="O_sample2_7371">entie scoene <choice><abbr>mag<g ref="#etfin"/></abbr><expan>mag<ex>et</ex></expan></choice> marie</l>
+<lb n="3" xml:id="Of46va.3"/><l n="O_sample2_7372">cysaras <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sine <choice><abbr><g ref="#pbardes"/>tie</abbr><expan><ex>par</ex>tie</expan></choice></l>
+<lb n="4" xml:id="Of46va.4"/><l n="O_sample2_7373">dats lucifer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sine scare</l>
+<lb n="5" xml:id="Of46va.5"/><l n="O_sample2_7374">die <choice><abbr>v<g ref="#apomod"/>wo<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>v<ex>er</ex>wo<ex>n</ex>ne<ex>n</ex></expan></choice> siin bi hare</l>
+<lb n="6" xml:id="Of46va.6"/><l n="O_sample2_7375">die nagel mach <choice><abbr>bediede<g ref="#bar"/></abbr><expan>bediede<ex>n</ex></expan></choice> mede</l>
+<lb n="7" xml:id="Of46va.7"/><l n="O_sample2_7376">die slotel haerre reynichede</l>
+<lb n="8" xml:id="Of46va.8"/><l n="O_sample2_7377">daer soe den duuel by <choice><abbr>v<g ref="#apomod"/>wan</abbr><expan>v<ex>er</ex>wan</expan></choice></l>
+<lb n="9" xml:id="Of46va.9"/><l n="O_sample2_7378">die melc die jahel gaf <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Of46va.10"/><l n="O_sample2_7379">dats ihesus menschelichede</l>
+<lb n="11" xml:id="Of46va.11"/><l n="O_sample2_7380">dier<del>j</del> lucifer bedroech mede</l>
+<lb n="12" xml:id="Of46va.12"/><l n="O_sample2_7381">die hamer <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> soe mede slouch</l>
+<lb n="13" xml:id="Of46va.13"/><l n="O_sample2_7382">gelijct den cruce genouch</l>
+<lb n="14" xml:id="Of46va.14"/><l n="O_sample2_7383">by <choice><abbr>marie<g ref="#bar"/></abbr><expan>marie<ex>n</ex></expan></choice> reynichede</l>
+<lb n="15" xml:id="Of46va.15"/><l n="O_sample2_7384"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> by ihesus <choice><abbr>me<g ref="#bar"/>schelichede</abbr><expan>me<ex>n</ex>schelichede</expan></choice></l>
+<lb n="16" xml:id="Of46va.16"/><l n="O_sample2_7385"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>bide<g ref="#bar"/></abbr><expan>bide<ex>n</ex></expan></choice> cruce es openbare</l>
+<lb n="17" xml:id="Of46va.17"/><l n="O_sample2_7386">gescoffiert des duuels scare</l>
+<lb n="18" xml:id="Of46va.18"/><l n="O_sample2_7386a"><hi rend="capitalsize1">V</hi>an barach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>isr<g ref="#bar"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> <num type="roman">.iiij.</num></l>
+<lb n="19" xml:id="Of46va.19"/><l n="O_sample2_7387"><hi rend="capitalsize2">D</hi>aer na soe <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> barach</l>
+<lb n="20" xml:id="Of46va.20"/><l n="O_sample2_7388">jahel toechde hem <choice><abbr>w<g ref="#apomod"/></abbr><expan>w<ex>aer</ex></expan></choice> hi lach</l>
+<lb n="21" xml:id="Of46va.21"/><l n="O_sample2_7389">doot alsoe hi sliep <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice></l>
+<lb n="22" xml:id="Of46va.22"/><l n="O_sample2_7390"><choice><abbr>ald<g ref="#usmod"/></abbr><expan>ald<ex>us</ex></expan></choice> seide delbora <choice><abbr>w<g ref="#apomod"/></abbr><expan>w<ex>aer</ex></expan></choice></l>
+<lb n="23" xml:id="Of46va.23"/><l n="O_sample2_7391">dat een wijf soude <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> zege</l>
+<lb n="24" xml:id="Of46va.24"/><l n="O_sample2_7392">barach leede there een wege</l>
+<lb n="25" xml:id="Of46va.25"/><l n="O_sample2_7393">jegen jabin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> there groot</l>
+<lb n="26" xml:id="Of46va.26"/><l n="O_sample2_7394">die slouchi <choice><abbr>algad<g ref="#apomod"/></abbr><expan>algad<ex>er</ex></expan></choice> te doot</l>
+<lb n="27" xml:id="Of46va.27"/><l n="O_sample2_7395"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> asor sine hoeftstede</l>
+<lb n="28" xml:id="Of46va.28"/><l n="O_sample2_7396">velledi <choice><abbr>altegad<g ref="#apomod"/></abbr><expan>altegad<ex>er</ex></expan></choice> mede</l>
+<lb n="29" xml:id="Of46va.29"/><l n="O_sample2_7397">barach <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> delbora</l>
+<lb n="30" xml:id="Of46va.30"/><l n="O_sample2_7398"><choice><abbr>songe<g ref="#bar"/></abbr><expan>songe<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> loefden gode <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> na</l>
+<lb n="31" xml:id="Of46va.31"/><l n="O_sample2_7399">die soe <choice><abbr>dicke<g ref="#bar"/></abbr><expan>dicke<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe wel</l>
+<lb n="32" xml:id="Of46va.32"/><l n="O_sample2_7400">bescudde die van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="33" xml:id="Of46va.33"/><l n="O_sample2_7401">doe <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> sy in <choice><abbr>vrede<g ref="#bar"/></abbr><expan>vrede<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> naer</l>
+<lb n="34" xml:id="Of46va.34"/><l n="O_sample2_7402"><choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> vechten <num type="roman">.xl.</num> jae<del>j</del><add>r</add></l>
+<lb n="35" xml:id="Of46va.35"/><l n="O_sample2_7403">apollo was in delbora tijden</l>
+<lb n="36" xml:id="Of46va.36"/><l n="O_sample2_7404">dien die heydene lange wylen</l>
+<lb n="37" xml:id="Of46va.37"/><l n="O_sample2_7405">aenbeden in menich lant</l>
+
+
+<pb xml:id="O.f46vb" n="46vb"/>
+<lb n="1" xml:id="Of46vb.1"/><l n="O_sample2_7406">hy wast die eerst <choice><abbr>harpe<g ref="#bar"/></abbr><expan>harpe<ex>n</ex></expan></choice> vant</l>
+<lb n="2" xml:id="Of46vb.2"/><l n="O_sample2_7407"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die eerst visierde phisike</l>
+<lb n="3" xml:id="Of46vb.3"/><l n="O_sample2_7408">dat was eene wijsheit rike</l>
+<lb n="4" xml:id="Of46vb.4"/><l n="O_sample2_7409">esculapius vant ooc siin sone</l>
+<lb n="5" xml:id="Of46vb.5"/><l n="O_sample2_7410">met eere <choice><abbr>blixo<g ref="#bar"/>me</abbr><expan>blixo<ex>m</ex>me</expan></choice> was die gone</l>
+<lb n="6" xml:id="Of46vb.6"/><l n="O_sample2_7411">verbernt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sine bouke mede</l>
+<lb n="7" xml:id="Of46vb.7"/><l n="O_sample2_7412">dus bleef die <choice><abbr>behe<g ref="#bar"/>dichede</abbr><expan>behe<ex>n</ex>dichede</expan></choice></l>
+<lb n="8" xml:id="Of46vb.8"/><l n="O_sample2_7413"><choice><abbr>v<g ref="#apomod"/>lore<g ref="#bar"/></abbr><expan>v<ex>er</ex>lore<ex>n</ex></expan></choice> wel <num type="roman">.c.</num> jaer</l>
+<lb n="9" xml:id="Of46vb.9"/><l n="O_sample2_7414">tote datse ypocras vant <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> naer</l>
+<lb n="10" xml:id="Of46vb.10"/><l n="O_sample2_7415">tien tijden maecte ylus soen</l>
+<lb n="11" xml:id="Of46vb.11"/><l n="O_sample2_7416">van troyen <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> tor yliom</l>
+<lb n="12" xml:id="Of46vb.12"/><l n="O_sample2_7417">te <choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> tiden slouch <choice><abbr><g ref="#pbardes"/>cius</abbr><expan><ex>per</ex>cius</expan></choice></l>
+<lb n="13" xml:id="Of46vb.13"/><l n="O_sample2_7418">doot den <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> acrisius</l>
+<lb n="14" xml:id="Of46vb.14"/><l n="O_sample2_7419"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>tconi<g ref="#bar"/>crike</abbr><expan>tconi<ex>n</ex>crike</expan></choice> maecti mede</l>
+<lb n="15" xml:id="Of46vb.15"/><l n="O_sample2_7420">tote nych in die oude stede</l>
+<lb n="16" xml:id="Of46vb.16"/><l n="O_sample2_7421">dat te <choice><abbr>vore<g ref="#bar"/></abbr><expan>vore<ex>n</ex></expan></choice> margos was</l>
+<lb n="17" xml:id="Of46vb.17"/><l n="O_sample2_7422">alsoe als ic <choice><abbr>bescreue<g ref="#bar"/></abbr><expan>bescreue<ex>n</ex></expan></choice> las</l>
+<lb n="18" xml:id="Of46vb.18"/><l n="O_sample2_7422a">hoe die van <choice><abbr>isr<g ref="#bar"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice> misdede</l>
+<lb n="19" xml:id="Of46vb.19"/><l n="O_sample2_7422b">jegen gode</l>
+<lb n="20" xml:id="Of46vb.20"/><l n="O_sample2_7423"><hi rend="capitalsize2">A</hi>nderwerf mesdede <choice><abbr>zee<g ref="#apomod"/></abbr><expan>zee<ex>re</ex></expan></choice></l>
+<lb n="21" xml:id="Of46vb.21"/><l n="O_sample2_7424"><choice><abbr><hi rend="capitalsize1">J</hi>sr<g ref="#apomod"/>l</abbr><expan><hi rend="capitalsize1">J</hi>sr<ex>ahe</ex>l</expan></choice> jegen onsen <choice><abbr>hee<g ref="#apomod"/></abbr><expan>hee<ex>re</ex></expan></choice></l>
+<lb n="22" xml:id="Of46vb.22"/><l n="O_sample2_7425">doen hiet hyse <choice><abbr>dwinge<g ref="#bar"/></abbr><expan>dwinge<ex>n</ex></expan></choice> dan</l>
+<lb n="23" xml:id="Of46vb.23"/><l n="O_sample2_7426">den lieden van madian</l>
+<lb n="24" xml:id="Of46vb.24"/><l n="O_sample2_7427">entie van amalech dats <choice><abbr>w<g ref="#apomod"/></abbr><expan>w<ex>aer</ex></expan></choice></l>
+<lb n="25" xml:id="Of46vb.25"/><l n="O_sample2_7428">dese <choice><abbr>dwonge<g ref="#bar"/>se</abbr><expan>dwonge<ex>n</ex>se</expan></choice> <num type="roman">.vij.</num> jair</l>
+<lb n="26" xml:id="Of46vb.26"/><l n="O_sample2_7429">elcx jairs <choice><abbr>v<g ref="#apomod"/>here<g ref="#bar"/></abbr><expan>v<ex>er</ex>here<ex>n</ex></expan></choice> sijt dat <choice><abbr>core<g ref="#bar"/></abbr><expan>core<ex>n</ex></expan></choice></l>
+<lb n="27" xml:id="Of46vb.27"/><l n="O_sample2_7430"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer <choice><abbr>beeste<g ref="#bar"/></abbr><expan>beeste<ex>n</ex></expan></choice> als wijt <choice><abbr>hoere<g ref="#bar"/></abbr><expan>hoere<ex>n</ex></expan></choice></l>
+<lb n="28" xml:id="Of46vb.28"/><l n="O_sample2_7431">doe <choice><abbr>riepe<g ref="#bar"/></abbr><expan>riepe<ex>n</ex></expan></choice> si an gode <choice><abbr>genade<g ref="#bar"/></abbr><expan>genade<ex>n</ex></expan></choice></l>
+<lb n="29" xml:id="Of46vb.29"/><l n="O_sample2_7432"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi heeft hem <choice><abbr>berade<g ref="#bar"/></abbr><expan>berade<ex>n</ex></expan></choice></l>
+<lb n="30" xml:id="Of46vb.30"/><l n="O_sample2_7433">met <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> <choice><abbr><g ref="#pflour"/>phete</abbr><expan><ex>pro</ex>phete</expan></choice> die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> saen</l>
+<lb n="31" xml:id="Of46vb.31"/><l n="O_sample2_7434"><choice><abbr>v<g ref="#apomod"/>maende</abbr><expan>v<ex>er</ex>maende</expan></choice> wat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> was gedaen</l>
+<lb n="32" xml:id="Of46vb.32"/><l n="O_sample2_7435">van gode diese wel noede liet</l>
+<lb n="33" xml:id="Of46vb.33"/><l n="O_sample2_7436"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> si en wilden <choice><abbr>hoere<g ref="#bar"/></abbr><expan>hoere<ex>n</ex></expan></choice> niet</l>
+<lb n="34" xml:id="Of46vb.34"/><l n="O_sample2_7437">doe <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> die jngle <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> hemelrike</l>
+<lb n="35" xml:id="Of46vb.35"/><l n="O_sample2_7438">tote <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> man die was rike</l>
+<lb n="36" xml:id="Of46vb.36"/><l n="O_sample2_7439"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hadde <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> sone <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet gedeon</l>
+<lb n="37" xml:id="Of46vb.37"/><l n="O_sample2_7440">die derscede <choice><abbr>tcore<g ref="#bar"/></abbr><expan>tcore<ex>n</ex></expan></choice> om dit doen</l>
+<lb n="38" xml:id="Of46vb.38"/><l n="O_sample2_7441">dat hiere ter noot by <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice> soude</l>
+
+</p>
+</body>
+</text>
+
+
+<text n="Judit_sample3" xml:id="sample3">
+<body>
+<p>
+
+<pb xml:id="O.f89vb" n="89vb"/>
+<lb n="1" xml:id="Of89vb.1"/><l n="O_sample3_17444"><hi rend="capitalsize1">J</hi>udits jeeste gaet <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>ier</ex></expan></choice> an</l>
+<lb n="2" xml:id="Of89vb.2"/><l n="O_sample3_17445">van liue wijf van <choice><abbr>h<g ref="#apomod"/>te<g ref="#bar"/></abbr><expan>h<ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Of89vb.3"/><l n="O_sample3_17446"><choice><abbr>v<g ref="#apomod"/>staet</abbr><expan>v<ex>er</ex>staet</expan></choice> wel na cyrus doot</l>
+<lb n="4" xml:id="Of89vb.4"/><l n="O_sample3_17447"><choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>ar</ex>t</expan></choice> een arfaxat <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> groot</l>
+<lb n="5" xml:id="Of89vb.5"/><l n="O_sample3_17448"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> veste <choice><abbr>gacam<g ref="#usmod"/></abbr><expan>gacam<ex>us</ex></expan></choice> die stede</l>
+<lb n="6" xml:id="Of89vb.6"/><l n="O_sample3_17449">die staet jnt lant van <choice><abbr>mede<g ref="#bar"/></abbr><expan>mede<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Of89vb.7"/><l n="O_sample3_17450">om dat hy wilde <choice><abbr>moge<g ref="#bar"/>tlike</abbr><expan>moge<ex>n</ex>tlike</expan></choice></l>
+<lb n="8" xml:id="Of89vb.8"/><l n="O_sample3_17451"><choice><abbr>winne<g ref="#bar"/></abbr><expan>winne<ex>n</ex></expan></choice> van <choice><abbr>mede<g ref="#bar"/></abbr><expan>mede<ex>n</ex></expan></choice> dat <choice><abbr>coni<g ref="#bar"/>crijke</abbr><expan>coni<ex>n</ex>crijke</expan></choice></l>
+<lb n="9" xml:id="Of89vb.9"/><l n="O_sample3_17452">nabugodonosor <choice><abbr>ca<g ref="#bar"/>bices</abbr><expan>ca<ex>m</ex>bices</expan></choice></l>
+<lb n="10" xml:id="Of89vb.10"/><l n="O_sample3_17453">cyrus sone <choice><abbr>v<g ref="#apomod"/>diende</abbr><expan>v<ex>er</ex>diende</expan></choice> des</l>
+<lb n="11" xml:id="Of89vb.11"/><l n="O_sample3_17454"><choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> gaf die <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> eer hi bleef doot</l>
+<lb n="12" xml:id="Of89vb.12"/><l n="O_sample3_17455">nineue die stede groot</l>
+<lb n="13" xml:id="Of89vb.13"/><l n="O_sample3_17456"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van surien dat lant</l>
+<lb n="14" xml:id="Of89vb.14"/><l n="O_sample3_17457"><num type="roman">.xij.</num> jaer dats wel becant</l>
+<lb n="15" xml:id="Of89vb.15"/><l n="O_sample3_17458">droechi croene voer tyrus doot</l>
+
+
+<pb xml:id="O.f90ra" n="90ra"/>
+<lb n="1" xml:id="Of90ra.1"/><l n="O_sample3_17459">die gaf arfaxat <choice><abbr>wed<g ref="#apomod"/>stoot</abbr><expan>wed<ex>er</ex>stoot</expan></choice></l>
+<lb n="2" xml:id="Of90ra.2"/><l n="O_sample3_17460"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> slouchen doet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan tlant</l>
+<lb n="3" xml:id="Of90ra.3"/><l n="O_sample3_17461"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> doe hine hadde in sine hant</l>
+<lb n="4" xml:id="Of90ra.4"/><l n="O_sample3_17462">beede <choice><abbr><g ref="#pbardes"/>sen</abbr><expan><ex>per</ex>sen</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> meden</l>
+<lb n="5" xml:id="Of90ra.5"/><l n="O_sample3_17463"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> al des vaders <choice><abbr>moge<g ref="#bar"/>theden</abbr><expan>moge<ex>n</ex>theden</expan></choice></l>
+<lb n="6" xml:id="Of90ra.6"/><l n="O_sample3_17464"><choice><abbr>v<g ref="#apomod"/>hief</abbr><expan>v<ex>er</ex>hief</expan></choice> hi siin <choice><abbr>h<g ref="#apomod"/>te</abbr><expan>h<ex>er</ex>te</expan></choice> <choice><abbr>d<g ref="#apomod"/>na</abbr><expan>d<ex>aer</ex>na</expan></choice></l>
+<lb n="7" xml:id="Of90ra.7"/><l n="O_sample3_17465"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hy sende in cylicia</l>
+<lb n="8" xml:id="Of90ra.8"/><l n="O_sample3_17466"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> inde lande <choice><abbr>o<g ref="#bar"/>trent</abbr><expan>o<ex>m</ex>trent</expan></choice> hem</l>
+<lb n="9" xml:id="Of90ra.9"/><l n="O_sample3_17467">al toter stat van iherusalem</l>
+<lb n="10" xml:id="Of90ra.10"/><l n="O_sample3_17468"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> heeschede gauel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> chens mede</l>
+<lb n="11" xml:id="Of90ra.11"/><l n="O_sample3_17469">meer dan ye siin vader dede</l>
+<lb n="12" xml:id="Of90ra.12"/><l n="O_sample3_17470"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sy <choice><abbr>ontseide<g ref="#bar"/></abbr><expan>ontseide<ex>n</ex></expan></choice> alle gauel</l>
+<lb n="13" xml:id="Of90ra.13"/><l n="O_sample3_17471">doe <choice><abbr>na<g ref="#bar"/></abbr><expan>na<ex>m</ex></expan></choice> hy <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> conincstauel</l>
+<lb n="14" xml:id="Of90ra.14"/><l n="O_sample3_17472">olofernesse <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> geboot</l>
+<lb n="15" xml:id="Of90ra.15"/><l n="O_sample3_17473">dat hy name siin here groot</l>
+<lb n="16" xml:id="Of90ra.16"/><l n="O_sample3_17474"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> nyemens ooc <choice><abbr>v<g ref="#apomod"/>mede</abbr><expan>v<ex>er</ex>mede</expan></choice></l>
+<lb n="17" xml:id="Of90ra.17"/><l n="O_sample3_17475">no borch no lant jn geene stede</l>
+<lb n="18" xml:id="Of90ra.18"/><l n="O_sample3_17476">hy voor ute met <choice><abbr>menige<g ref="#bar"/></abbr><expan>menige<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
+<lb n="19" xml:id="Of90ra.19"/><l n="O_sample3_17477"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stoorde <del>th</del> tlant <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>madia<g ref="#bar"/></abbr><expan>madia<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Of90ra.20"/><l n="O_sample3_17478"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ooc tlant van mylicia</l>
+<lb n="21" xml:id="Of90ra.21"/><l n="O_sample3_17479"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> mesopotanya</l>
+<lb n="22" xml:id="Of90ra.22"/><l n="O_sample3_17480">die prince <choice><abbr>bade<g ref="#bar"/></abbr><expan>bade<ex>n</ex></expan></choice> om <choice><abbr>genade<g ref="#bar"/></abbr><expan>genade<ex>n</ex></expan></choice></l>
+<lb n="23" xml:id="Of90ra.23"/><l n="O_sample3_17481">doe <choice><abbr>na<g ref="#bar"/></abbr><expan>na<ex>m</ex></expan></choice> hy op borge <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> staden</l>
+<lb n="24" xml:id="Of90ra.24"/><l n="O_sample3_17482"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> velletse <choice><abbr>allegad<g ref="#apomod"/></abbr><expan>allegad<ex>er</ex></expan></choice> neder</l>
+<lb n="25" xml:id="Of90ra.25"/><l n="O_sample3_17483">alle die afgode voort <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice></l>
+<lb n="26" xml:id="Of90ra.26"/><l n="O_sample3_17484">brac hi te <choice><abbr>sticke<g ref="#bar"/></abbr><expan>sticke<ex>n</ex></expan></choice> cleen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
+<lb n="27" xml:id="Of90ra.27"/><l n="O_sample3_17485">om dat cambices geboot</l>
+<lb n="28" xml:id="Of90ra.28"/><l n="O_sample3_17486">want hy wilde wesen god</l>
+<lb n="29" xml:id="Of90ra.29"/><l n="O_sample3_17487">al sy <choice><abbr>v<g ref="#apomod"/>name<g ref="#bar"/></abbr><expan>v<ex>er</ex>name<ex>n</ex></expan></choice> dat gebot</l>
+<lb n="30" xml:id="Of90ra.30"/><l n="O_sample3_17488">die <hi rend="capitalsize1">J</hi>oden van iherusalem</l>
+<lb n="31" xml:id="Of90ra.31"/><l n="O_sample3_17489"><choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> sy <choice><abbr>v<g ref="#apomod"/>uaert</abbr><expan>v<ex>er</ex>uaert</expan></choice> van hem</l>
+<lb n="32" xml:id="Of90ra.32"/><l n="O_sample3_17490">dat hy niet alsulke scade</l>
+<lb n="33" xml:id="Of90ra.33"/><l n="O_sample3_17491">den tempel ons <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> en dade</l>
+<lb n="34" xml:id="Of90ra.34"/><l n="O_sample3_17492">sy <choice><abbr>veste<g ref="#bar"/></abbr><expan>veste<ex>n</ex></expan></choice> die wege <choice><abbr>zee<g ref="#apomod"/></abbr><expan>zee<ex>re</ex></expan></choice></l>
+<lb n="35" xml:id="Of90ra.35"/><l n="O_sample3_17493"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>bade<g ref="#bar"/></abbr><expan>bade<ex>n</ex></expan></choice> met <choice><abbr>h<g ref="#apomod"/>ten</abbr><expan>h<ex>er</ex>ten</expan></choice> <choice><abbr>onse<g ref="#bar"/></abbr><expan>onse<ex>n</ex></expan></choice> <choice><abbr>hee<g ref="#apomod"/></abbr><expan>hee<ex>re</ex></expan></choice></l>
+<lb n="36" xml:id="Of90ra.36"/><l n="O_sample3_17494">doe <choice><abbr>v<g ref="#apomod"/>namt</abbr><expan>v<ex>er</ex>namt</expan></choice> olofernes wel</l>
+<lb n="37" xml:id="Of90ra.37"/><l n="O_sample3_17495">dat die <choice><abbr>kind<g ref="#apomod"/></abbr><expan>kind<ex>er</ex></expan></choice> van <choice><abbr>isr<g ref="#apomod"/>l</abbr><expan>isr<ex>ahe</ex>l</expan></choice></l>
+<lb n="38" xml:id="Of90ra.38"/><l n="O_sample3_17496">die wege <choice><abbr>slote<g ref="#bar"/></abbr><expan>slote<ex>n</ex></expan></choice> <choice><abbr>hare<g ref="#bar"/>tare</abbr><expan>hare<ex>n</ex>tare</expan></choice></l>
+
+
+<pb xml:id="O.f90rb" n="90rb"/>
+<lb n="1" xml:id="Of90rb.1"/><l n="O_sample3_17497"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vraechde wat volke het <choice><abbr>wae<g ref="#apomod"/></abbr><expan>wae<ex>re</ex></expan></choice></l>
+<lb n="2" xml:id="Of90rb.2"/><l n="O_sample3_17498">doe sprac die prince <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>a<g ref="#bar"/>monite<g ref="#bar"/></abbr><expan>a<ex>m</ex>monite<ex>n</ex></expan></choice></l>
+<lb n="3" xml:id="Of90rb.3"/><l n="O_sample3_17499">achior die wel van <choice><abbr>oude<g ref="#bar"/></abbr><expan>oude<ex>n</ex></expan></choice> <choice><abbr>vite<g ref="#bar"/></abbr><expan>vite<ex>n</ex></expan></choice></l>
+<lb n="4" xml:id="Of90rb.4"/><l n="O_sample3_17500">bekinde hoe dat volc <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="5" xml:id="Of90rb.5"/><l n="O_sample3_17501"><choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> <choice><abbr>goede<g ref="#bar"/></abbr><expan>goede<ex>n</ex></expan></choice> <choice><abbr>abraha<g ref="#bar"/></abbr><expan>abraha<ex>m</ex></expan></choice></l>
+<lb n="6" xml:id="Of90rb.6"/><l n="O_sample3_17502"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hoe sy door die roede zee <choice><abbr>gi<g ref="#bar"/>ge<g ref="#bar"/></abbr><expan>gi<ex>n</ex>ge<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Of90rb.7"/><l n="O_sample3_17503"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> god niet wilde <choice><abbr>gehinge<g ref="#bar"/></abbr><expan>gehinge<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="Of90rb.8"/><l n="O_sample3_17504">dat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>yeme<g ref="#bar"/>t</abbr><expan>yeme<ex>n</ex>t</expan></choice> mochte <choice><abbr>scade<g ref="#bar"/></abbr><expan>scade<ex>n</ex></expan></choice></l>
+<lb n="9" xml:id="Of90rb.9"/><l n="O_sample3_17505">alsoe lange als sy wel daden</l>
+<lb n="10" xml:id="Of90rb.10"/><l n="O_sample3_17506"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> daedsy sonde hy soudse <choice><abbr>plage<g ref="#bar"/></abbr><expan>plage<ex>n</ex></expan></choice></l>
+<lb n="11" xml:id="Of90rb.11"/><l n="O_sample3_17507">niewelinge in <choice><abbr>corte<g ref="#bar"/></abbr><expan>corte<ex>n</ex></expan></choice> dagen</l>
+<lb n="12" xml:id="Of90rb.12"/><l n="O_sample3_17508">heeftise van bande ontbonden</l>
+<lb n="13" xml:id="Of90rb.13"/><l n="O_sample3_17509">daer hyse in door hare <choice><abbr>sonde<g ref="#bar"/></abbr><expan>sonde<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Of90rb.14"/><l n="O_sample3_17510">nabugodonosor <choice><abbr>binde<g ref="#bar"/></abbr><expan>binde<ex>n</ex></expan></choice> liet</l>
+<lb n="15" xml:id="Of90rb.15"/><l n="O_sample3_17511"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>winne<g ref="#bar"/></abbr><expan>v<ex>er</ex>winne<ex>n</ex></expan></choice> marct <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> siet</l>
+<lb n="16" xml:id="Of90rb.16"/><l n="O_sample3_17512">of hem god niet es gram</l>
+<lb n="17" xml:id="Of90rb.17"/><l n="O_sample3_17513">wy bindense oft ware <num type="roman">.J.</num> lam</l>
+<lb n="18" xml:id="Of90rb.18"/><l n="O_sample3_17514"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> est dat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> god es hout</l>
+<lb n="19" xml:id="Of90rb.19"/><l n="O_sample3_17515">soe ne helpter toe geen gewout</l>
+<lb n="20" xml:id="Of90rb.20"/><l n="O_sample3_17515a">van olifernus <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>co<g ref="#bar"/></abbr><expan>co<ex>ninc</ex></expan></choice> <num type="roman">xvii.</num></l>
+<lb n="21" xml:id="Of90rb.21"/><l n="O_sample3_17516"><hi rend="capitalsize2">O</hi>m dat <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> barch olifernes</l>
+<lb n="22" xml:id="Of90rb.22"/><l n="O_sample3_17517"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seide ic sal di <choice><abbr>beuroede<g ref="#bar"/></abbr><expan>beuroede<ex>n</ex></expan></choice> des</l>
+<lb n="23" xml:id="Of90rb.23"/><l n="O_sample3_17518">dat geen god <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sy achior</l>
+<lb n="24" xml:id="Of90rb.24"/><l n="O_sample3_17519">dan ons <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> nabugodonosor</l>
+<lb n="25" xml:id="Of90rb.25"/><l n="O_sample3_17520">die groete <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> cambices</l>
+<lb n="26" xml:id="Of90rb.26"/><l n="O_sample3_17521">du moets met <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr><del>he</del><g ref="#bar"/></abbr><expan><del>he</del><ex>m</ex></expan></choice> sijts gewes</l>
+<lb n="27" xml:id="Of90rb.27"/><l n="O_sample3_17522">alsoe icse <choice><abbr>wi<g ref="#bar"/>ne</abbr><expan>wi<ex>n</ex>ne</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> di oec mede</l>
+<lb n="28" xml:id="Of90rb.28"/><l n="O_sample3_17523">dan saltu <choice><abbr>wete<g ref="#bar"/></abbr><expan>wete<ex>n</ex></expan></choice> die waerhede</l>
+<lb n="29" xml:id="Of90rb.29"/><l n="O_sample3_17524">holofernes hiet hy <choice><abbr>d<g ref="#apomod"/>na</abbr><expan>d<ex>aer</ex>na</expan></choice></l>
+<lb n="30" xml:id="Of90rb.30"/><l n="O_sample3_17525">siin <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> leiden tote betulia</l>
+<lb n="31" xml:id="Of90rb.31"/><l n="O_sample3_17526">eene poort die hy wilde <choice><abbr>wi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>wi<ex>n</ex>ne<ex>n</ex></expan></choice></l>
+<lb n="32" xml:id="Of90rb.32"/><l n="O_sample3_17527"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> sy <choice><abbr>ontsage<g ref="#bar"/></abbr><expan>ontsage<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>di<g ref="#apomod"/>e</abbr><expan>di<ex>er</ex>e</expan></choice> <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice></l>
+<lb n="33" xml:id="Of90rb.33"/><l n="O_sample3_17528"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>bonde<g ref="#bar"/></abbr><expan>bonde<ex>n</ex></expan></choice> an <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> boom <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice></l>
+<lb n="34" xml:id="Of90rb.34"/><l n="O_sample3_17529"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> stede een deel wel naer</l>
+<lb n="35" xml:id="Of90rb.35"/><l n="O_sample3_17530">soe <choice><abbr>datte<g ref="#bar"/></abbr><expan>datte<ex>n</ex></expan></choice> die van <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> <choice><abbr>name<g ref="#bar"/></abbr><expan>name<ex>n</ex></expan></choice></l>
+<lb n="36" xml:id="Of90rb.36"/><l n="O_sample3_17531"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>brochte<g ref="#bar"/></abbr><expan>brochte<ex>n</ex></expan></choice> onder tvolc te <choice><abbr>same<g ref="#bar"/></abbr><expan>same<ex>n</ex></expan></choice></l>
+<lb n="37" xml:id="Of90rb.37"/><l n="O_sample3_17532"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>seide<g ref="#bar"/></abbr><expan>seide<ex>n</ex></expan></choice> wat hi hadde <choice><abbr>misdae<g ref="#bar"/></abbr><expan>misdae<ex>n</ex></expan></choice></l>
+<lb n="38" xml:id="Of90rb.38"/><l n="O_sample3_17533">doe <choice><abbr>behilde<g ref="#bar"/></abbr><expan>behilde<ex>n</ex></expan></choice> sy <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> waen</l>
+<lb n="39" xml:id="Of90rb.39"/><l n="O_sample3_17534">hier <choice><abbr>bena<g ref="#bar"/></abbr><expan>bena<ex>m</ex></expan></choice> hy <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>bute<g ref="#bar"/></abbr><expan>bute<ex>n</ex></expan></choice> dat <choice><abbr>h<g ref="#apomod"/>e</abbr><expan>h<ex>er</ex>e</expan></choice></l>
+
+
+<pb xml:id="O.f90va" n="90va"/>
+<lb n="1" xml:id="Of90va.1"/><l n="O_sample3_17535">soe <choice><abbr>datme<g ref="#bar"/></abbr><expan>datme<ex>n</ex></expan></choice> waent dat sy <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> <choice><abbr>w<g ref="#apomod"/>e</abbr><expan>w<ex>er</ex>e</expan></choice></l>
+<lb n="2" xml:id="Of90va.2"/><l n="O_sample3_17536">op wilden <choice><abbr>geue<g ref="#bar"/></abbr><expan>geue<ex>n</ex></expan></choice> hare stat</l>
+<lb n="3" xml:id="Of90va.3"/><l n="O_sample3_17537"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seiden <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> hym <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> dat</l>
+<lb n="4" xml:id="Of90va.4"/><l n="O_sample3_17538">helpt <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> god niet <choice><abbr>bi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>bi<ex>n</ex>ne<ex>n</ex></expan></choice> <num type="roman">.v.</num> <choice><abbr>dage<g ref="#bar"/></abbr><expan>dage<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Of90va.5"/><l n="O_sample3_17539">dat sij <choice><abbr>y<g ref="#bar"/>m<g ref="#apomod"/></abbr><expan>y<ex>m</ex>m<ex>er</ex></expan></choice> <choice><abbr>wilde<g ref="#bar"/></abbr><expan>wilde<ex>n</ex></expan></choice> wagen</l>
+<lb n="6" xml:id="Of90va.6"/><l n="O_sample3_17540">eene weduwe nv <choice><abbr>m<g ref="#apomod"/>ket</abbr><expan>m<ex>er</ex>ket</expan></choice> dit</l>
+<lb n="7" xml:id="Of90va.7"/><l n="O_sample3_17541">was in die stede <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hiet <hi rend="capitalsize1">J</hi>udit</l>
+<lb n="8" xml:id="Of90va.8"/><l n="O_sample3_17542">door scoone <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> reyne van liue</l>
+<lb n="9" xml:id="Of90va.9"/><l n="O_sample3_17543">soe scalt die <choice><abbr>pape<g ref="#bar"/></abbr><expan>pape<ex>n</ex></expan></choice> alse keytiue</l>
+<lb n="10" xml:id="Of90va.10"/><l n="O_sample3_17544">dat sy termine <choice><abbr>e<g ref="#bar"/>m<g ref="#apomod"/>me<g ref="#apomod"/>e</abbr><expan>e<ex>m</ex>m<ex>er</ex>me<ex>er</ex>e</expan></choice></l>
+<lb n="11" xml:id="Of90va.11"/><l n="O_sample3_17545">an doget van <choice><abbr>onse<g ref="#bar"/></abbr><expan>onse<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice></l>
+<lb n="12" xml:id="Of90va.12"/><l n="O_sample3_17546"><choice><abbr>soude<g ref="#bar"/></abbr><expan>soude<ex>n</ex></expan></choice> <choice><abbr>sette<g ref="#bar"/></abbr><expan>sette<ex>n</ex></expan></choice> dat ware quaet</l>
+<lb n="13" xml:id="Of90va.13"/><l n="O_sample3_17547"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe seide <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> <choice><abbr>stille<g ref="#bar"/></abbr><expan>stille<ex>n</ex></expan></choice> raet</l>
+<lb n="14" xml:id="Of90va.14"/><l n="O_sample3_17548">en wil ic v altoes niet <choice><abbr>leere<g ref="#bar"/></abbr><expan>leere<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Of90va.15"/><l n="O_sample3_17549"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> ic sal doen twoort ons <choice><abbr>he<g ref="#apomod"/>en</abbr><expan>he<ex>er</ex>en</expan></choice></l>
+<lb n="16" xml:id="Of90va.16"/><l n="O_sample3_17550">staet <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> <choice><abbr>poorte<g ref="#bar"/></abbr><expan>poorte<ex>n</ex></expan></choice> ic wille wt <choice><abbr>gae<g ref="#bar"/></abbr><expan>gae<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Of90va.17"/><l n="O_sample3_17551"><choice><abbr>mettie<g ref="#bar"/></abbr><expan>mettie<ex>n</ex></expan></choice> porde soe alsaen</l>
+<lb n="18" xml:id="Of90va.18"/><l n="O_sample3_17552"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer joncwijf drouch spise <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>dra<g ref="#bar"/>c</abbr><expan>dra<ex>n</ex>c</expan></choice></l>
+<lb n="19" xml:id="Of90va.19"/><l n="O_sample3_17553">met hare <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dede <choice><abbr>wtw<g ref="#apomod"/>t</abbr><expan>wtw<ex>er</ex>t</expan></choice> ganc</l>
+<lb n="20" xml:id="Of90va.20"/><l n="O_sample3_17554"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> soe scoone was soe <choice><abbr>besond<g ref="#apomod"/></abbr><expan>besond<ex>er</ex></expan></choice></l>
+<lb n="21" xml:id="Of90va.21"/><l n="O_sample3_17555">dat die <choice><abbr>pape<g ref="#bar"/></abbr><expan>pape<ex>n</ex></expan></choice> hadden <choice><abbr>wond<g ref="#apomod"/></abbr><expan>wond<ex>er</ex></expan></choice></l>
+<lb n="22" xml:id="Of90va.22"/><l n="O_sample3_17556"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> baden <choice><abbr>ou<g ref="#apomod"/></abbr><expan>ou<ex>er</ex></expan></choice> haer doe wale</l>
+<lb n="23" xml:id="Of90va.23"/><l n="O_sample3_17557"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> sy <choice><abbr>ginge<g ref="#bar"/></abbr><expan>ginge<ex>n</ex></expan></choice> van <choice><abbr>b<g ref="#apomod"/>ge</abbr><expan>b<ex>er</ex>ge</expan></choice> te dale</l>
+<lb n="24" xml:id="Of90va.24"/><l n="O_sample3_17558">vingense die spiers te hant</l>
+<lb n="25" xml:id="Of90va.25"/><l n="O_sample3_17559"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> leedese <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> soe vant</l>
+<lb n="26" xml:id="Of90va.26"/><l n="O_sample3_17560">olofernes die sat al dare</l>
+<lb n="27" xml:id="Of90va.27"/><l n="O_sample3_17561"><choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> <choice><abbr>diere<g ref="#bar"/></abbr><expan>diere<ex>n</ex></expan></choice> sporeware</l>
+<lb n="28" xml:id="Of90va.28"/><l n="O_sample3_17562">van zydin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van goude <choice><abbr>v<g ref="#apomod"/>heue<g ref="#bar"/></abbr><expan>v<ex>er</ex>heue<ex>n</ex></expan></choice></l>
+<lb n="29" xml:id="Of90va.29"/><l n="O_sample3_17563"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> menich steen <choice><abbr>d<g ref="#apomod"/>in</abbr><expan>d<ex>aer</ex>in</expan></choice> <choice><abbr>geweue<g ref="#bar"/></abbr><expan>geweue<ex>n</ex></expan></choice></l>
+<lb n="30" xml:id="Of90va.30"/><l n="O_sample3_17564">talre eerst dat hyse heeft <choice><abbr>v<g ref="#apomod"/>sien</abbr><expan>v<ex>er</ex>sien</expan></choice></l>
+<lb n="31" xml:id="Of90va.31"/><l n="O_sample3_17565"><choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>er</ex>t</expan></choice> siin <choice><abbr>h<g ref="#apomod"/>te</abbr><expan>h<ex>er</ex>te</expan></choice> <choice><abbr>beuae<g ref="#bar"/></abbr><expan>beuae<ex>n</ex></expan></choice> mettien</l>
+<lb n="32" xml:id="Of90va.32"/><l n="O_sample3_17566"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe neech <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>ope<g ref="#bar"/>bare</abbr><expan>ope<ex>n</ex>bare</expan></choice></l>
+<lb n="33" xml:id="Of90va.33"/><l n="O_sample3_17567">olofernes die sprac tot hare</l>
+<lb n="34" xml:id="Of90va.34"/><l n="O_sample3_17568">seg twi <choice><abbr>quae<g ref="#bar"/>stu</abbr><expan>quae<ex>m</ex>stu</expan></choice> tot ons <choice><abbr>ned<g ref="#apomod"/></abbr><expan>ned<ex>er</ex></expan></choice></l>
+<lb n="35" xml:id="Of90va.35"/><l n="O_sample3_17569"><hi rend="capitalsize1">J</hi>udit die andwoorde <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice></l>
+<lb n="36" xml:id="Of90va.36"/><l n="O_sample3_17570">onse volc blijft <choice><abbr>v<g ref="#apomod"/>lore<g ref="#bar"/></abbr><expan>v<ex>er</ex>lore<ex>n</ex></expan></choice> saen</l>
+<lb n="37" xml:id="Of90va.37"/><l n="O_sample3_17571">want het heeft <choice><abbr>ze<g ref="#apomod"/>e</abbr><expan>ze<ex>er</ex>e</expan></choice> misdaen</l>
+
+
+<pb xml:id="O.f90vb" n="90vb"/>
+<lb n="1" xml:id="Of90vb.1"/><l n="O_sample3_17572">god heeft my gesent te dy</l>
+<lb n="2" xml:id="Of90vb.2"/><l n="O_sample3_17573">dat ic di bootscappe vrij</l>
+<lb n="3" xml:id="Of90vb.3"/><l n="O_sample3_17574"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ic di te jherusalem</l>
+<lb n="4" xml:id="Of90vb.4"/><l n="O_sample3_17575">leede <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> danne nem</l>
+<lb n="5" xml:id="Of90vb.5"/><l n="O_sample3_17576">dat volc <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> diin gebod</l>
+<lb n="6" xml:id="Of90vb.6"/><l n="O_sample3_17577">hy sprac doet my dit diin god</l>
+<lb n="7" xml:id="Of90vb.7"/><l n="O_sample3_17578">soe saltu groete vrouwe <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> vus</l>
+<lb n="8" xml:id="Of90vb.8"/><l n="O_sample3_17579">wesen in <del>a</del> nabugodonosors huus</l>
+<lb n="9" xml:id="Of90vb.9"/><l n="O_sample3_17580">hy deedse <choice><abbr>leede<g ref="#bar"/></abbr><expan>leede<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> stat</l>
+<lb n="10" xml:id="Of90vb.10"/><l n="O_sample3_17582">soe dat <hi rend="capitalsize1">J</hi>udit dat gebat</l>
+<lb n="11" xml:id="Of90vb.11"/><l n="O_sample3_17584">dat soe nachts moeste vut gaen</l>
+<lb n="12" xml:id="Of90vb.12"/><l n="O_sample3_17585"><choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> god te <choice><abbr>bidde<g ref="#bar"/>ne</abbr><expan>bidde<ex>n</ex>ne</expan></choice> aen</l>
+<lb n="13" xml:id="Of90vb.13"/><l n="O_sample3_17586">hy liet haer <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> wille doen</l>
+<lb n="14" xml:id="Of90vb.14"/><l n="O_sample3_17587">drie nachte deedsoe orysoen</l>
+<lb n="15" xml:id="Of90vb.15"/><l n="O_sample3_17588"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ginc al <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> sy wilde mede</l>
+<lb n="16" xml:id="Of90vb.16"/><l n="O_sample3_17589"><choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> haer <choice><abbr>bidde<g ref="#bar"/></abbr><expan>bidde<ex>n</ex></expan></choice> dede</l>
+<lb n="17" xml:id="Of90vb.17"/><l n="O_sample3_17590">dat soe by <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>slape<g ref="#bar"/></abbr><expan>slape<ex>n</ex></expan></choice> woude</l>
+<lb n="18" xml:id="Of90vb.18"/><l n="O_sample3_17591"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe seide dat soet doen woude</l>
+<lb n="19" xml:id="Of90vb.19"/><l n="O_sample3_17592"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice> te <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> wel gepareert</l>
+<lb n="20" xml:id="Of90vb.20"/><l n="O_sample3_17593"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi siet dat soes begeert</l>
+<lb n="21" xml:id="Of90vb.21"/><l n="O_sample3_17594">dranc hy van ioyen soe <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> wiin</l>
+<lb n="22" xml:id="Of90vb.22"/><l n="O_sample3_17595">dat hi ginc <choice><abbr>slape<g ref="#bar"/></abbr><expan>slape<ex>n</ex></expan></choice> als een zwiin</l>
+<lb n="23" xml:id="Of90vb.23"/><l n="O_sample3_17596"><hi rend="capitalsize1">J</hi>udit hiet <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> <hi rend="capitalsize1">J</hi>oncwiue</l>
+<lb n="24" xml:id="Of90vb.24"/><l n="O_sample3_17597">dat soe voor die dore bliue</l>
+<lb n="25" xml:id="Of90vb.25"/><l n="O_sample3_17598">selue ginc soe voer <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> staen</l>
+<lb n="26" xml:id="Of90vb.26"/><l n="O_sample3_17599"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe bad an gode saen</l>
+<lb n="27" xml:id="Of90vb.27"/><l n="O_sample3_17600">dat hyse gestarke teser stont</l>
+<lb n="28" xml:id="Of90vb.28"/><l n="O_sample3_17601">te olofernus hoofde soe stont</l>
+<lb n="29" xml:id="Of90vb.29"/><l n="O_sample3_17602">eene <choice><abbr>colo<g ref="#bar"/>me<g ref="#bar"/></abbr><expan>colo<ex>m</ex>me<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/>an</abbr><expan>d<ex>aer</ex>an</expan></choice> hinc <num type="roman">.J.</num> <choice><abbr>zw<g ref="#apomod"/>t</abbr><expan>zw<ex>er</ex>t</expan></choice></l>
+<lb n="30" xml:id="Of90vb.30"/><l n="O_sample3_17603"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dat trac iudit <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> vaert</l>
+<lb n="31" xml:id="Of90vb.31"/><l n="O_sample3_17604"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> slouch <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> thooft of <choice><abbr>teene<g ref="#bar"/></abbr><expan>teene<ex>n</ex></expan></choice> slage</l>
+<lb n="32" xml:id="Of90vb.32"/><l n="O_sample3_17605"><choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> <hi rend="capitalsize1">J</hi>oncwiue hiet soet <choice><abbr>drage<g ref="#bar"/></abbr><expan>drage<ex>n</ex></expan></choice></l>
+<lb n="33" xml:id="Of90vb.33"/><l n="O_sample3_17606"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>na<g ref="#bar"/></abbr><expan>na<ex>m</ex></expan></choice> den <choice><abbr>goede<g ref="#bar"/></abbr><expan>goede<ex>n</ex></expan></choice> sparware</l>
+<lb n="34" xml:id="Of90vb.34"/><l n="O_sample3_17607"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ginc <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> stat <choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>er</ex>t</expan></choice> mit hare</l>
+<lb n="35" xml:id="Of90vb.35"/><l n="O_sample3_17608">want haer tgaen <choice><abbr>nieme<g ref="#bar"/>t</abbr><expan>nieme<ex>n</ex>t</expan></choice> <choice><abbr>bena<g ref="#bar"/></abbr><expan>bena<ex>m</ex></expan></choice></l>
+<lb n="36" xml:id="Of90vb.36"/><l n="O_sample3_17609"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> alsoe <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> <choice><abbr>poorte<g ref="#bar"/></abbr><expan>poorte<ex>n</ex></expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="37" xml:id="Of90vb.37"/><l n="O_sample3_17610">riep soe god es met <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> ondoe</l>
+<lb n="38" xml:id="Of90vb.38"/><l n="O_sample3_17611">aldat volc liep <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> toe</l>
+<lb n="39" xml:id="Of90vb.39"/><l n="O_sample3_17612"><choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> lichte <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> soe toochde dare</l>
+
+
+<pb xml:id="O.f91ra" n="91ra"/>
+<lb n="1" xml:id="Of91ra.1"/><l n="O_sample3_17613">dat hooft <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> den <choice><abbr>sparrewa<g ref="#apomod"/>e</abbr><expan>sparrewa<ex>er</ex>e</expan></choice></l>
+<lb n="2" xml:id="Of91ra.2"/><l n="O_sample3_17614"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seide louet gode <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> vlite</l>
+<lb n="3" xml:id="Of91ra.3"/><l n="O_sample3_17615">als achior die <choice><abbr>a<g ref="#bar"/>monite</abbr><expan>a<ex>m</ex>monite</expan></choice></l>
+<lb n="4" xml:id="Of91ra.4"/><l n="O_sample3_17616"><choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> hooft gesach</l>
+<lb n="5" xml:id="Of91ra.5"/><l n="O_sample3_17617">van vare hy <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>machte</abbr><expan>o<ex>m</ex>machte</expan></choice> lach</l>
+<lb n="6" xml:id="Of91ra.6"/><l n="O_sample3_17618">doe hy dit sach dedi <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>tie<g ref="#bar"/></abbr><expan>tie<ex>n</ex></expan></choice> <choice><abbr>tide<g ref="#bar"/></abbr><expan>tide<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Of91ra.7"/><l n="O_sample3_17619">na die joedsche wet <choice><abbr>besnide<g ref="#bar"/></abbr><expan>besnide<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="Of91ra.8"/><l n="O_sample3_17620"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bleef gelouich op die vre</l>
+<lb n="9" xml:id="Of91ra.9"/><l n="O_sample3_17621">thooft hinc iudit vut <choice><abbr>te<g ref="#bar"/></abbr><expan>te<ex>n</ex></expan></choice> muere</l>
+<lb n="10" xml:id="Of91ra.10"/><l n="O_sample3_17622">dit was eene stoute daet</l>
+<lb n="11" xml:id="Of91ra.11"/><l n="O_sample3_17623">dat geuiel <choice><abbr>ind<g ref="#apomod"/></abbr><expan>ind<ex>er</ex></expan></choice> dageraet</l>
+<lb n="12" xml:id="Of91ra.12"/><l n="O_sample3_17624">oec <choice><abbr>seidme<g ref="#bar"/></abbr><expan>seidme<ex>n</ex></expan></choice> doe in <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> <choice><abbr>stede<g ref="#bar"/></abbr><expan>stede<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Of91ra.13"/><l n="O_sample3_17625">dat si jegen die <choice><abbr>via<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>via<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>strede<g ref="#bar"/></abbr><expan>strede<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Of91ra.14"/><l n="O_sample3_17626">tilike dat die <choice><abbr><hi rend="capitalsize1">J</hi>ode<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">J</hi>ode<ex>n</ex></expan></choice> vut <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Of91ra.15"/><l n="O_sample3_17627"><choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>aer</ex></expan></choice> doe die <choice><abbr>he<g ref="#apomod"/>en</abbr><expan>he<ex>er</ex>en</expan></choice> <choice><abbr>v<g ref="#apomod"/>name<g ref="#bar"/></abbr><expan>v<ex>er</ex>name<ex>n</ex></expan></choice></l>
+<lb n="16" xml:id="Of91ra.16"/><l n="O_sample3_17628"><choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> selue was doot</l>
+<lb n="17" xml:id="Of91ra.17"/><l n="O_sample3_17629">vloo dat <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> door die noot</l>
+<lb n="18" xml:id="Of91ra.18"/><l n="O_sample3_17630"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> die <hi rend="capitalsize1">J</hi>oden <choice><abbr>volchde<g ref="#bar"/></abbr><expan>volchde<ex>n</ex></expan></choice> naer</l>
+<lb n="19" xml:id="Of91ra.19"/><l n="O_sample3_17631"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>slouger</abbr><expan>v<ex>er</ex>slouger</expan></choice> menich <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice></l>
+<lb n="20" xml:id="Of91ra.20"/><l n="O_sample3_17632"><choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice> <num type="roman">.xxx.</num> <choice><abbr>dage<g ref="#bar"/></abbr><expan>dage<ex>n</ex></expan></choice> dies geloof</l>
+<lb n="21" xml:id="Of91ra.21"/><l n="O_sample3_17633">haelden sy cume <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> roof</l>
+<lb n="22" xml:id="Of91ra.22"/><l n="O_sample3_17634"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wat soe <choice><abbr>olofern<g ref="#usmod"/></abbr><expan>olofern<ex>us</ex></expan></choice> was</l>
+<lb n="23" xml:id="Of91ra.23"/><l n="O_sample3_17635"><del>w</del> <choice><abbr>gafme<g ref="#bar"/></abbr><expan>gafme<ex>n</ex></expan></choice> <hi rend="capitalsize1">J</hi>udit als ic las</l>
+<lb n="24" xml:id="Of91ra.24"/><l n="O_sample3_17636"><hi rend="capitalsize1">J</hi>udit sanc gode <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> sanc</l>
+<lb n="25" xml:id="Of91ra.25"/><l n="O_sample3_17637"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> soe vorseide <hi rend="capitalsize1">J</hi>n <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> wanc</l>
+<lb n="26" xml:id="Of91ra.26"/><l n="O_sample3_17638">den doomsdach dat die quade</l>
+<lb n="27" xml:id="Of91ra.27"/><l n="O_sample3_17639"><choice><abbr>gepij<g ref="#bar"/>t</abbr><expan>gepij<ex>n</ex>t</expan></choice> <choice><abbr>soude<g ref="#bar"/></abbr><expan>soude<ex>n</ex></expan></choice> siin <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> genade</l>
+<lb n="28" xml:id="Of91ra.28"/><l n="O_sample3_17640">te <choice><abbr>jherusale<g ref="#bar"/></abbr><expan>jherusale<ex>m</ex></expan></choice> voer soe <choice><abbr>d<g ref="#apomod"/>naer</abbr><expan>d<ex>aer</ex>naer</expan></choice></l>
+<lb n="29" xml:id="Of91ra.29"/><l n="O_sample3_17641"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> offerde gode al daer</l>
+<lb n="30" xml:id="Of91ra.30"/><l n="O_sample3_17642"><choice><abbr>holofern<g ref="#usmod"/></abbr><expan>holofern<ex>us</ex></expan></choice> groet rijchede</l>
+<lb n="31" xml:id="Of91ra.31"/><l n="O_sample3_17643"><choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> dach soe <choice><abbr>vierdeme<g ref="#bar"/></abbr><expan>vierdeme<ex>n</ex></expan></choice> mede</l>
+<lb n="32" xml:id="Of91ra.32"/><l n="O_sample3_17644"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> iudit die wort <choice><abbr>d<g ref="#apomod"/>na</abbr><expan>d<ex>aer</ex>na</expan></choice></l>
+<lb n="33" xml:id="Of91ra.33"/><l n="O_sample3_17645">altoes <choice><abbr>gehiete<g ref="#bar"/></abbr><expan>gehiete<ex>n</ex></expan></choice> cambisa</l>
+<lb n="34" xml:id="Of91ra.34"/><l n="O_sample3_17646">soe leefde <num type="roman">.c.</num> <hi rend="capitalsize1">J</hi>aer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> viue</l>
+<lb n="35" xml:id="Of91ra.35"/><l n="O_sample3_17647">doe soe sciet van desen liue</l>
+<lb n="36" xml:id="Of91ra.36"/><l n="O_sample3_17648">cambices nabugodonosor</l>
+<lb n="37" xml:id="Of91ra.37"/><l n="O_sample3_17649">wan <choice><abbr>d<g ref="#apomod"/>na</abbr><expan>d<ex>aer</ex>na</expan></choice> <choice><abbr>menige<g ref="#bar"/></abbr><expan>menige<ex>n</ex></expan></choice> tor</l>
+<lb n="38" xml:id="Of91ra.38"/><l n="O_sample3_17650">jn <choice><abbr>egypte<g ref="#bar"/></abbr><expan>egypte<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> wan dat lant</l>
+<lb n="39" xml:id="Of91ra.39"/><l n="O_sample3_17651">oec maecti <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> es v becant</l>
+
+
+<pb xml:id="O.f91rb" n="91rb"/>
+<lb n="1" xml:id="Of91rb.1"/><l n="O_sample3_17652">jn <choice><abbr>egypte<g ref="#bar"/></abbr><expan>egypte<ex>n</ex></expan></choice> die stat van babilone</l>
+<lb n="2" xml:id="Of91rb.2"/><l n="O_sample3_17653"><choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> die soudane <choice><abbr>drage<g ref="#bar"/></abbr><expan>drage<ex>n</ex></expan></choice> croene</l>
+<lb n="3" xml:id="Of91rb.3"/><l n="O_sample3_17654"><choice><abbr>wilme<g ref="#bar"/></abbr><expan>wilme<ex>n</ex></expan></choice> <choice><abbr>wete<g ref="#bar"/></abbr><expan>wete<ex>n</ex></expan></choice> die waerheit das</l>
+<lb n="4" xml:id="Of91rb.4"/><l n="O_sample3_17655">als ons voerseide <hi rend="capitalsize1">J</hi>eremias</l>
+<lb n="5" xml:id="Of91rb.5"/><l n="O_sample3_17657">wart hi <choice><abbr>ze<g ref="#apomod"/>e</abbr><expan>ze<ex>er</ex>e</expan></choice> ziec te hant</l>
+<lb n="6" xml:id="Of91rb.6"/><l n="O_sample3_17656"><choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> starf in een lant</l>
+<lb n="7" xml:id="Of91rb.7"/><l n="O_sample3_17658">te damas <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> hy bleef doot</l>
+<lb n="8" xml:id="Of91rb.8"/><l n="O_sample3_17659">cambices die <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> groot</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

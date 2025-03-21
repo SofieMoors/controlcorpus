@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on Duinhoven, A. M. (1969). Karel ende Elegast. Diplomatische uitgave van de Middelnederlandse teksten en de tekst uit de Karlmeinet-compilatie. W.E.J. Tjeenk Willink.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Cambridge</settlement>
+            <institution>University Library</institution>
+            <idno>Inc. 6 E 12.1</idno>
+            <msName>F</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1r" to="40v?"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/>
+                           <num type="book-block" value="40?"/>
+                           <num type="end-flyleaf" value=""/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="135"/>
+                              <width unit="mm" quantity="90"/>
+                           </dimensions>
+                        </support>
+                     <foliation>Modern pencil numbering in top right corners (398 on recto 416 on verso) refers to verse numbers</foliation>
+                     <collation>cannot be reconstructed</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="18" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="100"/>
+                              <width unit="mm" quantity="66"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>110 G</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote>space for a two line lombard on f.1v, printed guide letter 'd', not filled in.</decoNote>
+                   <decoNote><watermark></watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, only one leaf remains, probably the thirteenth folio</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1484" notAfter="1488">1484-1488</origDate>
+<origPlace>'s-Hertogenbosch</origPlace>
+<p>probably printed by <name>Gherardus Leempt</name></p>
+</origin></history>
+        </msDesc>
+            
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group><text n="Karel ende Elegast" xml:id="KE">
+<body>
+<p>
+
+<pb xml:id="F.f13r" n="13r"/>
+<lb n="1" xml:id="Ff13r.1"/><l n="F_KE_0400"><hi rend="capitalsize1">S</hi>oe dat die coninc was in vare</l>
+<lb n="2" xml:id="Ff13r.2"/><l n="F_KE_0401"><hi rend="capitalsize1">E</hi>nde waende dat die duuel ware</l>
+<lb n="3" xml:id="Ff13r.3"/><l n="F_KE_0402"><hi rend="capitalsize1">H</hi>i sloech ten swerten opten schilt</l>
+<lb n="4" xml:id="Ff13r.4"/><l n="F_KE_0403"><hi rend="capitalsize1">D</hi>ien hi manlic voer hem hilt</l>
+<lb n="5" xml:id="Ff13r.5"/><l n="F_KE_0404"><hi rend="capitalsize1">D</hi>atti in tween stucken vloech</l>
+<lb n="6" xml:id="Ff13r.6"/><l n="F_KE_0405"><hi rend="capitalsize1">O</hi>ft ware een linden loef</l>
+<lb n="7" xml:id="Ff13r.7"/><l n="F_KE_0406"><hi rend="capitalsize1">D</hi>ie swerte sloech den coninc weder</l>
+<lb n="8" xml:id="Ff13r.8"/><l n="F_KE_0407"><hi rend="capitalsize1">D</hi>ie swerde ghinghen op ende neder</l>
+<lb n="9" xml:id="Ff13r.9"/><l n="F_KE_0408"><hi rend="capitalsize1">O</hi>pten helme op die maelgien</l>
+<lb n="10" xml:id="Ff13r.10"/><l n="F_KE_0409"><hi rend="capitalsize1">D</hi>atter menich moeste faelgien</l>
+<lb n="11" xml:id="Ff13r.11"/><l n="F_KE_0410"><hi rend="capitalsize1">D</hi>aer <choice><abbr>e<g ref="#bar"/></abbr><expan>e<ex>n</ex></expan></choice> was halsberch <choice><abbr>ghee<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> so goet</l>
+<lb n="12" xml:id="Ff13r.12"/><l n="F_KE_0411"><hi rend="capitalsize1">D</hi>aer en dranc dore dat bloet</l>
+<lb n="13" xml:id="Ff13r.13"/><l n="F_KE_0412"><hi rend="capitalsize1">D</hi>oer die maelgien vter huut</l>
+<lb n="14" xml:id="Ff13r.14"/><l n="F_KE_0413"><hi rend="capitalsize1">D</hi>aer van sloghen groet gheluut</l>
+<lb n="15" xml:id="Ff13r.15"/><l n="F_KE_0414"><hi rend="capitalsize1">D</hi>ie <choice><abbr>spaendere<g ref="#bar"/></abbr><expan>spaendere<ex>n</ex></expan></choice> <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> scilt <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> vloghen</l>
+<lb n="16" xml:id="Ff13r.16"/><l n="F_KE_0415"><hi rend="capitalsize1">D</hi>ie <choice><abbr>helme<g ref="#bar"/></abbr><expan>helme<ex>n</ex></expan></choice> op haer hoeft die <choice><abbr>boghe<g ref="#bar"/></abbr><expan>boghe<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Ff13r.17"/><l n="F_KE_0416"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ontfinghen scaerde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>vlegghe<g ref="#bar"/></abbr><expan>vlegghe<ex>n</ex></expan></choice></l>
+<lb n="18" xml:id="Ff13r.18"/><l n="F_KE_0417"><hi rend="capitalsize1">S</hi>oe scarp <choice><abbr>ware<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> der <choice><abbr>swaerde<g ref="#bar"/></abbr><expan>swaerde<ex>n</ex></expan></choice> <choice><abbr>egghe<g ref="#bar"/></abbr><expan>egghe<ex>n</ex></expan></choice></l>
+
+
+<pb xml:id="F.f13v" n="13v"/>
+<lb n="1" xml:id="Ff13v.1"/><l n="F_KE_0418"><hi rend="capitalsize2">D</hi>Ie coninc peynsde in <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> moet</l>
+<lb n="2" xml:id="Ff13v.2"/><l n="F_KE_0419"><hi rend="capitalsize1">D</hi>ese es te wapene goet</l>
+
+<note n="F_KE_0420">Line_number 0420 is missing</note>
+
+<note n="F_KE_0421">Line_number 0421 is missing</note>
+<lb n="3" xml:id="Ff13v.3"/><l n="F_KE_0422"><hi rend="capitalsize1">S</hi>al ic liden mijns namen</l>
+<lb n="4" xml:id="Ff13v.4"/><l n="F_KE_0423"><hi rend="capitalsize1">I</hi>c souts mi ewelic scamen</l>
+<lb n="5" xml:id="Ff13v.5"/><l n="F_KE_0424"><hi rend="capitalsize1">N</hi>emmermeer en ghecreech ic eere</l>
+<lb n="6" xml:id="Ff13v.6"/><l n="F_KE_0425"><hi rend="capitalsize1">D</hi>oe sloech hi enen slach soe seere</l>
+<lb n="7" xml:id="Ff13v.7"/><l n="F_KE_0426"><hi rend="capitalsize1">O</hi>pten swaerten die voer hem hielt</l>
+<lb n="8" xml:id="Ff13v.8"/><l n="F_KE_0427"><hi rend="capitalsize1">D</hi>at hien manlic hadde gheuelt</l>
+<lb n="9" xml:id="Ff13v.9"/><l n="F_KE_0428"><hi rend="capitalsize1">E</hi>nde vanden ors tumelen dede</l>
+<lb n="10" xml:id="Ff13v.10"/><l n="F_KE_0429"><choice><abbr><hi rend="capitalsize1">T</hi>ussche<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">T</hi>ussche<ex>n</ex></expan></choice> hem <choice><abbr>beide<g ref="#bar"/></abbr><expan>beide<ex>n</ex></expan></choice> was ghene vrede</l>
+<lb n="11" xml:id="Ff13v.11"/><l n="F_KE_0430"><hi rend="capitalsize1">E</hi>nde die swaerte sloech <choice><abbr>opte<g ref="#bar"/></abbr><expan>opte<ex>n</ex></expan></choice> heere</l>
+<lb n="12" xml:id="Ff13v.12"/><l n="F_KE_0431"><hi rend="capitalsize1">E</hi>nde sloech enen slach soe seere</l>
+<lb n="13" xml:id="Ff13v.13"/><l n="F_KE_0432"><hi rend="capitalsize1">O</hi>pten helm dat hi boech</l>
+<lb n="14" xml:id="Ff13v.14"/><l n="F_KE_0433"><hi rend="capitalsize1">E</hi>nde swaert in twe stucken vloech</l>
+<lb n="15" xml:id="Ff13v.15"/><l n="F_KE_0434"><hi rend="capitalsize1">S</hi>oe anxtelic was die slach</l>
+<lb n="16" xml:id="Ff13v.16"/><l n="F_KE_0435"><hi rend="capitalsize1">A</hi>ls dat die swerte sach</l>
+<lb n="17" xml:id="Ff13v.17"/><l n="F_KE_0436"><hi rend="capitalsize1">D</hi>atti sijn swaert had verloren</l>
+<lb n="18" xml:id="Ff13v.18"/><l n="F_KE_0437"><hi rend="capitalsize1">T</hi>fy was ic ye gheboren</l>
+
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

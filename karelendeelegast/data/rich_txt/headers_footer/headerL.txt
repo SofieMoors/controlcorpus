@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Karel ende Elegast</title><editor xml:id="NV">Nicky Voorneveld</editor><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>This incunable has not appeared in editions before. An unpublished transcription by A.M. Duinhoven, held in the Van Thienen Archive at the National Library of the Netherlands, was consulted for the creation of this data set. Manuscript description based on Duinhoven, A. M., and Van Thienen, G. A. (1990). Een onbekende druk van de ‘Karel ende Elegast’ in Leningrad. Tijdschrift voor Nederlandse Taal- en Letterkunde, 106, 1-14.
+</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>St. Petersburg</settlement>
+            <institution>National Library of Russia</institution>
+            <idno>8.13.7.9</idno>
+            <msName>L</msName>
+          </msIdentifier>
+<msContents>
+<msItem>
+<locus from="1v" to="23v"/>
+<title>Karel ende Elegast</title>
+<author>Anonymous</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="incunable">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="1"/>
+                           <num type="book-block" value="24"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="148"/>
+                              <width unit="mm" quantity="87"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in ink</foliation>
+                     <collation>a-d6</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="31" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="148"/>
+                              <width unit="mm" quantity="87"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures>the first and third bifolia of the quire are marked</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc><typeNote>Lettersnider type A2 98 G</typeNote></typeDesc>
+                  <decoDesc>
+                   <decoNote> no lombards. Paragraph signs indicate structure</decoNote>
+                   <decoNote><watermark>fleur de lis (f. c3 and d3)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>reconstruction, b1.6 and d1.6 missing, text completed by hand, probably from B and Hoffmann edition (1836). Prose text on life of Charlemagne on f. 23v-24r</p></additions>
+               </physDesc>
+
+<history>
+<origin>
+<origDate notBefore="1496" notAfter="">after 07/1496</origDate>
+<origPlace>Low Countries</origPlace>
+<p>printer unidentified</p>
+</origin></history>
+        </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="Elegast">
+        <group>

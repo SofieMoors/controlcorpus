@@ -1,0 +1,122 @@
+
+
+
+
+R_prologue_0034 Die des wijsdoms wist meer
+R_prologue_0035 Dan enich man die leuet nu.
+R_prologue_0036 Hi hiet Catho dat segghe ic v
+R_prologue_0037 Hi hadde een kint dat hiet also.
+R_prologue_0038 Als hijt noēde dies was hi vro
+R_prologue_0039 Alst mitten kinde vvas vergaē.
+R_prologue_0040 Dat mocht onthoudē en̄ verstaē.
+R_prologue_0041 Riep hi en̄ sprac te hem
+R_prologue_0042 Men seyt sone dat ic ben
+R_prologue_0043 Wijs en̄ vroet nv mercket an
+R_prologue_0044 Ie sal v leren dat ic can
+R_prologue_0045 doen seyde hi en̄ began aldus
+R_prologue_0046 Si deus est animus.
+
+
+R_I,01_0001 Nu mercket soē wat ic v gebiede
+R_I,01_0002 En̄ vvat dat is dat ic v bediede.
+R_I,01_0003 Dats dattu di daer an sult keren
+R_I,01_0004 dattu gode immer sult eeren
+
+
+R_I,02_0001 Du sult morgens vroech op staē
+
+
+
+R_I,02_0002 Ende om dijn bederue gaen.
+R_I,02_0003 Men seyt wie te langhe slaept
+R_I,02_0004 Dat hē die slaep ōduchtich maect
+
+
+R_I,03_0001 Vvachti datmen niet en seyt.
+R_I,03_0002 Dat vele talen an di leyt
+R_I,03_0003 want menigerhande tale
+R_I,03_0004 En voucht niemāt goeders wale
+
+
+R_I,04_0001 Sone doet als die vroede doet
+R_I,04_0002 Die heuet ghestadighen moet
+R_I,04_0003 Het is lachter dat een hier seghet
+R_I,04_0004 Dat hi ghinder niet en pleghet
+
+
+R_I,05_0001 Anmercket niemēs quade daet
+R_I,05_0002 want vele merkens is quaet
+R_I,05_0003 Beide so en is man of wijf.
+R_I,05_0004 Die sonder sonde leet sijn lijf.
+
+
+R_I,08_0001 Geloeft niet als dijn wijf tōrecht
+R_I,08_0002 Claghet ouer dinen knecht
+R_I,08_0003 want quade wiuen sijn ghenoech
+
+Line_number 0004 is missing
+
+
+
+
+
+
+Line_number 0001 is missing
+R_III,16_0002 Wanneermen di onrecht doet
+R_III,16_0003 So bidt den rechter dat hi di
+R_III,16_0004 Doer binen dienste behulpich si
+
+
+R_II,21_0001 Dat di in dronckenscap geschiet
+R_II,21_0002 Dat en latet ongebetert niet
+R_II,21_0003 want daer of hier te voren.
+R_II,21_0004 Vernoy is comen en̄ toren
+
+
+R_II,17_0001 Als du hebst den cost meer
+R_II,17_0002 En̄ terens dan du hads eer
+R_II,17_0003 So spaer want zaen glidet
+R_II,17_0004 Hauen diemen niet en midet.
+
+
+R_II,24_0001 Merck ewel dat di mach deeren
+R_II,24_0002 Bewaert dat oftu moges bewerē
+R_II,24_0003 Hij is sot die comen sijt
+R_II,24_0004 Dat ongheual en̄ niet en vliet.
+
+
+R_II,26_0001 Die vvat heuet dat hem becoēt
+R_II,26_0002 Hout hijt vvel ic vvaent hē vroēt
+R_II,26_0003 Hij is sot die in sijn hāt heeft goet
+
+
+
+R_II,26_0004 En̄ leyt dat onder sinen voet
+
+
+R_II,28_0001 Som wilen sulstu dijn goet
+R_II,28_0002 Sparen als die vroede doet
+R_II,28_0003 Die soucket altoos sulck ghelach
+R_II,28_0004 hoe hi mit eren leuen mach.
+
+
+R_II,29_0001 Du en sulst alleen niet ontslaen.
+R_II,29_0002 Trecht dat langhe heeft ghestaen
+R_II,29_0003 die verwerket sijn ghebuere
+R_II,29_0004 het wort hem dickent te zuere
+
+
+R_III,01_0001 Sone lere so in dinen sin
+R_III,01_0002 dat daer vvone vvijsheit in.
+R_III,01_0003 die mit sondē leet sijn leuen.
+R_III,01_0004 het is qualiken mit hem becleuen
+
+
+R_III,21_0001 Sone oftu vroet vviltste sijn
+R_III,21_0002 So there in goeder maten dijn.
+R_III,21_0003 hi is sot die tsijne verteert
+R_III,21_0004 En̄ andē vreemdē hem gheneert.
+
+
+R_III,21bis_0001 Lieue sone vvacht V dies.
+

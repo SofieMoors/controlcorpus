@@ -1,0 +1,178 @@
+
+
+
+
+b_I,03_0001 Wachti dat men niet en seghet
+b_I,03_0002 Dat vele talen an di leghet
+b_I,03_0003 Want menegherande tale
+b_I,03_0004 En voecht niement goeders wale
+
+
+b_I,04_0001 Sone doet als die wise doet
+b_I,04_0002 Die heeft ghestadeliken moet
+b_I,04_0003 Der lachtert dat een hier seget
+b_I,04_0004 Dies men ginder niet en pleghet
+
+
+b_I,07_0001 Eenradich enede sachte
+b_I,07_0002 Saltu wesen in dine ghedachte
+b_I,07_0003 Hi es sot die sijn ghepeyns
+b_I,07_0004 Den liden seghet haer ende gheyns
+
+
+b_I,05_0001 En mʼket niemans quade daet
+b_I,05_0002 Want vele merkens dats quaet
+b_I,05_0003 Beide en es man noch wijf
+b_I,05_0004 Die sonder sonde leit sijn lijf
+
+
+b_I,06_0001 Heuestu dat yemant deert
+b_I,06_0002 Doch van di hi es sot dies gheert
+b_I,06_0003 Om dat hem luttel helpen mach
+b_I,06_0004 Den lieden te doene quaet ghelach
+
+
+b_I,08_0001 Gheloeft niet als dijn wijf tonrechte
+b_I,08_0002 Claghet ouer dine knechte
+b_I,08_0003 Want der wiuen syn ghenoech
+b_I,08_0004 Die tsmans vrient sijn tongheuoech
+
+
+b_I,10_0001 Dune salt met talen no mꝫ spraken
+b_I,10_0002 Ghescelt ieghen den quaden makē
+b_I,10_0003 En steet dē goedē man niet wale
+
+
+
+b_I,10_0004 Ieghen hem te hebbene tale
+
+
+b_I,11_0001 Mjnne die ghene die di minnen
+b_I,11_0002 Die du wel does laet hem bekēnen
+b_I,11_0003 Hi es sot die der te [...]nste staet
+b_I,11_0004 Daert hem te scanden aluergaet
+
+
+b_I,13_0001 Datmen die be[...] heeft
+b_I,13_0002 Eer die tijt compt datme[...]eeft
+b_I,13_0003 En saltu niet beheten voert
+b_I,13_0004 Wantmen lieghet vele woert
+
+
+b_I,14_0001 Als di yemant gheuet lof
+b_I,14_0002 En wes te blider niet der of
+b_I,14_0003 Die vroede merket ende verstaet
+b_I,14_0004 Eer hi van yemant lof ontfaet
+
+
+b_I,15_0001 Als een ander man doet wel
+b_I,15_0002 Dat onhoude ende vertel
+b_I,15_0003 Doestu wel so swigher of
+b_I,15_0004 So saltu hebben goeden lof
+
+
+b_I,16_0001 Die wile dattu best ionghelinc
+b_I,16_0002 Doet meneghe goede dinc
+b_I,16_0003 Datmen dijns te goede ghe[...]
+b_I,16_0004 Als di naken d[...] daghe
+
+
+b_I,17_0001 En merket niet wat eni[...]
+b_I,17_0002 Stilkine gherunen can
+b_I,17_0003 Want die quade waent [...]es
+b_I,17_0004 Watmen ruynt dat van hem es
+
+
+b_I,18_0001 Alst compt dattu heues ghenoch
+b_I,18_0002 Hauen houtu mit gheuoch
+
+
+
+b_I,18_0003 Want heden es een man rike
+b_I,18_0004 Morghen steet hem com[...]rlike
+
+
+b_I,19_0001 Hj es sotter dan een queker hoet
+b_I,19_0002 Die hoept op eens anders doot
+b_I,19_0003 Want alle liede jonc ende out
+b_I,19_0004 Sijn haers leuens on[...]w[...]
+
+
+b_I,23_0001 A[...] heues [...]es [...]
+b_I,23_0002 Dattu en heues ghenen [...]ent
+b_I,23_0003 Dat en saltu gode witen niet
+b_I,23_0004 Want hem es leet datti messciet
+
+
+b_I,24_0001 Van dien datti es bleuen
+b_I,24_0002 Saltu vroedelike leuen
+b_I,24_0003 Wes altos so ond[...]
+b_I,24_0004 Datti niet en mach ghebreken
+
+
+b_I,28_0001 Heuestu kynder sonder goet
+b_I,28_0002 Doet als die vroede doet
+b_I,28_0003 Die sinen kinderen [...]acht leert
+b_I,28_0004 Als noet h[...]ft hem [...] keert
+
+
+b_I,29_0001 Dattu [...] minnen
+b_I,29_0002 Niet teseere mar oec yet
+b_I,29_0003 Dattu hates saltu haten
+b_I,29_0004 Niet te seere mar te maten
+
+
+b_I,31_0001 Alstu biddes bedencti des
+b_I,31_0002 Dattu bidts dat te gheuen es
+b_I,31_0003 Die bidt datmen [...] gheuen en mach
+b_I,31_0004 Die vijnt dicke quaet ghelach
+
+
+b_I,33_0001 Na dattu dine tide naken
+
+
+
+b_I,33_0002 Saltu dine tere maken
+b_I,33_0003 En̄ dinen cost meer noch min
+b_I,33_0004 Na dien dattu heues ghewin
+
+
+b_II,07_0001 Sone seghestu dijns ghesellen daet
+b_II,07_0002 Dies hi hem scaemt dat es quaet
+b_II,07_0003 Deynsti lief ware
+b_II,07_0004 Die dine scande macte mare
+
+
+b_II,17_0001 Alstu heues cost meer
+b_II,17_0002 En̄ terens dan du [...] eer
+b_II,17_0003 So spare want saen g[...]det
+b_II,17_0004 Hauen dimen niet en [...]inde
+
+
+b_II,21_0001 Datti in dronkenscapen ghesciet
+b_II,21_0002 Dat en laet onghebetert niet
+b_II,21_0003 Want daer hier te voren
+
+Line_number 0004 is missing
+
+
+b_I,40_0001 Beide nemen ende gheuen
+b_I,40_0002 Es haer sede die nv leuen
+b_I,40_0003 Met eren sone doet also
+b_I,40_0004 So machtu blide sijn ende vroe
+
+
+b_II,Pa_0001 Wiltu di sone daer toe keren
+b_II,Pa_0002 Dattu dorpers seden wilt leren
+b_II,Pa_0003 Virgilius heuet albescreuen
+b_II,Pa_0004 Hoe dat die wijs dorpers leuen
+
+
+b_II,Pb_0001 Wiltu oec leren medicine
+b_II,Pb_0002 En̄ een goet arsatere te sine
+b_II,Pb_0003 Mater heuet bescreuē al
+b_II,Pb_0004 Watmen daer toe pleghen sal
+
+
+b_II,Pc_0001 Wltu di des onderwinden
+

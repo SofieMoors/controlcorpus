@@ -1,0 +1,142 @@
+
+
+
+
+Me_prologue_0041 Riep hijt ende s[...]
+Me_prologue_0042 Mē seit sone dat[...]
+Me_prologue_0043 wijs ende vroet [...]
+Me_prologue_0044 Ic sal v leerē dat[...]
+Me_prologue_0045 Dit seidē ende be[...]
+Me_prologue_0046 Si deus est anim[...]
+
+
+Me_I,01_0001 Nv merke sone[...]
+Me_I,01_0002 en̄ wat es dat[...]
+Me_I,01_0003 Dats dattu di da[...]
+Me_I,01_0004 Dattu gode salt e[...]
+
+
+Me_I,02_0001 Du salt des mor[...]
+Me_I,02_0002 En̄ om dine bede[...]
+Me_I,02_0003 Men seit die te la[...]
+Me_I,02_0004 Dat hem die sla[...]
+
+
+Me_I,03_0001 Wachti dan mē [...]
+Me_I,03_0002 Dat vele talen [...]
+Me_I,03_0003 Mē seit mengʼhā[...]
+Me_I,03_0004 En voeghet ni[...]
+
+
+Me_I,04_0001 Sone doch als[...]
+Me_I,04_0002 Die heeft gh[...]
+
+
+
+Me_I,04_0003 [...] hier seghet
+Me_I,04_0004 [...]pleghet
+
+
+Me_I,05_0001 [...]s quade daet
+Me_I,05_0002 [...]et es quaet
+Me_I,05_0003 [...]wijf
+Me_I,05_0004 [...]f
+
+
+Me_I,06_0001 [...]ment deert
+Me_I,06_0002 [...]t dies gheert
+Me_I,06_0003 [...]romē mach
+Me_I,06_0004 [...]uaet ghelach
+
+
+Me_I,07_0001 [...]ghedachte
+Me_I,07_0002 [...]sachte
+Me_I,07_0003 [...]epeins
+Me_I,07_0004 [...]er en gheins
+
+
+Me_I,08_0001 [...]s dijn wijf tōrechte
+Me_I,08_0002 [...]knechte
+Me_I,08_0003 [...]n ghenoech
+Me_I,08_0004 [...]ngheuoech
+
+
+Me_I,09_0001 [...]ē vrient
+Me_I,09_0002 [...]et ghedient
+
+Line_number 0003 is missing
+
+Line_number 0004 is missing
+
+
+
+
+
+
+Line_number 0001 is missing
+
+Line_number 0002 is missing
+Me_II,17_0003 Spaer want saen te glidet
+Me_II,17_0004 hauē die men niet en midet
+
+
+Me_II,21_0001 Datti in drōkescape ghesciet
+Me_II,21_0002 Dan laet onghebetert niet
+Me_II,21_0003 Want daer aue hier te voren
+Me_II,21_0004 vernoy es comē ende toren
+
+
+Me_I,40_0001 Beide nemen ende gheuen
+Me_I,40_0002 Es haer sede die nu leuen
+Me_I,40_0003 Met eren sone doet al so
+Me_I,40_0004 So machtu blide sijn en̄ vro
+
+
+Me_II,Pa_0001 Wiltu di sone daer toe keren
+Me_II,Pa_0002 Dattu dorpers seden wils leren
+Me_II,Pa_0003 virgilius heuet al bescreuen
+Me_II,Pa_0004 hoe die dorpers selen leuen
+
+
+Me_II,Pc_0001 wiltu di des onderwinden
+Me_II,Pc_0002 Dattu gheuechs wilt beghinnē
+Me_II,Pc_0003 Doch minē raet en les lucane
+Me_II,Pc_0004 hi saldʼ di wel bringhen ane
+
+
+Me_II,Pb_0001 Wiltu leren medecine
+Me_II,Pb_0002 En̄ vroet arsartere te sine
+
+
+
+Me_II,Pb_0003 Macer heuet bescreuē al
+Me_II,Pb_0004 wat mē daer toe pleghē sal
+
+
+Me_II,Pd_0001 Wiltu lerē watsi mīne
+Me_II,Pd_0002 En̄ mīne doen ī dinē sinne
+Me_II,Pd_0003 Ouidius leret di al so
+Me_II,Pd_0004 hoe du vā minne wers vro
+
+
+Me_II,24_0001 MErke wel wat mach deren
+Me_II,24_0002 Beweer oftu mach beweerē
+Me_II,24_0003 hi dunct mi sot die comē siet
+Me_II,24_0004 Dongheval en̄ niet en vliet
+
+
+Me_II,22_0001 Kies .j. mā die du mach makē
+Me_II,22_0002 Cont dinē verholene sakē
+Me_II,22_0003 bestu oec siec kies enē mā
+Me_II,22_0004 Die best van ersartriē can
+
+
+Me_III,01_0001 Sone lere so in dinen sin
+Me_III,01_0002 Datter wone wijsheit in
+Me_III,01_0003 Die daer sondʼ leit sijn leuē
+Me_III,01_0004 hets qualijc met hem beweuē
+
+
+Me_III,Pb_0001 houti sone na mine lere
+Me_III,Pb_0002 Doestuut di comter af groet ere
+

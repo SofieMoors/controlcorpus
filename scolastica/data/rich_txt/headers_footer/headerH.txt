@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+             <titleStmt><title>RhymedBible</title>
+            <editor xml:id="SM">Sofie Moors</editor>
+            <editor xml:id="KT">Kamiel Temmermans</editor>
+            <editor xml:id="KvDO">Karina van Dalen-Oskam</editor></titleStmt>
+            <publicationStmt>
+                <p>Manuscript description based on: http://hdl.handle.net/1887.1/item:2668898 and https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000001883</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Leiden</settlement>
+            <institution>University Library</institution>
+            <idno>BPL 14 C</idno>
+            <msName>H</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="1" to="172"/>
+<title>Rhymed Bible</title>
+<author>Jacob van Maerlant</author>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="4"/> #1 modern?
+                           <num type="book-block" value="172"/>
+                           <num type="end-flyleaf" value="1"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="285"/>
+                              <width unit="mm" quantity="205"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in pencil in Arabic numbers (1-111 and 1-145)</foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="39-42" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="210"/>
+                              <width unit="mm" quantity="160"/> #wrong in BNM (106)
+                           </dimensions> 
+                           <catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera cursiva">the Rhymed Bible is written in littera cursiva by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc><decoNote>pen-flourished initials (red and blue); titels (red)</decoNote></decoDesc>
+                  <additions><p>f. 55 and f. 176r are missing and added in post-medieval writing</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1460-1470</origDate>
+<origPlace>Gelre or Overijssel</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="RhymedBible">
+        <group>

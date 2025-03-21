@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: Brinkman, H. (1995). Het handschrift-Jan Phillipsz. Hs. Berlijn, Staatsbibliothek Preußischer Kulturbesitz, Germ. Qu. 557 (Middeleeuwse Verzamelhandschriften uit de Nederlanden 2). Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Berlin</settlement>
+            <institution>Staatsbibliothek Preussischer Kulturbesitz</institution>
+            <idno>Ms. germ. quart. 557</idno>
+            <msName>B</msName>
+          </msIdentifier>
+
+              <msContents>
+<msItem>
+<locus from="78r" to="83r"/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="sammelband/groeihandschrift">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value="2"/> 
+                           <num type="book-block" value="84"/>
+                           <num type="end-flyleaf" value="4"/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="206"/>
+                              <width unit="mm" quantity="142"/>
+                           </dimensions>
+                        </support>
+                     <foliation>modern foliation in ink</foliation>
+                     <collation>[ii+];1V(10);2X(30);3-5VI(66);6VII-2(78);7IV-2(84)</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="26" ruledLines="0">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="142"/>
+                              <width unit="mm" quantity="82"/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords>no</catchwords>
+                           <signatures>no</signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="cursiva libraria">the Dietsche Catoen is written in cursiva libraria by a single hand d</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>initials not completed</decoNote>
+		<decoNote><watermark>wapen van de Dauphiné (f.82v-83r)</watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>convolute of 2 manuscripts; 103 leafs</p><p>[ii+];1V(10);2X(30);3-5VI(66);6VII-2(78);7IV-2(84);8V-1(93)+9V(103);[+iv]</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>ca. 1478</origDate>
+<origPlace>Leiden</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>

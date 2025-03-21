@@ -1,0 +1,1651 @@
+
+C_KE_0001 EEn vraye hystorie ende waer
+C_KE_0002 Mach ic v tellen hoerter naer
+C_KE_0003 Het was op eenen morgen stondē
+C_KE_0004 Dat coninck karel slapen soude
+C_KE_0005 Tingelen al opten rijn
+C_KE_0006 Dlant was allegader sijn
+C_KE_0007 Hi was keyser ende coninc mede
+C_KE_0008 Hoert hier wonder en̄ waerhede
+C_KE_0009 Wat den coninc daer geuel
+C_KE_0010 Dat weten noch die menige wel
+C_KE_0011 Tingelen al daer hij lach
+C_KE_0012 Ende waende opden anderen dach
+C_KE_0013 Crone dragen ende houden hof
+C_KE_0014 Om te meerderen sijnē lof
+C_KE_0015 Doen hi al daer lach en sliep
+C_KE_0016 Een heylich engel aen hem riep
+C_KE_0017 Soe dat die coninc wort in waken
+C_KE_0018 Bi des engels soete spraken
+C_KE_0019 Ende seyde staet op edel man
+C_KE_0020 Doet haestelijc v cleeder an
+C_KE_0021 Wapent v ende vaert stelen
+C_KE_0022 God hietet mi v beuelen
+C_KE_0023 Die in hemelrijke es een heere
+C_KE_0024 Oft ghi verliest lijf ende eere
+C_KE_0025 En steeldi in deser nacht niet
+C_KE_0026 So sal v euel sijn gesciet
+
+
+
+C_KE_0027 Ghij sulter omme moeten steruen
+C_KE_0028 Ende uwes leuens selue deruen
+C_KE_0029 Eer ymmermeer sceyt dit hof
+C_KE_0030 Nu wilt wachten v daer of
+C_KE_0031 Ende vaert stelen oft ghi wilt
+C_KE_0032 Neemt uwen spere en̄ uwen scilt
+C_KE_0033 Wapent v ende sidt op tpaert
+C_KE_0034 Haestelijc en̄ niet en spaert
+C_KE_0035 DIt verhoerde aldus die coninck
+C_KE_0036 Het dochte hem een vremde dinc
+C_KE_0037 Want hi daer niement en sach
+C_KE_0038 Wat dat roepen bedieden mach
+C_KE_0039 Hi waendet slapende hebben ghehoert
+C_KE_0040 Ende hielt hem niet aen dat woert
+
+Line_number 0041 is missing
+
+Line_number 0042 is missing
+C_KE_0043 Die engel die van god quam
+C_KE_0044 Sprack den coninc als die was gram
+C_KE_0045 Staet op karel ende vaert stelen
+C_KE_0046 God hietet my v beuelen
+C_KE_0047 Ende onbiedet v te voren
+C_KE_0048 Anders hebdij v lijf verloren
+C_KE_0049 MEt dien woerde doen sweech hij
+C_KE_0050 En̄ die coninc riep ay my
+C_KE_0051 Als die veruaert was ende vereent
+C_KE_0052 Wat ist dat dit wonder meent
+C_KE_0053 Ist alfs gedroch dat mi quelt
+C_KE_0054 Ende dit grote wonder telt
+C_KE_0055 Ay hemelsce hoge doctrijn
+C_KE_0056 Wat noode soude mi nu sijn
+C_KE_0057 Te stelen ic ben so rijke
+C_KE_0058 ten is man in al aertrijcke
+
+
+
+C_KE_0059 Weder coninc ofte graue
+C_KE_0060 Die so rijcke is van haue
+C_KE_0061 Hi moet mi sijn onderdaen
+C_KE_0062 Ende te minē dienste staen
+C_KE_0063 Want mijn lant is groot
+C_KE_0064 Men vint niewers sijn genooc
+C_KE_0065 Dat lant is alle gader mijn
+C_KE_0066 Daer toe colene op den rijn
+C_KE_0067 Ende tot rome also voert
+C_KE_0068 Gelijc den keyser toe behoert
+C_KE_0069 IC ben heere mijn wijf is vrouwe
+C_KE_0070 Oest totter wilder denouwe
+C_KE_0071 En̄ west totter wilder zee
+C_KE_0072 Nochtans heb ic goets veel meer
+C_KE_0073 Galissen en̄ spaengnen lant
+C_KE_0074 Dat ic selue wan metter hant
+C_KE_0075 Ende ic die heydenē verdreef
+C_KE_0076 Dat mi dlant alleene bleef
+C_KE_0077 Wat noode soude mi sijn dan
+C_KE_0078 Te stelene nu allendich man
+C_KE_0079 Waer om ontbiet mi dit god
+C_KE_0080 Noode breecic sijn gebot
+C_KE_0081 Wist ic dat hijt my ontbode
+C_KE_0082 En mochtes niet geloeuen noode
+C_KE_0083 Dat mij god den lachter ionste
+C_KE_0084 Dat ic te stelen begonste
+C_KE_0085 Daer hi lach in dit gepens
+C_KE_0086 Hier ende daer weder ende ghens
+C_KE_0087 So vaecte hem een luttelkin
+C_KE_0088 Soe dat hi loec die ogen sijn
+
+
+
+C_KE_0089 Doe seyde dingel hem te voren
+C_KE_0090 Wildi gods gebot verhoren
+C_KE_0091 Heer coninc so sijdi seer ontdaen
+C_KE_0092 Het sal v aen v leuen gaen
+C_KE_0093 Dingel vanden paradise
+C_KE_0094 Sprac totten coninc als die wijse
+C_KE_0095 Vaert stelen ende werdt een dief
+C_KE_0096 Al hebdijs nu groot ongerief
+C_KE_0097 Het sal v namaels wesen lief
+C_KE_0098 MEt deser talen voer dingel van dan
+C_KE_0099 En karel hem te seghenen began
+C_KE_0100 Vanden wonder dat hij hoerde
+C_KE_0101 Gods gebot en̄ sijn woerde
+C_KE_0102 En wil ic niet laten achter
+C_KE_0103 Ic sal dief wesen al eest lachter
+C_KE_0104 Al soudic hangen bider kele
+C_KE_0105 Nochtan haddic lieuer vele
+C_KE_0106 Dat mi god name gemeene
+C_KE_0107 Dat ick van hem houde te leene
+C_KE_0108 Beyde borch en̄ daer toe lant
+C_KE_0109 Sonder mijns ridders gewant
+C_KE_0110 En̄ ic my moeste generen
+C_KE_0111 Metten scilde en̄ mit den speren
+C_KE_0112 Als die ghene die niet en heeft
+C_KE_0113 En̄ op die auenture leeft
+C_KE_0114 Dat waer nochtans mine wille bet
+C_KE_0115 Oft dat ic verlorē hadde een let
+C_KE_0116 Dan ic uu moet stelen varen
+C_KE_0117 Ter duysternachte sonder sparen
+C_KE_0118 Oft daer omme god verwercken
+
+
+
+C_KE_0119 Nu so moet hij hem gestercken
+C_KE_0120 IC woude ic waer vter salen
+C_KE_0121 Sonder sprake en̄ verhalen
+C_KE_0122 En̄ mi waer gecost op den rijn
+C_KE_0123 Seuen borgen van steene fijn
+C_KE_0124 Wat sal ic seggen van oneeren
+C_KE_0125 Den ridderen en̄ den ioncheeren
+C_KE_0126 Die hier liggen in dese sale
+C_KE_0127 Wat sal nu wesen mijn tale
+C_KE_0128 Dat ic tot deser duyster nacht
+C_KE_0129 Alleene sonder iements cracht
+C_KE_0130 Moet nu varen in een ander lant
+C_KE_0131 Dat mi vremt is ontbekant
+C_KE_0132 Met deser talen ginc gereeden
+C_KE_0133 Coninc karel en̄ hem cleeden
+C_KE_0134 Met synen dierbaren gewaden
+C_KE_0135 Als die te stelene was beraden
+C_KE_0136 Het was altoes sijne sede
+C_KE_0137 Datmen sine wapene dede
+C_KE_0138 Ten bedde al daer hi lach
+C_KE_0139 Twaren die beste die ye man sach
+C_KE_0140 Als hij aldus gewapent was
+C_KE_0141 Ghinc hi daer doer dat pallas
+C_KE_0142 Ten was dore noch slot so goet
+C_KE_0143 Noch poerte dien weder stoet
+C_KE_0144 Sij waren tegen hem ontdaen
+C_KE_0145 Daer hij wilde moch hij gaen
+C_KE_0146 Daer en was niement dien sach
+C_KE_0147 Want dat volc al gader lach
+C_KE_0148 In vasten slape alst god woude
+
+
+
+C_KE_0149 Dat dede hi doer des coninc houde
+C_KE_0150 Sijne hulpe was hem al gereet
+C_KE_0151 Als hi die borchbrugge leedt
+C_KE_0152 Ghinc die coninc voert mit liste
+C_KE_0153 Totten stalle al daer hi wiste
+C_KE_0154 Sijn ors en̄ sijn gesmijden
+C_KE_0155 Sonder eenich langer beyden
+C_KE_0156 Hi saeldet en̄ satter bouen
+C_KE_0157 Opt ors datmen mochte louen
+C_KE_0158 DOen hi ter poerten gereden quam
+C_KE_0159 Sach hi daer ende vernam
+C_KE_0160 Den wachter en̄ den poertiere
+C_KE_0161 Die luttel wisten dat hiere
+C_KE_0162 So na hem was metten scilde
+C_KE_0163 Sij sliepen vast alst god wilde
+C_KE_0164 Die coninc beette en̄ ontdoet
+C_KE_0165 Die poerte die gesloten stoet
+C_KE_0166 Ende leyde al daer sijn ors wt
+C_KE_0167 Sonder nyemare en̄ geluyt
+C_KE_0168 Doen sadt hij in sijn gereyde
+C_KE_0169 Coninc karel en̄ seyde
+C_KE_0170 God also gewaerlijke
+C_KE_0171 Als ghi quaemt tot in aertrijcke
+C_KE_0172 En̄ wort sone ende vader
+C_KE_0173 Om ons te verlossen alle gader
+C_KE_0174 Dat adam hadde verloren
+C_KE_0175 Ende daer na hem wert geboren
+C_KE_0176 Ghi liet v aenden cruce slaen
+C_KE_0177 Doen v die ioden hadden geuaen
+C_KE_0178 Sij staken v met eenen spere
+
+
+
+C_KE_0179 En sloegen v oec herde seere
+C_KE_0180 Dese bitterlijke doot
+C_KE_0181 Ontfinc die heere doer onse noot
+
+Line_number 0182 is missing
+C_KE_0183 Ende so swaerlic alst was waer
+C_KE_0184 Ende ghi heere lasaruse
+C_KE_0185 Daer hi lach in sijne cluse
+C_KE_0186 Wout verwecken vander doot
+C_KE_0187 Ende vanden steenen maken broot
+C_KE_0188 Ende vandē water maectet wijn
+C_KE_0189 Soe moet ghi in mijn geleyde sijn
+C_KE_0190 In deser duyster mindernacht
+C_KE_0191 Ende baert aen my uwe cracht
+C_KE_0192 Ooetmoedich god ende vader
+C_KE_0193 Aen v keert ic my alle gader
+C_KE_0194 Hi was in seer veel gedochten
+C_KE_0195 Waer hij best henen varen mochte
+C_KE_0196 Daer hi stelens soude beginnen
+C_KE_0197 Mettien hi int wout quam binnē
+C_KE_0199 Dat niet verre en stont daer van
+C_KE_0198 Coninc karel die edel man
+C_KE_0200 Doen hij quam gereden daer
+C_KE_0201 Die mane scheen al ouer claer
+C_KE_0202 Die sterren lichten aenden throne
+C_KE_0203 Dweder was claer en̄ scone
+C_KE_0204 EEns so peysde doe die coninc
+C_KE_0205 Ic was gewoene voer alle dinc
+C_KE_0206 Dieuen te haten daer icse wiste
+C_KE_0207 Die den lieden al met liste
+C_KE_0208 Haer goet stelen ende rouen
+C_KE_0209 Nu mach ic hem wel gelouen
+
+
+
+C_KE_0210 Die leuen bider auenturen
+C_KE_0211 Sij weten wel dat sij verbueren
+C_KE_0212 Lijf ende goet machmense vaen
+C_KE_0213 Men doetse hangen en̄ thoeft af slaen
+C_KE_0214 Ofte steruen een argher doot
+C_KE_0215 Haerlieder anxt is dicwils groot
+C_KE_0216 Nemmermeer en geualt mi dat
+C_KE_0217 Dat ic man doer cleynen scat
+C_KE_0218 Steruen doe in al mijn leuen
+C_KE_0219 Ic hebbe elegaste verdreuen
+C_KE_0220 Om cleyne saken wt minen lande
+C_KE_0221 Hi setd dicwils sijn lijf te pande
+C_KE_0222 Om dat goet daer hij bi leeft
+C_KE_0223 Ic wane hij dicke sorge heeft
+C_KE_0224 Hi en heeft lant noch leen
+C_KE_0225 Noch ander toeuerlaet oec gheen
+C_KE_0226 Dan ghi met stelen cont beiaghen
+C_KE_0227 Daer op moet hi hem ontdragen
+C_KE_0228 Ic nam hem tlant daer hi was heere
+C_KE_0229 Dat mach mi nu wel rouwen seere
+C_KE_0230 Dat ic hem nam borch ende lant
+C_KE_0231 Des was ic ontbekant
+C_KE_0232 Want hi hadde in sijnre scaren
+C_KE_0233 Die met hem onthoudē waren
+C_KE_0234 Kinderē en̄ knapen een groot getal
+C_KE_0235 Die ic te samen onterft heb al
+C_KE_0236 Beyde van lande en̄ van goede
+C_KE_0237 Ende volgen hem alder armoede
+C_KE_0238 Ic en laets niewers gedueren
+C_KE_0239 Diese onthielde ic daden verbueren
+
+
+
+C_KE_0240 Beyde borch en̄ daer toe leen
+C_KE_0241 Hi en heuet toeuerlaet geen
+C_KE_0242 Hi moet hem altoes onthouden
+C_KE_0243 In wildernissen en̄ oec in woudē
+C_KE_0244 Ende moet alleene beiagen
+C_KE_0245 Daer sij hem alle op ontdragen
+C_KE_0246 Maer so veel duechdē isser an
+C_KE_0247 Hi en steelt gheenen armen man
+C_KE_0248 Die bi sijnre pinen leeft
+C_KE_0249 Dat pelgrim ofte coopman heeft
+C_KE_0250 Laet hi hem gebruken wel
+C_KE_0251 Maer hi en versekert niement el
+C_KE_0252 Noch biscoppen noch canoniken
+C_KE_0253 Abten prioers ofte moniken
+C_KE_0254 Dekenen ende daer toe papen
+C_KE_0255 Daer hijse kan betrapen
+C_KE_0256 Ofte die comen in sijnre vaerde
+C_KE_0257 Hi neemt hem mulen ende paerde
+C_KE_0258 En̄ steectse wt harē gereyde
+C_KE_0259 Dat sij vallen opter heyde
+C_KE_0260 Ende neemt haer met sijnre cracht
+C_KE_0261 Al dat sij daer hebben gebracht
+C_KE_0262 Seluer cleeder fatelment
+C_KE_0263 Dus beiaecht hi hem ontrent
+C_KE_0264 Daer hi die rike luden weet
+C_KE_0265 Hi neemt hem haren scat gereet
+C_KE_0266 Beyde siluer ende gout
+C_KE_0267 Sijnen list es menichfout
+C_KE_0268 Niement en kan hem geuaen
+C_KE_0269 Nochtans heefter om gedaen
+
+
+
+C_KE_0270 Menich man sijne cracht
+C_KE_0271 Ic woude ic nu in deser nacht
+C_KE_0272 Sijn geselle mochte wesen
+C_KE_0273 Ay heere god helpt my tot desen
+C_KE_0274 MEt deser talen voer hij voert
+C_KE_0275 Coninc karel en̄ heeft verhoert
+C_KE_0276 Hoe een ridder quam gheuaren
+C_KE_0277 Ghewapent inder seluer ghebaren
+C_KE_0278 Als een ridder die wil sijn verholen
+C_KE_0279 Met wapenen swart als kolen
+C_KE_0280 Swert was helm ende daertoe scilt
+C_KE_0281 En̄ al dat hij aenden hals hilt
+C_KE_0282 Sijn halsberch mochtmen diere louen
+C_KE_0283 Swert was den wapen roc daer bouen
+C_KE_0284 Swert was dors daer hi op sadt
+C_KE_0285 En quamen eenen sonderlingen pat
+C_KE_0286 Dwers gereden doer den woude
+C_KE_0287 Als hem die coninc moetē soude
+C_KE_0288 Segende hi hem en was in vare
+C_KE_0289 En̄ waende dat die duuel ware
+C_KE_0290 Om dat hij so swart was ouer al
+C_KE_0291 Den rijken god hi hem beual
+C_KE_0292 Hij peisde vele in sijnen moet
+C_KE_0293 Geualt my quaet ofte goet
+C_KE_0294 Ic en sal niet vlien te nacht doer desen
+C_KE_0295 Ick sal der auenturen ghenesen
+C_KE_0296 Nochtans weet ic te voren wel
+C_KE_0297 Hets die duuel ende niement el
+C_KE_0298 Waer hij van gods weghen yet
+C_KE_0299 Hi en waer ouer al swert niet
+
+
+
+C_KE_0300 This al swart paert en̄ man
+C_KE_0301 Wat icker aen gemercken can
+C_KE_0303 Ic duchtte dat my toren naket
+C_KE_0302 Ic bidde gode dat hi waket
+C_KE_0304 Dat dese my niet en scende
+C_KE_0305 En̄ als hi bat quam gehende
+C_KE_0306 Segende hi hem en̄ was in vaer
+C_KE_0307 En̄ waende dattet die duuel waer
+C_KE_0308 Nu heeft die swarte saen vernonmen
+C_KE_0309 Den coninc daer tegen hem comen
+C_KE_0310 Doe peynsde hij in sijnen sin
+C_KE_0311 Dese is verdoelt hier in
+C_KE_0312 Ende heeft sinen wech verloren
+C_KE_0313 Ic wil dat aen hem verhoren
+C_KE_0314 Hij salder laten die wapen sine
+C_KE_0315 Die de beste sijn int aenschijne
+C_KE_0316 Die ic in seuen iaren sach
+C_KE_0317 Van gesteenten lichten sij als den dach
+
+Line_number 0318 is missing
+
+Line_number 0319 is missing
+C_KE_0320 Het scheen wel ten was noyt arm man
+C_KE_0321 Die sulcke wapene hadde an
+C_KE_0322 En̄ sulken ors hadde bescreden
+C_KE_0323 So sterc en̄ so scoen van leden
+C_KE_0324 DOen si quamen te ghemoeten
+C_KE_0325 Leden sij al sondʼ groeten
+C_KE_0326 Deen besach den anderē wel
+C_KE_0327 Maer sij en seyden niet meer el
+C_KE_0328 Als hij den coninc was geleden
+C_KE_0329 Diet swarte ors hadde bestreden
+C_KE_0330 Hielt doen stille en̄ dochte
+C_KE_0331 Wie die ander mesen mochte
+
+
+
+C_KE_0332 Waer om dat hij aldus lijt
+C_KE_0333 Ende sijnre talen oec vermijt
+C_KE_0334 En dat hij my niet en groette
+C_KE_0335 Doen hij my aldaer gemoette
+C_KE_0336 Daer toe om gheen dinc en vraget
+C_KE_0337 Ic wane dat hij quaet goet iaget
+C_KE_0338 Waer ic verseker van dien
+C_KE_0339 Dat hij quame om verspien
+C_KE_0340 Dat hij mi oft die mijne
+C_KE_0341 Brengen wilde also in pijne
+C_KE_0342 Tegen den coninc bij verrade
+C_KE_0343 Hij en lede te nacht niet sonder scade
+C_KE_0344 Wat noode soude hem nu iagē
+C_KE_0345 Achter boschen ende hagen
+C_KE_0346 Oft hij my niet en sochte
+C_KE_0347 Bij den heere die my gewrochte
+C_KE_0348 Hij en onrijt my niet te nacht
+C_KE_0349 Ic sal proeuen alle sijn cracht
+C_KE_0350 Ic willen spreken en̄ kinnen
+C_KE_0351 Hi mach sulc sijn ic sal winnen
+C_KE_0352 Sijn ors en̄ dat hij heeft an
+C_KE_0353 Ende doen hem met lachter keeren dan
+C_KE_0354 Hi is hier comen als een domme
+C_KE_0355 Met dien werp hij sijn ors omme
+C_KE_0356 Ende volchde den coninc naer
+C_KE_0357 Doen hijen achter haelde daer
+C_KE_0358 Riep hi lude ridder ontbeyt
+C_KE_0359 Waer na eest dat ghij gereyt
+C_KE_0360 Ic wil weten wat ghij hier soect
+C_KE_0361 Ende wat ghi iaecht my en roect
+
+
+
+C_KE_0362 Eer ghi ontrijt van hier
+C_KE_0363 Al waerdi daer toe noch so fier
+C_KE_0364 Ende so diere uwer tale
+C_KE_0365 Berechtes my so doedi wale
+C_KE_0366 Ic wil weten wie ghij sijt
+C_KE_0367 Ende waer ghi vaert op deser tijt
+C_KE_0368 En̄ hoe dat v vader hiet
+C_KE_0369 Ic en wils v verlaten niet
+C_KE_0370 DOen antwoerde die coninc
+C_KE_0371 Ghij vraecht my hier menich dinc
+C_KE_0372 Ic en wils v niet berechten
+C_KE_0373 Ic hebbe lieuer dat wij vechten
+C_KE_0374 Dan ict v seyde bij bedwange
+C_KE_0375 So haddic geleeft veel te lange
+C_KE_0376 Dan my een man dwingen soude
+C_KE_0377 Van dingen die ic niet en woude
+C_KE_0378 Berechten ten ware my lief
+C_KE_0379 Compter my goet af oft miskief
+C_KE_0380 Wi sullen desen strijt nu sceyden
+C_KE_0381 En̄ becorten tuschen ons beyden
+C_KE_0382 Des conincx scilt was verdect
+C_KE_0383 Hij en wouts niet voeren ontdect
+C_KE_0384 Omt teyken datter ane stoet
+C_KE_0385 Hij en wilde niet datmen ware vroet
+C_KE_0386 Dat hi coninc karel was
+C_KE_0387 Sij worpen omme doer dat gras
+C_KE_0388 Haer orssen starck ende snel
+C_KE_0389 Sij waren beyde gewapent wel
+C_KE_0390 Haer speren waren beyde so sterc
+C_KE_0391 Daer toe versaemden sij in een perc
+
+
+
+C_KE_0392 Met sulcken nide onder hem tween
+C_KE_0393 Dat dorsen bogen onder haer been
+C_KE_0394 Manlijc gingen sij ten swaerde
+C_KE_0395 Als die vechtens wel begaerde
+C_KE_0396 Sy vochten oec een lange wijle
+C_KE_0397 Datmen gaen wel mochte een mile
+C_KE_0398 Die swart was sterc ende snel
+C_KE_0399 Ende sijne ionsten waren fel
+C_KE_0400 So dat die coninc was in vare
+C_KE_0401 Ende waende dat die duuel ware
+C_KE_0402 Hi sloech den swartē op ten scilt
+C_KE_0403 Dien hi manlijc voer hem hilt
+C_KE_0404 Dat hij in tween stucken vloech
+C_KE_0405 Oft hadde geweest een linden loef.
+C_KE_0406 Die swarte sloech den coninc weder
+C_KE_0407 Die swaerdē gingen op ende neder
+C_KE_0408 Op den helm op die maelgen
+C_KE_0409 Datter menich moeste faelgen
+C_KE_0410 Ten was halsberch geen so goet
+C_KE_0411 Daer en liep doer dat bloet
+C_KE_0412 Doer die maelgien vter huyt
+C_KE_0413 Daer was van slagen groot geluyt
+C_KE_0414 Die spaendren vandē scilde vlogen
+C_KE_0415 De helmen vanden hoefde boghen
+C_KE_0416 Vol van scaerden en̄ vā vleggen
+C_KE_0417 So scerp waren der swaerden eggen
+C_KE_0418 DIe coninc peysde in sijnen moet
+C_KE_0419 Dese is ter wapene goet
+
+Line_number 0420 is missing
+
+Line_number 0421 is missing
+C_KE_0422 Sal ic lijden hier mijns namen
+C_KE_0423 Ic souts my euwelic scamen
+
+
+
+C_KE_0424 Nemmermeer en gecreghic eere
+C_KE_0425 Doe sloech hij eenen slach so seere
+C_KE_0426 Opten swerten die voer hem helt
+C_KE_0427 Dat hijen manlijc hadde geuelt
+C_KE_0428 Ende vandē ors tumelen dede
+C_KE_0429 Tuschen hem beyden was cleynen vrede
+C_KE_0430 Die swarte sloech noch op ten heere
+C_KE_0431 Eenē slach en̄ sloech so seere
+C_KE_0432 Op sinē helm so dat hi boech
+C_KE_0433 En̄ tsweert in twee stucken vloech
+C_KE_0434 So anxtelijke groot was den slach
+C_KE_0435 Wanneer die swarte dat versach
+C_KE_0436 Dat hij sijn sweert hadde verloren
+C_KE_0437 Acharmen dat ic ben geboren
+C_KE_0438 peysde hij doen in sinen moet
+C_KE_0439 Dat ic leue waer toe ist goet
+C_KE_0440 Ic en hadde noyt goet geual
+C_KE_0441 Noch nemmermeer hebben en sal
+C_KE_0442 Waer mede sal ic my verweren
+C_KE_0443 Ic en prijs mijn lijf niet twee peren
+C_KE_0444 Want ic nu bin ydelder handen
+C_KE_0445 Doe docht den coninc wesen scande
+C_KE_0446 Eenen te slane die voer hem helt
+C_KE_0447 Doen sach hij liggen tswaert int velt
+C_KE_0448 In twee stucken aldaer gebroken
+C_KE_0449 peysdij ten is niet gebroken
+C_KE_0450 Die eenen slaet oft doet deeren
+C_KE_0451 Die hem niet en konde geweren
+C_KE_0452 Dus hilden sij stille in dat wout
+C_KE_0453 Haer gepeys was menichfout
+
+
+
+C_KE_0454 Deen wie dander wesen mochte
+C_KE_0455 Bij den heere die my gewrochte
+C_KE_0456 Sprac die coninc sondʼ saghe
+
+Line_number 0457 is missing
+
+Line_number 0458 is missing
+C_KE_0459 Ghi hebt geleeft alle dage
+C_KE_0460 Oft ghi en segt my wie ghij sijt
+C_KE_0461 Ende laet ons corten desen strijt
+C_KE_0462 Mach ic mit eeren lijden
+C_KE_0463 Ic sal v henen laten rijden
+C_KE_0464 Als ic uwen name weet
+C_KE_0465 Die swarte sprac ic bin gereet
+C_KE_0466 In dien dat ghij my maket vroe
+C_KE_0467 Wat nootsaken dat v doe
+C_KE_0468 Dat ghi hier quaemt te nacht
+C_KE_0469 Ende wiens toren dat ghi wacht
+C_KE_0470 Doe seyde karel die edel man
+C_KE_0471 Segt my het eerste ic seg v dan
+C_KE_0472 Wat ic hier soeke en̄ iage
+C_KE_0473 Ic en derf niet rijden bij den dage
+C_KE_0474 Ten is sonder nootsaken niet
+C_KE_0475 Dat ghi my dus gewapent siet
+C_KE_0476 Ic sal v seggen hoe dattet comt
+C_KE_0477 Als ghi my uwen naem noemt
+
+Line_number 0478 is missing
+
+Line_number 0479 is missing
+C_KE_0480 Die sijt seker en̄ vast
+C_KE_0481 Heere antwoerde elegast
+C_KE_0482 Die ridder ende sprac saen
+C_KE_0483 Ten is my ten besten niet vergaen
+C_KE_0484 Ic heb goet en̄ lant verloren
+C_KE_0485 Dat ic hadde hier te voren
+C_KE_0486 Bij ongeualle so menich doet
+C_KE_0487 Soudict v al maken vroet
+
+
+
+C_KE_0488 Hoe mijne saken comen sijn
+C_KE_0489 Eer ic v geseyde den fijn
+C_KE_0490 Het soude v duncken veel te lanc
+C_KE_0491 Mijn geluc dat is seer cranc
+C_KE_0492 Als dit die coninc verstoet
+C_KE_0493 Was hij blijde in sinen moet
+
+Line_number 0494 is missing
+
+Line_number 0495 is missing
+C_KE_0496 Hij seyde ridder eest v bequame
+C_KE_0497 Nu segt my voert uwen name
+C_KE_0498 Ende hoe dat ghij v geneert
+C_KE_0499 Bij alle dat god mach hebben weert
+C_KE_0500 Ende bij hem seluen oec te voren
+C_KE_0501 Van my en hebdij geenen toren
+C_KE_0502 Ic sal v mede wel berechten
+C_KE_0503 Vraechdijs my en sonder vechten
+C_KE_0504 En sonder eenich euel moet
+C_KE_0505 In dat ghi my maket vroet
+C_KE_0506 Nu sijt seker en̄ vast
+C_KE_0507 Heere ic heete elegast
+C_KE_0508 En wils v niet langer helen
+C_KE_0509 Daer ic bij leue moetic stelen
+C_KE_0510 Maer so veel duechden isser an
+C_KE_0511 Dat ic en stele geenen man
+C_KE_0512 Die bij sijnre pijnen leuet
+C_KE_0513 Dat pelgrim ofte coopman heuet
+C_KE_0514 Laet ic hem oec gebruken wel
+C_KE_0515 Maer ic en verseker niement el
+C_KE_0516 Sindert dat ic was geboren
+C_KE_0517 Ende mijn goet hadde verloren
+C_KE_0518 Daer af dat ic soude leuen
+C_KE_0519 Ende my hadde al verdreuen
+
+
+
+C_KE_0520 Coninc karel wt minen lande
+C_KE_0521 Ic salt seggen al eest scande
+C_KE_0522 So heb ic my daer na onthouden
+C_KE_0523 In wildernissen en̄ in wouden
+C_KE_0524 Daer sij twalef altoes bij leuen
+C_KE_0525 Moete rijke lieden gheuen
+C_KE_0526 Biscoppen en̄ canoniken
+C_KE_0527 Abden prioers en̄ moniken
+C_KE_0528 proesten ende daer toe papen
+C_KE_0529 Waer icse alle can betrapen
+C_KE_0531 Ic neem haer goet met liste
+C_KE_0530 Ic en weet so vast gheen kiste
+
+Line_number 0532 is missing
+
+Line_number 0533 is missing
+C_KE_0534 Weet icker te vercrigen goet in
+C_KE_0535 Ic salt bringen in mijn gewin
+C_KE_0536 Ende onder mine gesellen
+C_KE_0537 Wat soudicker meer af tellen
+C_KE_0538 Mijn list is groot en̄ menichfout
+C_KE_0539 Mijn gesellen sijn al int wout
+C_KE_0540 En̄ ic voer wt om auenture
+C_KE_0541 Ende heb geraect een quade hure
+C_KE_0542 Want ic heb mijn swaert verloren
+C_KE_0543 En coer daer oec gheene haue voren
+C_KE_0544 Ende ict weder hadde geheel
+C_KE_0545 Der slagen heb ic oec een deel
+C_KE_0546 Meer dan icker ye gewan
+C_KE_0547 Op eenen nacht van eenen man
+C_KE_0577 Ic sal v seggen mijnen name
+C_KE_0578 Sprac die coninc eestt v bequame
+C_KE_0579 Geheeten ben ic adelbrecht
+C_KE_0580 Ic plege te stelen ouerrecht
+
+
+
+C_KE_0581 In kercken veel en̄ in clusen
+C_KE_0582 Ende oec in alle gods huysen
+C_KE_0583 Ic stele in alderhande saken
+C_KE_0584 Ende en laet niement met gemake
+C_KE_0585 Den rijken oft den armen
+C_KE_0586 Ic en achte niet op haer kermen
+C_KE_0587 En weet geenen so armen man
+C_KE_0588 Daer ic mijn ghewin weet an
+C_KE_0589 En name lieuer sine haue
+C_KE_0590 Dan ic hem de mine gaue
+C_KE_0591 Aldus heb ic my ontdragen
+C_KE_0592 Ende hebbe geleyt nauwe laghen
+C_KE_0593 Om eenē scat die ic weet
+C_KE_0594 Hi soude my wesen wel gereet
+C_KE_0596 Eer ymmer morgen vroe
+C_KE_0595 Haddic daer goede helpe toe
+
+Line_number 0597 is missing
+
+Line_number 0598 is missing
+C_KE_0599 Dien scat is qualic gewonnen
+C_KE_0600 Ghi en souts ons niet verionnen
+C_KE_0601 Al hadden wijs een groot deel
+C_KE_0602 Die scat die leyt in een casteel
+C_KE_0603 Daer my die wegen wel sijn cont
+C_KE_0604 Al hadden wijs vijf hondert pont
+C_KE_0605 Ten mochte daer niet deeren
+C_KE_0548 Nu segt my ridder hoe hi heet
+C_KE_0549 En wie hij is die v heeft leet
+C_KE_0550 Es hi van alsulcker machte
+C_KE_0551 Dat ghij rijden moet bij nachte
+C_KE_0552 Waer om en kondise niet gematten
+C_KE_0553 Al die ghene die v hatten
+C_KE_0554 Ghij sijt ter wapenen doch so goet
+
+
+
+C_KE_0555 Die coninc peysde in sijnē moet
+C_KE_0556 God die heeft mijn bede gehoert
+C_KE_0557 Ende wil my beraden voert
+C_KE_0558 Dit is die man die ic begeerde
+C_KE_0559 Bouen al die leuen op derde
+C_KE_0560 Mede te varen op desen nacht
+
+Line_number 0561 is missing
+C_KE_0562 God heeften my te punte gebracht
+C_KE_0563 Nn moettic liegen doer den noot
+C_KE_0564 Bij den heere die my geboot
+C_KE_0565 Sprac die coninc tot elegast
+C_KE_0566 Aen my hebdij geleyde vast
+C_KE_0567 Gestade vrient ende vrede
+C_KE_0568 Ic sal v seggen mine sede
+C_KE_0569 Wat hulpen vrienden verholen
+C_KE_0570 Ic hebbe so veel goets gestolen
+C_KE_0571 Waer ic metter helft geuaen
+C_KE_0572 Men liet my waerlic niet ontgaen
+C_KE_0573 Om mijn gewichte van goude root
+C_KE_0574 Maer het dede my groote noot
+C_KE_0635 Nu segt my ridder oft ghijt te nacht
+C_KE_0636 Wilt wesen geselle in mijn beiach
+C_KE_0637 Dat wi te hoepe sullen beiagen
+C_KE_0638 Sullen wij bergen tot sal gaen dagen
+C_KE_0639 Dan sal ic deelen en ghij sult kiesen
+C_KE_0640 Die achter gaet moet verliesen
+C_KE_0641 Elegast seyde waer leyt den scat
+C_KE_0642 Ende in wat stede segt my dat
+
+Line_number 0643 is missing
+
+Line_number 0644 is missing
+C_KE_0645 Eer ic vare wil ics wesen vroet
+C_KE_0646 Oft ic en volge v niet enen voet
+C_KE_0647 Doen seyde karel die edel man
+
+
+
+C_KE_0648 Ic sal v lieuer berechten dan
+C_KE_0649 Die coninc heeft so groten scat
+C_KE_0650 Het mochte hem lnttel deeren dat
+
+Line_number 0651 is missing
+
+Line_number 0652 is missing
+C_KE_0653 Van sijnen scatte daer hij leget
+C_KE_0654 Als dit dus die coninc seget
+C_KE_0655 Dat hij hem seluē stelen wille
+C_KE_0656 Elegast en sweech niet stille
+C_KE_0657 Hij seyde dat moet god verbieden
+C_KE_0658 Sij en leuen niet diet my rieden
+C_KE_0659 Dat ic den coninc dade scade
+C_KE_0660 Al heeft hij my bij quaden rade
+C_KE_0661 Goet genomen ende verdreuē
+C_KE_0662 Ic sal hem nochtans al mijn leuen
+C_KE_0663 Goet vrient sijn na mijn macht
+C_KE_0664 In sijn scade en com ic niet te nacht
+C_KE_0665 Want hij is een gerechtich heere
+C_KE_0666 Dade ic hem anders dan eere
+C_KE_0667 Ic mochts my scamen al voer gode
+C_KE_0668 Men mocht my des geraden noode
+C_KE_0669 ALs dit die coninc wel verstoet
+C_KE_0670 Was hij blijde in sinen moet
+C_KE_0671 Dat hem elegast die dief
+C_KE_0672 Goede ionste droech en̄ haddē lief
+C_KE_0673 Hij peysde mocht hi wederkeren
+C_KE_0674 Behoudelic tot sijnre eeren
+C_KE_0675 Hi souden goets so vele gheuen
+C_KE_0676 Hij souder wel sijn dage afleuen
+C_KE_0677 Sonder stelen ende rouen
+C_KE_0678 Des machmen hem oec wel gelouen
+
+
+
+C_KE_0679 Na dien gepeyse daer hij in was
+C_KE_0680 Vraechde hij doen elegast das
+C_KE_0681 Oft hij hem yewers wilde leyden
+C_KE_0682 Daer sij tgoet onder hem beyden
+C_KE_0683 Mochten beiagen op dien nacht
+C_KE_0684 Hi deder toe sijn beste cracht
+C_KE_0685 Gaerne ende sijn behendichede
+C_KE_0686 Woude hi hem laten varen mede
+C_KE_0687 ELegast seyde iaic gerne
+C_KE_0688 En weet oft ghijt segt in scheerne
+C_KE_0689 Tot egghericx van egghermonde
+C_KE_0690 Daer moghen wi stelen sonder sonde
+C_KE_0691 Die des conincx suster heeft
+C_KE_0692 Het is grote scade dat hij leeft
+C_KE_0693 Hi heeft den menigen oec verraden
+C_KE_0694 En̄ gebrocht in groter scaden
+C_KE_0695 Ende den coninc sijnen heere
+C_KE_0696 Soude hi nemen lijf ende eere
+C_KE_0697 Mochtet na sijnen wille gaen
+C_KE_0698 Dat heb ic wel genoech verstaen
+C_KE_0699 Nochtans hout hij vanden coninc
+C_KE_0700 Lant en̄ sandt menich dinc
+C_KE_0701 Beyde borgen en̄ groot leen
+C_KE_0702 Al had hij toeuerlaet anders gheen
+C_KE_0703 Het mochte hem luttel deeren
+C_KE_0704 Dat wij vanden sijnē teren
+C_KE_0705 Wij sullen daer varen ist uwen wille
+C_KE_0706 Die coninc peynsde en sweech al stille
+C_KE_0707 Na dattet gescepen stoet,
+C_KE_0708 Dat daer ware te stelen goet
+
+
+
+C_KE_0709 Al hadden sijn suster geuangen
+C_KE_0710 Sij souden noode laten hangen
+C_KE_0711 Dus droegen sij ouer een
+C_KE_0712 Daer te varen onder hem tween
+C_KE_0713 Te stelen eggericx grotē scat
+C_KE_0714 Die coninc hem niet en vergat
+C_KE_0715 SI quamen geredē op een velt
+C_KE_0716 Op haer orssen wel gestelt
+C_KE_0717 Daer vonden sij een ploech staen
+C_KE_0718 Die coninc bocte neder saen
+C_KE_0719 Ende elegast reet al voren
+C_KE_0720 Daer hij den wech hadde vercoren
+C_KE_0721 Die coninc nam tcouter in sijn hant
+C_KE_0722 So hijt aen die ploech daer vant
+C_KE_0723 Hij peysde in sijnen moet
+C_KE_0724 Dit is totten ambochte goet
+C_KE_0725 Wie dat grauen wil in borgen
+C_KE_0726 Hi moetter hem toe besorgen
+C_KE_0727 En̄ sulcke dinc te hebben voren
+C_KE_0728 Hi sat op en̄ sloech met sporen
+C_KE_0729 Sijn ors en̄ volchde na elegaste
+C_KE_0730 Mitter spoet al sonder raste
+C_KE_0731 Want hij was een luttel voren
+C_KE_0732 Verstatet wel so moechdi horen
+C_KE_0733 Als si quamen voer die veste
+C_KE_0734 Die de scoenste was en die beste
+C_KE_0735 Als yewers stont op den rijn
+C_KE_0736 Elegast sprac hier willic sijn
+C_KE_0737 Nu siet toe seyt hi adelbrecht
+C_KE_0738 Wat dūct v gedaen nu alre best
+
+
+
+C_KE_0739 Ic wil wercken bij uwen rade
+C_KE_0740 Mij ware leet gesciet v scade
+C_KE_0741 Datmen mochte seggen dan
+C_KE_0742 Het quam al toe bij desen man
+C_KE_0743 Die coninc antwoerde hē ter talen
+C_KE_0744 Ic en quam noyt binnen dʼ salen
+C_KE_0745 Noch inden houe daer ic weet
+C_KE_0746 Het soude my wesen ongereet
+C_KE_0747 Soude icker nu binnen gaen
+C_KE_0748 Aen v seluen moet dat staen
+C_KE_0749 Elegast seyde tis my oec lief
+C_KE_0750 Sijdi nu een behendich dief
+C_KE_0751 Ic sal dat cortelic wel verstaen
+C_KE_0752 Laet ons een gat maken gaen
+C_KE_0753 Inden muer ter goede vre
+C_KE_0754 Daer wij mogen crupen duere
+C_KE_0755 Dit so loefden sij beyde wel
+C_KE_0756 Sij bonden daer haer orssen snel
+C_KE_0757 Ende ghingen ten muere sonder geluyt
+C_KE_0758 Elegast die trac een yser wt
+C_KE_0759 Daer hij den muer met soude picken
+C_KE_0760 Doe began die coninc te stricken
+C_KE_0761 Hi bracht tcouter voert vandʼ ploech
+C_KE_0762 Doe stont elegast en̄ loech
+C_KE_0763 En̄ vraechde waer hij dede makē
+C_KE_0764 Constic tmeesters huys geraken
+C_KE_0765 Ic dede maken daer na sulc een
+C_KE_0766 Aldus gedaen sach ic noyt gheen
+C_KE_0767 Behendich tot sulken sticken
+C_KE_0768 Daer men mede doer soude picken
+
+
+
+C_KE_0769 Die coninc sprac het mach wel sijn
+C_KE_0770 Icquam geuaren opten rijn
+C_KE_0771 Dies es leden den derden dach
+C_KE_0772 Dat ic voer om mijn beiach
+C_KE_0773 Ic moeste daer mijn yser laten
+C_KE_0774 Want het ontuiel my opter straten
+C_KE_0775 Daer men my veruolchde achter
+C_KE_0776 Ic en dorste niet keeren doer den lachter
+C_KE_0777 Ic en mochter niet geraken ane
+C_KE_0778 Ende dit nam ic bijder mane
+C_KE_0779 Daer ict vant aen een plouch
+C_KE_0780 Elegast sprac het is genouch
+C_KE_0781 Moghen wi daer nu inne geraken
+C_KE_0782 Doet hier na nu een ander maken
+C_KE_0783 Sij lieten die tale sij maecten tgat
+C_KE_0784 Elegast wracht het voechde hē bat
+C_KE_0785 Dat hij daer toe dede sijn leden
+C_KE_0786 Dant den coninc Karel dede
+C_KE_0787 Al was hij groot en̄ daer toe sterc
+C_KE_0788 Hij en conste nie sulken werc
+C_KE_0789 Wanneer sij tgat vandē muere
+C_KE_0790 Hadden al doer grauen duere
+C_KE_0791 Ende sij daer in souden gaen
+C_KE_0792 Elegast sprac ghij sult ontfaen
+C_KE_0793 Hier buten dat ic v sal bringen
+C_KE_0794 Hi en woude niet gehingen
+C_KE_0795 Dat die coninc binnen quame
+C_KE_0796 Want hij ontsach hem der onurame
+C_KE_0797 Hi en doch hem gheen behendich dief
+C_KE_0798 Nochtans woudij leet en̄ lief
+
+
+
+C_KE_0799 Met hem deylen en sijn gewin
+C_KE_0800 Karel bleef buten elegast ginc in
+C_KE_0801 Elegast conde behendichede
+C_KE_0802 Die hi proefde te meniger stede
+C_KE_0803 Hi was minnelic en̄ mate
+C_KE_0804 Hi trac een cruyt wt eenen vate
+C_KE_0805 Ende stac binnen sinen monde
+C_KE_0806 Die sulc een had hij verstonde
+C_KE_0807 Wat hanen crayen oft hondē hylen
+C_KE_0808 So verstont hij ter seluer wijlen
+C_KE_0809 Aen eenen hane en̄ aen eenen hont
+C_KE_0810 Ende seyden dat die coninc stont
+C_KE_0811 Buten den houe in haer latijn
+C_KE_0812 Elegast sprac hoe mach dat sijn
+C_KE_0813 Soude die coninc sijn hier voren
+C_KE_0814 Ic duchte dat mi naket thoren
+C_KE_0815 Ic ben verraden na mijn gedochte
+C_KE_0816 Oft my verleyt nu alfs gedrochte
+C_KE_0817 ELegast ghinc al daer hi liet
+C_KE_0818 Den coninc en daer hij van hem sciet
+C_KE_0819 En̄ seyde wat hij hadde verstaen
+C_KE_0820 Hem en bedroge sijne waen
+
+Line_number 0821 is missing
+
+Line_number 0822 is missing
+C_KE_0823 Beyde aen hanen en̄ aen hondē
+C_KE_0824 Diet in haren latine vonden
+C_KE_0825 Dat die coninc waer aldaer
+C_KE_0826 Maer hi en wiste niet hoe naer
+C_KE_0827 Doe seyde karel die edel man
+C_KE_0828 Wie heuet v geseyt dan
+C_KE_0829 Wat soude die coninc hier doen
+C_KE_0830 Soudi geloeuen aen een hoen
+
+
+
+C_KE_0831 Oft betrouwen van dat een hont bast
+C_KE_0832 So en is v geloeue niet vast
+C_KE_0833 My dunct dat ghij my sagen telt
+C_KE_0834 Waer toe is goet dat ghij my quelt
+C_KE_0835 V geloue en is niet vast
+C_KE_0836 Nu hoert dat ghij sprac elegast
+C_KE_0837 En stac den coninc inden mont
+C_KE_0838 Een cruyt dat daer voer hem stont
+C_KE_0839 Ende seyde nu suldij verstaen
+C_KE_0840 So ic te voren hebbe gedaen
+C_KE_0841 Echter crayde die hane en̄ seyde
+C_KE_0842 Also als hij te voren dede
+C_KE_0843 Dat die coninc ware daer
+C_KE_0844 Maer hij en wiste niet hoe naer
+C_KE_0845 Gheselle sprac doen elegast
+C_KE_0846 Ic wilde gehangen sijn aen eenen bast
+C_KE_0847 En is die coninc niet hier bij
+C_KE_0848 Doe seyde coninc karel tfij
+C_KE_0849 Gheselle sijdij dus veruaert
+C_KE_0850 Ic waende dat ghij coender waert
+C_KE_0851 Doet v dingen laet ons gaen
+C_KE_0852 Al soude men ons heden vaen
+C_KE_0853 Elegast sprac ic sal beginnen
+C_KE_0854 Laet sien wat suldij daer aen winnen
+
+Line_number 0855 is missing
+
+Line_number 0856 is missing
+C_KE_0857 Elegast eyschte sijn cruyt weder
+C_KE_0858 Die coninc socht op ende neder
+C_KE_0859 En weder om in sijnen monde
+C_KE_0860 Maer hij verloest al mittē stonde
+C_KE_0861 Hi en mochts daer vinden niet
+C_KE_0862 Die coninc sprac wats my gesciet
+
+
+
+C_KE_0863 Mi dunct ic heb mijn cruyt verloren
+C_KE_0864 Dat ic hadde ter stont te voren
+C_KE_0865 Beloken tuschen mijne tanden
+C_KE_0866 Bij sijnre wet het dunct my scande
+C_KE_0867 DOen lech elegast echt
+C_KE_0868 Ende seyde steeldy adelbrecht
+C_KE_0869 Hoe comt datmen v niet en vaet
+C_KE_0870 Telken als ghi stelen gaet
+C_KE_0871 Dat ghij leeft is wonder groot
+C_KE_0872 Ghij en waert lange wijle doot
+C_KE_0873 Geselle seyt hij onuerholen
+C_KE_0874 Ic hebbe v cruyt hier gestolen
+C_KE_0875 Ghij en weet van stelen niet een haer
+C_KE_0876 Die coninc peysde ghi segt waer
+C_KE_0877 Mettien liet hij sijn tale
+C_KE_0878 Gode beual hijt altemale
+C_KE_0879 Dat hijen daer woude borgen
+C_KE_0880 Een deel was hij in sorgen
+C_KE_0881 Nochtans conste hij behendichede
+C_KE_0882 Daer hij alle die ghene mede
+C_KE_0883 Slapen dede van dier salen
+C_KE_0884 En̄ ontsloet doen altemale
+C_KE_0885 Sloten die men met slotelen sloot
+C_KE_0886 Waren sij cleyne ofte groot
+C_KE_0887 Ende ghincten scatte daer hij lach
+C_KE_0888 Eert yement hoorde ofte sach
+C_KE_0889 En̄ haelde voert en̄ brochte
+C_KE_0890 Also veel als hem goet dochte
+C_KE_0891 Doen wilde karel van danen rijden
+C_KE_0892 Elegast hieten ontbieden
+
+
+
+C_KE_0893 Hij soude om eenen sadel gaen
+C_KE_0894 Die in de camer ware gestaen
+C_KE_0895 Daer eggeric ende sijn lief in lach
+C_KE_0896 Die scoenste die noyt man sach
+C_KE_0897 Hi en leeft niet die v seyde
+C_KE_0898 Hoe costelic dat was dat gereyde
+C_KE_0899 Ende oec hoe dat voerboech
+C_KE_0900 En was te prisen niet genouch
+C_KE_0901 Daer hingen hondert scellen goet
+C_KE_0902 Die al waren van goude root
+C_KE_0903 Ende clincken als eggeric rijt
+C_KE_0904 Geselle doet wel ende ontbeyt
+C_KE_0905 Ic sal hem sinen sadel stelen
+C_KE_0906 Al soudick hangen bijder kele
+C_KE_0907 DIt was den coninc onbequame
+C_KE_0908 Hij hadde eer ontbeert der vrame
+C_KE_0909 Vanden sadel ende tgewin
+C_KE_0910 Dan elegast keerde weder in
+C_KE_0911 Als elegast quam ten gereyde
+C_KE_0912 Daer ic heden eer af seyde
+
+Line_number 0913 is missing
+
+Line_number 0914 is missing
+C_KE_0915 Gauen die sulc een geclanc
+C_KE_0916 Datter eggeric bij ontspranc
+C_KE_0917 Wt sijnen slape en̄ seyde
+C_KE_0918 Wie is daer to minen gereyde
+C_KE_0919 Hij woude trecken sijn sweert
+C_KE_0920 Haddet die vrouwe niet geweert
+C_KE_0921 Die hem seyde en̄ vragede
+C_KE_0922 Wattet ware dat hi iagede
+C_KE_0923 Oft hem aluen wilden verleyden
+C_KE_0924 Sy nam tswaert al metter sceyden
+
+
+
+C_KE_0925 En seyde daer en mach niemant
+C_KE_0926 In comen tsij vrient oft viant
+C_KE_0927 Het is ander dinc dat v nu deert
+C_KE_0928 Sij vermaende hem en̄ besweert
+C_KE_0929 Dat hij haer seyde sijn gedochte
+C_KE_0930 Waer bij dat hij niet en mochte
+C_KE_0931 Slapen binnen drien nachten
+C_KE_0932 Dat sij wel costen gewachten
+C_KE_0933 Noch eten binnen drien dagen
+C_KE_0934 Dit began sij hem te vragen
+C_KE_0935 Vrouwen list is menichfout
+C_KE_0936 Sijn sij ionck oft sijn sij oec out
+C_KE_0937 So lange lach sij hem daer an
+C_KE_0938 Dat hij haer te seggen began
+C_KE_0939 Dat hij haers broeders doot hadde gesworen
+C_KE_0940 Ende die dit te doen waren vʼcoren
+C_KE_0941 Soude daer cortelike comen
+C_KE_0942 Hi ghincse haer bij name noemen
+C_KE_0943 Hoe sij hieten en wie sij waren
+C_KE_0944 Die den coninc wilde daren
+C_KE_0945 DIt hoerde te samen elegast
+C_KE_0946 Ende hielt in sijn herte vast
+C_KE_0947 Hy peynsde hij soudt bringen voert
+C_KE_0948 Die ontdaet en̄ die valche moert
+
+Line_number 0949 is missing
+
+Line_number 0950 is missing
+C_KE_0951 Sy seyde my waer lieuer vele
+C_KE_0952 Dat men v hinge bijder kele
+C_KE_0953 Dan ic dat gedogen soude
+
+Line_number 0954 is missing
+
+Line_number 0955 is missing
+C_KE_0956 Ende eggeric sloech so houde
+C_KE_0957 Die vrouwe voer nase en̄ mont
+C_KE_0958 Dat haer tbloet ter seluer stont
+
+
+
+C_KE_0959 Ter nase ende ten monde wtbrac
+C_KE_0960 Sij rechte haer op ende stac
+C_KE_0961 Haer aenscijn ouer den bedde boem
+C_KE_0962 Elegast die nam des goem
+C_KE_0963 En̄ croeper lijselijc toe
+C_KE_0964 In sijnen rechten hantscoe
+C_KE_0965 Ontfinc hij tbloet vander vrouwen
+
+Line_number 0966 is missing
+C_KE_0967 Ten teekene datmē soude aenscouwē
+C_KE_0968 En̄ den coninc doen bringen voren
+C_KE_0969 Dat hij hem wachte voer den toren
+C_KE_0970 Doe seyde elegast een gebede
+C_KE_0971 Daer hij alle die gene mede
+C_KE_0972 Slapen dede die daer waren
+C_KE_0973 En sprac sijn woert sonder veruaren
+C_KE_0974 Tot dat sij beyde sliepen vast
+C_KE_0975 En doen onstal hem elegast
+C_KE_0976 Sijnen sadel en̄ sijn sweert
+C_KE_0977 Dat hij lief hadde en̄ weert
+C_KE_0978 En̄ maecte hem sijnre vaerde
+C_KE_0979 Buten den houe tsijnen paerde
+C_KE_0980 Totten coninc die seere dochte
+C_KE_0981 Al om tgoet dat elegast brochte
+C_KE_0982 Hij en hadde langer niet gestaen
+C_KE_0983 Hadt na hem mogen gaen
+C_KE_0984 So seer was hij doen vererret
+C_KE_0985 Hij vraechde waer hij hadde gemerret
+C_KE_0986 Elegast seyde ten is mijn scult niet
+C_KE_0987 Bij gode die hem crucen liet
+C_KE_0988 Tes wonder dat mijn herte niet en breect
+C_KE_0989 Vandē rouwe dier inne steect
+
+
+
+C_KE_0990 Ten sal v brekē nēmermeer
+C_KE_0991 Doer groten rouwe noch doer seer
+C_KE_0992 Dies ben ic seker al te voren
+C_KE_0993 Mijn herte heeft so groten toren
+C_KE_0994 Geselle seyt hi dits tgereyde
+C_KE_0995 Daer ic v huden af seyde
+
+Line_number 0996 is missing
+
+Line_number 0997 is missing
+C_KE_0998 Dit wilt bewaren want ic sal gaen
+C_KE_0999 Nu eggeric sijn hoef af slaen
+C_KE_1000 Oft doden mit eenen knyue
+C_KE_1001 Daer hij leit bij sijnen wijue
+C_KE_1002 Dat en lietic om geen gout
+C_KE_1003 Dat die weeelt inne hout
+C_KE_1004 Ic sal weder keeren sciere
+C_KE_1005 Doe bemaenden die coninc diere
+C_KE_1006 Dat seyde doer wat sake
+C_KE_1007 Hij so seer waer tongemake
+C_KE_1008 Want hij noch vroem waer en al gesont
+C_KE_1009 En ha gecregen .x. hondʼt pont
+C_KE_1010 Daer toe tgereyde daer hij om ginc
+C_KE_1011 Geselle sprac hij een ander dinc
+C_KE_1012 Is dat mijnre herten deert
+C_KE_1013 En̄ minen droeuen sin verteert
+C_KE_1014 Ic heb alle mijn goet verloren
+C_KE_1015 En̄ des conincx hulde te voren
+C_KE_1016 Nu meendic verwinnen mijn armoede
+C_KE_1017 En̄ versoenen den coninc vroede
+
+Line_number 1018 is missing
+
+Line_number 1019 is missing
+
+Line_number 1020 is missing
+
+Line_number 1021 is missing
+C_KE_1022 Mijnē heere maer hem naect toren
+C_KE_1023 Eggeric heeft sijn doot gesworen
+C_KE_1024 En̄ hem doen steruen morgen vroe
+C_KE_1025 Ic sal vertellen ende seggen hoe
+
+
+
+C_KE_1026 Als coninc karel dit verstaet
+C_KE_1027 Wiste hi wel dat was goeden raet
+C_KE_1028 Dat hem god te stelen ontboet
+C_KE_1029 Om hem te bescudden vander doot
+C_KE_1030 Hi dancte seer oetmoedelijke
+C_KE_1031 God den heere van hemelrijke
+C_KE_1032 DOen antwoerde die coninc saen
+C_KE_1033 Hoe so waendy dan ontgaen
+C_KE_1034 Oft ghij hem staect met eenē knyne
+C_KE_1035 Daer hij leyt bij sijnen wijue
+C_KE_1036 Thof soude verstormen al
+C_KE_1037 Ghij en hadt meer dan geual
+C_KE_1038 Ghij sout saen hebben vercocht
+C_KE_1039 Ende v lijf ten eynde gebrocht
+C_KE_1040 Soudi v worpen in sulcker noot
+C_KE_1041 Sterft die coninc so is hij doot
+C_KE_1042 Van deser talen laet nu wesen
+C_KE_1043 Ghij sout des rouwen wel genesen
+C_KE_1044 Dit seyde hij doer behendichede
+C_KE_1045 Om elegast te proeuen mede
+C_KE_1046 Daertoe wasser noch anders an
+C_KE_1047 Hij hadde gaerne geweest van dan
+C_KE_1048 Dat lange lettē was hem leet
+C_KE_1049 Elegast antwoerde gereet
+C_KE_1050 Bij al dat god my leuen liet
+C_KE_1051 Waerdi mijn geselle niet
+C_KE_1052 Ten bleue te nacht niet ongewroken
+C_KE_1053 Dat ghij hebt so na gesproken
+C_KE_1054 Den coninc karel minen heere
+C_KE_1055 Die werdich is alre eere
+
+
+
+C_KE_1056 Bijden heere die mi gewrochte
+C_KE_1057 Ic sal vorderen mijn gedochte
+C_KE_1058 Ende oec wreken minen toren
+C_KE_1059 Want tconincs doot is gesworen
+C_KE_1060 Eer ic vander borcht sceyde
+C_KE_1061 Salt eggeric vergaen te leyde
+C_KE_1062 Die coninc peysde dits mijn vrient
+C_KE_1063 Al heb ict qualic op hem verdient
+C_KE_1064 Ic salt beteren mach ic leuen
+C_KE_1065 Hi verwinnen al sijn sneuen
+C_KE_1066 Geselle ic sal v wisen bet
+C_KE_1067 Hoe ghij hem brengen sult int tnet
+C_KE_1068 Eggeric van eggermonde
+C_KE_1069 Rijdt nu inder morgen stonde
+C_KE_1070 Totten coninc daer ghij hem vint
+C_KE_1071 Vertelt hem dat ende ontbint
+C_KE_1072 Die ondaet ende groote moert
+C_KE_1073 Als hij sal hoeren v getrouwe woert
+C_KE_1074 Ghi sulter bi versoenen al
+C_KE_1075 V loen en sal niet wesen smal
+C_KE_1076 Ghij moecht rijden bij sijnre sijden
+C_KE_1077 Al v dagen ende v tijden
+C_KE_1078 Ghelijc oft ghij sijn broeder waert
+C_KE_1079 So lange als v god gespaert
+C_KE_1080 Elegast seyde wats mijns gesciet
+C_KE_1081 Ic en come voer den coninc niet
+C_KE_1082 Die coninc is op my so gram
+C_KE_1083 Om dat ic eens gecreech en̄ nam
+C_KE_1084 Van sinen scatte sulke scaerden
+C_KE_1085 Dat cume waerdich was twee paerden
+
+
+
+C_KE_1086 Ic en come niet daer hij my sage
+C_KE_1087 Noch bij nachte noch bij dage
+C_KE_1088 Dats verloren en tegen spoet
+C_KE_1089 Wil ic v dan seggen dat ghi doet
+C_KE_1090 Sprac karel die edel man
+C_KE_1091 Rijdt uwen wech en̄ uwen dam
+C_KE_1092 Daer ghi liet v gesellen
+C_KE_1093 Ende hoort wat ic v sal vertellen
+C_KE_1094 Voer met onser beyder beiach
+C_KE_1095 Tot morgen op den sconen dach
+C_KE_1096 Dan deelen wijt met gemake
+C_KE_1097 Ic sal bode sijn vander sake
+C_KE_1098 Totten coninc daer icken weet
+C_KE_1099 Sloechmen hem doot het waer my leet
+C_KE_1100 MEt deser talen dat sij scieden
+C_KE_1101 Elegast ginc tot sinen lieden
+C_KE_1102 Daer hijse liet in synē dam
+C_KE_1103 Ende karel die edel man
+C_KE_1104 Voer tingelen op sijn casteel
+C_KE_1105 Sijn herte en was nie sonder riueel
+C_KE_1106 Datten die ghene wilde verraden
+C_KE_1107 Die hē met rechte soude staen in staden
+C_KE_1108 Soudē alle rechtē na rechten gaen
+C_KE_1109 Doe vant hij die poerte noch ontdaen
+C_KE_1110 Ende sijn lieden sliepen alle
+C_KE_1111 Hi bant sijn ors opcen stalle
+C_KE_1112 En̄ ghinc ter cameren daer hi lach
+C_KE_1113 Eert yement hoorde ofte sach
+C_KE_1114 Doen hij sijn wapene af hadde gedaen
+C_KE_1115 So was die wachter daer gestaen
+
+
+
+C_KE_1116 Ter hoger tinnen en̄ blies den dach
+C_KE_1117 Diemen scone voerbaren sach
+C_KE_1118 Doen wert ontwake menich man
+C_KE_1119 Die god den slape seynde an
+C_KE_1120 Eer die coninc stelen voer
+C_KE_1121 Dat was hem een scone boer
+C_KE_1122 Doen seynde karel die coninck
+C_KE_1123 Om een sijnen camerlinc
+C_KE_1124 Ende ō sinē verholen raet
+C_KE_1125 Daer seydi hoet met hem staet
+C_KE_1126 Hoe dat hij wiste wel te voren
+C_KE_1127 Dat sijne doot waer geswoeren
+C_KE_1128 Van eggeric van eggermonde
+C_KE_1129 Die comen sal in corten stonde
+C_KE_1130 Met alder macht vanden lande
+C_KE_1131 Om hem aldaer te doene scande
+C_KE_1132 Ia daer toe te nemen sijn leuen
+C_KE_1133 Dat sij hem goeden raet geuen
+C_KE_1134 Dat hij behouden mach sijn eere
+C_KE_1135 Ende helpen haren rechten heere
+C_KE_1136 DOe seyde die hertoge van bauiere
+C_KE_1137 Laetse comen sij vindē hier
+C_KE_1138 Het sal den menigen costen dleuen
+C_KE_1139 Ic sal ons goeden raet gheuen
+C_KE_1140 Hier is menich sterc franchois
+C_KE_1141 Wt franckerijke en̄ bollongnoys
+C_KE_1142 Menich ridder en menich sergant
+C_KE_1143 Die met v hier quamen int lant
+C_KE_1144 Sij sullē hē wapenen al temale
+C_KE_1145 Ende trecken in die hoge sale
+
+
+
+C_KE_1146 En̄ ghi selue heer coninc
+C_KE_1147 Sult gewapent staen inden rinc
+C_KE_1148 Die v daer wil slaen oft deeren
+C_KE_1149 Sal hem seer moeten weren
+C_KE_1150 Dbloet sal hem loepen wt dē sporen
+C_KE_1151 So sal oec eggeric als te voren
+C_KE_1152 Desen raet docht hem seer goet
+C_KE_1153 Si wapenden hem mitter spoet
+C_KE_1154 Alle die daer toe dochten
+C_KE_1155 En̄ wapene dragen mochten
+C_KE_1156 Beyde cleyne ende groot
+C_KE_1157 Sij duchten swaren wederstoet
+C_KE_1158 Eggeric was van grooter mach
+C_KE_1159 Nochtans alle die hadden cracht
+C_KE_1160 Weder daer ende opten rijn
+C_KE_1161 Wouden in tconincs hulpe sijn
+C_KE_1162 Men dede ter poertē sestich man
+C_KE_1163 Gewapent en̄ halsberch an
+C_KE_1164 Als eggerics volc quā geuaren
+C_KE_1165 Tot tconincs houe mitter scaren
+C_KE_1166 Ontdede men die poerten wijde
+C_KE_1167 En̄ lietense alle doerlijden
+C_KE_1168 Doen sij voert quamen indat hof.
+C_KE_1169 Dedemen haer cleeder of
+C_KE_1170 Doen vantmen naest haren lijue
+C_KE_1171 Witte halsberge en̄ scerpe knijue
+C_KE_1172 Die ondaet was al openbaer
+C_KE_1173 Men leytse doen geuangen daer
+C_KE_1174 Altemet met dien sij quamen
+C_KE_1175 Tot datmer een deel hadde bi namen
+
+Line_number 1176 is missing
+
+Line_number 1177 is missing
+
+
+
+C_KE_1178 Daer na quā eggeric geuaren
+C_KE_1179 Cortelic mittē laesten scaren
+C_KE_1180 Daer alle die moert ane stoet
+C_KE_1181 Doen hij gestelt was te voet
+C_KE_1182 Ende waende gaen in die sale
+C_KE_1183 Slootmen die poerte te male
+C_KE_1184 Men vincken als dander dede
+C_KE_1185 Men vant gewapent sijne leden
+C_KE_1186 Bat dan yement die daer was
+C_KE_1187 Men leydene voert in pallas
+C_KE_1188 Voer den coninc sijnen heere
+C_KE_1189 Dat mocht hi hem wel scamen seere
+C_KE_1190 Die coninc leyde hem veel te voren
+C_KE_1191 Maer hij en wilder niet af horen
+C_KE_1192 Hi loechende alle die ondaet
+C_KE_1193 En seyde heere hebt beteren raet
+C_KE_1194 Dadij my lachter onuerdient
+C_KE_1195 Ghij hadt verloren menighen vrient
+C_KE_1196 Ghij en waert oec niet so coene
+C_KE_1197 Noch oec mede gheen baroene
+C_KE_1198 Die my dorsten staen te staden
+C_KE_1199 Dat ic v soude hebben verraden
+C_KE_1200 Waert dat iement dies begerde
+C_KE_1201 Ic daet hem loegenen mitten swaerde
+C_KE_1202 Oft mitten oerde van minen spere
+C_KE_1203 Nu come voert dies begeere
+C_KE_1204 ALs dit die coninc wel verstoet
+C_KE_1205 Was hij blijde in sijnen moet
+C_KE_1206 Ende sende boden na elegaste
+C_KE_1207 Boden na boden vaste
+
+
+
+C_KE_1208 Daer hi was indē woude
+C_KE_1209 Ende ontboet hem haer houde
+C_KE_1210 En̄ vergaf hem alle sijne mesdaet
+C_KE_1211 Indien dat hi den kamp bestaet
+C_KE_1212 Tsegen eggerijke
+C_KE_1213 Hij souden maken rijcke
+C_KE_1214 Die boden en letten niet
+C_KE_1215 Sij deden dat hem die coninc hiet
+C_KE_1216 Sij voeren ter stonden
+C_KE_1217 Daer sij elegaste vonden
+C_KE_1218 Dat hem die coninc beual
+C_KE_1219 Seyden sij elegaste al
+C_KE_1220 Die seer verblijde vanden woerde
+C_KE_1221 Als hi die niemare hoerde
+C_KE_1222 Hi liet liggen sijn gereyde
+C_KE_1223 Sonder eenich langer beyde
+C_KE_1224 Dat hij eggericke stal
+C_KE_1225 Hiet hi en̄ beual
+C_KE_1226 Hi swoer bij sijnre kerstenhede
+C_KE_1227 Waer hem god scudich eene bede
+C_KE_1228 Hi en begeerde geen ander goet
+C_KE_1229 Dan hi den kamp vechten moet
+C_KE_1230 Ende sinen gerechtē heer
+C_KE_1231 Om te houden sijn eer
+C_KE_1232 Sij voeren wech metter spoet
+C_KE_1233 Doen elegast die ridder goet
+C_KE_1234 Quam in des conincx sale
+C_KE_1235 Nu moechdi horen sijne tale
+C_KE_1236 HI seyde god hoede dit gesinne
+
+
+
+C_KE_1237 Den coninc en̄ die ic hier vinde
+C_KE_1238 Maer eggeric en groetic niet
+C_KE_1239 God die hem crucē liet
+C_KE_1240 Om onsen wille vele vermach
+C_KE_1241 Die laet mi sien op desen dach
+C_KE_1242 Ende maria die maget soete
+C_KE_1243 Datmen te winde gaen moete
+C_KE_1244 Eggheric van erggermonde
+C_KE_1245 Mochte god doen sonde
+C_KE_1246 So heeft hij sonde gedaen
+C_KE_1247 Dat hi der galgen is ontgaen
+C_KE_1248 Om dat hi swoer mijns heren doot
+C_KE_1249 Sonder bedwanc ofte noot
+C_KE_1250 Als dit elegast hadde gesproken
+C_KE_1251 Eggeric hadde gerne gewroken
+C_KE_1252 Maer hi en hads die macht niet
+C_KE_1253 Daer was menich die hem liet
+C_KE_1254 Die coninc antwoerde daer of
+C_KE_1255 Sijt willecome elegast in mijn hof
+C_KE_1256 Nu vermane ic v bi alle dien
+C_KE_1257 Dies god van sonden plien
+C_KE_1258 Dat ghij segt en̄ brinc tvoert
+C_KE_1259 Die ondaet en̄ die moert
+C_KE_1260 Van eggeric die ghi hier siet
+C_KE_1261 Dat en laet doer niement niet
+C_KE_1262 Ghi en segt waer niet el
+C_KE_1263 Hoe die auenture geuel
+C_KE_1264 Elegast seyde geerne
+C_KE_1265 My en staets niet tontberne
+
+
+
+C_KE_1266 Ic ben seker wel te voren
+C_KE_1267 Dat eggeric heeft v doot gesworen
+C_KE_1268 Ic hoerdet hem seggen aldaer hi lach
+C_KE_1269 Ende gaf sinen wijue eeuē slach
+C_KE_1270 Om dat sijt dorste anden
+C_KE_1271 Dat haer tbloet ten tanden
+C_KE_1272 Ter nase en̄ ten monde wt brac
+C_KE_1273 Sij rechte haer op ende sij stat
+C_KE_1274 Haer aenscijn ouer den bedde boom
+C_KE_1275 Ic was daer en̄ nam goom
+C_KE_1276 En̄ croeper liseliken toe
+C_KE_1277 In minen rechterē hantscoe
+C_KE_1278 Ontfinc ic tbloet vander vrouwē
+C_KE_1279 Doen liet hijt den coninc aenscouwen
+C_KE_1280 En̄ hem allen diet wildē sien
+C_KE_1281 Dorste eggeric loegenen van dien
+C_KE_1282 Ic dade hem lijden der ondaet
+C_KE_1283 Eer die sonne ondergaet
+
+Line_number 1284 is missing
+
+Line_number 1285 is missing
+
+Line_number 1286 is missing
+
+Line_number 1287 is missing
+
+Line_number 1288 is missing
+
+Line_number 1289 is missing
+
+Line_number 1290 is missing
+
+Line_number 1291 is missing
+
+Line_number 1292 is missing
+
+Line_number 1293 is missing
+
+Line_number 1294 is missing
+
+Line_number 1295 is missing
+
+Line_number 1296 is missing
+
+Line_number 1297 is missing
+
+Line_number 1298 is missing
+
+Line_number 1299 is missing
+
+Line_number 1300 is missing
+
+Line_number 1301 is missing
+
+Line_number 1302 is missing
+C_KE_1303 Ghi en moecht ōtseggen cāp noch strijt
+C_KE_1304 Die verdachuaert inden crijt
+C_KE_1305 Ter werelt geenen man
+C_KE_1306 Dies v wille staden an
+C_KE_1307 Die coninc antwoerde daer naer
+C_KE_1308 Bij mijnre wet ghij segt waer
+C_KE_1309 Soudicken voeren na recht
+C_KE_1310 Ic dede slepen eenen knecht
+C_KE_1311 Ende hangen bider kele
+C_KE_1312 Doen ghinct met eggeric vten spele
+C_KE_1313 En̄ peysde in sinen moet
+
+
+
+C_KE_1314 Na dat gesciepen stoet
+C_KE_1315 Beter es camp dan hals ontween
+C_KE_1316 Int thof en was man negeen
+C_KE_1317 Die spreken dorste sijnre vromen
+C_KE_1318 Dus wort den kamp aen genomen
+C_KE_1319 Een luttel nader noenen
+C_KE_1320 Die coninc ontboet sijn baroenen
+C_KE_1321 Dat sij gewapent te velde waren
+C_KE_1322 Hi en wildes camps niet ontbaren
+C_KE_1323 Hi hiet den campt gereyden
+C_KE_1324 En̄ batd dat god moeste sceyden
+C_KE_1325 Den camp en̄ tgeuechte
+C_KE_1326 Na reden en̄ na rechte
+C_KE_1327 Die coninc troeste elegast wel
+C_KE_1328 En̄ seyde verginge wel dat spel
+C_KE_1329 En̄ behielt hij sijn leuen
+C_KE_1330 Hi souden sijnre suster geuen
+C_KE_1331 Die eggeric hadde te voren
+C_KE_1332 Die sijn doot hadde gesworen
+C_KE_1333 MEn sloech coerden op tvel
+C_KE_1334 Daer menich man gewapent helt
+C_KE_1335 Een luttel voer vespertijt
+C_KE_1336 Elegast quam ierst int crijt
+C_KE_1337 Om dat hij aen legger was
+C_KE_1338 Hi beette neder int gras
+C_KE_1339 Ende viel op die knyen in sijn gebede
+C_KE_1340 En̄ seyde god doer v goedertierenhede
+C_KE_1341 Ic come v heden te genaden
+C_KE_1342 Van allen minē mesdaden
+
+
+
+C_KE_1343 Die mi ye gheuel
+C_KE_1344 Ic kenne mijn mesdaet wel
+C_KE_1345 Oetmoedich god diet al vermach
+C_KE_1346 En wreect niet op desen dach
+C_KE_1347 Aen mine sonden
+C_KE_1348 Doer v heylege vijf wonden
+C_KE_1349 Die ghi ontfinct doer ome misdaet
+C_KE_1350 Hebt heden mijns raet
+C_KE_1351 So dat ic niet en sterue
+C_KE_1352 Noch inden campe bederue
+C_KE_1353 Ist dat mi die sonden niet en slaen
+C_KE_1354 So waen ic wel van hier ontgaen
+C_KE_1355 Volmaect god doer v doget
+C_KE_1356 Ic bid v dat ghi mi verhoget
+C_KE_1357 Ende maria soete vrouwe
+C_KE_1358 Ic wil v dienen op rechte trouwe
+C_KE_1359 Ende nēmermeer voert an
+C_KE_1360 En wordic rouer noch scat man
+C_KE_1361 In wildernissen ende in wouden
+C_KE_1362 Mach ic hier mijn lijf behouden
+
+Line_number 1363 is missing
+
+Line_number 1364 is missing
+C_KE_1365 Doen hij eynde sijn gebeden
+C_KE_1366 Segende hi alle sijn leden
+C_KE_1367 Scone met sijnre rechter hant
+C_KE_1368 Segēde hij sijn ridders gewant
+C_KE_1369 En̄ seggende dors dat voer hem stoet
+C_KE_1370 En̄ bat gode doer oetmoet
+C_KE_1371 Dat hem dragen moste met eeren
+C_KE_1372 Ende vten kampe laten keeren
+C_KE_1373 Met dat hi die tale seyde
+
+
+
+C_KE_1374 Sadt hij op sijn gereyde
+C_KE_1375 Ende hinc den scilt ter luchter sijde
+C_KE_1376 Nu naket eenē groten strijde
+C_KE_1377 Hi nam in die hant dat spere
+C_KE_1378 Ende eggeric quam met groter gheere
+C_KE_1379 Ten crijte waert gewapent wel
+C_KE_1380 Die seer was in therte fel
+C_KE_1381 Hi en seyde noch en dede
+C_KE_1382 Te gode waert geen bede
+C_KE_1383 Hi sloech met sporen vaste
+C_KE_1384 En̄ reet op elegaste
+C_KE_1385 Ende elegast op hem weder
+C_KE_1386 Die eggeric stac doer dleder
+C_KE_1387 Vander curien mit gewelt
+C_KE_1388 Dat hi neder viel op t velt
+C_KE_1389 Vandē orsse op daerde
+C_KE_1390 Eggeric ghinc ten swaerde
+C_KE_1391 Dat hi track vter sceyde
+C_KE_1392 Hi seyde nu sal ic dooden beyde
+C_KE_1393 Elegast v en̄ v paert
+C_KE_1394 Ten sij dat ghi ter vaert
+C_KE_1395 Neder beet op die mouden
+C_KE_1396 So mach v ors dlijf behouden
+C_KE_1397 Het is so sterc en̄ so groot
+C_KE_1398 Het waer scade sloech ict doot
+C_KE_1399 Die menige soudet beclagen
+C_KE_1400 Moechdi v lijf ontdragen
+C_KE_1401 So behoudi v paert
+C_KE_1402 Elegast sprac ter vaert
+
+
+
+C_KE_1403 Ten ware dat ghi te voete sijt
+C_KE_1404 Ic soude corten desen strijt
+C_KE_1405 Ic en wil v te voete niet slaen
+C_KE_1406 Ic wil prijs aen v begaen
+C_KE_1407 Al souts my sijn te wors
+C_KE_1408 Nu sidt weder op v ors
+C_KE_1409 Laet ons vechten ridderlijke wijse
+C_KE_1410 Ic heb lieuer datmen my prijse
+C_KE_1411 Dat ic v sloege bij rampe
+C_KE_1412 Al soude ic blijuen inden kampe
+C_KE_1413 DIt was coninc karel leet
+C_KE_1414 Dat elegast so lange meert
+C_KE_1415 Dat hi eggericke spaert
+C_KE_1416 Eggeric vinck sijn ors ter vaert
+C_KE_1417 Doe elegast die tale seyde
+C_KE_1418 Sadt eggeric weder in sijn gereyde
+C_KE_1419 Doen verhief daer eenen strijt
+C_KE_1420 Tot lange na vespertijt
+C_KE_1421 En quam niement daer hij sach
+C_KE_1422 Noyt op eenē dach
+
+Line_number 1423 is missing
+
+Line_number 1424 is missing
+
+Line_number 1425 is missing
+
+Line_number 1426 is missing
+
+Line_number 1427 is missing
+
+Line_number 1428 is missing
+
+Line_number 1429 is missing
+
+Line_number 1430 is missing
+C_KE_1431 So fellen strijt tusschen hem tween
+C_KE_1432 Als sij hadden in een
+C_KE_1433 Dats loghene ne gheen
+C_KE_1434 Doe seyde die coninc van vrāckerike
+C_KE_1435 God also gewaerlijke
+C_KE_1436 Als ghij hier mogende sijt
+C_KE_1437 So moettij corten desen strijt
+C_KE_1438 Ende dit lange gheuechte
+C_KE_1439 Na redene ende na rechte
+
+
+
+C_KE_1440 Elegast hadde een sweert
+C_KE_1441 Het was sijns gewichte weert
+C_KE_1442 Van gemalen goude root
+C_KE_1443 Elcken man te sijnre noot
+C_KE_1444 Die coninc hadt hem gegeuē
+C_KE_1445 Elegast die heuet verheuen
+C_KE_1446 En̄ sloech eenē slach so seer
+C_KE_1447 Bider hulpen van onsen heer
+C_KE_1448 Dus ist al bij seere
+C_KE_1449 En̄ doer des conincx karels bede
+C_KE_1450 Die hij ouer elegast dede
+C_KE_1451 So dat dat hi hē rouede
+C_KE_1452 Tmeeste deel vandē houede
+C_KE_1453 Ende viel doot vten gereyde
+C_KE_1454 Dit sach die coninc en̄ seyde
+C_KE_1455 Gewarich god ghi sijt hier bouen
+C_KE_1456 Met rechte mach ic v wel louen
+C_KE_1457 Die mi so menige eere doet
+C_KE_1458 Die v dienen sij sijn vroet
+C_KE_1459 Ghi moecht helpen en̄ beraden
+C_KE_1460 Die aen v soeken genaden
+C_KE_1461 NV wil ic corten dese dinc
+C_KE_1462 Men sleepte eggeric en̄ hinc
+C_KE_1463 En̄ die verraders mede
+C_KE_1464 Daer en halp saecke noch bede
+C_KE_1465 Elegast bleef in die eere
+C_KE_1466 Dies dancte hij onsen heere
+C_KE_1467 Die coninc gaf hem eggericx wijf
+C_KE_1468 Sij waren tsamen al haer lijf
+
+
+
+C_KE_1469 Dus moet god al onse saken
+C_KE_1470 Voer onse doot te goede maken
+C_KE_1471 Des gonne ons die hemelsche vader
+C_KE_1472 Nu segget amen alle gader
+

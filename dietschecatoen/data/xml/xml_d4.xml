@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren.</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Antwerp</settlement>
+            <institution>Erfgoedbibliotheek Hendrik Conscience</institution>
+            <idno>F. 41486</idno>
+            <msName>Print Stroobant, edition 1, d4</msName>
+          </msIdentifier>
+
+                <p>...</p></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group><pb xml:id="d4.fBr" n="Br"/>
+
+
+<text n="prologue" xml:id="prologue">
+<body>
+<p><lg type="disticha" n="title">
+<lb n="1" xml:id="d4fBr.1"/><l n="d4_title_0001"><hi rend="capitalsize1">D</hi>it is de wijse <hi rend="capitalsize1">L</hi>ee<num type="roman">ringhe</num> van <hi rend="capitalsize1">C</hi>atho.</l>
+</lg>
+<lg type="disticha" n="prologue">
+<lb n="2" xml:id="d4fBr.2"/><l n="d4_prologue_0001"><hi rend="capitalsize2">D</hi>Ie ghene die in haren sinne</l>
+<lb n="3" xml:id="d4fBr.3"/><l n="d4_prologue_0002"><hi rend="capitalsize1">D</hi>raghen weerlijcke minne</l>
+<lb n="4" xml:id="d4fBr.4"/><l n="d4_prologue_0003"><hi rend="capitalsize1">S</hi>y maken daer af rijm en liet.</l>
+<lb n="5" xml:id="d4fBr.5"/><l n="d4_prologue_0004"><hi rend="capitalsize1">D</hi>er minnen soo en draghe ick niet</l>
+<lb n="6" xml:id="d4fBr.6"/><l n="d4_prologue_0005"><hi rend="capitalsize1">W</hi>ant nu is al dat vergaen</l>
+<lb n="7" xml:id="d4fBr.7"/><l n="d4_prologue_0006"><hi rend="capitalsize1">D</hi>at de minne mach bestaen</l>
+<lb n="8" xml:id="d4fBr.8"/><l n="d4_prologue_0007"><hi rend="capitalsize1">W</hi>ijlen doen ick die minne droech.</l>
+<lb n="9" xml:id="d4fBr.9"/><l n="d4_prologue_0008"><hi rend="capitalsize1">A</hi>ls ick die minne sach ick loech</l>
+<lb n="10" xml:id="d4fBr.10"/><l n="d4_prologue_0009"><hi rend="capitalsize1">N</hi>u haet ickse in alle mijnen sinne</l>
+<lb n="11" xml:id="d4fBr.11"/><l n="d4_prologue_0010">die minne draghen ende die minne</l>
+<lb n="12" xml:id="d4fBr.12"/><l n="d4_prologue_0011"><hi rend="capitalsize1">E</hi>nde heb ghekeert mijnen moet.</l>
+<lb n="13" xml:id="d4fBr.13"/><l n="d4_prologue_0012"><hi rend="capitalsize1">A</hi>en die ghene die zijn vroet</l>
+<lb n="14" xml:id="d4fBr.14"/><l n="d4_prologue_0013"><hi rend="capitalsize1">E</hi>er ick dit dede seyde een mijn vrient</l>
+<lb n="15" xml:id="d4fBr.15"/><l n="d4_prologue_0014"><hi rend="capitalsize1">G</hi>heselle die ter wijsheyt dient</l>
+<lb n="16" xml:id="d4fBr.16"/><l n="d4_prologue_0015">dat hy des beteren loon ontfaet.</l>
+<lb n="17" xml:id="d4fBr.17"/><l n="d4_prologue_0016"><hi rend="capitalsize1">V</hi>an die tot mijnen dienste staet</l>
+<lb n="18" xml:id="d4fBr.18"/><l n="d4_prologue_0017"><hi rend="capitalsize1">H</hi>ierom heb ick des beghonnen</l>
+<lb n="19" xml:id="d4fBr.19"/><l n="d4_prologue_0018"><hi rend="capitalsize1">S</hi>y hebben onrecht dies my verjonnen.</l>
+
+
+<pb xml:id="d4.fBv" n="Bv"/>
+<lb n="1" xml:id="d4fBv.1"/><l n="d4_prologue_0019"><hi rend="capitalsize2">N</hi>V bidt alle met my te <hi rend="capitalsize1">G</hi>ode</l>
+<lb n="2" xml:id="d4fBv.2"/><l n="d4_prologue_0020"><hi rend="capitalsize1">D</hi>at hy seynde zijnen bode</l>
+<lb n="3" xml:id="d4fBv.3"/><l n="d4_prologue_0021">die my wijse ende leere</l>
+<lb n="4" xml:id="d4fBv.4"/><l n="d4_prologue_0022"><hi rend="capitalsize1">H</hi>oe ick my ter vroetheydt keere</l>
+<lb n="5" xml:id="d4fBv.5"/><l n="d4_prologue_0023"><hi rend="capitalsize1">A</hi>lle die vroet willen wesen.</l>
+<lb n="6" xml:id="d4fBv.6"/><l n="d4_prologue_0024"><hi rend="capitalsize1">E</hi>en boeck is dat de <hi rend="capitalsize1">C</hi>lercken lesen</l>
+<lb n="7" xml:id="d4fBv.7"/><l n="d4_prologue_0025"><hi rend="capitalsize1">A</hi>ls sy eerst ter scholen gaen</l>
+<lb n="8" xml:id="d4fBv.8"/><l n="d4_prologue_0026">dat hen wijsheyt doet verstaen</l>
+<lb n="9" xml:id="d4fBv.9"/><l n="d4_prologue_0027"><hi rend="capitalsize1">V</hi>eel meer dan eenich doet.</l>
+<lb n="10" xml:id="d4fBv.10"/><l n="d4_prologue_0028"><hi rend="capitalsize1">H</hi>ierom peysde ick in mijnen moet</l>
+<lb n="11" xml:id="d4fBv.11"/><l n="d4_prologue_0029"><hi rend="capitalsize1">D</hi>at ick u daer by wil leeeen</l>
+<lb n="12" xml:id="d4fBv.12"/><l n="d4_prologue_0030"><hi rend="capitalsize1">H</hi>oe ghy u herte sult bekeeren</l>
+<lb n="13" xml:id="d4fBv.13"/><l n="d4_prologue_0031"><hi rend="capitalsize1">T</hi>er vroetheyt nu mercket dan.</l>
+<lb n="14" xml:id="d4fBv.14"/><l n="d4_prologue_0032"><hi rend="capitalsize1">W</hi>ient maeckte het woonde een man</l>
+<lb n="15" xml:id="d4fBv.15"/><l n="d4_prologue_0033"><hi rend="capitalsize1">T</hi>e <hi rend="capitalsize1">R</hi>oomen wijlen eer</l>
+<lb n="16" xml:id="d4fBv.16"/><l n="d4_prologue_0034">die des wijsdom wiste meer</l>
+<lb n="17" xml:id="d4fBv.17"/><l n="d4_prologue_0035">dan eenich man die levet nu</l>
+<lb n="18" xml:id="d4fBv.18"/><l n="d4_prologue_0036"><hi rend="capitalsize1">H</hi>y hiet <hi rend="capitalsize1">C</hi>atho dat segghe ick u</l>
+<lb n="19" xml:id="d4fBv.19"/><l n="d4_prologue_0037"><hi rend="capitalsize1">H</hi>y hadde een kint dat alsoo</l>
+<lb n="20" xml:id="d4fBv.20"/><l n="d4_prologue_0038"><hi rend="capitalsize1">A</hi>ls hijt noemde dies was hy vro</l>
+<lb n="21" xml:id="d4fBv.21"/><l n="d4_prologue_0039"><hi rend="capitalsize1">A</hi>ls metten kin de was vergaen.</l>
+<lb n="22" xml:id="d4fBv.22"/><l n="d4_prologue_0040"><hi rend="capitalsize1">D</hi>at mocht onthouden ende verstaen</l>
+<lb n="23" xml:id="d4fBv.23"/><l n="d4_prologue_0041"><hi rend="capitalsize1">R</hi>iep hy ende sprack tot hem</l>
+<lb n="24" xml:id="d4fBv.24"/><l n="d4_prologue_0042"><hi rend="capitalsize1">M</hi>en seyt sone dat ick ben</l>
+<lb n="25" xml:id="d4fBv.25"/><l n="d4_prologue_0043"><hi rend="capitalsize1">W</hi>ijs ende vroet nu merckt an</l>
+<lb n="26" xml:id="d4fBv.26"/><l n="d4_prologue_0044"><hi rend="capitalsize1">I</hi>ck sal u leeren dat ick can</l>
+<lb n="27" xml:id="d4fBv.27"/><l n="d4_prologue_0045"><hi rend="capitalsize1">D</hi>oen seyde hy ende beghan aldus.</l>
+
+
+<pb xml:id="d4.fBijr" n="Bijr"/>
+<lb n="1" xml:id="d4fBijr.1"/><l n="d4_prologue_0046"><hi rend="capitalsize1">S</hi>i <hi rend="capitalsize1">D</hi>eus est animus</l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="disticha" xml:id="disticha">
+<body>
+<p><lg type="disticha" n="I,01">
+<lb n="2" xml:id="d4fBijr.2"/><l n="d4_I,01_0001"><hi rend="capitalsize1">N</hi>u merck sone wat ick ghebiede</l>
+<lb n="3" xml:id="d4fBijr.3"/><l n="d4_I,01_0002"><hi rend="capitalsize1">E</hi>nde wat dat is dat ick u bediede</l>
+<lb n="4" xml:id="d4fBijr.4"/><l n="d4_I,01_0003"><hi rend="capitalsize1">D</hi>ats dat ghy u daer aen sult keeren</l>
+<lb n="5" xml:id="d4fBijr.5"/><l n="d4_I,01_0004"><hi rend="capitalsize1">D</hi>at ghy <hi rend="capitalsize1">G</hi>odt immer sult eeren.</l>
+</lg>
+<lg type="disticha" n="I,02">
+<lb n="6" xml:id="d4fBijr.6"/><l n="d4_I,02_0001"><hi rend="capitalsize1">G</hi>hy sult smorghens vroech opstaen</l>
+<lb n="7" xml:id="d4fBijr.7"/><l n="d4_I,02_0002"><hi rend="capitalsize1">E</hi>nde om u beerne gaen</l>
+<lb n="8" xml:id="d4fBijr.8"/><l n="d4_I,02_0003"><hi rend="capitalsize1">M</hi>en seyt die te langhe slaept</l>
+<lb n="9" xml:id="d4fBijr.9"/><l n="d4_I,02_0004"><hi rend="capitalsize1">D</hi>at hem den slaep onduchtich maect.</l>
+</lg>
+<lg type="disticha" n="I,03">
+<lb n="10" xml:id="d4fBijr.10"/><l n="d4_I,03_0001"><hi rend="capitalsize1">W</hi>acht u datmen niet en seyt</l>
+<lb n="11" xml:id="d4fBijr.11"/><l n="d4_I,03_0002"><hi rend="capitalsize1">D</hi>at vele tale aen u leydt</l>
+<lb n="12" xml:id="d4fBijr.12"/><l n="d4_I,03_0003">want menigherhande tale</l>
+<lb n="13" xml:id="d4fBijr.13"/><l n="d4_I,03_0004"><hi rend="capitalsize1">E</hi>n voecht niemant goeders wale.</l>
+</lg>
+<lg type="disticha" n="I,04">
+<lb n="14" xml:id="d4fBijr.14"/><l n="d4_I,04_0001"><hi rend="capitalsize1">S</hi>one doet als die vroede doet</l>
+<lb n="15" xml:id="d4fBijr.15"/><l n="d4_I,04_0002"><hi rend="capitalsize1">D</hi>ie hevet ghestadighen moet</l>
+<lb n="16" xml:id="d4fBijr.16"/><l n="d4_I,04_0003"><hi rend="capitalsize1">H</hi>et is lachter dat een hier seghet</l>
+<lb n="17" xml:id="d4fBijr.17"/><l n="d4_I,04_0004"><hi rend="capitalsize1">D</hi>at hy ginder niet en pleghet.</l>
+</lg>
+<lg type="disticha" n="I,05">
+<lb n="18" xml:id="d4fBijr.18"/><l n="d4_I,05_0001"><hi rend="capitalsize1">A</hi>enmerckt niemants quade daet</l>
+<lb n="19" xml:id="d4fBijr.19"/><l n="d4_I,05_0002"><hi rend="capitalsize1">W</hi>ant veel merckens is quaet</l>
+<lb n="20" xml:id="d4fBijr.20"/><l n="d4_I,05_0003"><hi rend="capitalsize1">B</hi>eyde soo en is man oft wijf</l>
+<lb n="21" xml:id="d4fBijr.21"/><l n="d4_I,05_0004"><hi rend="capitalsize1">D</hi>ie sonder sonde leyt zijn lijf.</l>
+</lg>
+<lg type="disticha" n="I,08">
+<lb n="22" xml:id="d4fBijr.22"/><l n="d4_I,08_0001"><hi rend="capitalsize1">G</hi>helooft niet als u wijf t'onrecht</l>
+<lb n="23" xml:id="d4fBijr.23"/><l n="d4_I,08_0002"><hi rend="capitalsize1">C</hi>laghet over uwen knecht</l>
+<lb n="24" xml:id="d4fBijr.24"/><l n="d4_I,08_0003">want quade wijven zijn ghenoech</l>
+<lb n="25" xml:id="d4fBijr.25"/><l n="d4_I,08_0004"><hi rend="capitalsize1">D</hi>ie dicke maken onghevoech.</l>
+</lg>
+<lg type="disticha" n="I,12">
+<lb n="26" xml:id="d4fBijr.26"/><l n="d4_I,12_0001"><hi rend="capitalsize1">N</hi>ieumaren ende achterspraken</l>
+<lb n="27" xml:id="d4fBijr.27"/><l n="d4_I,12_0002"><hi rend="capitalsize1">D</hi>ie de lieden tot schande maken</l>
+
+
+<pb xml:id="d4.fBijv" n="Bijv"/>
+<lb n="1" xml:id="d4fBijv.1"/><l n="d4_I,12_0003"><hi rend="capitalsize1">S</hi>ult ghy schouwen ende haten</l>
+<lb n="2" xml:id="d4fBijv.2"/><l n="d4_I,12_0004"><hi rend="capitalsize1">D</hi>ie hem anders verwaten.</l>
+</lg>
+<lg type="disticha" n="I,15">
+<lb n="3" xml:id="d4fBijv.3"/><l n="d4_I,15_0001"><hi rend="capitalsize1">A</hi>ls eenich man doet wel</l>
+<lb n="4" xml:id="d4fBijv.4"/><l n="d4_I,15_0002"><hi rend="capitalsize1">D</hi>at onthout ende vertelt</l>
+<lb n="5" xml:id="d4fBijv.5"/><l n="d4_I,15_0003"><hi rend="capitalsize1">D</hi>oedy wel swijghet daer of</l>
+<lb n="6" xml:id="d4fBijv.6"/><l n="d4_I,15_0004"><hi rend="capitalsize1">S</hi>oo sult ghy hebben goeden lof.</l>
+</lg>
+<lg type="disticha" n="I,16">
+<lb n="7" xml:id="d4fBijv.7"/><l n="d4_I,16_0001"><hi rend="capitalsize1">D</hi>ie wijle ghy sijt een jonghelinck</l>
+<lb n="8" xml:id="d4fBijv.8"/><l n="d4_I,16_0002"><hi rend="capitalsize1">S</hi>oo doet soo menich goet dinck</l>
+<lb n="9" xml:id="d4fBijv.9"/><l n="d4_I,16_0003"><hi rend="capitalsize1">A</hi>ls dan naken uwe daghe</l>
+<lb n="10" xml:id="d4fBijv.10"/><l n="d4_I,16_0004"><hi rend="capitalsize1">D</hi>atmen uws te <hi rend="capitalsize1">G</hi>ode ghewaghe.</l>
+</lg>
+<lg type="disticha" n="I,18">
+<lb n="11" xml:id="d4fBijv.11"/><l n="d4_I,18_0001"><hi rend="capitalsize1">A</hi>lst comt dat ghy hebt ghenoech</l>
+<lb n="12" xml:id="d4fBijv.12"/><l n="d4_I,18_0002"><hi rend="capitalsize1">V</hi>an haven hout u in dit ghevoech/</l>
+<lb n="13" xml:id="d4fBijv.13"/><l n="d4_I,18_0003"><hi rend="capitalsize1">W</hi>ant heden is die man rijcke</l>
+<lb n="14" xml:id="d4fBijv.14"/><l n="d4_I,18_0004"><hi rend="capitalsize1">S</hi>morghens staet hem commerlijcke.</l>
+</lg>
+<lg type="disticha" n="I,21">
+<lb n="15" xml:id="d4fBijv.15"/><l n="d4_I,21_0001"><hi rend="capitalsize1">A</hi>ls ghy arm sijt van haven</l>
+<lb n="16" xml:id="d4fBijv.16"/><l n="d4_I,21_0002"><hi rend="capitalsize1">E</hi>nde van rijckdomme beschaven</l>
+<lb n="17" xml:id="d4fBijv.17"/><l n="d4_I,21_0003"><hi rend="capitalsize1">B</hi>epeyst dat ghy hier te voren</l>
+<lb n="18" xml:id="d4fBijv.18"/><l n="d4_I,21_0004"><hi rend="capitalsize1">A</hi>rm ende naeckt waert gheboren.</l>
+</lg>
+<lg type="disticha" n="I,22">
+<lb n="19" xml:id="d4fBijv.19"/><l n="d4_I,22_0001"><hi rend="capitalsize1">G</hi>hy sult niet keeren indien</l>
+<lb n="20" xml:id="d4fBijv.20"/><l n="d4_I,22_0002"><hi rend="capitalsize1">D</hi>at ghy die doot sult ontsien</l>
+<lb n="21" xml:id="d4fBijv.21"/><l n="d4_I,22_0003"><hi rend="capitalsize1">W</hi>ant wie die doot ontsiet</l>
+<lb n="22" xml:id="d4fBijv.22"/><l n="d4_I,22_0004"><hi rend="capitalsize1">H</hi>em en helpt zijn leven niet.</l>
+</lg>
+<lg type="disticha" n="I,19">
+<lb n="23" xml:id="d4fBijv.23"/><l n="d4_I,19_0001"><hi rend="capitalsize1">H</hi>y is sotter dan een queken hoot</l>
+<lb n="24" xml:id="d4fBijv.24"/><l n="d4_I,19_0002"><hi rend="capitalsize1">D</hi>ie hopet op een anders doot</l>
+<lb n="25" xml:id="d4fBijv.25"/><l n="d4_I,19_0003"><hi rend="capitalsize1">W</hi>ant beyde die lieden ionck en out</l>
+<lb n="26" xml:id="d4fBijv.26"/><l n="d4_I,19_0004"><hi rend="capitalsize1">S</hi>ijn haers levens onghewout.</l>
+</lg>
+<lg type="disticha" n="I,23">
+<lb n="27" xml:id="d4fBijv.27"/><l n="d4_I,23_0001"><hi rend="capitalsize1">A</hi>l hebdy dat verdient</l>
+
+
+<pb xml:id="d4.fBiijr" n="Biijr"/>
+<lb n="1" xml:id="d4fBiijr.1"/><l n="d4_I,23_0002"><hi rend="capitalsize1">D</hi>at ghy en behoeft gheenen vrient</l>
+<lb n="2" xml:id="d4fBiijr.2"/><l n="d4_I,23_0003"><hi rend="capitalsize1">D</hi>at en suldy <hi rend="capitalsize1">G</hi>odt wijten niet</l>
+<lb n="3" xml:id="d4fBiijr.3"/><l n="d4_I,23_0004">want hem is leet dat u misschiet.</l>
+</lg>
+<lg type="disticha" n="I,26">
+<lb n="4" xml:id="d4fBiijr.4"/><l n="d4_I,26_0001"><hi rend="capitalsize1">G</hi>hy sult u wachten doedy wale</l>
+<lb n="5" xml:id="d4fBiijr.5"/><l n="d4_I,26_0002"><hi rend="capitalsize1">T</hi>eghen hem te hebben cale</l>
+<lb n="6" xml:id="d4fBiijr.6"/><l n="d4_I,26_0003"><hi rend="capitalsize1">D</hi>ie altoos zijn bevaen in dien</l>
+<lb n="7" xml:id="d4fBiijr.7"/><l n="d4_I,26_0004"><hi rend="capitalsize1">H</hi>oe sy verraden is moghen plien</l>
+</lg>
+<lg type="disticha" n="I,27">
+<lb n="8" xml:id="d4fBiijr.8"/><l n="d4_I,27_0001"><hi rend="capitalsize1">W</hi>acht die teghen u ghebaren</l>
+<lb n="9" xml:id="d4fBiijr.9"/><l n="d4_I,27_0002"><hi rend="capitalsize1">M</hi>innelijck als die <hi rend="capitalsize1">V</hi>oghelaren</l>
+<lb n="10" xml:id="d4fBiijr.10"/><l n="d4_I,27_0003"><hi rend="capitalsize1">D</hi>ie schoon pijpen ende blasen</l>
+<lb n="11" xml:id="d4fBiijr.11"/><l n="d4_I,27_0004"><hi rend="capitalsize1">A</hi>ls die <hi rend="capitalsize1">V</hi>oghelkens verdwasen.</l>
+</lg>
+<lg type="disticha" n="III,11">
+<lb n="12" xml:id="d4fBiijr.12"/><l n="d4_III,11_0001"><hi rend="capitalsize1">N</hi>ae dat uwe tijden naken</l>
+<lb n="13" xml:id="d4fBiijr.13"/><l n="d4_III,11_0002"><hi rend="capitalsize1">S</hi>uldy u teringhe maken</l>
+<lb n="14" xml:id="d4fBiijr.14"/><l n="d4_III,11_0003"><hi rend="capitalsize1">E</hi>nde uwen cost meer noch min</l>
+<lb n="15" xml:id="d4fBiijr.15"/><l n="d4_III,11_0004"><hi rend="capitalsize1">N</hi>a dien dat ghy hebt ghewin.</l>
+</lg>
+<lg type="disticha" n="IV,04">
+<lb n="16" xml:id="d4fBiijr.16"/><l n="d4_IV,04_0001"><hi rend="capitalsize1">G</hi>hy moghet ghelt winnen wel</l>
+<lb n="17" xml:id="d4fBiijr.17"/><l n="d4_IV,04_0002"><hi rend="capitalsize1">V</hi>oor nutschap ende niet el</l>
+<lb n="18" xml:id="d4fBiijr.18"/><l n="d4_IV,04_0003"><hi rend="capitalsize1">M</hi>en seyt dat noyt heylich man</l>
+<lb n="19" xml:id="d4fBiijr.19"/><l n="d4_IV,04_0004"><hi rend="capitalsize1">E</hi>n leyden zijnen sin daer aen.</l>
+</lg>
+<lg type="disticha" n="I,40">
+<lb n="20" xml:id="d4fBiijr.20"/><l n="d4_I,40_0001"><hi rend="capitalsize1">B</hi>eyde nemen ende gheven</l>
+<lb n="21" xml:id="d4fBiijr.21"/><l n="d4_I,40_0002"><hi rend="capitalsize1">I</hi>s haer sede die nu wil leven</l>
+<lb n="22" xml:id="d4fBiijr.22"/><l n="d4_I,40_0003"><hi rend="capitalsize1">M</hi>et eeren/sone doet alsoo</l>
+<lb n="23" xml:id="d4fBiijr.23"/><l n="d4_I,40_0004"><hi rend="capitalsize1">S</hi>oo meuchdy blijde zijn ende vro.</l>
+</lg>
+<lg type="disticha" n="II,Pa">
+<lb n="24" xml:id="d4fBiijr.24"/><l n="d4_II,Pa_0001"><hi rend="capitalsize1">W</hi>ildy sone daer toe keeren</l>
+<lb n="25" xml:id="d4fBiijr.25"/><l n="d4_II,Pa_0002"><hi rend="capitalsize1">V</hi>irgiluus hevet beschreven</l>
+<lb n="26" xml:id="d4fBiijr.26"/><l n="d4_II,Pa_0003"><hi rend="capitalsize1">H</hi>oe de dorpers sullen leven.</l>
+
+<note n="d4_II,Pa_0004">Line_number 0004 is missing</note>
+</lg>
+<lg type="disticha" n="II,06">
+<lb n="27" xml:id="d4fBiijr.27"/><l n="d4_II,06_0001"><hi rend="capitalsize1">G</hi>hy sult die ontmate vlien</l>
+
+
+<pb xml:id="d4.fBiijv" n="Biijv"/>
+<lb n="1" xml:id="d4fBiijv.1"/><l n="d4_II,06_0002"><hi rend="capitalsize1">M</hi>en seyt dat vroede plien</l>
+<lb n="2" xml:id="d4fBiijv.2"/><l n="d4_II,06_0003"><hi rend="capitalsize1">M</hi>ate te houden/ ende volghen hare</l>
+<lb n="3" xml:id="d4fBiijv.3"/><l n="d4_II,06_0004"><hi rend="capitalsize1">M</hi>ate/ onmate is ongheware.</l>
+</lg>
+<lg type="disticha" n="II,07">
+<lb n="4" xml:id="d4fBiijv.4"/><l n="d4_II,07_0001"><hi rend="capitalsize1">S</hi>eghdy uws ghesellen daet</l>
+<lb n="5" xml:id="d4fBiijv.5"/><l n="d4_II,07_0002"><hi rend="capitalsize1">D</hi>ies hy hem schaemt dat is quaet</l>
+<lb n="6" xml:id="d4fBiijv.6"/><l n="d4_II,07_0003"><hi rend="capitalsize1">P</hi>eyst oft het u lief ware</l>
+<lb n="7" xml:id="d4fBiijv.7"/><l n="d4_II,07_0004"><hi rend="capitalsize1">D</hi>ie uwe schande maeckt openbare.</l>
+</lg>
+<lg type="disticha" n="II,08">
+<lb n="8" xml:id="d4fBiijv.8"/><l n="d4_II,08_0001"><hi rend="capitalsize1">S</hi>one en merckt die sonde niet</l>
+<lb n="9" xml:id="d4fBiijv.9"/><l n="d4_II,08_0002"><hi rend="capitalsize1">D</hi>iemen den quaden doen siet/</l>
+<lb n="10" xml:id="d4fBiijv.10"/><l n="d4_II,08_0003"><hi rend="capitalsize1">W</hi>ant den tijt sal comen saen</l>
+<lb n="11" xml:id="d4fBiijv.11"/><l n="d4_II,08_0004"><hi rend="capitalsize1">D</hi>at zijs loon sullen ontfaen.</l>
+</lg>
+<lg type="disticha" n="II,13">
+<lb n="12" xml:id="d4fBiijv.12"/><l n="d4_II,13_0001"><hi rend="capitalsize1">S</hi>one ick verbiede u nijdichede</l>
+<lb n="13" xml:id="d4fBiijv.13"/><l n="d4_II,13_0002">want sy hevet quade zede</l>
+<lb n="14" xml:id="d4fBiijv.14"/><l n="d4_II,13_0003">wie dacse draghet <hi rend="capitalsize1">G</hi>odt weet</l>
+<lb n="15" xml:id="d4fBiijv.15"/><l n="d4_II,13_0004"><hi rend="capitalsize1">H</hi>em comter af groot leet.</l>
+</lg>
+<lg type="disticha" n="III,16">
+<lb n="16" xml:id="d4fBiijv.16"/><l n="d4_III,16_0001"><hi rend="capitalsize1">G</hi>hy sult hebben vasten moet/</l>
+<lb n="17" xml:id="d4fBiijv.17"/><l n="d4_III,16_0002"><hi rend="capitalsize1">W</hi>anneermen u onrecht doet</l>
+<lb n="18" xml:id="d4fBiijv.18"/><l n="d4_III,16_0003"><hi rend="capitalsize1">S</hi>oo bidt den rechter dat hy dy</l>
+<lb n="19" xml:id="d4fBiijv.19"/><l n="d4_III,16_0004"><hi rend="capitalsize1">D</hi>oor uwen dienst behulpich sy.</l>
+</lg>
+<lg type="disticha" n="II,21">
+<lb n="20" xml:id="d4fBiijv.20"/><l n="d4_II,21_0001"><hi rend="capitalsize1">D</hi>at u in dronckenschap gheschiet</l>
+<lb n="21" xml:id="d4fBiijv.21"/><l n="d4_II,21_0002"><hi rend="capitalsize1">D</hi>at en laet onghebetert niet</l>
+<lb n="22" xml:id="d4fBiijv.22"/><l n="d4_II,21_0003">wanter af hier te voren</l>
+<lb n="23" xml:id="d4fBiijv.23"/><l n="d4_II,21_0004"><hi rend="capitalsize1">V</hi>an noy is comen ende toren.</l>
+</lg>
+<lg type="disticha" n="II,17">
+<lb n="24" xml:id="d4fBiijv.24"/><l n="d4_II,17_0001"><hi rend="capitalsize1">A</hi>ls ghy hebt den cost weer</l>
+<lb n="25" xml:id="d4fBiijv.25"/><l n="d4_II,17_0002">ende teerens dan ghy badt heer</l>
+<lb n="26" xml:id="d4fBiijv.26"/><l n="d4_II,17_0003"><hi rend="capitalsize1">S</hi>oo spaert/ want saen ghelijdet</l>
+<lb n="27" xml:id="d4fBiijv.27"/><l n="d4_II,17_0004"><hi rend="capitalsize1">H</hi>aven diemen niet en mijdel.</l>
+
+
+<pb xml:id="d4.fBiiijr" n="Biiijr"/>
+</lg>
+<lg type="disticha" n="II,24">
+<lb n="1" xml:id="d4fBiiijr.1"/><l n="d4_II,24_0001"><hi rend="capitalsize1">M</hi>erckt wel dat mach u deeren/</l>
+<lb n="2" xml:id="d4fBiiijr.2"/><l n="d4_II,24_0002">bewaert oft ghy moghet beweeren</l>
+<lb n="3" xml:id="d4fBiiijr.3"/><l n="d4_II,24_0003"><hi rend="capitalsize1">H</hi>y is sot die comen siet</l>
+<lb n="4" xml:id="d4fBiiijr.4"/><l n="d4_II,24_0004"><hi rend="capitalsize1">H</hi>et ongheval en niet en vliet.</l>
+</lg>
+<lg type="disticha" n="II,26">
+<lb n="5" xml:id="d4fBiiijr.5"/><l n="d4_II,26_0001"><hi rend="capitalsize1">D</hi>ie wat hevet dat hem becomt</l>
+<lb n="6" xml:id="d4fBiiijr.6"/><l n="d4_II,26_0002"><hi rend="capitalsize1">H</hi>out hijt wel ick ionc hem vroet</l>
+<lb n="7" xml:id="d4fBiiijr.7"/><l n="d4_II,26_0003"><hi rend="capitalsize1">H</hi>y is sot die in sijn hant heeft goet</l>
+<lb n="8" xml:id="d4fBiiijr.8"/><l n="d4_II,26_0004">ende leydt dat onder zijnen voet.</l>
+</lg>
+<lg type="disticha" n="II,28">
+<lb n="9" xml:id="d4fBiiijr.9"/><l n="d4_II,28_0001"><hi rend="capitalsize1">S</hi>omwijlen sult ghy u goet.</l>
+<lb n="10" xml:id="d4fBiiijr.10"/><l n="d4_II,28_0002"><hi rend="capitalsize1">S</hi>paren als die vroede doet</l>
+<lb n="11" xml:id="d4fBiiijr.11"/><l n="d4_II,28_0003"><hi rend="capitalsize1">D</hi>ie soeckt altoos sulcke gheclach</l>
+<lb n="12" xml:id="d4fBiiijr.12"/><l n="d4_II,28_0004"><hi rend="capitalsize1">H</hi>oe hy met eeren leven mach.</l>
+</lg>
+<lg type="disticha" n="II,29">
+<lb n="13" xml:id="d4fBiiijr.13"/><l n="d4_II,29_0001"><hi rend="capitalsize1">G</hi>hy en sult alleene niet ontslaen</l>
+<lb n="14" xml:id="d4fBiiijr.14"/><l n="d4_II,29_0002"><hi rend="capitalsize1">T</hi>recht dat langhe heeft ghestaen.</l>
+<lb n="15" xml:id="d4fBiiijr.15"/><l n="d4_II,29_0003">die verweckt zijnen ghebuere</l>
+<lb n="16" xml:id="d4fBiiijr.16"/><l n="d4_II,29_0004"><hi rend="capitalsize1">H</hi>et wort hem dicwils al te suere.</l>
+</lg>
+<lg type="disticha" n="III,01">
+<lb n="17" xml:id="d4fBiiijr.17"/><l n="d4_III,01_0001"><hi rend="capitalsize1">S</hi>one leer in uwen sin</l>
+<lb n="18" xml:id="d4fBiiijr.18"/><l n="d4_III,01_0002">dat daer woone wijsheydt in</l>
+<lb n="19" xml:id="d4fBiiijr.19"/><l n="d4_III,01_0003"><hi rend="capitalsize1">D</hi>ie met sonden leyt zijn leven</l>
+<lb n="20" xml:id="d4fBiiijr.20"/><l n="d4_III,01_0004"><hi rend="capitalsize1">H</hi>et is qualijcken met hem becleven.</l>
+</lg>
+<lg type="disticha" n="III,21">
+<lb n="21" xml:id="d4fBiiijr.21"/><l n="d4_III,21_0001"><hi rend="capitalsize1">S</hi>one oft ghy vroet wilt zijn</l>
+<lb n="22" xml:id="d4fBiiijr.22"/><l n="d4_III,21_0002"><hi rend="capitalsize1">S</hi>oo t'herte in goeder maten dijn</l>
+<lb n="23" xml:id="d4fBiiijr.23"/><l n="d4_III,21_0003"><hi rend="capitalsize1">H</hi>y is sot diet zijne verteert</l>
+<lb n="24" xml:id="d4fBiiijr.24"/><l n="d4_III,21_0004">ende aenden vremden hen gheneert.</l>
+</lg>
+<lg type="disticha" n="III,21bis">
+<lb n="25" xml:id="d4fBiiijr.25"/><l n="d4_III,21bis_0001"><hi rend="capitalsize1">L</hi>ieve sone wacht u dies</l>
+<lb n="26" xml:id="d4fBiiijr.26"/><l n="d4_III,21bis_0002">dat ghy biddet niet en plies</l>
+<lb n="27" xml:id="d4fBiiijr.27"/><l n="d4_III,21bis_0003"><hi rend="capitalsize1">I</hi>ck segt u hoet int landt steet</l>
+
+
+<pb xml:id="d4.fBiiijv" n="Biiijv"/>
+<lb n="1" xml:id="d4fBiiijv.1"/><l n="d4_III,21bis_0004"><hi rend="capitalsize1">D</hi>ie vele bidt hy worde leedt.</l>
+</lg>
+<lg type="disticha" n="III,22">
+<lb n="2" xml:id="d4fBiiijv.2"/><l n="d4_III,22_0001"><hi rend="capitalsize1">D</hi>ie doodt en suldy haten niet</l>
+<lb n="3" xml:id="d4fBiiijv.3"/><l n="d4_III,22_0002"><hi rend="capitalsize1">D</hi>oor een pijne die soo vliet</l>
+<lb n="4" xml:id="d4fBiiijv.4"/><l n="d4_III,22_0003">die sy recht over die quade</l>
+<lb n="5" xml:id="d4fBiiijv.5"/><l n="d4_III,22_0004"><hi rend="capitalsize1">A</hi>l comt hy dicke te spade.</l>
+</lg>
+<lg type="disticha" n="III,24">
+<lb n="6" xml:id="d4fBiiijv.6"/><l n="d4_III,24_0001"><hi rend="capitalsize1">G</hi>hy sult met uwen sin allegader</l>
+<lb n="7" xml:id="d4fBiiijv.7"/><l n="d4_III,24_0002">eeren <hi rend="capitalsize1">M</hi>oeder ende <hi rend="capitalsize1">V</hi>ader</l>
+<lb n="8" xml:id="d4fBiiijv.8"/><l n="d4_III,24_0003"><hi rend="capitalsize1">G</hi>odt seyt diese belghen doet</l>
+<lb n="9" xml:id="d4fBiiijv.9"/><l n="d4_III,24_0004"><hi rend="capitalsize1">D</hi>at hem te pijne worden moet.</l>
+</lg>
+<lg type="disticha" n="independent stanza">
+<lb n="10" xml:id="d4fBiiijv.10"/><l n="d4_independent stanza_0001"><hi rend="capitalsize1">S</hi>one dit is den besten schat.</l>
+<lb n="11" xml:id="d4fBiiijv.11"/><l n="d4_independent stanza_0002"><hi rend="capitalsize1">D</hi>ie ick hebbe/ende om dat</l>
+<lb n="12" xml:id="d4fBiiijv.12"/><l n="d4_independent stanza_0003">soo heet ick ende bevele dy</l>
+<lb n="13" xml:id="d4fBiiijv.13"/><l n="d4_independent stanza_0004"><hi rend="capitalsize1">D</hi>at hy altoos met u sy.</l>
+</lg>
+</p>
+</body>
+</text>
+
+
+<text n="epilogue" xml:id="epilogue">
+<body>
+<p><lg type="disticha" n="epilogue">
+<lb n="14" xml:id="d4fBiiijv.14"/><l n="d4_epilogue_0001"><hi rend="capitalsize1">G</hi>hy goede lieden die dese reden.</l>
+<lb n="15" xml:id="d4fBiiijv.15"/><l n="d4_epilogue_0002"><hi rend="capitalsize1">H</hi>ebt ghehoort doet u ghebeden</l>
+<lb n="16" xml:id="d4fBiiijv.16"/><l n="d4_epilogue_0003"><hi rend="capitalsize1">O</hi>otmoedelijck tot uwen heere</l>
+<lb n="17" xml:id="d4fBiiijv.17"/><l n="d4_epilogue_0004"><hi rend="capitalsize1">B</hi>idt hem dat hy u leere</l>
+<lb n="18" xml:id="d4fBiiijv.18"/><l n="d4_epilogue_0005">ende lichten soo uwen sin</l>
+<lb n="19" xml:id="d4fBiiijv.19"/><l n="d4_epilogue_0006">dat daer woone wijsheyt in.</l>
+<lb n="20" xml:id="d4fBiiijv.20"/><l n="d4_epilogue_0007"><hi rend="capitalsize1">D</hi>ie dit maeckten uyten <hi rend="capitalsize1">L</hi>atijne</l>
+<lb n="21" xml:id="d4fBiiijv.21"/><l n="d4_epilogue_0008"><hi rend="capitalsize1">I</hi>n duytsche/begheert te ziine</l>
+<lb n="22" xml:id="d4fBiiijv.22"/><l n="d4_epilogue_0009"><hi rend="capitalsize1">I</hi>n u ghebeden vroech ende spade</l>
+<lb n="23" xml:id="d4fBiiijv.23"/><l n="d4_epilogue_0010">bidt <hi rend="capitalsize1">G</hi>odt dat hy hem doe ghenade.</l>
+
+<note n="d4_epilogue_0011">Line_number 0011 is missing</note>
+
+<note n="d4_epilogue_0012">Line_number 0012 is missing</note>
+
+<note n="d4_epilogue_0013">Line_number 0013 is missing</note>
+
+<note n="d4_epilogue_0014">Line_number 0014 is missing</note>
+
+<note n="d4_epilogue_0015">Line_number 0015 is missing</note>
+<lb n="24" xml:id="d4fBiiijv.24"/><l n="d4_epilogue_0016"><hi rend="capitalsize1">F</hi>INIS.</l>
+</lg>
+<lg type="disticha" n="approbation">
+<lb n="25" xml:id="d4fBiiijv.25"/><l n="d4_approbation_0001"><hi rend="capitalsize1">D</hi>it boecxken is gevisiteert ende geapprobeert byden // eerweerdigen <hi rend="capitalsize1">H</hi>eer <hi rend="capitalsize1">S</hi>ymon de planen.</l>
+</lg>
+</p>
+</body>
+</text>
+        </group>
+    </text>
+ </MVN>

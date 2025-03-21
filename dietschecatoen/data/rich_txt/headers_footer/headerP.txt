@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>DietscheCatoen</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>
+                <p>Transcription based on: Van Buuren, F. (ed.) (1998). De duytschen Cathoen. Naar de Antwerpse druk van Henrick Eckert van Homberch. Met als bijlage de andere redacties van de vroegst bekende Middelnederlandse vertaling der Dicta Catonis. Hilversum: Verloren. Manuscript description based on: http://archivesetmanuscrits.bnf.fr/ark:/12148/cc994557</p>
+            </publicationStmt>
+            <sourceDesc>
+<msDesc>
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <institution>BN Fonds Néerlandais</institution>
+            <idno>106</idno>
+            <msName>P</msName>
+          </msIdentifier>
+
+                <msContents>
+<msItem>
+<locus from="8v, 9v, 10r, 10v, 11r, 12v, 13r, 14v, 15r, 18r, 25r, 27r, 31r, 46v, 50r, 75v, 119r, 168v" to=""/>
+<title>Dietsche Catoen</title>
+<author></author>
+</msItem>
+</msContents>
+
+
+<physDesc>
+<objectDesc form="interpolated stanzas/excerpt">
+                     <supportDesc material="paper">
+                        <support>
+                           <num type="front-flyleaf" value=""/> 
+                           <num type="book-block" value="327"/>
+                           <num type="end-flyleaf" value=""/>  
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="270"/>
+                              <width unit="mm" quantity="210"/>
+                           </dimensions>
+                        </support>
+                     <foliation></foliation>
+                     <collation></collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="" writtenLines="" ruledLines="">
+                           <dimensions type="written">
+                              <height unit="mm" quantity=""/>
+                              <width unit="mm" quantity=""/>
+                           </dimensions>
+			<dimensions type="line">
+                           <height unit="mm" min="" max=""/>
+                           </dimensions>
+			<catchwords></catchwords>
+                           <signatures></signatures>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="littera textualis">the Dietsche Catoen is written in littera textualis by a single hand</handNote>
+                  </handDesc>
+                  <decoDesc>
+                   <decoNote>colour-stroking (red); interpolated stanzas are underlined (red)</decoNote><decoNote><watermark></watermark></decoNote>
+                  </decoDesc>
+                  <additions><p>interpolated stanzas in Excellente Chronyke van Vlaenderen</p></additions>
+               </physDesc>
+<history>
+<origin>
+<origDate>1493-1494</origDate>
+<origPlace>Bruges(?)/Flanders</origPlace>
+</origin></history></msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
+            <editorialDecl>
+                <p><!-- Verantwoording van de editie --></p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1"><p>...</p></handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="DietscheCatoen">
+        <group>
