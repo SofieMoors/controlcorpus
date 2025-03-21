@@ -1,5 +1,4 @@
-# <p align = center> Witnessing Middle Dutch Textual Traditions. 
-Diplomatic Transcriptions of *Dietsche Catoen*, *Scolastica*, and *Karel ende Elegast*</center> 
+# <p align = center> Witnessing Middle Dutch Textual Traditions. Diplomatic Transcriptions of *Dietsche Catoen*, *Scolastica*, and *Karel ende Elegast*</center> 
 
 This dataset results from the research project *Constrained* (Sofie Moors) funded by the Research Foundation – Flanders (FWO), File Number 1182725N, and *Karel ende Elegast in Manuscript and Print* (Nicky Voorneveld), funded by the European Union under the Horizon Marie Skłodowska-Curie Doctoral Actions 2021, Project number 101072698 (REBPAF).
 
