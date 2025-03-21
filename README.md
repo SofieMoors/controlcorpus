@@ -2,7 +2,7 @@
 
 This dataset results from the research project *Constrained* (Sofie Moors) funded by the Research Foundation – Flanders (FWO), File Number 1182725N, and *Karel ende Elegast in Manuscript and Print* (Nicky Voorneveld), funded by the European Union under the Horizon Marie Skłodowska-Curie Doctoral Actions 2021, Project number 101072698 (REBPAF).
 
-Cite this repository as: [![DOI](https://zenodo.org/badge/719645106.svg)](https://zenodo.org/doi/10.5281/zenodo.10245412)
+Cite this repository as: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15064631.svg)](https://doi.org/10.5281/zenodo.15064631)
 
 This repository holds the code and data accompanying the following paper: Moors, S., Voorneveld, N. & Van Dalen-Oskam, K. (2025). "Witnessing Middle Dutch Textual Traditions. Diplomatic Transcriptions of *Dietsche Catoen*, *Scolastica*, and *Karel ende Elegast*" 
 
